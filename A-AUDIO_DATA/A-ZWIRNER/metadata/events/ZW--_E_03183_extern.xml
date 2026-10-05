@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ereignis xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Kennung="ZW--_E_03183" in_DGD_seit="2.0_beta" xsi:noNamespaceSchemaLocation="http://agd.ids-mannheim.de/xml/IDS_event_catalogue_extern_v2.17.xsd">
+  <Basisdaten>
+    <Sonstige_Bezeichnungen>ZWV83 ; I/3183</Sonstige_Bezeichnungen>
+    <Beschreibung>Geplante Aufnahmeaktion</Beschreibung>
+    <Ort Referenz="DGD-_O_04638">
+      <Land Kürzel="DE">Deutschland</Land>
+      <Region>Hessen</Region>
+      <Kreis>Waldeck-Frankenberg</Kreis>
+      <Ortsname>Waldeck</Ortsname>
+      <Koordinaten>
+        <Geocode>
+          <Geografische_Breite>51.2</Geografische_Breite>
+          <Geografische_Länge>9.0666666666667</Geografische_Länge>
+        </Geocode>
+        <Planquadrat>2913</Planquadrat>
+        <Anmerkungen>Nicht dokumentiert</Anmerkungen>
+      </Koordinaten>
+      <Ortsteil>Netze</Ortsteil>
+      <KB-Link>
+        <Referenzdatum>2021-11-21</Referenzdatum>
+        <Ressource>WD</Ressource>
+        <IdInRessource>Q540107</IdInRessource>
+      </KB-Link>
+    </Ort>
+    <Institution>Deutsches Spracharchiv</Institution>
+    <Räumlichkeiten>Nicht dokumentiert</Räumlichkeiten>
+    <Datum>
+      <YYYY-MM-DD>1957-01-01</YYYY-MM-DD>
+      <Anmerkungen>Monat und Tag nicht dokumentiert</Anmerkungen>
+    </Datum>
+    <Dauer>Nicht dokumentiert</Dauer>
+    <Zeitraum>Nicht dokumentiert</Zeitraum>
+    <Aufnahmebedingungen>Nicht dokumentiert</Aufnahmebedingungen>
+  </Basisdaten>
+  <Projekt Titel="Schallaufnahmen aller deutschen Mundarten">
+    <Personal>
+      <An_E_teilnehmende_Forscher>H. Müller</An_E_teilnehmende_Forscher>
+      <An_E_teilnehmende_Techniker>Nicht dokumentiert</An_E_teilnehmende_Techniker>
+    </Personal>
+  </Projekt>
+  <Quellaufnahme Kennung="ZW--_E_03183_A_01">
+    <Basisdaten>
+      <Sonstige_Bezeichnungen>ZWV83 ; I/3183</Sonstige_Bezeichnungen>
+      <Typ>Audio</Typ>
+      <Relation_zu_E>
+        <Vollständigkeit>Nicht dokumentiert</Vollständigkeit>
+        <Zeitabschnitt>Nicht dokumentiert</Zeitabschnitt>
+      </Relation_zu_E>
+    </Basisdaten>
+    <Aufnahmetechnik>
+      <Aufnahmegerät>AEG AW2</Aufnahmegerät>
+      <Mikrofone>Dynamisches Tauchspulenmikrofon Beyer M19b</Mikrofone>
+      <Aufnahmegeschwindigkeit Einheit="cm/s">19</Aufnahmegeschwindigkeit>
+      <Rauschunterdrückung>Nicht vorhanden</Rauschunterdrückung>
+    </Aufnahmetechnik>
+  </Quellaufnahme>
+  <Sprechereignis Kennung="ZW--_E_03183_SE_01" in_DGD_seit="2.0_beta">
+    <Basisdaten>
+      <Sonstige_Bezeichnungen>ZWV83 ; I/3183</Sonstige_Bezeichnungen>
+      <Art>Standardtexte (Zahlen, Wochentage) ; Erzählung</Art>
+      <Anzahl_der_Sprecher>2</Anzahl_der_Sprecher>
+      <Forscherbeteiligung>Verbal beteiligt</Forscherbeteiligung>
+      <Elizitiertheit>Elizitiert</Elizitiertheit>
+      <Mediale_Realisierung>Face-to-face</Mediale_Realisierung>
+      <Öffentlichkeitsgrad>Nicht öffentlich</Öffentlichkeitsgrad>
+      <Vorgaben>Nicht dokumentiert</Vorgaben>
+      <Position>Nicht dokumentiert</Position>
+      <Sprachen>Deutsch</Sprachen>
+    </Basisdaten>
+    <Inhalt>
+      <Beschreibung>Nicht vorhanden</Beschreibung>
+      <Themen>Landbestellung ; Ländereien ; Arbeit</Themen>
+      <Verlauf>Nicht dokumentiert</Verlauf>
+    </Inhalt>
+    <Sprecher Kennung="ZW--_S_03327" in_DGD_seit="2.0_beta">
+      <Basisdaten>
+        <Alter>68</Alter>
+        <Geschlecht>Männlich</Geschlecht>
+        <Rolle>ErzählerIn</Rolle>
+        <Besonderheiten>Nicht dokumentiert</Besonderheiten>
+        <Sigle_in_Transkripten>S2</Sigle_in_Transkripten>
+      </Basisdaten>
+      <Sprachdaten>
+        <Sprachen>Deutsch</Sprachen>
+        <Sprachliche_Besonderheiten>Vollmundart ; Westniederdeutsch ; Westfälisch</Sprachliche_Besonderheiten>
+      </Sprachdaten>
+    </Sprecher>
+    <SE-Aufnahme Kennung="ZW--_E_03183_SE_01_A_01" in_DGD_seit="2.0_beta_1">
+      <Basisdaten>
+        <Sonstige_Bezeichnungen>ZWV83 ; I/3183</Sonstige_Bezeichnungen>
+        <Typ>Audio</Typ>
+        <Dauer>00:10:21</Dauer>
+        <Schutzbedürftige_Daten>Nicht vorhanden</Schutzbedürftige_Daten>
+        <Relation_zu_Quellaufnahme Kennung_Quellaufnahme="ZW--_E_03183_A_01">
+          <Vollständigkeit>Vollständig</Vollständigkeit>
+          <Zeitabschnitt>Vollständig</Zeitabschnitt>
+        </Relation_zu_Quellaufnahme>
+        <Relation_zu_SE>
+          <Vollständigkeit>Vollständig</Vollständigkeit>
+          <Zeitabschnitt>Vollständig</Zeitabschnitt>
+        </Relation_zu_SE>
+      </Basisdaten>
+      <Digitale_Fassung Kennung="ZW--_E_03183_SE_01_A_01_DF_01">
+        <Basisdaten>
+          <Datenschutz>Nicht vorhanden</Datenschutz>
+        </Basisdaten>
+        <Tontechnische_Daten>
+          <Format>WAVE</Format>
+          <Codec>PCM</Codec>
+          <Kanäle>Mono</Kanäle>
+          <Abtastrate Einheit="Hz">44100</Abtastrate>
+          <Quantisierungsrate Einheit="Bit">16</Quantisierungsrate>
+          <Datenrate Einheit="kBit/s">705</Datenrate>
+          <Datenrate_Modus>konstant</Datenrate_Modus>
+        </Tontechnische_Daten>
+      </Digitale_Fassung>
+    </SE-Aufnahme>
+    <SE-Aufnahme Kennung="ZW--_E_03183_SE_01_A_02">
+      <Basisdaten>
+        <Sonstige_Bezeichnungen>ZWV83 ; I/3183</Sonstige_Bezeichnungen>
+        <Typ>Audio</Typ>
+        <Dauer>00:10:21</Dauer>
+        <Schutzbedürftige_Daten>Nicht vorhanden</Schutzbedürftige_Daten>
+        <Relation_zu_Quellaufnahme Kennung_Quellaufnahme="ZW--_E_03183_A_01">
+          <Vollständigkeit>Vollständig</Vollständigkeit>
+          <Zeitabschnitt>Vollständig</Zeitabschnitt>
+        </Relation_zu_Quellaufnahme>
+        <Relation_zu_SE>
+          <Vollständigkeit>Vollständig</Vollständigkeit>
+          <Zeitabschnitt>Vollständig</Zeitabschnitt>
+        </Relation_zu_SE>
+      </Basisdaten>
+      <Digitale_Fassung Kennung="ZW--_E_03183_SE_01_A_02_DF_01">
+        <Basisdaten>
+          <Datenschutz>Nicht vorhanden</Datenschutz>
+        </Basisdaten>
+        <Tontechnische_Daten>
+          <Format>WAVE</Format>
+          <Codec>PCM</Codec>
+          <Kanäle>Mono</Kanäle>
+          <Abtastrate Einheit="Hz">44100</Abtastrate>
+          <Quantisierungsrate Einheit="Bit">16</Quantisierungsrate>
+          <Datenrate Einheit="kBit/s">705</Datenrate>
+          <Datenrate_Modus>konstant</Datenrate_Modus>
+        </Tontechnische_Daten>
+      </Digitale_Fassung>
+    </SE-Aufnahme>
+    <Transkript Kennung="ZW--_E_03183_SE_01_T_01" in_DGD_seit="2.0">
+      <Basisdaten>
+        <Sonstige_Bezeichnungen>ZWV83 ; I/3183</Sonstige_Bezeichnungen>
+        <Schutzbedürftige_Daten>Nicht vorhanden</Schutzbedürftige_Daten>
+        <Relation_zu_SE-Aufnahme Kennung_SE-Aufnahme="ZW--_E_03183_SE_01_A_02">
+          <Vollständigkeit>Nicht dokumentiert</Vollständigkeit>
+          <Zeitabschnitt>Nicht dokumentiert</Zeitabschnitt>
+          <Dauer>00:00:00</Dauer>
+          <Anmerkungen>Dauer nicht dokumentiert</Anmerkungen>
+        </Relation_zu_SE-Aufnahme>
+        <Ergebnisse_Umfang Definition_Einheiten="Wörter">
+          <Types>501</Types>
+          <Tokens>1823</Tokens>
+        </Ergebnisse_Umfang>
+      </Basisdaten>
+      <Annotation Typ="ANT_01">
+        <Basisdaten>
+          <Bezeichnung_im_Transkript>Nicht vorhanden</Bezeichnung_im_Transkript>
+          <Spezifikation>An der alten Orthographie orientierte hochsprachliche Übertragung ; Erläuterungen der Transkribenten ; Lemmatisierung ; POS-Tagging</Spezifikation>
+          <Konventionen>Projektspezifisch</Konventionen>
+          <Zeicheninventar>Deutsches Alphabet</Zeicheninventar>
+        </Basisdaten>
+        <Erstellung Typ="ERT_01">
+          <Spezifikation>Ersterstellung</Spezifikation>
+          <Projekt>Nicht dokumentiert</Projekt>
+          <Instrumente>Nicht dokumentiert</Instrumente>
+        </Erstellung>
+        <Erstellung Typ="ERT_02">
+          <Spezifikation>Digitalisierung von ERT_01 und Bearbeitung für DGD1</Spezifikation>
+          <Projekt>Datenbank Gesprochenes Deutsch</Projekt>
+          <Instrumente>Nicht dokumentiert</Instrumente>
+        </Erstellung>
+        <Erstellung Typ="ERT_DB1">
+          <Spezifikation>Konvertierung der HTML-Fassung der DGD1</Spezifikation>
+          <Projekt>Datenbank für Gesprochenes Deutsch</Projekt>
+          <Instrumente>Java ; Stuttgart-Tübingen-Tagset (STTS) ; TreeTagger</Instrumente>
+        </Erstellung>
+        <Alignment Typ="ALT_01">
+          <Spezifikation>Wortweise</Spezifikation>
+          <Herstellung Erstellung_Typ="ERT_02">
+            <Projekt>Datenbank Gesprochenes Deutsch</Projekt>
+            <Verfahren_Instrumente>Automatisch ; IDS-Aligner</Verfahren_Instrumente>
+          </Herstellung>
+        </Alignment>
+      </Annotation>
+      <Digitale_Fassung Kennung="ZW--_E_03183_SE_01_T_01_DF_01">
+        <Basisdaten>
+          <Typ>DFT_01</Typ>
+          <Dateiname>ZW--_E_03183_SE_01_T_01_DF_01.fln</Dateiname>
+          <Datenschutz>Nicht vorhanden</Datenschutz>
+        </Basisdaten>
+      </Digitale_Fassung>
+    </Transkript>
+  </Sprechereignis>
+</Ereignis>
