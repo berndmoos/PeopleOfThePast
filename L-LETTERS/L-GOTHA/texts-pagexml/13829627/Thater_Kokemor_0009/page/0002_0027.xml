@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.40.0:model_id=265149:date=20_02_2026_23:09</Creator>
+        <Created>2026-01-22T17:49:59.867+01:00</Created>
+        <LastChange>2026-03-10T16:08:26.209+01:00</LastChange>
+        <TranskribusMetadata docId="13829627" pageId="112598698" pageNr="2" tsid="280048714" status="DONE" userId="490466" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=NWXYMDWHYVTUXRKXIEXZQFYA" xmlUrl="https://files.transkribus.eu/Get?id=ISUENNAKNADMYQMWPSNTBYPL" imageId="95174669"/>
+    </Metadata>
+    <Page imageFilename="0002_0027.jpg" imageWidth="3472" imageHeight="4968">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049653972" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="770,301 770,874 3242,874 3242,301"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2810,389 2841,389 2854,373 2860,379 2931,370 2959,376 2952,234 2931,234 2897,268 2878,265 2869,275 2847,268 2829,275 2804,271"/>
+                <Baseline points="2825,347 2852,349 2880,351 2908,353 2936,353 2964,353"/>
+                <TextEquiv>
+                    <Unicode>Boe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="753,500 3187,478 3187,373 2274,404 1854,342 1317,413 753,346"/>
+                <Baseline points="770,451 891,451 1012,451 1133,451 1255,451 1376,457 1497,451 1619,451 1740,446 1861,448 1983,445 2104,451 2225,446 2346,450 2468,445 2589,451 2710,451 2832,451 2953,451 3074,451 3196,451"/>
+                <TextEquiv>
+                    <Unicode>den sie haben jetz fihr Pferde/ hiermit wihl ich schließen/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="759,571 1249,561 1351,614 1931,549 2446,602 2428,478 759,497"/>
+                <Baseline points="775,550 859,550 943,550 1027,550 1111,550 1195,550 1279,550 1363,550 1447,550 1531,550 1615,550 1699,550 1783,550 1867,550 1951,550 2035,550 2119,550 2203,550 2287,552 2371,559 2903,574"/>
+                <TextEquiv>
+                    <Unicode>viele Grüße vohn Klehmeiers/ und meine [-?]./</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="759,676 3233,697 3233,589 759,571"/>
+                <Baseline points="775,648 898,652 1021,648 1145,654 1268,654 1391,648 1515,648 1638,648 1761,648 1885,648 2008,648 2131,648 2255,648 2378,645 2501,648 2625,648 2748,648 2871,648 2995,648 3118,648 3242,654"/>
+                <TextEquiv>
+                    <Unicode>Es grüßt euch alle Vatter/ und Mutter Brüder und Schwester/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="1333,759 1441,802 1573,765 1657,784 1706,747 1885,765 1919,799 2036,759 2110,771 2110,691 2036,682 1907,697 1789,663 1740,691 1632,669 1518,697 1388,669 1333,700"/>
+                <Baseline points="1349,752 1387,752 1426,752 1464,749 1503,747 1541,746 1580,746 1618,746 1657,746 1695,746 1734,746 1772,746 1811,746 1849,746 1888,746 1926,746 1965,746 2003,746 2042,746 2080,746 2119,746"/>
+                <TextEquiv>
+                    <Unicode>Heinrich Kokemers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="1487,861 1718,895 1845,858 2064,882 2101,851 2190,876 2385,855 2385,740 2206,756 2150,805 2085,768 1894,805 1758,765 1718,793 1487,793"/>
+                <Baseline points="1505,845 1549,848 1593,851 1637,848 1682,845 1726,848 1770,851 1815,851 1859,851 1903,851 1948,851 1992,851 2036,850 2080,847 2125,845 2169,845 2213,845 2258,845 2302,846 2346,849 2391,851"/>
+                <TextEquiv>
+                    <Unicode>schreibet bald wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

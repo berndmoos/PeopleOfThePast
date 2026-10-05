@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.47.0:model_id=265149:date=17_06_2026_16:50</Creator>
+        <Created>2026-06-16T07:28:34.334+02:00</Created>
+        <LastChange>2026-06-28T03:06:42.404+02:00</LastChange>
+        <TranskribusMetadata docId="16887164" pageId="122411609" pageNr="2" tsid="294147145" status="DONE" userId="542398" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=MCIZHJULLQSNXWTTFVOTNKCB" xmlUrl="https://files.transkribus.eu/Get?id=OUHZJGNIGRVFCLJAQKWNPLLH" imageId="104018592"/>
+    </Metadata>
+    <Page imageFilename="0002_0265.jpg" imageWidth="3461" imageHeight="4946">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049978084" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1813,140 2035,140 2035,256 1813,256"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1845,252 1871,242 1886,249 1901,236 1904,240 1913,234 1934,236 1955,218 1985,221 1985,166 1967,159 1923,164 1906,158 1888,167 1872,166 1857,178 1845,174"/>
+                <Baseline points="1850,201 1877,201 1905,201 1932,201 1960,201 1988,201"/>
+                <TextEquiv>
+                    <Unicode>-2-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="1487,135 1487,782 2449,782 2449,135"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1481,476 1590,500 1723,469 1854,500 2302,481 2295,420 1705,440 1552,396 1481,420"/>
+                <Baseline points="1487,466 1527,469 1568,472 1609,472 1650,472 1691,472 1732,472 1773,472 1814,472 1855,472 1896,472 1936,472 1977,472 2018,472 2059,472 2100,472 2141,472 2182,472 2223,472 2264,472 2305,472"/>
+                <TextEquiv>
+                    <Unicode>Unter tausend Küssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1873,635 1914,624 1928,629 1954,618 1969,622 1980,614 2000,615 2015,627 2031,618 2046,627 2053,620 2072,623 2072,577 2050,579 2024,565 2011,569 1987,560 1957,569 1945,558 1917,560 1904,548 1873,549"/>
+                <Baseline points="1879,605 1907,605 1935,605 1963,605 1991,605 2019,605 2047,605 2075,605"/>
+                <TextEquiv>
+                    <Unicode>Dein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;} textStyle {offset:0; length:13;underlined:true;}">
+                <Coords points="2000,774 2139,766 2194,786 2250,769 2447,772 2447,681 2345,701 2301,689 2274,706 2233,688 2166,697 2097,665 2029,677 2000,665"/>
+                <Baseline points="2006,749 2032,747 2058,743 2084,740 2110,737 2136,737 2162,737 2188,737 2214,737 2240,737 2266,737 2292,738 2318,740 2344,742 2370,743 2396,743 2422,743 2449,743"/>
+                <TextEquiv>
+                    <Unicode>   Rob Voigt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.38.0:model_id=265149:date=03_02_2026_21:37</Creator>
+        <Created>2026-01-22T17:35:29.599+01:00</Created>
+        <LastChange>2026-04-14T16:03:31.116+02:00</LastChange>
+        <TranskribusMetadata docId="13828835" pageId="112596944" pageNr="4" tsid="283641162" status="DONE" userId="431294" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=RWEPNTYSSUVVCPXNAOAVCOOX" xmlUrl="https://files.transkribus.eu/Get?id=ZOLCFVUNAQKBRXLWFEWXARHC" imageId="95172974"/>
+    </Metadata>
+    <Page imageFilename="0004_0304.jpg" imageWidth="3469" imageHeight="4968">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049635576" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="432,247 438,764 3024,724 3024,241"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2382,389 2420,389 2459,402 2515,359 2558,369 2558,286 2517,299 2495,286 2470,292 2455,283 2437,294 2416,281 2382,283"/>
+                <Baseline points="2394,341 2422,343 2450,345 2478,347 2506,345 2534,343 2562,341"/>
+                <TextEquiv>
+                    <Unicode>Boe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="531,565 1295,419 1793,445 2918,526 3022,539 3022,623 2124,627 1295,614 531,595"/>
+                <Baseline points="531,595 810,595 851,595 892,592 989,589 1108,579 1224,579 1307,589 1392,584 1478,584 1564,585 1650,589 1736,589 1822,589 1907,588 1993,584 2079,584 2165,583 2251,578 2337,578 2423,578 2508,578 2594,578 2680,578 2766,572 2852,578 2938,578 3024,572"/>
+                <TextEquiv>
+                    <Unicode>miehten. - [ ? ? ] es mir, [?] Du jede Woche schreibst.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="534,695 584,695 625,692 656,692 710,692 772,692 816,683 895,676 961,676 1030,676 1070,664 1142,667 1143,637 1066,634 1026,646 961,646 894,646 812,653 769,662 710,662 656,662 624,662 583,665 534,665"/>
+                <Baseline points="534,695 584,695 625,692 656,692 710,692 772,692 816,683 895,676 961,676 1030,676 1070,664 1142,667"/>
+                <TextEquiv>
+                    <Unicode>18 May. Schluß</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

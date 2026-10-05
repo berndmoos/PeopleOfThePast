@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.47.0:model_id=265149:date=17_06_2026_16:50</Creator>
+        <Created>2026-06-16T07:28:21.279+02:00</Created>
+        <LastChange>2026-06-28T00:42:00.415+02:00</LastChange>
+        <TranskribusMetadata docId="16887159" pageId="122411517" pageNr="4" tsid="294141941" status="DONE" userId="542398" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=FCORMMIUXWDREZNITFMVLWBX" xmlUrl="https://files.transkribus.eu/Get?id=ANGZCSJAWHHKRCMKTDYLLIWD" imageId="104018579"/>
+    </Metadata>
+    <Page imageFilename="0004_0235.jpg" imageWidth="3462" imageHeight="4970">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049976476" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="1910,107 1910,263 2049,263 2049,107"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1902,221 1917,212 1963,233 1983,223 2015,237 2020,232 2027,239 2045,239 2043,186 2004,177 1981,156 1972,161 1937,157 1919,171 1898,173"/>
+                <Baseline points="1910,207 1937,209 1965,211 1993,213 2021,213 2049,213"/>
+                <TextEquiv>
+                    <Unicode>-4-</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="733,404 733,1306 1691,1306 1691,404"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} textStyle {offset:0; length:8;underlined:true;}">
+                <Coords points="912,518 968,514 1006,528 1053,511 1101,523 1172,507 1203,525 1258,518 1260,426 1226,435 1158,419 960,437 914,426"/>
+                <Baseline points="923,473 949,475 975,477 1001,479 1027,477 1054,476 1080,474 1106,473 1132,473 1159,473 1185,472 1211,471 1237,469 1264,467"/>
+                <TextEquiv>
+                    <Unicode>Addresse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="723,664 760,649 806,668 852,638 958,642 1053,613 1156,627 1189,654 1260,631 1262,550 1207,574 1030,546 1002,569 901,546 864,567 725,573"/>
+                <Baseline points="733,606 759,607 786,608 812,610 839,611 865,611 892,611 918,611 945,609 971,608 998,606 1025,606 1051,606 1078,606 1104,607 1131,608 1157,610 1184,610 1210,607 1237,603 1264,600"/>
+                <TextEquiv>
+                    <Unicode>Capt RobVoigt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="914,767 1044,793 1108,772 1191,790 1234,758 1366,756 1412,786 1571,756 1571,675 1368,679 1327,702 1276,664 914,693"/>
+                <Baseline points="923,738 955,738 988,739 1020,742 1053,744 1086,742 1118,740 1151,738 1183,738 1216,738 1249,739 1281,742 1314,744 1346,744 1379,744 1412,743 1444,741 1477,739 1509,737 1542,735 1575,733"/>
+                <TextEquiv>
+                    <Unicode>Infantry Compy I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1105,887 1225,887 1267,910 1311,885 1428,921 1493,887 1583,892 1582,839 1527,841 1490,818 1440,843 1394,824 1287,838 1124,818 1103,831"/>
+                <Baseline points="1114,871 1140,873 1166,875 1192,876 1219,877 1245,877 1271,877 1297,877 1324,877 1350,877 1376,877 1403,877 1429,877 1455,877 1481,877 1508,877 1534,877 1560,877 1587,877"/>
+                <TextEquiv>
+                    <Unicode>Waul Legion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="907,1023 953,1023 977,1043 1089,1029 1119,1059 1205,1034 1232,1041 1234,944 1207,953 1172,931 1133,956 1103,942 1050,947 1025,965 956,949 930,963 908,956"/>
+                <Baseline points="917,1010 943,1010 970,1010 996,1010 1023,1010 1049,1010 1076,1010 1102,1010 1129,1010 1155,1010 1182,1008 1208,1006 1235,1004"/>
+                <TextEquiv>
+                    <Unicode>Crocket</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1097,1172 1315,1150 1688,1163 1677,1083 1530,1074 1442,1099 1371,1071 1315,1096 1184,1103 1140,1082 1097,1101"/>
+                <Baseline points="1108,1142 1137,1142 1166,1142 1195,1142 1224,1142 1253,1142 1282,1142 1312,1142 1341,1142 1370,1142 1399,1142 1428,1142 1457,1144 1486,1146 1516,1148 1545,1146 1574,1144 1603,1142 1632,1140 1661,1139 1691,1137"/>
+                <TextEquiv>
+                    <Unicode>Houston County</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1256,1345 1310,1324 1322,1332 1352,1306 1366,1311 1405,1287 1451,1285 1477,1299 1511,1299 1509,1255 1490,1258 1454,1226 1408,1234 1396,1225 1384,1234 1366,1221 1343,1237 1290,1203 1255,1205"/>
+                <Baseline points="1264,1269 1291,1271 1319,1273 1346,1275 1374,1275 1401,1275 1429,1275 1456,1275 1484,1275 1512,1275"/>
+                <TextEquiv>
+                    <Unicode>Texas</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.38.0:model_id=265149:date=03_02_2026_20:23</Creator>
+        <Created>2026-01-22T17:35:11.007+01:00</Created>
+        <LastChange>2026-03-19T01:10:49.995+01:00</LastChange>
+        <TranskribusMetadata docId="13828903" pageId="112596823" pageNr="1" tsid="281116251" status="DONE" userId="431294" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=EETYRGNXHSYOJRCQAKNCIAEX" xmlUrl="https://files.transkribus.eu/Get?id=VWXDWZIZRNRBGNRJSXRACAGN" imageId="95172884"/>
+    </Metadata>
+    <Page imageFilename="0001_0082.jpg" imageWidth="3484" imageHeight="4963">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049641841" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1391,182 1512,182 1512,214 1391,214"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1391,212 1512,214 1512,184 1391,182"/>
+                <Baseline points="1391,212 1512,214"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;}">
+            <Coords points="3094,154 3208,154 3208,186 3094,186"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="3095,186 3208,184 3207,154 3094,156"/>
+                <Baseline points="3095,186 3208,184"/>
+                <TextEquiv>
+                    <Unicode>14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;}">
+            <Coords points="185,230 185,4426 3389,4426 3389,230"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="711,330 731,326 793,361 852,357 864,342 986,342 966,173 927,181 911,169 868,177 809,165 778,181 727,161 715,181 695,181"/>
+                <Baseline points="725,261 751,264 777,268 803,271 829,273 855,275 881,277 907,280 933,285 959,290 986,296"/>
+                <TextEquiv>
+                    <Unicode>Brief 5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1956,287 3071,330 3067,212 2781,240 2529,204 2439,240 2258,189 1952,192"/>
+                <Baseline points="1979,278 2034,274 2089,272 2144,272 2199,275 2254,278 2309,278 2365,278 2420,278 2475,278 2530,278 2585,278 2640,285 2695,290 2751,290 2806,290 2861,290 2916,290 2971,292 3026,296 3082,290"/>
+                <TextEquiv>
+                    <Unicode>Kendalia, Kendall Co., Texas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1972,381 2078,361 2137,397 2227,365 2400,385 2423,357 2600,385 2596,295 2537,314 2329,287 2270,322 2215,295 1968,298"/>
+                <Baseline points="1991,348 2020,344 2051,346 2082,348 2113,348 2144,348 2174,348 2205,348 2236,348 2267,349 2298,351 2328,353 2359,353 2390,351 2421,349 2452,349 2482,351 2513,354 2544,351 2575,346 2606,342"/>
+                <TextEquiv>
+                    <Unicode>Februar 4. 1900</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="966,456 1877,463 1877,381 1803,393 1701,350 1650,381 1512,353 1445,393 1273,330 966,353"/>
+                <Baseline points="986,435 1031,435 1076,435 1121,436 1166,439 1211,441 1256,441 1301,441 1346,441 1391,441 1436,441 1481,441 1526,441 1571,441 1616,441 1661,441 1706,441 1751,441 1796,441 1841,435 1886,429"/>
+                <TextEquiv>
+                    <Unicode>Bei unserem Sohn Johann!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="856,530 1567,554 1634,515 1724,550 2089,518 2089,448 856,460"/>
+                <Baseline points="876,510 940,510 1004,510 1068,509 1132,505 1196,505 1260,507 1325,509 1389,506 1453,505 1517,507 1581,510 1645,506 1710,505 1774,507 1838,510 1902,506 1966,505 2030,505 2095,505"/>
+                <TextEquiv>
+                    <Unicode>Werte Geschwister in Deutschland!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="291,648 3315,676 3315,581 3075,542 291,566"/>
+                <Baseline points="313,632 463,638 614,638 764,638 915,638 1066,638 1216,638 1367,638 1518,638 1668,638 1819,638 1970,638 2120,638 2271,641 2422,643 2572,638 2723,644 2874,644 3024,644 3175,644 3326,638"/>
+                <TextEquiv>
+                    <Unicode>Ich denke, ich muß nochmal einen Nickel an Euch wagen, das ist das Porto, was der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="310,719 3315,738 3060,648 310,652"/>
+                <Baseline points="330,702 479,702 629,702 779,697 929,702 1079,702 1228,702 1378,702 1528,707 1678,705 1828,708 1977,703 2127,708 2277,708 2427,708 2577,708 2726,708 2876,708 3026,708 3176,708 3326,713"/>
+                <TextEquiv>
+                    <Unicode>Brief kostet von hier fort zu Euch zu schicken. Das Schreiben will ich dann neben-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="291,789 3252,793 3177,723 291,707"/>
+                <Baseline points="313,766 460,766 607,768 755,766 902,766 1050,766 1197,766 1345,766 1492,769 1640,767 1787,772 1934,772 2082,772 2229,772 2377,772 2524,772 2672,772 2819,772 2967,774 3114,773 3262,777"/>
+                <TextEquiv>
+                    <Unicode>bei besorgen, da ich gestern wieder ein neues Glas Tinte erhalten habe, das mir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="298,848 3287,868 3287,782 3111,774 298,789"/>
+                <Baseline points="319,835 467,830 616,835 765,831 914,831 1063,832 1212,834 1361,830 1510,833 1659,835 1808,835 1956,835 2105,835 2254,835 2403,841 2552,835 2701,835 2850,841 2999,835 3148,841 3297,841"/>
+                <TextEquiv>
+                    <Unicode>unser Enkel Wilhelm, der jüngste Sohn Johanns, mitbrachte, als er einen Brief an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="298,927 3279,935 3177,852 298,848"/>
+                <Baseline points="319,899 467,899 616,897 764,899 913,899 1062,899 1210,899 1359,899 1507,899 1656,899 1805,899 1953,899 2102,902 2250,905 2399,905 2548,905 2696,905 2845,905 2993,905 3142,905 3291,899"/>
+                <TextEquiv>
+                    <Unicode>Johann Speyer, in Wewark, New Jersy, der nur 2 Cent kostet, zur Post in Kendalia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="291,994 3252,998 3252,935 2851,911 291,923"/>
+                <Baseline points="313,957 460,963 607,963 754,963 901,964 1048,969 1195,963 1343,963 1490,966 1637,963 1784,968 1931,965 2078,965 2225,969 2373,975 2520,969 2667,969 2814,969 2961,975 3108,975 3256,969"/>
+                <TextEquiv>
+                    <Unicode>mitnahm, den ich geschrieben hatte; wie andere Postsachen mitbrachte, besonders</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="291,1049 3213,1053 3213,990 2898,978 291,994"/>
+                <Baseline points="313,1027 458,1033 603,1033 749,1033 894,1033 1040,1033 1185,1033 1330,1033 1476,1033 1621,1033 1767,1033 1912,1033 2057,1033 2203,1033 2348,1039 2494,1033 2639,1039 2784,1037 2930,1039 3075,1039 3221,1033"/>
+                <TextEquiv>
+                    <Unicode>Zeitungen. Der Krieg in Afrika interessiert fast die ganze Welt, so auch meine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="298,1115 3303,1127 3244,1049 298,1041"/>
+                <Baseline points="319,1091 468,1097 618,1097 768,1097 918,1097 1067,1097 1217,1102 1367,1097 1517,1098 1666,1102 1816,1101 1966,1102 2116,1100 2265,1102 2415,1102 2565,1102 2715,1102 2864,1102 3014,1102 3164,1106 3314,1114"/>
+                <TextEquiv>
+                    <Unicode>Wenigkeit. Wir haben warscheilich auch Verwandte in demselben, wo unserer Mutter,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="298,1182 3338,1198 3338,1119 298,1115"/>
+                <Baseline points="319,1160 470,1160 622,1163 773,1161 925,1166 1076,1168 1228,1166 1379,1166 1531,1166 1682,1170 1834,1170 1985,1171 2137,1171 2288,1172 2440,1172 2591,1171 2743,1171 2894,1172 3046,1172 3197,1172 3349,1172"/>
+                <TextEquiv>
+                    <Unicode>Gott hab sie selig, ihren Bruder Johann Peter, der im Jahre 1838 dorthin mit einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="291,1229 3272,1265 3272,1190 2714,1170 291,1194"/>
+                <Baseline points="313,1224 461,1230 609,1230 757,1225 906,1230 1054,1230 1202,1235 1351,1230 1499,1236 1647,1234 1796,1236 1944,1236 2092,1236 2240,1236 2389,1236 2537,1242 2685,1241 2834,1242 2982,1240 3130,1242 3279,1236"/>
+                <TextEquiv>
+                    <Unicode>Gesellschaft von Limburg dorthin gewandert ist, Im Jahre 1845, ich glaube im De-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="298,1312 3378,1331 3378,1237 298,1237"/>
+                <Baseline points="319,1294 472,1294 626,1294 779,1294 933,1294 1086,1294 1240,1300 1393,1300 1547,1295 1700,1300 1854,1300 2007,1300 2161,1301 2314,1306 2468,1302 2621,1300 2775,1306 2928,1306 3082,1306 3235,1306 3389,1311"/>
+                <TextEquiv>
+                    <Unicode>zember, erhielten wir einen Brief von ihm, daß er geheiratet sei mit einer Deutschen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="291,1379 3299,1406 3323,1327 287,1300"/>
+                <Baseline points="313,1358 463,1358 614,1358 765,1364 916,1364 1067,1364 1218,1362 1369,1358 1520,1363 1671,1367 1822,1366 1972,1364 2123,1368 2274,1369 2425,1369 2576,1369 2727,1369 2878,1369 3029,1370 3180,1375 3331,1369"/>
+                <TextEquiv>
+                    <Unicode>Frau, war auch das letzte was wir von ihm gehört haben. Es muß ihm nicht schlecht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="298,1437 3279,1461 3279,1394 3005,1371 298,1382"/>
+                <Baseline points="319,1422 467,1427 616,1427 764,1427 913,1427 1062,1427 1210,1427 1359,1427 1507,1427 1656,1433 1805,1433 1953,1433 2102,1433 2250,1433 2399,1433 2548,1433 2696,1433 2845,1433 2993,1437 3142,1439 3291,1439"/>
+                <TextEquiv>
+                    <Unicode>ergangen sein, da er Witze in dem Brief geschrieben hatte, wo alle über lachten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="302,1508 3382,1528 3382,1434 302,1441"/>
+                <Baseline points="325,1491 478,1496 631,1494 784,1497 937,1497 1091,1491 1244,1491 1397,1497 1550,1497 1703,1497 1857,1497 2010,1497 2163,1497 2316,1502 2469,1497 2623,1497 2776,1497 2929,1497 3082,1499 3235,1503 3389,1497"/>
+                <TextEquiv>
+                    <Unicode>Wie viele Nachkommen als von ihm sind, haben wir nie erfahren. Unsere Leute schrie-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="298,1579 3319,1598 3319,1524 3122,1508 298,1512"/>
+                <Baseline points="319,1549 469,1559 619,1558 770,1561 920,1561 1070,1561 1221,1557 1371,1555 1521,1561 1672,1561 1822,1561 1972,1561 2123,1565 2273,1567 2423,1567 2574,1567 2724,1567 2874,1567 3025,1567 3175,1567 3326,1567"/>
+                <TextEquiv>
+                    <Unicode>ben ihm extra, ich weiß aber die Adresse nicht mehr. Wenn das engliche Krämervolk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="302,1646 3248,1661 3197,1575 302,1579"/>
+                <Baseline points="325,1625 471,1625 618,1625 764,1625 911,1625 1057,1625 1204,1625 1350,1625 1497,1628 1643,1625 1790,1630 1937,1628 2083,1631 2230,1631 2376,1634 2523,1635 2669,1631 2816,1631 2962,1631 3109,1631 3256,1631"/>
+                <TextEquiv>
+                    <Unicode>ordentlich dort verhauen würde, wie früher hier, von Amerika, das wäre recht zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="287,1724 3276,1716 3276,1653 2918,1638 287,1638"/>
+                <Baseline points="307,1689 455,1689 604,1692 753,1690 902,1690 1051,1692 1200,1693 1349,1689 1498,1689 1647,1691 1796,1694 1944,1694 2093,1694 2242,1694 2391,1700 2540,1700 2689,1694 2838,1694 2987,1700 3136,1697 3285,1700"/>
+                <TextEquiv>
+                    <Unicode>wünschen. Bis jetzt haben sie Gott sei Dank, noch fast stets Prügel erhalten von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="291,1760 3338,1791 3158,1701 291,1724"/>
+                <Baseline points="313,1753 464,1757 616,1755 768,1753 920,1753 1072,1758 1223,1756 1375,1758 1527,1758 1679,1758 1831,1758 1982,1758 2134,1758 2286,1764 2438,1764 2590,1764 2741,1759 2893,1764 3045,1764 3197,1764 3349,1758"/>
+                <TextEquiv>
+                    <Unicode>den Buren. Trotz all ihren Gemeinheiten welche sie uns führten wie die Nachrichten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="275,1858 3338,1854 3283,1779 2918,1767 275,1763"/>
+                <Baseline points="296,1816 448,1822 601,1822 753,1822 906,1822 1059,1822 1211,1822 1364,1818 1517,1822 1669,1822 1822,1822 1975,1828 2127,1828 2280,1828 2433,1828 2585,1828 2738,1828 2891,1828 3043,1828 3196,1834 3349,1828"/>
+                <TextEquiv>
+                    <Unicode>lauten. Ich habe Euch bis jetzt schon zwei Briefe geschrieben aber noch keine Ant-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="298,1905 3370,1921 3370,1854 2965,1838 298,1846"/>
+                <Baseline points="319,1892 480,1886 641,1886 802,1886 963,1890 1124,1890 1285,1886 1446,1886 1607,1886 1768,1890 1929,1892 2090,1892 2251,1892 2412,1892 2573,1892 2734,1892 2895,1892 3056,1895 3217,1898 3378,1903"/>
+                <TextEquiv>
+                    <Unicode>wort erhalten. Von Euch so wenig als von Biebrich, was ich daraus nehmen soll, kann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="279,1972 3268,1991 3268,1921 2989,1901 279,1901"/>
+                <Baseline points="301,1950 449,1956 598,1952 747,1956 896,1956 1045,1956 1194,1952 1343,1950 1492,1954 1641,1956 1790,1956 1938,1956 2087,1958 2236,1961 2385,1961 2534,1959 2683,1958 2832,1961 2981,1961 3130,1958 3279,1961"/>
+                <TextEquiv>
+                    <Unicode>ich nicht schildern. Es scheint als seid ihr der Unsrigen vergessen oder was die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="298,2046 3193,2046 3193,1976 3008,1964 298,1972"/>
+                <Baseline points="319,2020 463,2020 607,2020 751,2020 896,2020 1040,2020 1184,2020 1328,2016 1473,2020 1617,2020 1761,2020 1905,2025 2050,2021 2194,2023 2338,2025 2482,2025 2627,2025 2771,2025 2915,2025 3059,2025 3204,2025"/>
+                <TextEquiv>
+                    <Unicode>Ursache ist. Der Nickel sind 5 Cent, das kleinste Geldstück was hier im Handel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="291,2097 3240,2105 3205,2034 291,2046"/>
+                <Baseline points="313,2089 459,2085 606,2083 753,2083 900,2087 1047,2089 1194,2083 1340,2083 1487,2086 1634,2089 1781,2089 1928,2092 2075,2089 2222,2089 2368,2089 2515,2089 2662,2089 2809,2089 2956,2089 3103,2089 3250,2089"/>
+                <TextEquiv>
+                    <Unicode>existiert. 1 Centstück, wie drei Centstücke, letzterer in Silber, sind in Post-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="287,2160 3276,2176 3248,2093 287,2101"/>
+                <Baseline points="307,2147 455,2151 604,2149 753,2148 902,2153 1051,2153 1200,2153 1349,2153 1498,2153 1647,2153 1796,2159 1944,2159 2093,2156 2242,2159 2391,2159 2540,2157 2689,2159 2838,2159 2987,2159 3136,2156 3285,2159"/>
+                <TextEquiv>
+                    <Unicode>officen oder werden auch schon in Stors eingeführt, besonders bei Juden. Es sind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="279,2231 3350,2239 3346,2148 275,2172"/>
+                <Baseline points="301,2211 462,2216 623,2217 784,2217 945,2219 1106,2217 1267,2218 1428,2223 1589,2217 1750,2221 1911,2223 2072,2223 2233,2223 2394,2223 2555,2223 2716,2223 2877,2221 3038,2220 3199,2223 3360,2223"/>
+                <TextEquiv>
+                    <Unicode>so viel wie bei Euch 20 Pfennige, was auch das Porto eines Briefes von Deutschland</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="279,2290 3338,2313 3334,2239 275,2231"/>
+                <Baseline points="301,2281 453,2283 605,2281 758,2287 910,2287 1063,2287 1215,2284 1367,2287 1520,2287 1672,2287 1825,2287 1977,2287 2129,2287 2282,2287 2434,2289 2587,2291 2739,2292 2891,2287 3044,2289 3196,2292 3349,2292"/>
+                <TextEquiv>
+                    <Unicode>hier her ist, wie ihr auf den Briefen sehen konntet. Die Nickel sind ein Geldstück</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="287,2353 3366,2384 3366,2305 287,2294"/>
+                <Baseline points="307,2339 460,2345 613,2345 766,2346 920,2345 1073,2349 1226,2350 1379,2350 1533,2350 1686,2355 1839,2354 1992,2356 2146,2351 2299,2356 2452,2356 2605,2356 2759,2356 2912,2356 3065,2356 3218,2353 3372,2356"/>
+                <TextEquiv>
+                    <Unicode>was nach dem Kriege in den 60ziger Jahren hier in Amerika geprägt wurde, was 5 Cent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="279,2439 3303,2447 3303,2368 279,2380"/>
+                <Baseline points="301,2408 451,2408 602,2408 752,2413 903,2408 1054,2414 1204,2414 1355,2414 1506,2414 1656,2417 1807,2420 1958,2420 2108,2420 2259,2420 2410,2420 2560,2420 2711,2420 2862,2420 3012,2420 3163,2425 3314,2426"/>
+                <TextEquiv>
+                    <Unicode>sind. So darf es Euch nicht kränken daß ich schrieb, daß ich nochmal einen Nickel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="291,2498 3236,2506 3236,2435 3067,2427 291,2423"/>
+                <Baseline points="313,2478 459,2478 606,2474 753,2478 900,2476 1046,2478 1193,2479 1340,2484 1487,2484 1633,2479 1780,2484 1927,2484 2074,2484 2220,2484 2367,2484 2514,2484 2661,2484 2807,2486 2954,2484 3101,2484 3248,2482"/>
+                <TextEquiv>
+                    <Unicode>an Euch wagen wollte, der Nickel im deutschen keinen schönen Klang hat. Nichts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="298,2561 3378,2600 3378,2486 3291,2482 298,2498"/>
+                <Baseline points="319,2542 472,2541 626,2542 779,2542 933,2542 1086,2542 1240,2542 1393,2546 1547,2547 1700,2547 1854,2548 2007,2548 2161,2549 2314,2554 2468,2554 2621,2551 2775,2548 2928,2554 3082,2552 3235,2554 3389,2559"/>
+                <TextEquiv>
+                    <Unicode>für ungut von Eurem Bruder. Auf die Trockenheit des letzten Jahres haben wir diesen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="302,2624 3291,2651 3291,2569 3126,2561 302,2561"/>
+                <Baseline points="325,2606 473,2606 622,2606 771,2606 920,2611 1069,2609 1218,2612 1366,2612 1515,2612 1664,2612 1813,2612 1962,2612 2111,2615 2260,2617 2408,2617 2557,2617 2706,2617 2855,2617 3004,2617 3153,2617 3302,2623"/>
+                <TextEquiv>
+                    <Unicode>Winter seit November letztes Jahrhundert schönen Regen gehabt, wie einige Fröste,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="279,2686 3279,2718 3146,2627 279,2627"/>
+                <Baseline points="301,2670 450,2670 600,2670 749,2674 899,2674 1048,2675 1198,2681 1347,2681 1497,2681 1646,2681 1796,2676 1945,2681 2095,2681 2244,2681 2394,2687 2543,2681 2693,2681 2842,2681 2992,2686 3141,2685 3291,2687"/>
+                <TextEquiv>
+                    <Unicode>sonsten sehr (günstiges Wetter.) günstige Winter, daß Haferwelche auf den Feldern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="287,2753 3240,2765 3240,2694 3044,2690 287,2706"/>
+                <Baseline points="307,2734 454,2739 601,2736 748,2739 895,2739 1042,2742 1189,2739 1337,2744 1484,2745 1631,2745 1778,2745 1925,2747 2072,2747 2219,2751 2367,2751 2514,2749 2661,2751 2808,2751 2955,2751 3102,2750 3250,2751"/>
+                <TextEquiv>
+                    <Unicode>vom letzten Jahre wo umgepflügt waren, wie gesäter Weizen Ende Oktober oder No-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="291,2824 3374,2840 3248,2749 287,2753"/>
+                <Baseline points="307,2803 460,2808 614,2809 768,2809 922,2809 1076,2809 1230,2809 1383,2813 1537,2810 1691,2810 1845,2813 1999,2815 2153,2816 2307,2815 2460,2815 2614,2815 2768,2815 2922,2815 3076,2815 3230,2815 3384,2821"/>
+                <TextEquiv>
+                    <Unicode>vember gesät, fast ein Fuß hoch war, daß Schafe, Pferde und Vieh darauf getan wurden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="291,2898 3370,2922 3366,2840 287,2824"/>
+                <Baseline points="307,2873 460,2873 613,2873 766,2873 920,2873 1073,2878 1226,2876 1379,2879 1533,2873 1686,2879 1839,2877 1992,2879 2146,2879 2299,2883 2452,2881 2605,2879 2759,2879 2912,2879 3065,2882 3218,2884 3372,2884"/>
+                <TextEquiv>
+                    <Unicode>daß es abgefressen wurde, daß es den Frost nichts tut im Falle, daß es welchen gibt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="287,2957 3268,2969 3213,2891 287,2898"/>
+                <Baseline points="307,2942 455,2941 604,2939 752,2942 901,2942 1050,2942 1198,2942 1347,2942 1495,2942 1644,2942 1793,2942 1941,2941 2090,2948 2238,2948 2387,2948 2536,2944 2684,2944 2833,2948 2981,2948 3130,2948 3279,2948"/>
+                <TextEquiv>
+                    <Unicode>Am 28. Januar mittags kam ein Nordwind an daß Montag morgen 29 Grad Eis auf den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="279,3008 3362,3040 3362,2930 279,2961"/>
+                <Baseline points="301,3006 454,3006 608,3001 761,3006 915,3012 1068,3006 1222,3009 1375,3008 1529,3006 1682,3006 1836,3006 1990,3012 2143,3012 2297,3018 2450,3012 2604,3012 2757,3012 2911,3012 3064,3012 3218,3015 3372,3018"/>
+                <TextEquiv>
+                    <Unicode>Waschbütten von über 1 Zoll dick war. Auf dem Wassertrog bei unserem Sohn Christian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:42;}">
+                <Coords points="212,3107 3291,3095 2840,3008 212,2981"/>
+                <Baseline points="232,3070 385,3075 538,3070 691,3072 845,3076 998,3076 1151,3070 1304,3076 1458,3076 1611,3071 1764,3076 1917,3076 2071,3082 2224,3082 2377,3082 2530,3080 2684,3077 2837,3076 2990,3082 3143,3082 3297,3082"/>
+                <TextEquiv>
+                    <Unicode>wo wir waren, das Eis 3/4 Zoll dick war. Der Trog ist ungefähr 18 Fuß lang, drei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_44" custom="readingOrder {index:43;}">
+                <Coords points="279,3154 3362,3162 3291,3083 279,3091"/>
+                <Baseline points="301,3140 454,3140 608,3140 761,3140 915,3140 1068,3141 1222,3140 1375,3140 1529,3140 1682,3140 1836,3140 1990,3146 2143,3146 2297,3146 2450,3148 2604,3146 2757,3146 2911,3146 3064,3146 3218,3146 3372,3140"/>
+                <TextEquiv>
+                    <Unicode>Fuß breit und drei Fuß tief, wo das Wasser durck eine Windmühle aus dem Brunnen ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_45" custom="readingOrder {index:44;}">
+                <Coords points="287,3228 3370,3244 3370,3158 287,3162"/>
+                <Baseline points="307,3209 460,3204 614,3204 767,3204 921,3209 1074,3209 1228,3204 1381,3204 1535,3204 1688,3204 1842,3209 1996,3213 2149,3209 2303,3215 2456,3215 2610,3215 2763,3215 2917,3215 3070,3215 3224,3215 3378,3215"/>
+                <TextEquiv>
+                    <Unicode>pumpt wird und durch Röhren in den Trog läuft, wo das Vieh daraus säuft,, das in den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_46" custom="readingOrder {index:45;}">
+                <Coords points="267,3287 3307,3295 3248,3221 267,3224"/>
+                <Baseline points="290,3273 441,3269 592,3273 743,3269 894,3273 1046,3273 1197,3273 1348,3273 1499,3273 1650,3273 1802,3273 1953,3278 2104,3278 2255,3279 2406,3279 2558,3279 2709,3279 2860,3279 3011,3279 3162,3279 3314,3285"/>
+                <TextEquiv>
+                    <Unicode>Pastran geht von beiden Seiten, daß Kälber auf der einen die Kühe auf der anderen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_47" custom="readingOrder {index:46;}">
+                <Coords points="267,3362 3366,3374 3366,3283 267,3303"/>
+                <Baseline points="290,3337 444,3337 598,3337 752,3337 906,3337 1060,3342 1214,3343 1368,3337 1522,3337 1676,3343 1831,3343 1985,3343 2139,3343 2293,3349 2447,3344 2601,3346 2755,3349 2909,3343 3063,3348 3217,3347 3372,3343"/>
+                <TextEquiv>
+                    <Unicode>Seite zum Wasser können ohne zusammen zu kommen, da die Kälber die Kühe sonst schon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_48" custom="readingOrder {index:47;}">
+                <Coords points="267,3421 3334,3429 3334,3362 2950,3346 267,3370"/>
+                <Baseline points="290,3401 442,3401 595,3401 747,3403 900,3401 1053,3407 1205,3404 1358,3405 1511,3407 1663,3407 1816,3407 1969,3409 2121,3407 2274,3413 2427,3413 2579,3413 2732,3413 2885,3413 3037,3413 3190,3413 3343,3407"/>
+                <TextEquiv>
+                    <Unicode>selber abmelken würden. So ist das Vieh, wie ober vergessen, gesondert ist. So die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_49" custom="readingOrder {index:48;}">
+                <Coords points="267,3484 3307,3495 3201,3417 267,3421"/>
+                <Baseline points="290,3471 441,3467 592,3465 743,3471 894,3471 1046,3471 1197,3468 1348,3466 1499,3471 1650,3471 1802,3471 1953,3471 2104,3476 2255,3477 2406,3477 2558,3477 2709,3482 2860,3479 3011,3477 3162,3477 3314,3477"/>
+                <TextEquiv>
+                    <Unicode>Arbeitstiere sind abgesondert. Montag war dann wieder gutes Wetter. Diestag morgen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_50" custom="readingOrder {index:49;}">
+                <Coords points="275,3558 3323,3566 3276,3492 275,3492"/>
+                <Baseline points="296,3529 447,3529 599,3535 751,3535 903,3540 1054,3535 1206,3535 1358,3535 1510,3535 1661,3537 1813,3537 1965,3540 2117,3540 2268,3544 2420,3540 2572,3540 2724,3545 2875,3546 3027,3546 3179,3546 3331,3546"/>
+                <TextEquiv>
+                    <Unicode>war es etwas gereift. Das Eis auf der Waschbütte wie eine Fensterscheibe dick, auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_51" custom="readingOrder {index:50;}">
+                <Coords points="267,3609 3334,3621 3205,3547 267,3558"/>
+                <Baseline points="290,3598 442,3598 595,3598 747,3598 900,3604 1053,3604 1205,3598 1358,3600 1511,3604 1663,3604 1816,3601 1969,3604 2121,3610 2274,3610 2427,3610 2579,3610 2732,3610 2885,3610 3037,3610 3190,3610 3343,3604"/>
+                <TextEquiv>
+                    <Unicode>dem Troge kein Eis. Am 21. Sonntag morgen war es ebenfalls dick gereift. und gefro-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_52" custom="readingOrder {index:51;}">
+                <Coords points="267,3676 3291,3692 3087,3617 267,3602"/>
+                <Baseline points="290,3662 440,3664 591,3668 741,3667 892,3668 1043,3664 1193,3662 1344,3668 1494,3668 1645,3668 1796,3668 1946,3668 2097,3674 2247,3674 2398,3674 2549,3674 2699,3678 2850,3676 3000,3680 3151,3675 3302,3674"/>
+                <TextEquiv>
+                    <Unicode>ren, dann gutes Wetter wie am 30, daß wir auf unserer Farm waren Korn zum füttern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_53" custom="readingOrder {index:52;}">
+                <Coords points="275,3743 3374,3763 3319,3672 275,3688"/>
+                <Baseline points="296,3732 450,3726 604,3726 758,3732 912,3732 1066,3732 1220,3732 1374,3732 1528,3732 1682,3732 1837,3736 1991,3738 2145,3738 2299,3738 2453,3744 2607,3741 2761,3744 2915,3744 3069,3744 3223,3740 3378,3738"/>
+                <TextEquiv>
+                    <Unicode>der Pferde holen, wo ich bei dem auf dem Wagen werfen den Rock ausziehen mußte vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_54" custom="readingOrder {index:53;}">
+                <Coords points="275,3821 3224,3829 3224,3759 275,3743"/>
+                <Baseline points="296,3796 442,3796 589,3792 736,3796 883,3792 1030,3796 1177,3797 1323,3797 1470,3799 1617,3801 1764,3796 1911,3802 2058,3802 2205,3802 2351,3807 2498,3802 2645,3807 2792,3807 2939,3807 3086,3807 3233,3807"/>
+                <TextEquiv>
+                    <Unicode>schwitzen. Unser Renter Georg Riba hatte ungefähr 30 Acker mit Hafer und Weizen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_55" custom="readingOrder {index:54;}">
+                <Coords points="275,3876 3295,3888 3295,3798 275,3818"/>
+                <Baseline points="296,3865 446,3856 596,3863 746,3860 897,3865 1047,3865 1197,3865 1348,3865 1498,3865 1648,3865 1799,3865 1949,3865 2099,3865 2249,3868 2400,3866 2550,3871 2700,3867 2851,3867 3001,3871 3151,3870 3302,3871"/>
+                <TextEquiv>
+                    <Unicode>wo er Bindseil, ein Nachbar, seine Schafe (Herde) darauf ließ, da der Hafer schon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_56" custom="readingOrder {index:55;}">
+                <Coords points="255,3971 3362,3963 3338,3880 255,3873"/>
+                <Baseline points="278,3923 432,3923 587,3923 742,3925 896,3929 1051,3934 1206,3933 1360,3929 1515,3929 1670,3929 1825,3929 1979,3932 2134,3935 2289,3935 2443,3935 2598,3933 2753,3932 2907,3935 3062,3935 3217,3935 3372,3935"/>
+                <TextEquiv>
+                    <Unicode>bald ein Fuß hoch war, schießen wollte, der Weizen ebenso. Er hatte Vieh und Pferde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_57" custom="readingOrder {index:56;}">
+                <Coords points="275,4018 3279,4018 2792,3931 275,3951"/>
+                <Baseline points="296,3993 445,3991 595,3987 745,3993 895,3993 1044,3993 1194,3993 1344,3993 1494,3993 1643,3993 1793,3998 1943,3999 2093,3999 2242,4001 2392,3999 2542,4004 2692,3999 2841,3999 2991,3999 3141,3999 3291,3993"/>
+                <TextEquiv>
+                    <Unicode>darauf die die Frucht kurz fraßen. Die Schafe hat er auf die Hafer zuerst, da es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_58" custom="readingOrder {index:57;}">
+                <Coords points="255,4057 3327,4073 3205,4002 255,4026"/>
+                <Baseline points="278,4057 439,4058 600,4057 761,4057 922,4059 1083,4062 1244,4058 1405,4057 1566,4063 1727,4063 1888,4063 2049,4065 2210,4069 2371,4069 2532,4069 2693,4069 2854,4065 3015,4063 3176,4067 3337,4074"/>
+                <TextEquiv>
+                    <Unicode>zu naß war für Vieh und Pferde da diese zu tiefen Löchern einkrachten, bis es trok-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_59" custom="readingOrder {index:58;}">
+                <Coords points="267,4151 3366,4147 3342,4061 267,4073"/>
+                <Baseline points="290,4127 444,4122 598,4124 752,4127 906,4127 1060,4127 1214,4127 1368,4127 1522,4127 1676,4132 1831,4127 1985,4132 2139,4132 2293,4132 2447,4132 2601,4132 2755,4132 2909,4132 3063,4132 3217,4132 3372,4138"/>
+                <TextEquiv>
+                    <Unicode>kener geworden war. Ein etwas starker Frost täte der Frucht schaden. Das Wetter ist,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_60" custom="readingOrder {index:59;} comment {offset:78; length:5;type:cut\u0020off;}">
+                <Coords points="275,4218 3358,4250 3358,4155 3236,4136 275,4155"/>
+                <Baseline points="296,4196 449,4190 603,4193 756,4192 910,4196 1063,4196 1217,4190 1370,4190 1524,4196 1677,4196 1831,4196 1984,4202 2138,4197 2291,4202 2445,4202 2598,4202 2752,4202 2905,4202 3059,4202 3212,4202 3366,4202"/>
+                <TextEquiv>
+                    <Unicode>zu mastig. Im Anfang Januar hatten wir Regen, daß alle Quellen und Springen, /welch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_61" custom="readingOrder {index:60;}">
+                <Coords points="267,4281 3268,4293 3268,4222 3115,4218 267,4218"/>
+                <Baseline points="290,4260 439,4260 588,4257 738,4260 887,4260 1037,4260 1186,4256 1336,4260 1485,4264 1635,4266 1784,4266 1933,4266 2083,4266 2232,4268 2382,4272 2531,4272 2681,4272 2830,4272 2980,4272 3129,4272 3279,4278"/>
+                <TextEquiv>
+                    <Unicode>fast Jahre trocken oder sehr klein geworden, wieder fließen. Creeken oder Bäche,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_62" custom="readingOrder {index:61;}">
+                <Coords points="165,4344 3315,4363 3276,4285 165,4269"/>
+                <Baseline points="185,4330 342,4335 499,4330 656,4332 813,4330 970,4330 1127,4330 1284,4330 1441,4333 1598,4336 1755,4336 1912,4336 2069,4336 2226,4336 2383,4340 2540,4336 2697,4337 2854,4339 3011,4341 3168,4336 3326,4336"/>
+                <TextEquiv>
+                    <Unicode>welche schon fast zwei Jahre nicht mehr geflossen haben, fließen wieder schön, so der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_63" custom="readingOrder {index:62;}">
+                <Coords points="267,4442 3338,4434 3338,4356 3209,4344 267,4352"/>
+                <Baseline points="290,4411 451,4397 612,4394 773,4394 934,4392 1095,4389 1256,4394 1417,4394 1578,4397 1739,4399 1900,4399 2061,4399 2222,4399 2383,4404 2544,4404 2705,4405 2866,4402 3027,4399 3188,4398 3349,4399"/>
+                <TextEquiv>
+                    <Unicode>Blanco der Trocken war und der Springen noch etwas Wasser hatten an etlichen Stel-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:63;}">
+                <Coords points="313,4425 409,4427 410,4397 314,4395"/>
+                <Baseline points="313,4425 409,4427"/>
+                <TextEquiv>
+                    <Unicode>len</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

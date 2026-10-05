@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title xml:lang="de">Heinrich Carl Crede und Clothilde Crede an Margarete Classen, 15. Februar 1854</tei:title>
+        <tei:title xml:lang="en">Heinrich Carl Crede and Clothilde Crede to Margarete Classen, February 15, 1854</tei:title>
+        <tei:author>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753063">Heinrich Carl Crede</tei:persName>
+        </tei:author>
+        <tei:respStmt>
+          <tei:persName>
+            <tei:surname>Pertilla</tei:surname>
+            <tei:forename>Atiba</tei:forename>
+          </tei:persName>
+          <tei:persName ref="https://d-nb.info/gnd/130107921">
+            <tei:surname>Schmidt</tei:surname>
+            <tei:forename>Thomas</tei:forename>
+          </tei:persName>
+          <tei:orgName ref="https://www.ghi-dc.org/">German Historical Institute
+                        Washington (GHI)</tei:orgName>
+          <tei:resp>Digitisation and OCRing of original letter, TEI conversion</tei:resp>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <p/>
+      </tei:publicationStmt>
+      <tei:sourceDesc>
+        <tei:listPerson>
+          <tei:person>
+            <tei:persName ref="https://database.factgrid.de/entity/Q1753063">Heinrich Carl Crede</tei:persName>
+            <tei:birth when="1811"/>
+          </tei:person>
+        </tei:listPerson>
+      </tei:sourceDesc>
+    </tei:fileDesc>
+    <tei:profileDesc>
+      <tei:correspDesc>
+        <tei:correspAction type="sent">
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753063">Heinrich Carl Crede</tei:persName>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753064">Clothilde Schröder (Crede)</tei:persName>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753085">Angelina/Marie Crede</tei:persName>
+          <tei:placeName xml:lang="de" ref="http://www.geonames.org/2892518">Kassel, Hessen</tei:placeName>
+          <tei:placeName xml:lang="en" ref="http://www.geonames.org/2892518">Kassel, Hesse</tei:placeName>
+          <tei:date when="1854-02-15"/>
+        </tei:correspAction>
+        <tei:correspAction type="received">
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753094">Margarete Versen (Schröder Classen)</tei:persName>
+        </tei:correspAction>
+      </tei:correspDesc>
+    </tei:profileDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p xml:id="p1">
+        <tei:note>[page 1, 1st author:]</tei:note>
+      </tei:p>
+      <tei:p xml:id="p2">
+        <tei:w xml:id="p2_w1">Kassel</tei:w>
+        <tei:w xml:id="p2_w2">d</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p2_w3">15t</tei:w>
+        <tei:pc xml:id="p2_pc1">.</tei:pc>
+        <tei:w xml:id="p2_w4">Februar</tei:w>
+        <tei:w xml:id="p2_w5">1854</tei:w>
+        <tei:pc xml:id="p2_pc2">.</tei:pc>
+        <tei:note>[/roman]</tei:note>
+      </tei:p>
+      <tei:p xml:id="p3">
+        <tei:w xml:id="p3_w1">Geliebte</tei:w>
+        <tei:w xml:id="p3_w2">Eltern</tei:w>
+        <tei:pc xml:id="p3_pc1">!</tei:pc>
+      </tei:p>
+      <tei:p xml:id="p4">
+        <tei:w xml:id="p4_w1">Obschon</tei:w>
+        <tei:w xml:id="p4_w2">ich</tei:w>
+        <tei:pc xml:id="p4_pc1">,</tei:pc>
+        <tei:w xml:id="p4_w3">wie</tei:w>
+        <tei:w xml:id="p4_w4">Sie</tei:w>
+        <tei:w xml:id="p4_w5">aus</tei:w>
+        <tei:w xml:id="p4_w6">der</tei:w>
+        <tei:w xml:id="p4_w7">Beilage</tei:w>
+        <tei:w xml:id="p4_w8">ersehen</tei:w>
+        <tei:pc xml:id="p4_pc2">,</tei:pc>
+        <tei:w xml:id="p4_w9">schon</tei:w>
+        <tei:w xml:id="p4_w10">ziemlich</tei:w>
+        <tei:w xml:id="p4_w11">viel</tei:w>
+        <tei:w xml:id="p4_w12">an</tei:w>
+        <tei:w xml:id="p4_w13">meinen</tei:w>
+        <tei:w xml:id="p4_w14">Sohn</tei:w>
+        <tei:w xml:id="p4_w15">geschrieben</tei:w>
+        <tei:pc xml:id="p4_pc3">,</tei:pc>
+        <tei:w xml:id="p4_w16">so</tei:w>
+        <tei:w xml:id="p4_w17">kann</tei:w>
+        <tei:w xml:id="p4_w18">ich</tei:w>
+        <tei:w xml:id="p4_w19">doch</tei:w>
+        <tei:w xml:id="p4_w20">nicht</tei:w>
+        <tei:w xml:id="p4_w21">umhin</tei:w>
+        <tei:pc xml:id="p4_pc4">,</tei:pc>
+        <tei:w xml:id="p4_w22">auch</tei:w>
+        <tei:w xml:id="p4_w23">an</tei:w>
+        <tei:w xml:id="p4_w24">Sie</tei:w>
+        <tei:w xml:id="p4_w25">einige</tei:w>
+        <tei:w xml:id="p4_w26">Worte</tei:w>
+        <tei:w xml:id="p4_w27">zu</tei:w>
+        <tei:w xml:id="p4_w28">richten</tei:w>
+        <tei:pc xml:id="p4_pc5">,</tei:pc>
+        <tei:w xml:id="p4_w29">um</tei:w>
+        <tei:w xml:id="p4_w30">Ihnen</tei:w>
+        <tei:w xml:id="p4_w31">unseren</tei:w>
+        <tei:w xml:id="p4_w32">innigsten</tei:w>
+        <tei:w xml:id="p4_w33">Dank</tei:w>
+        <tei:w xml:id="p4_w34">für</tei:w>
+        <tei:w xml:id="p4_w35">die</tei:w>
+        <tei:w xml:id="p4_w36">viele</tei:w>
+        <tei:w xml:id="p4_w37">Mühe</tei:w>
+        <tei:w xml:id="p4_w38">u.</tei:w>
+        <tei:w xml:id="p4_w39">Sorge</tei:w>
+        <tei:w xml:id="p4_w40">auszudrücken</tei:w>
+        <tei:pc xml:id="p4_pc6">,</tei:pc>
+        <tei:w xml:id="p4_w41">welche</tei:w>
+        <tei:w xml:id="p4_w42">Sie</tei:w>
+        <tei:w xml:id="p4_w43">während</tei:w>
+        <tei:w xml:id="p4_w44">der</tei:w>
+        <tei:w xml:id="p4_w45">Krankheit</tei:w>
+        <tei:w xml:id="p4_w46">für</tei:w>
+        <tei:w xml:id="p4_w47">die</tei:w>
+        <tei:w xml:id="p4_w48">beiden</tei:w>
+        <tei:w xml:id="p4_w49">gehabt</tei:w>
+        <tei:w xml:id="p4_w50">haben</tei:w>
+        <tei:w xml:id="p4_w51">u.</tei:w>
+        <tei:w xml:id="p4_w52">darf</tei:w>
+        <tei:w xml:id="p4_w53">ich</tei:w>
+        <tei:w xml:id="p4_w54">mich</tei:w>
+        <tei:w xml:id="p4_w55">der</tei:w>
+        <tei:w xml:id="p4_w56">Hoffnung</tei:w>
+        <tei:w xml:id="p4_w57">hingeben</tei:w>
+        <tei:pc xml:id="p4_pc7">,</tei:pc>
+        <tei:w xml:id="p4_w58">daß</tei:w>
+        <tei:w xml:id="p4_w59">ihre</tei:w>
+        <tei:w xml:id="p4_w60">Wohlthaten</tei:w>
+        <tei:w xml:id="p4_w61">stets</tei:w>
+        <tei:w xml:id="p4_w62">dankbare</tei:w>
+        <tei:w xml:id="p4_w63">Anerkennung</tei:w>
+        <tei:w xml:id="p4_w64">finden</tei:w>
+        <tei:w xml:id="p4_w65">werden</tei:w>
+        <tei:pc xml:id="p4_pc8">.</tei:pc>
+        <tei:pc xml:id="p4_pc9">—</tei:pc>
+        <tei:w xml:id="p4_w66">Bitte</tei:w>
+        <tei:w xml:id="p4_w67">schreiben</tei:w>
+        <tei:w xml:id="p4_w68">Sie</tei:w>
+        <tei:w xml:id="p4_w69">mir</tei:w>
+        <tei:w xml:id="p4_w70">doch</tei:w>
+        <tei:w xml:id="p4_w71">aufrichtig</tei:w>
+        <tei:pc xml:id="p4_pc10">,</tei:pc>
+        <tei:w xml:id="p4_w72">wie</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p4_w73">H</tei:w>
+        <tei:pc xml:id="p4_pc11">&amp;</tei:pc>
+        <tei:w xml:id="p4_w74">W</tei:w>
+        <tei:pc xml:id="p4_pc12">.</tei:pc>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p4_w75">sich</tei:w>
+        <tei:w xml:id="p4_w76">dort</tei:w>
+        <tei:w xml:id="p4_w77">gefallen</tei:w>
+        <tei:w xml:id="p4_w78">und</tei:w>
+        <tei:w xml:id="p4_w79">wie</tei:w>
+        <tei:w xml:id="p4_w80">sie</tei:w>
+        <tei:w xml:id="p4_w81">sich</tei:w>
+        <tei:w xml:id="p4_w82">in</tei:w>
+        <tei:w xml:id="p4_w83">die</tei:w>
+        <tei:w xml:id="p4_w84">dortigen</tei:w>
+        <tei:w xml:id="p4_w85">Verhältnisse</tei:w>
+        <tei:w xml:id="p4_w86">gefunden</tei:w>
+        <tei:w xml:id="p4_w87">haben</tei:w>
+        <tei:pc xml:id="p4_pc13">.</tei:pc>
+        <tei:pc xml:id="p4_pc14">—</tei:pc>
+        <tei:w xml:id="p4_w88">Noch</tei:w>
+        <tei:w xml:id="p4_w89">einmal</tei:w>
+        <tei:w xml:id="p4_w90">liebe</tei:w>
+        <tei:w xml:id="p4_w91">Frau</tei:w>
+        <tei:w xml:id="p4_w92">Mutter</tei:w>
+        <tei:w xml:id="p4_w93">muß</tei:w>
+        <tei:w xml:id="p4_w94">ich</tei:w>
+        <tei:pc xml:id="p4_pc15">,</tei:pc>
+        <tei:w xml:id="p4_w95">obschon</tei:w>
+        <tei:w xml:id="p4_w96">es</tei:w>
+        <tei:w xml:id="p4_w97">Sie</tei:w>
+        <tei:w xml:id="p4_w98">unangenehm</tei:w>
+        <tei:w xml:id="p4_w99">berühren</tei:w>
+        <tei:w xml:id="p4_w100">wird</tei:w>
+        <tei:pc xml:id="p4_pc16">,</tei:pc>
+        <tei:w xml:id="p4_w101">Ihnen</tei:w>
+        <tei:w xml:id="p4_w102">bezüglich</tei:w>
+        <tei:w xml:id="p4_w103">des</tei:w>
+        <tei:w xml:id="p4_w104">Hofkammerraths</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p4_w105">Schröder</tei:w>
+        <tei:pc xml:id="p4_pc17">'</tei:pc>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p4_w106">schen</tei:w>
+        <tei:w xml:id="p4_w107">ErbschaftsAngelegenheit</tei:w>
+        <tei:w xml:id="p4_w108">Mittheilung</tei:w>
+        <tei:w xml:id="p4_w109">machen</tei:w>
+        <tei:pc xml:id="p4_pc18">.</tei:pc>
+        <tei:w xml:id="p4_w110">Wie</tei:w>
+        <tei:w xml:id="p4_w111">ich</tei:w>
+        <tei:w xml:id="p4_w112">Ihren</tei:w>
+        <tei:w xml:id="p4_w113">bereits</tei:w>
+        <tei:w xml:id="p4_w114">vorlängst</tei:w>
+        <tei:w xml:id="p4_w115">schrieb</tei:w>
+        <tei:pc xml:id="p4_pc19">,</tei:pc>
+        <tei:w xml:id="p4_w116">hatte</tei:w>
+        <tei:w xml:id="p4_w117">sich</tei:w>
+        <tei:w xml:id="p4_w118">die</tei:w>
+        <tei:w xml:id="p4_w119">Erbvertheilung</tei:w>
+        <tei:w xml:id="p4_w120">mit</tei:w>
+        <tei:w xml:id="p4_w121">einer</tei:w>
+        <tei:w xml:id="p4_w122">Ueberzahhlung</tei:w>
+        <tei:w xml:id="p4_w123">für</tei:w>
+        <tei:w xml:id="p4_w124">Sie</tei:w>
+        <tei:w xml:id="p4_w125">abgeschlossen</tei:w>
+        <tei:pc xml:id="p4_pc20">.</tei:pc>
+        <tei:w xml:id="p4_w126">Später</tei:w>
+        <tei:w xml:id="p4_w127">wurde</tei:w>
+        <tei:w xml:id="p4_w128">nun</tei:w>
+        <tei:w xml:id="p4_w129">Termin</tei:w>
+        <tei:w xml:id="p4_w130">zur</tei:w>
+        <tei:w xml:id="p4_w131">Verhandlung</tei:w>
+        <tei:w xml:id="p4_w132">wegen</tei:w>
+        <tei:w xml:id="p4_w133">der</tei:w>
+        <tei:w xml:id="p4_w134">nicht</tei:w>
+        <tei:w xml:id="p4_w135">zur</tei:w>
+        <tei:w xml:id="p4_w136">Auszahlung</tei:w>
+        <tei:w xml:id="p4_w137">gekommenen</tei:w>
+        <tei:w xml:id="p4_w138">Restes</tei:w>
+        <tei:w xml:id="p4_w139">des</tei:w>
+        <tei:w xml:id="p4_w140">Erbantheils</tei:w>
+        <tei:w xml:id="p4_w141">des</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p4_w142">Franz</tei:w>
+        <tei:w xml:id="p4_w143">Philipp</tei:w>
+        <tei:w xml:id="p4_w144">Schröder</tei:w>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p4_w145">im</tei:w>
+        <tei:w xml:id="p4_w146">Betrage</tei:w>
+        <tei:w xml:id="p4_w147">von</tei:w>
+        <tei:w xml:id="p4_w148">3036</tei:w>
+        <tei:w xml:id="p4_w149">rt</tei:w>
+        <tei:pc xml:id="p4_pc21">:</tei:pc>
+        <tei:w xml:id="p4_w150">auf</tei:w>
+        <tei:w xml:id="p4_w151">den</tei:w>
+        <tei:w xml:id="p4_w152">2t</tei:w>
+        <tei:pc xml:id="p4_pc22">.</tei:pc>
+        <tei:w xml:id="p4_w153">Dezbr</tei:w>
+        <tei:pc xml:id="p4_pc23">.</tei:pc>
+        <tei:w xml:id="p4_w154">v.</tei:w>
+        <tei:w xml:id="p4_w155">J.</tei:w>
+        <tei:w xml:id="p4_w156">anberaumt</tei:w>
+        <tei:pc xml:id="p4_pc24">.</tei:pc>
+        <tei:w xml:id="p4_w157">Da</tei:w>
+        <tei:w xml:id="p4_w158">Sie</tei:w>
+        <tei:w xml:id="p4_w159">nun</tei:w>
+        <tei:w xml:id="p4_w160">nach</tei:w>
+        <tei:w xml:id="p4_w161">einer</tei:w>
+        <tei:w xml:id="p4_w162">Mittheilung</tei:w>
+        <tei:w xml:id="p4_w163">des</tei:w>
+        <tei:w xml:id="p4_w164">Gerichts</tei:w>
+        <tei:w xml:id="p4_w165">wegen</tei:w>
+        <tei:w xml:id="p4_w166">einer</tei:w>
+        <tei:note>[underline:]</tei:note>
+        <tei:w xml:id="p4_w167">ausgestrittenen</tei:w>
+        <tei:note>[/underline]</tei:note>
+        <tei:w xml:id="p4_w168">Forderung</tei:w>
+        <tei:w xml:id="p4_w169">von</tei:w>
+        <tei:w xml:id="p4_w170">3250</tei:w>
+        <tei:w xml:id="p4_w171">rt</tei:w>
+        <tei:pc xml:id="p4_pc25">:</tei:pc>
+        <tei:w xml:id="p4_w172">Anspruch</tei:w>
+        <tei:w xml:id="p4_w173">auf</tei:w>
+        <tei:w xml:id="p4_w174">jene</tei:w>
+        <tei:w xml:id="p4_w175">Gelder</tei:w>
+        <tei:w xml:id="p4_w176">hatten</tei:w>
+        <tei:pc xml:id="p4_pc26">,</tei:pc>
+        <tei:w xml:id="p4_w177">so</tei:w>
+        <tei:w xml:id="p4_w178">wohnte</tei:w>
+        <tei:w xml:id="p4_w179">ich</tei:w>
+        <tei:w xml:id="p4_w180">dem</tei:w>
+        <tei:w xml:id="p4_w181">Termin</tei:w>
+        <tei:w xml:id="p4_w182">bei</tei:w>
+        <tei:w xml:id="p4_w183">dem</tei:w>
+        <tei:w xml:id="p4_w184">Kreisgericht</tei:w>
+        <tei:w xml:id="p4_w185">in</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p4_w186">Warburg</tei:w>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p4_w187">bei</tei:w>
+        <tei:w xml:id="p4_w188">u.</tei:w>
+        <tei:w xml:id="p4_w189">hatte</tei:w>
+        <tei:w xml:id="p4_w190">die</tei:w>
+        <tei:w xml:id="p4_w191">Sache</tei:w>
+        <tei:w xml:id="p4_w192">kurz</tei:w>
+        <tei:w xml:id="p4_w193">abgemacht</tei:w>
+        <tei:w xml:id="p4_w194">zu</tei:w>
+        <tei:w xml:id="p4_w195">sehen</tei:w>
+        <tei:pc xml:id="p4_pc27">,</tei:pc>
+        <tei:w xml:id="p4_w196">da</tei:w>
+        <tei:w xml:id="p4_w197">die</tei:w>
+        <tei:w xml:id="p4_w198">Gelder</tei:w>
+        <tei:w xml:id="p4_w199">zur</tei:w>
+        <tei:w xml:id="p4_w200">Auszahlung</tei:w>
+        <tei:w xml:id="p4_w201">bereit</tei:w>
+        <tei:w xml:id="p4_w202">lagen</tei:w>
+        <tei:pc xml:id="p4_pc28">.</tei:pc>
+        <tei:w xml:id="p4_w203">Es</tei:w>
+        <tei:w xml:id="p4_w204">erschienen</tei:w>
+        <tei:w xml:id="p4_w205">verschiedene</tei:w>
+        <tei:w xml:id="p4_w206">Partheien</tei:w>
+        <tei:pc xml:id="p4_pc29">,</tei:pc>
+        <tei:w xml:id="p4_w207">die</tei:w>
+        <tei:w xml:id="p4_w208">noch</tei:w>
+        <tei:w xml:id="p4_w209">Forderungen</tei:w>
+        <tei:w xml:id="p4_w210">an</tei:w>
+        <tei:w xml:id="p4_w211">jener</tei:w>
+        <tei:w xml:id="p4_w212">Masse</tei:w>
+        <tei:w xml:id="p4_w213">geltend</tei:w>
+        <tei:w xml:id="p4_w214">zu</tei:w>
+        <tei:w xml:id="p4_w215">machen</tei:w>
+        <tei:w xml:id="p4_w216">suchten</tei:w>
+        <tei:pc xml:id="p4_pc30">,</tei:pc>
+        <tei:w xml:id="p4_w217">unter</tei:w>
+        <tei:w xml:id="p4_w218">anderem</tei:w>
+        <tei:w xml:id="p4_w219">auch</tei:w>
+        <tei:w xml:id="p4_w220">Justizrath</tei:w>
+        <tei:w xml:id="p4_w221">Rosenkranz</tei:w>
+        <tei:pc xml:id="p4_pc31">,</tei:pc>
+        <tei:w xml:id="p4_w222">welcher</tei:w>
+        <tei:w xml:id="p4_w223">für</tei:w>
+        <tei:w xml:id="p4_w224">die</tei:w>
+        <tei:w xml:id="p4_w225">Erben</tei:w>
+        <tei:w xml:id="p4_w226">des</tei:w>
+        <tei:w xml:id="p4_w227">Kaufmanns</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p4_w228">Schröder</tei:w>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p4_w229">zu</tei:w>
+        <tei:w xml:id="p4_w230">Paderborn</tei:w>
+        <tei:w xml:id="p4_w231">handelte</tei:w>
+        <tei:pc xml:id="p4_pc32">.</tei:pc>
+        <tei:w xml:id="p4_w232">Ich</tei:w>
+        <tei:w xml:id="p4_w233">suchte</tei:w>
+        <tei:w xml:id="p4_w234">Ihre</tei:w>
+        <tei:w xml:id="p4_w235">Ansprüche</tei:w>
+        <tei:pc xml:id="p4_pc33">,</tei:pc>
+        <tei:w xml:id="p4_w236">als</tei:w>
+        <tei:w xml:id="p4_w237">die</tei:w>
+        <tei:w xml:id="p4_w238">von</tei:w>
+        <tei:w xml:id="p4_w239">Rechts</tei:w>
+        <tei:w xml:id="p4_w240">wegen</tei:w>
+        <tei:w xml:id="p4_w241">schon</tei:w>
+        <tei:w xml:id="p4_w242">vorlängst</tei:w>
+        <tei:w xml:id="p4_w243">anerkannten</tei:w>
+        <tei:pc xml:id="p4_pc34">,</tei:pc>
+        <tei:w xml:id="p4_w244">geltend</tei:w>
+        <tei:w xml:id="p4_w245">zu</tei:w>
+        <tei:w xml:id="p4_w246">machen</tei:w>
+        <tei:pc xml:id="p4_pc35">,</tei:pc>
+        <tei:w xml:id="p4_w247">wurde</tei:w>
+        <tei:w xml:id="p4_w248">aber</tei:w>
+        <tei:w xml:id="p4_w249">sehr</tei:w>
+        <tei:w xml:id="p4_w250">überrascht</tei:w>
+        <tei:pc xml:id="p4_pc36">,</tei:pc>
+        <tei:w xml:id="p4_w251">als</tei:w>
+        <tei:w xml:id="p4_w252">mir</tei:w>
+        <tei:w xml:id="p4_w253">von</tei:w>
+        <tei:w xml:id="p4_w254">p</tei:w>
+        <tei:w xml:id="p4_w255">Rosenkranz</tei:w>
+        <tei:w xml:id="p4_w256">ein</tei:w>
+        <tei:w xml:id="p4_w257">Vertrag</tei:w>
+        <tei:w xml:id="p4_w258">vom</tei:w>
+        <tei:w xml:id="p4_w259">12</tei:w>
+        <tei:pc xml:id="p4_pc37">.</tei:pc>
+        <tei:w xml:id="p4_w260">Januar</tei:w>
+        <tei:w xml:id="p4_w261">1835</tei:w>
+        <tei:w xml:id="p4_w262">vorgelegt</tei:w>
+        <tei:w xml:id="p4_w263">wurde</tei:w>
+        <tei:pc xml:id="p4_pc38">,</tei:pc>
+        <tei:w xml:id="p4_w264">welcher</tei:w>
+        <tei:w xml:id="p4_w265">zwischen</tei:w>
+        <tei:w xml:id="p4_w266">Ihnen</tei:w>
+        <tei:w xml:id="p4_w267">u</tei:w>
+        <tei:pc xml:id="p4_pc39">.</tei:pc>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p4_w268">Franz</tei:w>
+        <tei:w xml:id="p4_w269">Arnold</tei:w>
+        <tei:w xml:id="p4_w270">Schröder</tei:w>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p4_w271">bei</tei:w>
+        <tei:w xml:id="p4_w272">dem</tei:w>
+        <tei:w xml:id="p4_w273">Gericht</tei:w>
+        <tei:w xml:id="p4_w274">in</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p4_w275">Warburg</tei:w>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p4_w276">abgeschlossen</tei:w>
+        <tei:w xml:id="p4_w277">worden</tei:w>
+        <tei:w xml:id="p4_w278">war</tei:w>
+        <tei:w xml:id="p4_w279">und</tei:w>
+        <tei:w xml:id="p4_w280">woraus</tei:w>
+        <tei:w xml:id="p4_w281">ich</tei:w>
+        <tei:w xml:id="p4_w282">ersehen</tei:w>
+        <tei:w xml:id="p4_w283">mußte</tei:w>
+        <tei:pc xml:id="p4_pc40">,</tei:pc>
+      </tei:p>
+      <tei:p xml:id="p5">
+        <tei:note>[page 2:]</tei:note>
+      </tei:p>
+      <tei:p xml:id="p6">
+        <tei:w xml:id="p6_w1">daß</tei:w>
+        <tei:w xml:id="p6_w2">Sie</tei:w>
+        <tei:w xml:id="p6_w3">sowohl</tei:w>
+        <tei:w xml:id="p6_w4">Ihre</tei:w>
+        <tei:w xml:id="p6_w5">Ansprüche</tei:w>
+        <tei:w xml:id="p6_w6">bezüglich</tei:w>
+        <tei:w xml:id="p6_w7">der</tei:w>
+        <tei:w xml:id="p6_w8">ausgestrittenen</tei:w>
+        <tei:w xml:id="p6_w9">Forderung</tei:w>
+        <tei:w xml:id="p6_w10">von</tei:w>
+        <tei:w xml:id="p6_w11">3250</tei:w>
+        <tei:w xml:id="p6_w12">rt</tei:w>
+        <tei:pc xml:id="p6_pc1">.</tei:pc>
+        <tei:w xml:id="p6_w13">sondern</tei:w>
+        <tei:w xml:id="p6_w14">auch</tei:w>
+        <tei:note>[underline:]</tei:note>
+        <tei:w xml:id="p6_w15">alle</tei:w>
+        <tei:note>[/underline]</tei:note>
+        <tei:w xml:id="p6_w16">Ihre</tei:w>
+        <tei:w xml:id="p6_w17">Rechte</tei:w>
+        <tei:w xml:id="p6_w18">bezüglich</tei:w>
+        <tei:w xml:id="p6_w19">auf</tei:w>
+        <tei:w xml:id="p6_w20">die</tei:w>
+        <tei:w xml:id="p6_w21">Hofkammerrath</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p6_w22">Schröder</tei:w>
+        <tei:pc xml:id="p6_pc2">'</tei:pc>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p6_w23">sche</tei:w>
+        <tei:w xml:id="p6_w24">Erbschaft</tei:w>
+        <tei:pc xml:id="p6_pc3">—</tei:pc>
+        <tei:w xml:id="p6_w25">wegen</tei:w>
+        <tei:w xml:id="p6_w26">einer</tei:w>
+        <tei:w xml:id="p6_w27">Forderung</tei:w>
+        <tei:w xml:id="p6_w28">des</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p6_w29">Franz</tei:w>
+        <tei:w xml:id="p6_w30">Arnold</tei:w>
+        <tei:w xml:id="p6_w31">Schröder</tei:w>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p6_w32">für</tei:w>
+        <tei:w xml:id="p6_w33">empfangenem</tei:w>
+        <tei:w xml:id="p6_w34">Darlehen</tei:w>
+        <tei:w xml:id="p6_w35">u.</tei:w>
+        <tei:w xml:id="p6_w36">Waaren</tei:w>
+        <tei:w xml:id="p6_w37">im</tei:w>
+        <tei:w xml:id="p6_w38">Betrage</tei:w>
+        <tei:w xml:id="p6_w39">von</tei:w>
+        <tei:w xml:id="p6_w40">4134</tei:w>
+        <tei:w xml:id="p6_w41">rt</tei:w>
+        <tei:pc xml:id="p6_pc4">:</tei:pc>
+        <tei:pc xml:id="p6_pc5">,</tei:pc>
+        <tei:w xml:id="p6_w42">jenem</tei:w>
+        <tei:w xml:id="p6_w43">förmlich</tei:w>
+        <tei:w xml:id="p6_w44">ordirt</tei:w>
+        <tei:w xml:id="p6_w45">hatten</tei:w>
+        <tei:pc xml:id="p6_pc6">.</tei:pc>
+        <tei:w xml:id="p6_w46">Wie</tei:w>
+        <tei:w xml:id="p6_w47">aus</tei:w>
+        <tei:w xml:id="p6_w48">dem</tei:w>
+        <tei:w xml:id="p6_w49">Vertrage</tei:w>
+        <tei:w xml:id="p6_w50">hervorgeht</tei:w>
+        <tei:pc xml:id="p6_pc7">,</tei:pc>
+        <tei:w xml:id="p6_w51">ist</tei:w>
+        <tei:w xml:id="p6_w52">solcher</tei:w>
+        <tei:w xml:id="p6_w53">von</tei:w>
+        <tei:w xml:id="p6_w54">Ihnen</tei:w>
+        <tei:w xml:id="p6_w55">unter</tei:w>
+        <tei:w xml:id="p6_w56">selbstgewähltem</tei:w>
+        <tei:w xml:id="p6_w57">Beistande</tei:w>
+        <tei:w xml:id="p6_w58">des</tei:w>
+        <tei:w xml:id="p6_w59">damal</tei:w>
+        <tei:pc xml:id="p6_pc8">:</tei:pc>
+        <tei:w xml:id="p6_w60">Referendars</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p6_w61">Meyenberg</tei:w>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p6_w62">abgeschlossen</tei:w>
+        <tei:w xml:id="p6_w63">und</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p6_w64">Franz</tei:w>
+        <tei:w xml:id="p6_w65">Arnold</tei:w>
+        <tei:w xml:id="p6_w66">Schröder</tei:w>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p6_w67">durch</tei:w>
+        <tei:w xml:id="p6_w68">den</tei:w>
+        <tei:w xml:id="p6_w69">GerichtsSecreter</tei:w>
+        <tei:w xml:id="p6_w70">Schnake</tei:w>
+        <tei:w xml:id="p6_w71">vertreten</tei:w>
+        <tei:w xml:id="p6_w72">worden</tei:w>
+        <tei:pc xml:id="p6_pc9">.</tei:pc>
+        <tei:w xml:id="p6_w73">Der</tei:w>
+        <tei:w xml:id="p6_w74">letztere</tei:w>
+        <tei:w xml:id="p6_w75">war</tei:w>
+        <tei:w xml:id="p6_w76">im</tei:w>
+        <tei:w xml:id="p6_w77">Termin</tei:w>
+        <tei:w xml:id="p6_w78">auch</tei:w>
+        <tei:w xml:id="p6_w79">anwesend</tei:w>
+        <tei:w xml:id="p6_w80">u.</tei:w>
+        <tei:w xml:id="p6_w81">bestätigte</tei:w>
+        <tei:w xml:id="p6_w82">mir</tei:w>
+        <tei:w xml:id="p6_w83">noch</tei:w>
+        <tei:w xml:id="p6_w84">mündlich</tei:w>
+        <tei:w xml:id="p6_w85">die</tei:w>
+        <tei:w xml:id="p6_w86">Richtigkeit</tei:w>
+        <tei:w xml:id="p6_w87">des</tei:w>
+        <tei:w xml:id="p6_w88">Vertrags_</tei:w>
+        <tei:pc xml:id="p6_pc10">.</tei:pc>
+        <tei:w xml:id="p6_w89">Vom</tei:w>
+        <tei:w xml:id="p6_w90">Gericht</tei:w>
+        <tei:w xml:id="p6_w91">wurde</tei:w>
+        <tei:w xml:id="p6_w92">beschlossen</tei:w>
+        <tei:pc xml:id="p6_pc11">,</tei:pc>
+        <tei:w xml:id="p6_w93">die</tei:w>
+        <tei:w xml:id="p6_w94">Gelder</tei:w>
+        <tei:w xml:id="p6_w95">an</tei:w>
+        <tei:w xml:id="p6_w96">das</tei:w>
+        <tei:w xml:id="p6_w97">Obergericht</tei:w>
+        <tei:w xml:id="p6_w98">zu</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p6_w99">Paderborn</tei:w>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p6_w100">zu</tei:w>
+        <tei:w xml:id="p6_w101">senden</tei:w>
+        <tei:w xml:id="p6_w102">und</tei:w>
+        <tei:w xml:id="p6_w103">den</tei:w>
+        <tei:w xml:id="p6_w104">Liquidanten</tei:w>
+        <tei:w xml:id="p6_w105">überlassen</tei:w>
+        <tei:pc xml:id="p6_pc12">,</tei:pc>
+        <tei:w xml:id="p6_w106">dort</tei:w>
+        <tei:w xml:id="p6_w107">ihre</tei:w>
+        <tei:w xml:id="p6_w108">Forderungsansprüche</tei:w>
+        <tei:w xml:id="p6_w109">geltend</tei:w>
+        <tei:w xml:id="p6_w110">zu</tei:w>
+        <tei:pc xml:id="p6_pc13">machen._</tei:pc>
+        <tei:w xml:id="p6_w111">Die</tei:w>
+        <tei:w xml:id="p6_w112">Sache</tei:w>
+        <tei:w xml:id="p6_w113">wird</tei:w>
+        <tei:w xml:id="p6_w114">nun</tei:w>
+        <tei:w xml:id="p6_w115">für</tei:w>
+        <tei:w xml:id="p6_w116">uns</tei:w>
+        <tei:w xml:id="p6_w117">zu</tei:w>
+        <tei:w xml:id="p6_w118">Ende</tei:w>
+        <tei:w xml:id="p6_w119">sein_</tei:w>
+        <tei:pc xml:id="p6_pc14">,</tei:pc>
+        <tei:w xml:id="p6_w120">ich</tei:w>
+        <tei:w xml:id="p6_w121">kenne</tei:w>
+        <tei:w xml:id="p6_w122">solche</tei:w>
+        <tei:w xml:id="p6_w123">zu</tei:w>
+        <tei:w xml:id="p6_w124">wenig</tei:w>
+        <tei:pc xml:id="p6_pc15">,</tei:pc>
+        <tei:w xml:id="p6_w125">so</tei:w>
+        <tei:w xml:id="p6_w126">viel</tei:w>
+        <tei:w xml:id="p6_w127">scheint</tei:w>
+        <tei:w xml:id="p6_w128">mir</tei:w>
+        <tei:w xml:id="p6_w129">indeß</tei:w>
+        <tei:w xml:id="p6_w130">gewiß</tei:w>
+        <tei:pc xml:id="p6_pc16">,</tei:pc>
+        <tei:w xml:id="p6_w131">daß</tei:w>
+        <tei:w xml:id="p6_w132">Sie</tei:w>
+        <tei:w xml:id="p6_w133">recht</tei:w>
+        <tei:w xml:id="p6_w134">derb</tei:w>
+        <tei:w xml:id="p6_w135">betrogen</tei:w>
+        <tei:w xml:id="p6_w136">worden</tei:w>
+        <tei:w xml:id="p6_w137">sind</tei:w>
+        <tei:pc xml:id="p6_pc17">.</tei:pc>
+      </tei:p>
+      <tei:p xml:id="p7">
+        <tei:w xml:id="p7_w1">Ich</tei:w>
+        <tei:w xml:id="p7_w2">schließe</tei:w>
+        <tei:w xml:id="p7_w3">unter</tei:w>
+        <tei:w xml:id="p7_w4">den</tei:w>
+        <tei:w xml:id="p7_w5">herzlichsten</tei:w>
+        <tei:w xml:id="p7_w6">Grüßen</tei:w>
+        <tei:w xml:id="p7_w7">an</tei:w>
+        <tei:w xml:id="p7_w8">Sie</tei:w>
+        <tei:w xml:id="p7_w9">u.</tei:w>
+        <tei:w xml:id="p7_w10">Vater</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p7_w11">Clasen</tei:w>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p7_w12">und</tei:w>
+        <tei:w xml:id="p7_w13">den</tei:w>
+        <tei:w xml:id="p7_w14">besten</tei:w>
+        <tei:w xml:id="p7_w15">Wünschen</tei:w>
+        <tei:w xml:id="p7_w16">für</tei:w>
+        <tei:w xml:id="p7_w17">Ihr</tei:w>
+        <tei:w xml:id="p7_w18">Aller</tei:w>
+        <tei:w xml:id="p7_w19">Wohlergehen</tei:w>
+        <tei:pc xml:id="p7_pc1">:</tei:pc>
+        <tei:w xml:id="p7_w20">Ihr</tei:w>
+        <tei:w xml:id="p7_w21">aufrecht</tei:w>
+        <tei:pc xml:id="p7_pc2">.</tei:pc>
+        <tei:note>[underline:]</tei:note>
+        <tei:w xml:id="p7_w22">Sohn</tei:w>
+        <tei:note>[/underline]</tei:note>
+        <tei:w xml:id="p7_w23">Crede</tei:w>
+        <tei:pc xml:id="p7_pc3">.</tei:pc>
+      </tei:p>
+    </tei:body>
+  </tei:text>
+</TEI>

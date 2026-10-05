@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.47.0:model_id=265149:date=17_06_2026_17:02</Creator>
+        <Created>2026-06-16T07:29:13.589+02:00</Created>
+        <LastChange>2026-07-01T22:05:54.230+02:00</LastChange>
+        <TranskribusMetadata docId="16887255" pageId="122411761" pageNr="7" tsid="294634567" status="DONE" userId="542398" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=NDKOVNBBETCFHUVGOBVBCLXO" xmlUrl="https://files.transkribus.eu/Get?id=MKUYHFHEYFEUOVPULQMUIWFB" imageId="104018837"/>
+    </Metadata>
+    <Page imageFilename="0007_0360.jpg" imageWidth="3465" imageHeight="4963">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049993638" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1805,189 1905,189 1905,332 1805,332"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1825,300 1897,300 1897,270 1825,270"/>
+                <Baseline points="1825,300 1897,300"/>
+                <TextEquiv>
+                    <Unicode>7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="785,465 785,708 1565,708 1565,465"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="786,551 1046,561 1103,537 1269,573 1482,541 1470,490 1319,501 1196,470 986,504 786,453"/>
+                <Baseline points="791,531 825,533 860,536 894,537 929,537 964,537 998,537 1033,537 1068,537 1102,537 1137,537 1172,537 1206,537 1241,537 1276,537 1310,537 1345,537 1380,537 1414,537 1449,537 1484,537"/>
+                <TextEquiv>
+                    <Unicode>Johnson's Iland</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="780,675 1122,678 1245,711 1325,673 1433,718 1564,683 1563,622 1399,614 1337,643 1239,609 916,643 779,617"/>
+                <Baseline points="785,664 824,667 863,669 902,670 941,670 980,670 1019,670 1058,670 1097,670 1136,670 1175,672 1214,675 1253,673 1292,671 1331,671 1370,674 1409,674 1448,672 1487,670 1526,673 1565,675"/>
+                <TextEquiv>
+                    <Unicode>near Sandusky Ohio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

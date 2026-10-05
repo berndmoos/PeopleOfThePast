@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title xml:lang="de">Heinrich und Clothilde Crede an Hermann Crede, 23. August 1857</tei:title>
+        <tei:title xml:lang="en">Heinrich and Clothilde Crede to Hermann Crede, August 23, 1857</tei:title>
+        <tei:author>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753064">Clothilde Schröder (Crede)</tei:persName>
+        </tei:author>
+        <tei:respStmt>
+          <tei:persName>
+            <tei:surname>Pertilla</tei:surname>
+            <tei:forename>Atiba</tei:forename>
+          </tei:persName>
+          <tei:persName ref="https://d-nb.info/gnd/130107921">
+            <tei:surname>Schmidt</tei:surname>
+            <tei:forename>Thomas</tei:forename>
+          </tei:persName>
+          <tei:orgName ref="https://www.ghi-dc.org/">German Historical Institute
+                        Washington (GHI)</tei:orgName>
+          <tei:resp>Digitisation and OCRing of original letter, TEI conversion</tei:resp>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <p/>
+      </tei:publicationStmt>
+      <tei:sourceDesc>
+        <tei:listPerson>
+          <tei:person>
+            <tei:persName ref="https://database.factgrid.de/entity/Q1753064">Clothilde Schröder (Crede)</tei:persName>
+            <tei:birth when="1814"/>
+          </tei:person>
+        </tei:listPerson>
+      </tei:sourceDesc>
+    </tei:fileDesc>
+    <tei:profileDesc>
+      <tei:correspDesc>
+        <tei:correspAction type="sent">
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753063">Heinrich Carl Crede</tei:persName>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753064">Clothilde Schröder (Crede)</tei:persName>
+          <tei:placeName xml:lang="de" ref="http://www.geonames.org/2892518">Kassel, Hessen</tei:placeName>
+          <tei:placeName xml:lang="en" ref="http://www.geonames.org/2892518">Kassel, Hesse</tei:placeName>
+          <tei:date when="1857-08-23"/>
+        </tei:correspAction>
+        <tei:correspAction type="received">
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753062">Hermann Carl Crede</tei:persName>
+        </tei:correspAction>
+      </tei:correspDesc>
+    </tei:profileDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p xml:id="p5">
+        <tei:note>[page 1, 2nd author:]</tei:note>
+      </tei:p>
+      <tei:p xml:id="p6">
+        <tei:w xml:id="p6_w1">Mein</tei:w>
+        <tei:w xml:id="p6_w2">Lieber</tei:w>
+        <tei:w xml:id="p6_w3">Hermann</tei:w>
+        <tei:pc xml:id="p6_pc1">!</tei:pc>
+        <tei:w xml:id="p6_w4">Du</tei:w>
+        <tei:w xml:id="p6_w5">hast</tei:w>
+        <tei:w xml:id="p6_w6">so</tei:w>
+        <tei:w xml:id="p6_w7">lange</tei:w>
+        <tei:w xml:id="p6_w8">nichts</tei:w>
+        <tei:w xml:id="p6_w9">von</tei:w>
+        <tei:w xml:id="p6_w10">Dir</tei:w>
+        <tei:w xml:id="p6_w11">hören</tei:w>
+        <tei:w xml:id="p6_w12">lassen</tei:w>
+        <tei:w xml:id="p6_w13">daß</tei:w>
+        <tei:w xml:id="p6_w14">ich</tei:w>
+        <tei:w xml:id="p6_w15">recht</tei:w>
+        <tei:w xml:id="p6_w16">in</tei:w>
+        <tei:w xml:id="p6_w17">Sorge</tei:w>
+        <tei:w xml:id="p6_w18">um</tei:w>
+        <tei:w xml:id="p6_w19">Dich</tei:w>
+        <tei:w xml:id="p6_w20">bin</tei:w>
+        <tei:pc xml:id="p6_pc2">,</tei:pc>
+        <tei:w xml:id="p6_w21">schreibe</tei:w>
+        <tei:w xml:id="p6_w22">recht</tei:w>
+        <tei:w xml:id="p6_w23">bald</tei:w>
+        <tei:w xml:id="p6_w24">ich</tei:w>
+        <tei:w xml:id="p6_w25">bitte</tei:w>
+        <tei:w xml:id="p6_w26">darum</tei:w>
+        <tei:pc xml:id="p6_pc3">.</tei:pc>
+        <tei:w xml:id="p6_w27">Ein</tei:w>
+        <tei:w xml:id="p6_w28">herzlichen</tei:w>
+        <tei:w xml:id="p6_w29">Gruß</tei:w>
+        <tei:w xml:id="p6_w30">von</tei:w>
+        <tei:w xml:id="p6_w31">Dein</tei:w>
+        <tei:w xml:id="p6_w32">Mutter</tei:w>
+        <tei:w xml:id="p6_w33">Clothilde</tei:w>
+      </tei:p>
+    </tei:body>
+  </tei:text>
+</TEI>

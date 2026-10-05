@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.38.0:model_id=265149:date=28_01_2026_04:24</Creator>
+        <Created>2026-01-22T17:34:37.976+01:00</Created>
+        <LastChange>2026-01-31T18:10:36.192+01:00</LastChange>
+        <TranskribusMetadata docId="13828888" pageId="112596615" pageNr="3" tsid="274046713" status="DONE" userId="431294" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=PTRNLGVCVCFHSQOIMDPUAPGO" xmlUrl="https://files.transkribus.eu/Get?id=KRNQLFSAFAGJETKQBGHOMKSO" imageId="95172657"/>
+    </Metadata>
+    <Page imageFilename="0003_NS_Berlin-Berends_JB_1856-01-12_Scan_003.jpg" imageWidth="1921" imageHeight="2928">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049638359" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_6"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_6" custom="readingOrder {index:0;}">
+            <Coords points="146,118 1865,118 1865,538 146,538"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="939,169 1500,171 1500,106 1280,122 1249,96 1188,120 939,126"/>
+                <Baseline points="950,174 1505,164"/>
+                <TextEquiv>
+                    <Unicode>S.A.T. Jan.12 1856 B1.3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="328,267 1767,236 1760,181 330,216"/>
+                <Baseline points="338,261 1772,233"/>
+                <TextEquiv>
+                    <Unicode>Grüsse Zipfel und sage ihm, daß ich nächstens, wenn ich seine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;}">
+                <Coords points="208,312 1760,279 1785,234 208,269"/>
+                <Baseline points="219,303 1789,273"/>
+                <TextEquiv>
+                    <Unicode>Sachen erhalten, ihm schreiben würde. Grüsse Zabel, leider ist Paal-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:3;}">
+                <Coords points="208,352 357,350 403,393 746,379 797,338 1769,318 1744,275 210,312"/>
+                <Baseline points="219,351 1772,317"/>
+                <TextEquiv>
+                    <Unicode>zow nicht mehr unter den Freunden, aber der arme Waldeck, und alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:4;}">
+                <Coords points="210,408 850,414 895,379 1312,371 1335,328 210,350"/>
+                <Baseline points="221,401 1341,366"/>
+                <TextEquiv>
+                    <Unicode>die so freundlich sind sich meiner zu erinnern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:5;}">
+                <Coords points="1394,405 693,418 691,463 803,461 895,428 956,458 1121,424 1218,422 1267,450 1329,420 1394,426"/>
+                <Baseline points="1386,408 690,422"/>
+                <TextEquiv>
+                    <Unicode>Mit brüderlucher Freundschaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:6;}">
+                <Coords points="941,461 960,465 976,460 988,475 1000,471 1007,473 1023,465 1037,465 1039,416 1003,412 990,418 968,418 945,414"/>
+                <Baseline points="951,462 1044,452"/>
+                <TextEquiv>
+                    <Unicode>Dein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:7;}">
+                <Coords points="1045,509 1106,513 1133,493 1166,513 1194,495 1237,507 1259,491 1316,528 1373,511 1373,444 1359,440 1339,452 1286,432 1259,450 1219,430 1190,456 1045,434"/>
+                <Baseline points="1056,496 1378,496"/>
+                <TextEquiv>
+                    <Unicode>Julius Berends</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

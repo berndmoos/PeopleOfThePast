@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.47.0:model_id=265149:date=17_06_2026_16:55</Creator>
+        <Created>2026-06-16T07:28:54.085+02:00</Created>
+        <LastChange>2026-06-29T19:57:22.210+02:00</LastChange>
+        <TranskribusMetadata docId="16887227" pageId="122411700" pageNr="1" tsid="294331305" status="DONE" userId="542398" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=KVEPYGAWLUIPPLRLWOAXENFC" xmlUrl="https://files.transkribus.eu/Get?id=BQQPKLTRAYWCSMKRHZXOXQZB" imageId="104018622"/>
+    </Metadata>
+    <Page imageFilename="0001_0311.jpg" imageWidth="3462" imageHeight="4962">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049985664" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1791,205 1966,205 1966,313 1791,313"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1814,294 1936,294 1936,264 1814,264"/>
+                <Baseline points="1814,294 1936,294"/>
+                <TextEquiv>
+                    <Unicode>-1-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="611,472 611,4310 3334,4310 3334,472"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1705,624 1800,637 1892,566 1976,586 2044,546 2197,600 2790,546 2990,586 2990,464 2715,498 2546,485 2441,424 2268,492 2003,485 1864,407 1705,461"/>
+                <Baseline points="1725,536 1788,536 1851,536 1915,536 1978,536 2042,536 2105,536 2169,536 2232,536 2296,536 2359,536 2422,536 2486,541 2549,539 2613,536 2676,536 2740,536 2803,536 2867,536 2930,536 2994,536"/>
+                <TextEquiv>
+                    <Unicode>Camp Snyder's Bluff, Yazoo River</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1817,705 1892,719 1956,678 2237,709 2281,681 2370,722 2448,722 2448,610 2420,603 2305,603 2265,627 2193,600 2068,634 1929,563 1817,597"/>
+                <Baseline points="1834,669 1865,669 1896,669 1927,669 1958,669 1989,669 2020,669 2052,669 2083,669 2114,669 2145,669 2176,669 2207,669 2238,669 2270,669 2301,669 2332,669 2363,669 2394,669 2425,669 2457,669"/>
+                <TextEquiv>
+                    <Unicode>January 30.1863</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1020,980 1081,949 1119,976 1163,953 1383,1010 1620,949 1732,986 1732,858 1570,902 1481,858 1387,885 1332,834 1237,861 1200,827 1156,868 1020,881"/>
+                <Baseline points="1038,940 1073,940 1108,940 1143,940 1178,940 1214,940 1249,940 1284,940 1319,940 1354,940 1390,940 1425,940 1460,940 1495,940 1530,940 1566,940 1601,940 1636,940 1671,940 1706,940 1742,940"/>
+                <TextEquiv>
+                    <Unicode>Meine liebe Anna!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1420,1153 1729,1085 2522,1075 2736,1092 2793,1149 3007,1085 3275,1109 3234,963 2678,1034 2356,970 2173,1003 2112,953 1871,1007 1624,953 1424,990"/>
+                <Baseline points="1442,1073 1534,1073 1626,1072 1718,1067 1810,1069 1902,1073 1994,1073 2086,1073 2178,1073 2270,1073 2362,1073 2454,1073 2546,1073 2638,1073 2730,1068 2822,1067 2914,1067 3006,1067 3098,1068 3190,1073 3282,1073"/>
+                <TextEquiv>
+                    <Unicode>Nicht wenig wirst Du Dich wundern von hier aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="603,1251 1587,1214 1864,1288 2315,1220 2522,1285 2732,1200 3278,1298 3278,1102 603,1159"/>
+                <Baseline points="623,1200 762,1204 902,1205 1042,1205 1182,1205 1322,1205 1462,1205 1602,1205 1742,1193 1882,1205 2022,1205 2162,1205 2302,1205 2442,1205 2582,1205 2722,1200 2862,1200 3002,1205 3142,1205 3282,1200"/>
+                <TextEquiv>
+                    <Unicode>ven von mir zu hören. Am 24ten. dM. bekommen wir Order von Gen. Lo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="603,1346 1526,1414 3268,1342 2997,1220 2749,1305 1610,1220 953,1309 603,1251"/>
+                <Baseline points="623,1338 755,1338 888,1338 1021,1338 1153,1338 1286,1342 1419,1338 1551,1338 1684,1336 1817,1337 1950,1338 2082,1338 2215,1338 2348,1338 2480,1338 2613,1338 2746,1335 2878,1332 3011,1332 3144,1338 3277,1344"/>
+                <TextEquiv>
+                    <Unicode>ring uns jeden Augenblick fertig zu halten unsere alte Camp in Gre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;} textStyle {offset:56; length:1;superscript:true;}">
+                <Coords points="610,1546 1251,1478 3292,1532 3241,1407 2790,1359 610,1417"/>
+                <Baseline points="628,1477 761,1471 895,1471 1028,1471 1162,1471 1296,1471 1429,1471 1563,1471 1696,1471 1830,1471 1964,1471 2097,1471 2231,1471 2364,1471 2498,1471 2632,1471 2765,1471 2899,1471 3032,1471 3166,1471 3300,1471"/>
+                <TextEquiv>
+                    <Unicode>nada zu verlassen um per Eisenbahn weiter zu machen. Genl. Van Dorn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="603,1634 2261,1678 3302,1614 3302,1542 1458,1495 603,1570"/>
+                <Baseline points="623,1603 757,1603 891,1603 1026,1603 1160,1603 1295,1603 1429,1605 1563,1604 1698,1603 1832,1603 1967,1603 2101,1603 2235,1603 2370,1603 2504,1603 2639,1603 2773,1603 2907,1603 3042,1603 3176,1603 3311,1603"/>
+                <TextEquiv>
+                    <Unicode>war Tags zuvor bereits mit sämmtlicher Cavalry von Grenade aufgebro-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="603,1749 898,1820 1146,1749 1926,1759 2149,1834 2454,1753 3261,1759 3261,1671 2712,1702 2620,1620 1329,1715 603,1627"/>
+                <Baseline points="623,1736 755,1736 887,1736 1020,1736 1152,1736 1285,1736 1417,1736 1549,1737 1682,1738 1814,1736 1947,1736 2079,1736 2211,1736 2344,1736 2476,1736 2609,1736 2741,1741 2873,1734 3006,1736 3138,1730 3271,1730"/>
+                <TextEquiv>
+                    <Unicode>chen und nördlich gemacht, wahrscheinlich um Gen.1 Brigg zu verstär-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;} textStyle {offset:20; length:3;underlined:true; superscript:true;}">
+                <Coords points="603,1922 3261,1909 3261,1787 603,1831"/>
+                <Baseline points="623,1869 755,1869 887,1869 1020,1869 1152,1869 1285,1869 1417,1866 1549,1867 1682,1873 1814,1874 1947,1871 2079,1870 2211,1869 2344,1869 2476,1869 2609,1869 2741,1869 2873,1869 3006,1869 3138,1869 3271,1875"/>
+                <TextEquiv>
+                    <Unicode>ken. Wir kamen am 25ten Morgens 9 Uhr auf in Grenade auf die Eisen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="603,2051 3200,2027 3109,1926 2793,1973 2465,1898 1736,1966 603,1922"/>
+                <Baseline points="623,2002 752,2002 881,2002 1010,2002 1139,2002 1269,2002 1398,2002 1527,2004 1656,2002 1785,2007 1915,2007 2044,2002 2173,2002 2302,2002 2431,2002 2560,2002 2690,2002 2819,2002 2948,2002 3077,2002 3207,2002"/>
+                <TextEquiv>
+                    <Unicode>bahn und fuhren südlich nach Vaughn's Station ohngefähr 15 Meilen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="614,2149 3271,2183 3275,2061 2488,2088 2322,2020 1776,2112 1505,2044 1258,2098 1166,2024 617,2095"/>
+                <Baseline points="634,2134 766,2134 898,2134 1031,2138 1163,2140 1296,2140 1428,2134 1560,2138 1693,2140 1825,2140 1958,2136 2090,2135 2222,2134 2355,2139 2487,2138 2620,2134 2752,2134 2884,2134 3017,2137 3149,2134 3282,2134"/>
+                <TextEquiv>
+                    <Unicode>vor Canton. Gegen Abend kamen wir dort an und machten für die Nacht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="603,2315 3278,2298 3278,2217 2983,2190 603,2210"/>
+                <Baseline points="623,2267 762,2267 902,2267 1042,2267 1182,2267 1322,2267 1462,2267 1602,2269 1742,2273 1882,2273 2022,2273 2162,2268 2302,2271 2442,2267 2582,2269 2722,2267 2862,2267 3002,2267 3142,2267 3282,2267"/>
+                <TextEquiv>
+                    <Unicode>unsere Camp. Am nächsten Morgen ging der Marsch per Fuß weiter nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="610,2441 953,2414 1142,2495 1458,2407 2288,2468 2882,2414 3122,2475 3122,2309 3054,2292 2814,2370 2637,2312 610,2319"/>
+                <Baseline points="628,2405 753,2400 878,2400 1003,2403 1128,2404 1254,2400 1379,2400 1504,2400 1629,2403 1754,2405 1880,2405 2005,2400 2130,2405 2255,2405 2380,2405 2506,2405 2631,2405 2756,2405 2881,2405 3006,2403 3132,2400"/>
+                <TextEquiv>
+                    <Unicode>Yazoo City zu. Wir hatten fürchterliches Regenwetter, mußten im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="600,2590 2685,2542 3065,2624 3278,2559 3278,2461 600,2437"/>
+                <Baseline points="617,2532 750,2532 884,2532 1017,2532 1151,2532 1284,2532 1418,2532 1551,2532 1685,2532 1818,2532 1952,2532 2086,2538 2219,2535 2353,2532 2486,2534 2620,2532 2753,2536 2887,2532 3020,2532 3154,2534 3288,2544"/>
+                <TextEquiv>
+                    <Unicode>Dreck Knie tief durchpatschen und konnten den ganzen Tag nicht mehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="610,2709 3319,2692 3319,2610 3132,2590 610,2597"/>
+                <Baseline points="628,2665 762,2665 897,2670 1032,2665 1167,2671 1301,2671 1436,2669 1571,2670 1706,2671 1840,2671 1975,2671 2110,2671 2245,2671 2379,2671 2514,2671 2649,2671 2784,2671 2918,2668 3053,2671 3188,2671 3323,2671"/>
+                <TextEquiv>
+                    <Unicode>als 12 Meilen machen, wir kampirten diese Nacht nicht weit von einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="603,2861 3227,2851 3227,2746 2939,2719 603,2732"/>
+                <Baseline points="623,2798 753,2798 884,2798 1014,2798 1145,2798 1276,2801 1406,2804 1537,2804 1668,2804 1798,2804 1929,2804 2060,2804 2190,2803 2321,2802 2452,2804 2582,2800 2713,2799 2844,2804 2974,2799 3105,2804 3236,2804"/>
+                <TextEquiv>
+                    <Unicode>kleinen Städtchen Benton. Wir waren sehr müde, dazu fürchterlicher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="603,2976 3312,2973 3312,2868 3156,2848 603,2865"/>
+                <Baseline points="623,2931 757,2936 892,2936 1027,2936 1161,2936 1296,2936 1431,2938 1565,2937 1700,2936 1835,2936 1970,2936 2104,2936 2239,2936 2374,2936 2508,2936 2643,2936 2778,2936 2912,2936 3047,2936 3182,2939 3317,2936"/>
+                <TextEquiv>
+                    <Unicode>Regen und kalt. Um mir die Zeit zu vertreiben, kochte ich noch gegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="600,3132 3309,3132 3309,3010 2848,2976 600,3007"/>
+                <Baseline points="617,3069 752,3066 887,3069 1022,3073 1157,3074 1292,3069 1427,3071 1562,3075 1697,3072 1832,3075 1967,3073 2102,3074 2237,3069 2372,3073 2507,3069 2642,3069 2777,3069 2912,3069 3047,3069 3182,3069 3317,3075"/>
+                <TextEquiv>
+                    <Unicode>10 Uhr Nachts Zucker und machte Candy, dann holte ich dürre Äste und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="593,3227 2356,3265 2465,3207 3170,3275 3170,3119 593,3126"/>
+                <Baseline points="611,3202 739,3202 867,3202 996,3204 1124,3207 1253,3207 1381,3207 1509,3204 1638,3207 1766,3207 1895,3207 2023,3205 2151,3202 2280,3202 2408,3202 2537,3206 2665,3202 2793,3202 2922,3202 3050,3203 3179,3213"/>
+                <TextEquiv>
+                    <Unicode>Sträucher und Blätter zusamen, machte ein zwei Fuß hohes Bett um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="593,3349 827,3410 3227,3356 3200,3244 593,3302"/>
+                <Baseline points="611,3334 742,3337 873,3340 1004,3340 1136,3340 1267,3340 1398,3340 1529,3340 1661,3340 1792,3340 1923,3340 2054,3340 2186,3340 2317,3340 2448,3340 2579,3340 2711,3340 2842,3340 2973,3340 3104,3340 3236,3334"/>
+                <TextEquiv>
+                    <Unicode>nicht auf der Erde zu liegen, und ich &amp; Louis Kohse legten uns zu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="603,3492 1017,3560 1183,3485 1671,3536 2339,3475 2949,3556 3112,3495 3112,3370 2265,3441 603,3414"/>
+                <Baseline points="623,3467 747,3470 872,3473 997,3473 1122,3473 1247,3473 1372,3477 1497,3473 1622,3473 1747,3473 1872,3473 1996,3473 2121,3473 2246,3473 2371,3473 2496,3473 2621,3478 2746,3476 2871,3473 2996,3473 3121,3479"/>
+                <TextEquiv>
+                    <Unicode>samen, die Mäntel an, Füsse nach dem Feuer, zur Unterlage einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;} textStyle {offset:48; length:1;italic:true;} textStyle {offset:51; length:2;italic:true;}">
+                <Coords points="603,3651 942,3705 1166,3617 1902,3627 2058,3695 2149,3621 2637,3688 3170,3624 3170,3532 603,3526"/>
+                <Baseline points="623,3600 750,3606 878,3606 1006,3606 1134,3606 1262,3606 1389,3606 1517,3606 1645,3606 1773,3606 1901,3606 2028,3606 2156,3606 2284,3611 2412,3611 2540,3611 2667,3611 2795,3607 2923,3608 3051,3606 3179,3606"/>
+                <TextEquiv>
+                    <Unicode>Blanket und zur Decke einen großen Mexicoischen [ ? ], zogen den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="603,3773 3329,3753 3329,3658 3231,3644 2454,3715 2315,3624 2098,3698 603,3651"/>
+                <Baseline points="623,3738 758,3733 894,3738 1029,3742 1165,3738 1300,3738 1436,3738 1571,3738 1707,3741 1842,3738 1978,3738 2114,3739 2249,3739 2385,3738 2520,3744 2656,3744 2791,3738 2927,3740 3062,3738 3198,3738 3334,3738"/>
+                <TextEquiv>
+                    <Unicode>über den Kopf zusammen und ließen es regnen so viel es wollte und wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="603,3892 3312,3895 3312,3824 3129,3776 2593,3844 1325,3760 603,3807"/>
+                <Baseline points="623,3871 757,3871 892,3871 1027,3871 1161,3871 1296,3871 1431,3871 1565,3871 1700,3874 1835,3871 1970,3871 2104,3872 2239,3873 2374,3871 2508,3871 2643,3875 2778,3871 2912,3874 3047,3871 3182,3871 3317,3871"/>
+                <TextEquiv>
+                    <Unicode>schliefen bis nächsten Morgen 6 Uhr, kochten dann einen guten Kaffee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="610,4058 2804,4068 3166,4014 3166,3939 610,3949"/>
+                <Baseline points="628,4009 755,4004 882,4004 1009,4004 1137,4004 1264,4004 1391,4008 1518,4009 1646,4009 1773,4009 1900,4006 2027,4009 2155,4009 2282,4009 2409,4009 2536,4009 2664,4004 2791,4004 2918,4007 3045,4004 3173,4009"/>
+                <TextEquiv>
+                    <Unicode>und nachdem wir ein düchtiges Stück Speck zu uns genommen hatten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="593,4214 1820,4149 2366,4153 2475,4227 3302,4156 3302,4058 593,4068"/>
+                <Baseline points="611,4148 745,4142 880,4136 1015,4136 1150,4136 1284,4136 1419,4142 1554,4142 1689,4142 1823,4142 1958,4142 2093,4142 2228,4142 2362,4137 2497,4138 2632,4136 2767,4136 2901,4136 3036,4136 3171,4136 3306,4131"/>
+                <TextEquiv>
+                    <Unicode>ging der Marsch weiter. Von da an hatten wir besseres Wetter und ei-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;} textStyle {offset:13; length:1;italic:true;} textStyle {offset:18; length:1;italic:true;}">
+                <Coords points="593,4299 2637,4299 2898,4376 3309,4305 3309,4146 2475,4231 1820,4234 1539,4149 593,4214"/>
+                <Baseline points="611,4275 746,4275 881,4275 1016,4275 1152,4275 1287,4275 1422,4279 1558,4275 1693,4275 1828,4275 1964,4275 2099,4275 2234,4275 2369,4275 2505,4275 2640,4275 2775,4269 2911,4275 3046,4275 3181,4275 3317,4275"/>
+                <TextEquiv>
+                    <Unicode>ne sehr gute [  ? ] road bis nach Yazoo City. Louis hatte gute Gele-</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

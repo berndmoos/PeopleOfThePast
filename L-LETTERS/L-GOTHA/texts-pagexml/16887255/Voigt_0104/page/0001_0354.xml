@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.47.0:model_id=265149:date=17_06_2026_17:02</Creator>
+        <Created>2026-06-16T07:29:12.890+02:00</Created>
+        <LastChange>2026-07-01T21:37:20.700+02:00</LastChange>
+        <TranskribusMetadata docId="16887255" pageId="122411566" pageNr="1" tsid="294632804" status="DONE" userId="542398" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=NTNUGUUFWCGEMZJILCRNOHKW" xmlUrl="https://files.transkribus.eu/Get?id=ERXYWECGVWWGLVBVODPGSRQP" imageId="104018793"/>
+    </Metadata>
+    <Page imageFilename="0001_0354.jpg" imageWidth="3460" imageHeight="4961">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049993500" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1793,192 1889,192 1889,323 1793,323"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1803,294 1872,294 1872,264 1803,264"/>
+                <Baseline points="1803,294 1872,294"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="588,472 588,4312 3276,4312 3276,472"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} textStyle {offset:35; length:1;superscript:true;}">
+                <Coords points="1502,588 2094,548 2212,625 2622,605 2716,551 2840,598 3153,551 3153,467 2440,497 2286,457 2124,497 1825,420 1751,484 1502,487"/>
+                <Baseline points="1522,536 1608,536 1694,536 1780,536 1867,536 1953,536 2039,536 2125,536 2212,536 2298,536 2384,536 2470,536 2557,536 2643,536 2729,536 2815,536 2902,536 2988,536 3074,536 3161,536"/>
+                <TextEquiv>
+                    <Unicode>Johnson's Island, Ohio, January 12.t 1864</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1072,864 1150,850 1200,877 1274,820 1344,813 1439,820 1482,857 1640,830 1708,854 1708,746 1455,746 1425,716 1314,706 1213,763 1072,733"/>
+                <Baseline points="1090,807 1121,805 1152,803 1183,801 1214,801 1245,801 1276,801 1308,801 1339,801 1370,801 1401,801 1432,801 1463,801 1494,801 1526,801 1557,801 1588,801 1619,802 1650,804 1681,806 1713,807"/>
+                <TextEquiv>
+                    <Unicode>Geliebte Anna!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} textStyle {offset:43; length:5;underlined:true;}">
+                <Coords points="1308,961 1876,951 2185,1018 2501,945 2928,1012 3035,955 3257,981 3257,850 3193,834 2810,901 2625,891 2531,817 2121,897 1308,834"/>
+                <Baseline points="1326,934 1428,934 1530,936 1632,940 1734,940 1836,940 1938,940 2040,940 2142,940 2244,940 2346,940 2448,940 2550,940 2652,940 2754,940 2856,940 2958,940 3060,940 3162,941 3265,951"/>
+                <TextEquiv>
+                    <Unicode>Vor einigen Tagen schrieb ich Dir einige Zeilen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;} textStyle {offset:57; length:4;underlined:true;}">
+                <Coords points="581,1119 2696,1166 3267,1096 3267,985 3173,955 2689,1032 1660,971 1576,1042 581,978"/>
+                <Baseline points="599,1072 732,1072 866,1072 1000,1072 1134,1072 1268,1072 1402,1072 1535,1072 1669,1072 1803,1072 1937,1072 2071,1072 2205,1072 2339,1072 2472,1072 2606,1072 2740,1072 2874,1072 3008,1077 3142,1072 3276,1078"/>
+                <TextEquiv>
+                    <Unicode>und sandte den Brief an den Provost Marshall in New Orleans, | mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="605,1271 1630,1217 1785,1297 2669,1213 3260,1294 3240,1106 2995,1170 2282,1109 1371,1166 1193,1099 605,1153"/>
+                <Baseline points="623,1205 755,1205 887,1205 1020,1205 1152,1205 1284,1205 1417,1205 1549,1205 1681,1205 1814,1205 1946,1205 2078,1205 2211,1205 2343,1205 2475,1205 2608,1205 2740,1205 2872,1205 3005,1205 3137,1205 3270,1217"/>
+                <TextEquiv>
+                    <Unicode>dem Ersuchen, entweder über Galveston oder einen anderen Platz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="592,1368 3260,1361 2981,1240 2205,1301 1371,1213 588,1304"/>
+                <Baseline points="611,1332 750,1338 890,1332 1030,1337 1170,1341 1310,1338 1450,1338 1590,1338 1730,1338 1870,1338 2010,1338 2150,1338 2290,1338 2430,1338 2570,1338 2710,1338 2850,1338 2990,1338 3130,1338 3270,1344"/>
+                <TextEquiv>
+                    <Unicode>welcher Gelegenheit darbot, durch Flag of truce denselben Dir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="592,1509 1902,1476 1993,1539 2175,1472 2837,1550 3267,1482 3186,1378 1919,1445 592,1388"/>
+                <Baseline points="611,1465 744,1470 877,1470 1010,1470 1144,1470 1277,1470 1410,1470 1543,1470 1677,1470 1810,1470 1943,1470 2076,1470 2210,1470 2343,1470 2476,1470 2609,1470 2743,1470 2876,1470 3009,1470 3142,1470 3276,1476"/>
+                <TextEquiv>
+                    <Unicode>zugelangen zu lassen. Ob jedoch meine Briefe auf diese Weise an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="592,1607 1536,1691 2249,1613 2602,1697 2827,1603 3244,1613 3244,1529 592,1543"/>
+                <Baseline points="611,1603 742,1603 874,1603 1006,1606 1138,1608 1270,1603 1401,1603 1533,1603 1665,1603 1797,1603 1929,1603 2060,1603 2192,1603 2324,1603 2456,1603 2588,1603 2719,1603 2851,1603 2983,1603 3115,1603 3247,1603"/>
+                <TextEquiv>
+                    <Unicode>Dich gelangen, ist sehr unbestimmt, dennoch werde ich nicht ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="592,1792 2800,1792 3260,1771 3260,1687 1993,1708 1113,1623 592,1691"/>
+                <Baseline points="611,1730 743,1736 876,1730 1009,1736 1141,1736 1274,1736 1407,1736 1539,1736 1672,1736 1805,1736 1938,1736 2070,1736 2203,1736 2336,1736 2468,1736 2601,1736 2734,1736 2866,1736 2999,1736 3132,1736 3265,1736"/>
+                <TextEquiv>
+                    <Unicode>fehlen wiederholt denselben Weg zu versuchen, Dir von mir hören zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="598,1906 3257,1913 3257,1802 3119,1751 2736,1818 2497,1751 2343,1825 2118,1758 1758,1832 598,1802"/>
+                <Baseline points="617,1869 749,1866 881,1869 1014,1869 1146,1869 1279,1869 1411,1869 1543,1869 1676,1869 1808,1869 1941,1869 2073,1869 2205,1869 2338,1869 2470,1869 2603,1869 2735,1869 2867,1869 3000,1869 3132,1869 3265,1874"/>
+                <TextEquiv>
+                    <Unicode>lassen. Diese meine Briefe per Flag of truce muß ich natürlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="592,2044 3260,2027 3260,1916 592,1936"/>
+                <Baseline points="611,2001 743,2001 876,2001 1009,2001 1141,2001 1274,2001 1407,2001 1539,2001 1672,2001 1805,2001 1938,2001 2070,2001 2203,2001 2336,2001 2468,2001 2601,2001 2734,2001 2866,2001 2999,2001 3132,2001 3265,2007"/>
+                <TextEquiv>
+                    <Unicode>englisch schreiben, da dieselben erstens vom Commandirenden dieses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="598,2168 2716,2198 3257,2151 3257,2064 598,2077"/>
+                <Baseline points="617,2140 749,2134 881,2140 1014,2140 1146,2140 1279,2140 1411,2140 1543,2140 1676,2140 1808,2140 1941,2140 2073,2140 2205,2140 2338,2140 2470,2140 2603,2138 2735,2134 2867,2134 3000,2140 3132,2134 3265,2134"/>
+                <TextEquiv>
+                    <Unicode>Gefängnisses beim Absenden gelesen und jedesfalls wiederum, wenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="592,2353 1190,2282 3176,2329 3267,2212 592,2215"/>
+                <Baseline points="611,2272 744,2267 877,2267 1010,2272 1144,2271 1277,2270 1410,2272 1543,2272 1677,2272 1810,2272 1943,2272 2076,2272 2210,2267 2343,2267 2476,2272 2609,2272 2743,2269 2876,2267 3009,2267 3142,2268 3276,2278"/>
+                <TextEquiv>
+                    <Unicode>dieselben die Flag of truce passiren, von Vereinigten Staaten und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;} textStyle {offset:54; length:4;underlined:true;}">
+                <Coords points="592,2420 1439,2477 1738,2410 3260,2417 2877,2296 2504,2380 2286,2306 592,2356"/>
+                <Baseline points="611,2399 750,2401 890,2405 1030,2405 1170,2405 1310,2405 1450,2405 1590,2405 1730,2405 1870,2405 2010,2405 2150,2405 2290,2405 2430,2405 2570,2405 2710,2405 2850,2405 2990,2405 3130,2405 3270,2399"/>
+                <TextEquiv>
+                    <Unicode>Confederation's Authoritäten examinirt werden; auch dürfen solche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;} textStyle {offset:50; length:3;underlined:true;}">
+                <Coords points="598,2541 1993,2608 2420,2551 2702,2622 3250,2551 2921,2430 2175,2504 1660,2417 1492,2487 598,2467"/>
+                <Baseline points="617,2538 749,2532 881,2538 1013,2538 1145,2538 1277,2541 1409,2538 1541,2538 1673,2538 1805,2538 1938,2538 2070,2538 2202,2540 2334,2543 2466,2538 2598,2538 2730,2538 2862,2538 2994,2535 3126,2538 3259,2538"/>
+                <TextEquiv>
+                    <Unicode>Briefe nicht länger als eine Seite Briefpapier sein.-|Heute ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="592,2692 3267,2733 3217,2541 3082,2635 592,2575"/>
+                <Baseline points="611,2670 744,2670 877,2670 1010,2670 1144,2670 1277,2670 1410,2670 1543,2670 1677,2670 1810,2670 1943,2670 2076,2670 2210,2670 2343,2670 2476,2670 2609,2670 2743,2670 2876,2670 3009,2670 3142,2670 3276,2670"/>
+                <TextEquiv>
+                    <Unicode>suche ich auf ebenfalls unsichere Weise, einen längeren Brief</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="581,2807 1418,2887 1623,2817 3260,2807 3260,2733 2034,2702 1543,2770 1267,2709 1022,2770 581,2686"/>
+                <Baseline points="599,2803 732,2803 866,2803 999,2803 1133,2803 1266,2803 1400,2803 1533,2803 1667,2805 1800,2804 1934,2806 2068,2803 2201,2803 2335,2803 2468,2807 2602,2803 2735,2803 2869,2803 3002,2803 3136,2805 3270,2809"/>
+                <TextEquiv>
+                    <Unicode>zukommen zu lassen &amp; zwar durch die Freundlichkeit des Corporal of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="568,3005 1123,2944 1711,3025 2245,2951 3270,2985 3270,2864 2894,2837 2625,2904 2151,2823 568,2860"/>
+                <Baseline points="588,2941 722,2936 856,2936 991,2936 1125,2936 1260,2936 1394,2936 1528,2936 1663,2941 1797,2941 1932,2941 2066,2941 2200,2941 2335,2936 2469,2936 2604,2936 2738,2936 2872,2936 3007,2936 3141,2941 3276,2947"/>
+                <TextEquiv>
+                    <Unicode>the Post für dieses Gefängniß, welcher ein Deutscher ist à nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="598,3139 1254,3069 1842,3163 2037,3082 3257,3109 3173,3002 2713,3035 2474,2961 598,3012"/>
+                <Baseline points="617,3068 749,3071 881,3074 1014,3074 1146,3068 1279,3072 1411,3074 1543,3074 1676,3074 1808,3074 1941,3074 2073,3074 2205,3074 2338,3074 2470,3074 2603,3074 2735,3074 2867,3074 3000,3074 3132,3074 3265,3074"/>
+                <TextEquiv>
+                    <Unicode>vorhergegangener Ueberlesung meinen Brief absenden wird. Es ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;} textStyle {offset:4; length:7;underlined:true;} textStyle {offset:12; length:11;underlined:true;}">
+                <Coords points="581,3257 3257,3237 3210,3156 2746,3086 2144,3173 1344,3086 581,3129"/>
+                <Baseline points="599,3201 732,3207 865,3207 998,3207 1132,3207 1265,3207 1398,3207 1532,3207 1665,3207 1798,3207 1932,3207 2065,3207 2198,3207 2331,3207 2465,3207 2598,3208 2731,3213 2865,3213 2998,3209 3131,3207 3265,3207"/>
+                <TextEquiv>
+                    <Unicode>die einzige Gelegenheit welche sich darbietet Dir lange Briefe zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;} textStyle {offset:0; length:5;underlined:true;}">
+                <Coords points="581,3368 692,3348 753,3378 881,3341 961,3381 1008,3351 1119,3388 1220,3361 1334,3381 1334,3270 1190,3284 1086,3264 1039,3291 877,3247 793,3294 713,3267 645,3301 581,3287"/>
+                <Baseline points="599,3345 636,3341 673,3340 710,3340 748,3340 785,3340 822,3340 859,3340 897,3340 934,3340 971,3340 1008,3340 1046,3340 1083,3340 1120,3340 1157,3340 1195,3340 1232,3340 1269,3340 1306,3340 1344,3340"/>
+                <TextEquiv>
+                    <Unicode>kommen zu lassen.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="719,3499 3254,3502 3227,3381 2934,3445 2198,3355 2050,3432 1553,3355 1230,3432 719,3402"/>
+                <Baseline points="738,3472 864,3472 990,3472 1116,3472 1242,3472 1368,3478 1494,3478 1620,3478 1746,3478 1872,3478 1998,3478 2124,3478 2250,3478 2376,3478 2502,3478 2628,3478 2754,3478 2880,3478 3006,3477 3132,3476 3259,3478"/>
+                <TextEquiv>
+                    <Unicode>Da es sehr unbestimmt ist daß meine früheren Briefe an Dich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="592,3630 3260,3654 3260,3536 3166,3513 981,3576 719,3496 592,3556"/>
+                <Baseline points="611,3616 743,3611 876,3605 1009,3611 1141,3611 1274,3607 1407,3611 1539,3611 1672,3611 1805,3611 1938,3611 2070,3611 2203,3611 2336,3611 2468,3611 2601,3611 2734,3611 2866,3611 2999,3611 3132,3606 3265,3616"/>
+                <TextEquiv>
+                    <Unicode>gelangten, so werde ich in kurzen Worten Alles wiederholen.- Im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="598,3802 3250,3761 3250,3670 2605,3711 2181,3613 1889,3714 1617,3634 1250,3707 598,3664"/>
+                <Baseline points="617,3743 749,3738 881,3738 1013,3741 1145,3743 1277,3743 1409,3743 1541,3743 1673,3743 1805,3743 1938,3743 2070,3743 2202,3740 2334,3743 2466,3743 2598,3743 2730,3743 2862,3743 2994,3743 3126,3743 3259,3743"/>
+                <TextEquiv>
+                    <Unicode>Monat Juni v. J. empfing ich den letzten Brief von Dir, datirt den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="581,3886 3234,3943 3200,3768 2440,3778 2272,3852 1896,3778 1607,3839 581,3791"/>
+                <Baseline points="599,3876 731,3870 863,3870 995,3876 1127,3879 1259,3876 1391,3876 1523,3876 1655,3876 1787,3876 1920,3872 2052,3876 2184,3876 2316,3876 2448,3876 2580,3878 2712,3877 2844,3876 2976,3876 3108,3876 3241,3870"/>
+                <TextEquiv>
+                    <Unicode>23 März, seit jener Zeit habe ich Nichts mehr von Dir hören kön-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="585,4037 3244,4023 3244,3946 3002,3919 763,3963 585,3889"/>
+                <Baseline points="605,4009 737,4009 869,4009 1002,4009 1134,4009 1267,4009 1399,4009 1531,4009 1664,4009 1796,4009 1929,4009 2061,4009 2193,4011 2326,4010 2458,4011 2591,4009 2723,4009 2855,4009 2988,4009 3120,4009 3253,4009"/>
+                <TextEquiv>
+                    <Unicode>nen. Ich war in jener Zeit in Yazoo City, Mihs., mit meiner Compa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="592,4191 1627,4151 1872,4228 2101,4161 2467,4232 2639,4151 3244,4181 3244,4064 592,4070"/>
+                <Baseline points="611,4141 743,4141 875,4141 1007,4141 1139,4141 1271,4141 1403,4141 1535,4141 1667,4141 1799,4145 1932,4141 2064,4141 2196,4147 2328,4147 2460,4147 2592,4147 2724,4144 2856,4141 2988,4147 3120,4147 3253,4153"/>
+                <TextEquiv>
+                    <Unicode>nie stationirt als schwere Artillerie getrennt von der Legion,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="585,4309 1637,4376 1728,4309 2497,4289 3227,4370 3227,4178 585,4222"/>
+                <Baseline points="605,4280 736,4274 868,4274 999,4274 1131,4274 1262,4274 1394,4274 1525,4274 1657,4279 1788,4280 1920,4280 2052,4278 2183,4279 2315,4280 2446,4280 2578,4280 2709,4280 2841,4280 2972,4280 3104,4280 3236,4274"/>
+                <TextEquiv>
+                    <Unicode>welche schon von Fort Pemberton nach Vicksburg im Monat Mai geor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

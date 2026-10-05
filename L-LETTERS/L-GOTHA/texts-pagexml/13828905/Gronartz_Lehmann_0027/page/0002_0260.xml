@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.38.0:model_id=265149:date=03_02_2026_21:34</Creator>
+        <Created>2026-01-22T17:35:22.728+01:00</Created>
+        <LastChange>2026-03-23T04:34:22.374+01:00</LastChange>
+        <TranskribusMetadata docId="13828905" pageId="112596917" pageNr="2" tsid="281420277" status="DONE" userId="431294" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=AFHTXABZTGURSLAUADAUUEWT" xmlUrl="https://files.transkribus.eu/Get?id=GUYQNNIRTEMIUYUNWRNVSNJD" imageId="95172868"/>
+    </Metadata>
+    <Page imageFilename="0002_0260.jpg" imageWidth="3455" imageHeight="4968">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049642910" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="495,256 495,778 3304,778 3304,256"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2658,331 2686,327 2721,345 2756,338 2759,331 2773,338 2811,334 2808,178 2780,181 2766,195 2749,185 2731,202 2693,188 2672,202 2655,202"/>
+                <Baseline points="2676,305 2704,307 2733,308 2762,310 2791,310 2820,310"/>
+                <TextEquiv>
+                    <Unicode>Boe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="505,505 3296,470 3296,366 505,390"/>
+                <Baseline points="523,443 662,449 801,449 940,449 1079,449 1218,449 1357,449 1496,447 1635,448 1774,443 1913,449 2052,449 2191,445 2330,443 2469,443 2608,443 2747,443 2886,443 3025,443 3164,449 3304,449"/>
+                <TextEquiv>
+                    <Unicode>Schicke mir nur/ keine Sachen durch Müller (Lebensmittel) ich hoffe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="491,575 2606,603 3111,578 3111,477 491,509"/>
+                <Baseline points="512,541 642,546 772,546 903,546 1033,546 1164,546 1294,546 1424,546 1555,546 1685,544 1816,545 1946,544 2076,546 2207,543 2337,541 2468,544 2598,545 2728,544 2859,545 2989,541 3120,541"/>
+                <TextEquiv>
+                    <Unicode>selbst zu kommen./ Müller muß über Columbus von da die road nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="488,676 3282,672 3222,564 488,571"/>
+                <Baseline points="506,644 645,650 784,644 923,644 1063,649 1202,649 1341,646 1481,650 1620,650 1759,645 1899,650 2038,650 2177,650 2316,648 2456,646 2595,644 2734,650 2874,645 3013,650 3152,650 3292,638"/>
+                <TextEquiv>
+                    <Unicode>Texana/ bis auf 12 M diesseits einschlagen und nach Duffo Camp/ fra-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="477,780 798,752 843,784 934,749 1076,791 1282,763 1512,805 1512,714 1425,683 1237,721 888,665 759,714 697,679 477,683"/>
+                <Baseline points="495,754 546,754 597,752 648,749 699,748 751,748 802,748 853,748 904,748 955,748 1007,748 1058,748 1109,748 1160,748 1211,748 1263,748 1314,752 1365,754 1416,754 1467,752 1519,748"/>
+                <TextEquiv>
+                    <Unicode>gen an der Lavaca.- L L.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

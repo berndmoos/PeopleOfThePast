@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title xml:lang="de">Clothilde Crede an Margarete Classen, 6. Mai 1847</tei:title>
+        <tei:title xml:lang="en">Clothilde Crede to Margarete Classen, May 6, 1847</tei:title>
+        <tei:author>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753062">Hermann Carl Crede</tei:persName>
+        </tei:author>
+        <tei:respStmt>
+          <tei:persName>
+            <tei:surname>Pertilla</tei:surname>
+            <tei:forename>Atiba</tei:forename>
+          </tei:persName>
+          <tei:persName ref="https://d-nb.info/gnd/130107921">
+            <tei:surname>Schmidt</tei:surname>
+            <tei:forename>Thomas</tei:forename>
+          </tei:persName>
+          <tei:orgName ref="https://www.ghi-dc.org/">German Historical Institute
+                        Washington (GHI)</tei:orgName>
+          <tei:resp>Digitisation and OCRing of original letter, TEI conversion</tei:resp>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <p/>
+      </tei:publicationStmt>
+      <tei:sourceDesc>
+        <tei:listPerson>
+          <tei:person>
+            <tei:persName ref="https://database.factgrid.de/entity/Q1753062">Hermann Carl Crede</tei:persName>
+            <tei:birth when="1836"/>
+          </tei:person>
+        </tei:listPerson>
+      </tei:sourceDesc>
+    </tei:fileDesc>
+    <tei:profileDesc>
+      <tei:correspDesc>
+        <tei:correspAction type="sent">
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753064">Clothilde Schröder (Crede)</tei:persName>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753062">Hermann Carl Crede</tei:persName>
+          <tei:placeName xml:lang="de" ref="http://www.geonames.org/2892518">Kassel, Hessen</tei:placeName>
+          <tei:placeName xml:lang="en" ref="http://www.geonames.org/2892518">Kassel, Hesse</tei:placeName>
+          <tei:date when="1847-05-06"/>
+        </tei:correspAction>
+        <tei:correspAction type="received">
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753094">Margarete Versen (Schröder Classen)</tei:persName>
+        </tei:correspAction>
+      </tei:correspDesc>
+    </tei:profileDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p xml:id="p9">
+        <tei:note>[page 2, 2nd author (group):]</tei:note>
+      </tei:p>
+      <tei:p xml:id="p10">
+        <tei:w xml:id="p10_w1">Es</tei:w>
+        <tei:w xml:id="p10_w2">grüßt</tei:w>
+        <tei:w xml:id="p10_w3">Dich</tei:w>
+        <tei:w xml:id="p10_w4">freundlich</tei:w>
+        <tei:w xml:id="p10_w5">Dein</tei:w>
+        <tei:w xml:id="p10_w6">Enkel</tei:w>
+        <tei:w xml:id="p10_w7">H.</tei:w>
+        <tei:w xml:id="p10_w8">C.</tei:w>
+        <tei:w xml:id="p10_w9">Credé</tei:w>
+        <tei:pc xml:id="p10_pc1">.</tei:pc>
+      </tei:p>
+      <tei:p xml:id="p11">
+        <tei:w xml:id="p11_w1">Es</tei:w>
+        <tei:w xml:id="p11_w2">wünscht</tei:w>
+        <tei:w xml:id="p11_w3">Dich</tei:w>
+        <tei:w xml:id="p11_w4">zu</tei:w>
+        <tei:w xml:id="p11_w5">kennen</tei:w>
+        <tei:w xml:id="p11_w6">Dein</tei:w>
+        <tei:w xml:id="p11_w7">Enkel</tei:w>
+      </tei:p>
+      <tei:p xml:id="p12">
+        <tei:w xml:id="p12_w1">W.</tei:w>
+        <tei:w xml:id="p12_w2">Credé</tei:w>
+        <tei:pc xml:id="p12_pc1">.</tei:pc>
+      </tei:p>
+      <tei:p xml:id="p13">
+        <tei:w xml:id="p13_w1">Auch</tei:w>
+        <tei:w xml:id="p13_w2">von</tei:w>
+        <tei:w xml:id="p13_w3">mir</tei:w>
+        <tei:w xml:id="p13_w4">einen</tei:w>
+        <tei:w xml:id="p13_w5">schönen</tei:w>
+        <tei:w xml:id="p13_w6">Gruß</tei:w>
+        <tei:w xml:id="p13_w7">Dein</tei:w>
+        <tei:w xml:id="p13_w8">Enkel</tei:w>
+        <tei:w xml:id="p13_w9">C.</tei:w>
+        <tei:w xml:id="p13_w10">Crede</tei:w>
+      </tei:p>
+    </tei:body>
+  </tei:text>
+</TEI>

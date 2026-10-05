@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title xml:lang="de">Brief der Familie Crede, 9. August 1874</tei:title>
+        <tei:title xml:lang="en">Crede family letter, August 9, 1874</tei:title>
+        <tei:author>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753067">Therese Crede (Winhold)</tei:persName>
+        </tei:author>
+        <tei:respStmt>
+          <tei:persName>
+            <tei:surname>Pertilla</tei:surname>
+            <tei:forename>Atiba</tei:forename>
+          </tei:persName>
+          <tei:persName ref="https://d-nb.info/gnd/130107921">
+            <tei:surname>Schmidt</tei:surname>
+            <tei:forename>Thomas</tei:forename>
+          </tei:persName>
+          <tei:orgName ref="https://www.ghi-dc.org/">German Historical Institute
+                        Washington (GHI)</tei:orgName>
+          <tei:resp>Digitisation and OCRing of original letter, TEI conversion</tei:resp>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <p/>
+      </tei:publicationStmt>
+      <tei:sourceDesc>
+        <tei:listPerson>
+          <tei:person>
+            <tei:persName ref="https://database.factgrid.de/entity/Q1753067">Therese Crede (Winhold)</tei:persName>
+            <tei:birth when="1853"/>
+          </tei:person>
+        </tei:listPerson>
+      </tei:sourceDesc>
+    </tei:fileDesc>
+    <tei:profileDesc>
+      <tei:correspDesc>
+        <tei:correspAction type="sent">
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753063">Heinrich Carl Crede</tei:persName>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753067">Therese Crede (Winhold)</tei:persName>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753064">Clothilde Schröder (Crede)</tei:persName>
+          <tei:placeName xml:lang="de">Kassel, Hessen</tei:placeName>
+          <tei:placeName xml:lang="en">Cassel, Hesse</tei:placeName>
+          <tei:date when="1874-08-09"/>
+        </tei:correspAction>
+        <tei:correspAction type="received">
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753062">Hermann Carl Crede</tei:persName>
+        </tei:correspAction>
+      </tei:correspDesc>
+    </tei:profileDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p xml:id="p9">
+        <tei:note>[page 3, 2nd author:]</tei:note>
+      </tei:p>
+      <tei:p xml:id="p10">
+        <tei:w xml:id="p10_w1">Mein</tei:w>
+        <tei:w xml:id="p10_w2">liebster</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p10_w3">Hermann</tei:w>
+        <tei:pc xml:id="p10_pc1">,</tei:pc>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p10_w4">sei</tei:w>
+        <tei:w xml:id="p10_w5">auch</tei:w>
+        <tei:w xml:id="p10_w6">Du</tei:w>
+        <tei:w xml:id="p10_w7">herzlich</tei:w>
+        <tei:w xml:id="p10_w8">gegrüßt</tei:w>
+        <tei:w xml:id="p10_w9">und</tei:w>
+        <tei:w xml:id="p10_w10">geküßt</tei:w>
+        <tei:pc xml:id="p10_pc2">,</tei:pc>
+        <tei:w xml:id="p10_w11">von</tei:w>
+        <tei:w xml:id="p10_w12">Deiner</tei:w>
+        <tei:w xml:id="p10_w13">Dich</tei:w>
+        <tei:w xml:id="p10_w14">liebenden</tei:w>
+        <tei:w xml:id="p10_w15">Schwester</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p10_w16">Therese</tei:w>
+        <tei:pc xml:id="p10_pc3">.</tei:pc>
+        <tei:note>[/roman]</tei:note>
+      </tei:p>
+    </tei:body>
+  </tei:text>
+</TEI>

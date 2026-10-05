@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.47.0:model_id=265149:date=17_06_2026_16:39</Creator>
+        <Created>2026-06-16T03:49:49.258+02:00</Created>
+        <LastChange>2026-08-04T23:41:44.146+02:00</LastChange>
+        <TranskribusMetadata docId="16885220" pageId="122408141" pageNr="1" tsid="299146120" status="DONE" userId="144967" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=NQGLALIQSVMNFOBVTVTUTSMT" xmlUrl="https://files.transkribus.eu/Get?id=NBJFPTDJRBESPGSSWYTHUSPX" imageId="104015045"/>
+    </Metadata>
+    <Page imageFilename="0001_0075.jpg" imageWidth="2681" imageHeight="3595">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049969339" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="633,718 633,3529 2651,3529 2651,718"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="809,868 1008,774 1592,770 1783,877 2076,768 2496,788 2496,735 2380,731 2231,619 2006,674 1450,599 1317,617 1177,718 1000,623 809,645"/>
+                <Baseline points="821,770 905,767 989,770 1073,772 1157,773 1241,775 1325,773 1409,773 1493,773 1577,773 1661,772 1745,770 1829,770 1913,772 1997,768 2081,767 2165,767 2249,770 2333,771 2417,773 2502,773"/>
+                <TextEquiv>
+                    <Unicode>Ihr möchtet doch so gut sein und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;} textStyle {offset:6; length:1;strikethrough:true;}">
+                <Coords points="766,1000 1317,912 1719,914 1967,989 2161,912 2520,932 2520,858 2402,788 2074,768 1778,884 1151,877 1013,774 895,866 766,860"/>
+                <Baseline points="777,906 864,901 951,904 1039,903 1126,903 1214,904 1301,904 1389,904 1476,904 1564,904 1651,904 1738,901 1826,901 1913,902 2001,903 2088,901 2176,901 2263,901 2351,904 2438,907 2526,916"/>
+                <TextEquiv>
+                    <Unicode>gehen u mit den Briff herüber-</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

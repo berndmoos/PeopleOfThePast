@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.47.0:model_id=265149:date=17_06_2026_16:53</Creator>
+        <Created>2026-06-16T07:29:07.627+02:00</Created>
+        <LastChange>2026-06-29T23:09:46.584+02:00</LastChange>
+        <TranskribusMetadata docId="16887173" pageId="122411753" pageNr="5" tsid="294343843" status="DONE" userId="542398" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=EIALKSPKAVDWTGJPWPGATKLF" xmlUrl="https://files.transkribus.eu/Get?id=LTKOOIRGKASXZNEBWOMAPYPV" imageId="104018787"/>
+    </Metadata>
+    <Page imageFilename="0005_0346.jpg" imageWidth="3469" imageHeight="4959">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049981217" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1810,207 1909,207 1909,323 1810,323"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1816,293 1891,293 1891,263 1816,263"/>
+                <Baseline points="1816,293 1891,293"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="1265,477 1265,726 2144,726 2144,477"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1260,580 2142,564 2142,524 2065,482 1877,493 1747,459 1619,499 1423,509 1321,468 1260,490"/>
+                <Baseline points="1265,543 1311,546 1357,549 1403,549 1450,549 1496,549 1542,549 1588,549 1635,549 1681,549 1727,549 1773,549 1820,549 1866,549 1912,549 1958,549 2005,552 2051,554 2097,551 2144,549"/>
+                <TextEquiv>
+                    <Unicode>Deinem Dich liebenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} textStyle {offset:0; length:6;underlined:true;}">
+                <Coords points="1861,734 1905,744 1950,715 1978,736 2005,736 2056,714 2100,750 2136,743 2134,641 2119,634 2081,648 2046,632 2017,642 1972,624 1859,640"/>
+                <Baseline points="1866,693 1893,690 1920,686 1947,683 1974,683 2002,685 2029,686 2056,688 2083,690 2110,692 2138,693"/>
+                <TextEquiv>
+                    <Unicode>Robert</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

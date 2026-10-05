@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title xml:lang="de">Brief der Familie Crede an Hermann Crede, 25. Februar 1875</tei:title>
+        <tei:title xml:lang="en">Crede family letter to Hermann Crede, February 25, 1875</tei:title>
+        <tei:author>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753064">Clothilde Schröder (Crede)</tei:persName>
+        </tei:author>
+        <tei:respStmt>
+          <tei:persName>
+            <tei:surname>Pertilla</tei:surname>
+            <tei:forename>Atiba</tei:forename>
+          </tei:persName>
+          <tei:persName ref="https://d-nb.info/gnd/130107921">
+            <tei:surname>Schmidt</tei:surname>
+            <tei:forename>Thomas</tei:forename>
+          </tei:persName>
+          <tei:orgName ref="https://www.ghi-dc.org/">German Historical Institute
+                        Washington (GHI)</tei:orgName>
+          <tei:resp>Digitisation and OCRing of original letter, TEI conversion</tei:resp>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <p/>
+      </tei:publicationStmt>
+      <tei:sourceDesc>
+        <tei:listPerson>
+          <tei:person>
+            <tei:persName ref="https://database.factgrid.de/entity/Q1753064">Clothilde Schröder (Crede)</tei:persName>
+            <tei:birth when="1814"/>
+          </tei:person>
+        </tei:listPerson>
+      </tei:sourceDesc>
+    </tei:fileDesc>
+    <tei:profileDesc>
+      <tei:correspDesc>
+        <tei:correspAction type="sent">
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753063">Heinrich Carl Crede</tei:persName>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753064">Clothilde Schröder (Crede)</tei:persName>
+          <tei:placeName xml:lang="de">Kassel, Hessen</tei:placeName>
+          <tei:placeName xml:lang="en">Cassel, Hesse</tei:placeName>
+          <tei:date when="1875-02-25"/>
+        </tei:correspAction>
+        <tei:correspAction type="received">
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753062">Hermann Carl Crede</tei:persName>
+        </tei:correspAction>
+      </tei:correspDesc>
+    </tei:profileDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p xml:id="p13">
+        <tei:note>[page 4, 2nd author:]</tei:note>
+      </tei:p>
+      <tei:p xml:id="p14">
+        <tei:w xml:id="p14_w1">Die</tei:w>
+        <tei:w xml:id="p14_w2">besten</tei:w>
+        <tei:w xml:id="p14_w3">Glückwünsche</tei:w>
+        <tei:w xml:id="p14_w4">zum</tei:w>
+        <tei:w xml:id="p14_w5">heutigen</tei:w>
+        <tei:pc xml:id="p14_pc1">Tage._</tei:pc>
+        <tei:w xml:id="p14_w6">Mit</tei:w>
+        <tei:w xml:id="p14_w7">Gruß</tei:w>
+        <tei:pc xml:id="p14_pc2">&amp;</tei:pc>
+        <tei:w xml:id="p14_w8">Kuß</tei:w>
+        <tei:w xml:id="p14_w9">Deine</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p14_w10">Therese</tei:w>
+        <tei:note>[/roman]</tei:note>
+      </tei:p>
+    </tei:body>
+  </tei:text>
+</TEI>

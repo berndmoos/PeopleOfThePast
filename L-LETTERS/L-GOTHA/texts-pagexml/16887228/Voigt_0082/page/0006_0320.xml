@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.47.0:model_id=265149:date=17_06_2026_16:57</Creator>
+        <Created>2026-06-16T07:28:57.820+02:00</Created>
+        <LastChange>2026-06-29T20:34:39.413+02:00</LastChange>
+        <TranskribusMetadata docId="16887228" pageId="122411707" pageNr="6" tsid="294334368" status="DONE" userId="542398" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BNDOLSBCNRDHLBOEXJVWVSGS" xmlUrl="https://files.transkribus.eu/Get?id=AYJHWRIULPFGYWSMVEQNOJRE" imageId="104018783"/>
+    </Metadata>
+    <Page imageFilename="0006_0320.jpg" imageWidth="3458" imageHeight="4964">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049986656" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1833,183 2037,183 2037,306 1833,306"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1852,341 1904,351 1930,331 1944,344 1973,331 1999,338 1993,174 1973,174 1940,147 1921,154 1901,134 1845,138"/>
+                <Baseline points="1865,264 1892,264 1920,264 1948,264 1976,267 2004,270"/>
+                <TextEquiv>
+                    <Unicode>-6-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="644,200 644,1240 3265,1240 3265,200"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="626,541 3261,577 3261,472 2350,492 1986,393 626,482"/>
+                <Baseline points="644,529 775,535 906,535 1037,535 1168,535 1299,535 1430,529 1561,529 1692,529 1823,529 1954,529 2085,529 2216,529 2347,529 2478,529 2609,529 2740,529 2871,529 3002,529 3133,529 3265,535"/>
+                <TextEquiv>
+                    <Unicode>wird, Du bist so gut läßt ihn darüber aus Deinen Brief lesen &amp; ihn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="629,721 3009,675 3130,744 3255,724 3258,626 2275,564 633,616"/>
+                <Baseline points="650,668 780,668 911,668 1042,668 1173,668 1303,668 1434,668 1565,668 1696,668 1826,668 1957,668 2088,668 2219,668 2349,668 2480,668 2611,664 2742,662 2872,662 3003,662 3134,662 3265,668"/>
+                <TextEquiv>
+                    <Unicode>die Zeichnungen sehen damit er sich orientieren kann. Schicke alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="626,832 1068,816 1304,862 1380,816 1462,862 1590,832 1770,875 1770,724 1635,744 1517,701 1472,744 931,760 626,721"/>
+                <Baseline points="644,800 700,800 757,800 814,800 871,800 927,800 984,800 1041,800 1098,800 1154,800 1211,800 1268,800 1325,800 1381,800 1438,800 1495,800 1552,800 1608,800 1665,800 1722,803 1779,806"/>
+                <TextEquiv>
+                    <Unicode>Deine Briefe nach Vicksburg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="741,947 967,983 1629,947 1724,993 1822,947 1924,1000 2121,1006 2121,839 1871,872 1740,819 1678,865 1337,846 1173,901 741,852"/>
+                <Baseline points="760,932 828,932 897,936 965,936 1034,932 1102,932 1171,932 1239,932 1308,932 1376,932 1445,932 1513,932 1582,932 1650,932 1719,933 1787,937 1856,938 1924,938 1993,938 2061,938 2130,938"/>
+                <TextEquiv>
+                    <Unicode>Es grüßt und küße Dich tausend Mal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="1380,1131 1442,1150 1485,1141 1491,1131 1524,1150 1576,1147 1573,1003 1554,1006 1537,993 1531,1000 1504,983 1468,1019 1452,1006 1432,1019 1419,1009 1393,1029 1377,1029"/>
+                <Baseline points="1393,1065 1420,1065 1447,1065 1474,1065 1501,1067 1528,1068 1555,1070 1583,1065"/>
+                <TextEquiv>
+                    <Unicode>Dein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;} textStyle {offset:1; length:6;underlined:true;}">
+                <Coords points="1485,1262 1521,1249 1560,1282 1583,1268 1629,1275 1662,1252 1675,1259 1701,1232 1750,1262 1793,1252 1793,1147 1694,1131 1649,1164 1613,1150 1593,1160 1537,1147 1485,1157"/>
+                <Baseline points="1503,1209 1530,1201 1557,1197 1584,1197 1611,1197 1638,1198 1666,1200 1693,1201 1720,1203 1747,1201 1774,1199 1802,1197"/>
+                <TextEquiv>
+                    <Unicode> Robert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

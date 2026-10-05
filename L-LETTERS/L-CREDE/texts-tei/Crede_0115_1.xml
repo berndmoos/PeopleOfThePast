@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title xml:lang="de">Heinrich Carl Crede und Clotilde Crede an Hermann Crede, Februar 1879</tei:title>
+        <tei:title xml:lang="en">Heinrich Carl Crede and Clotilde Crede to Hermann Crede, February 1879</tei:title>
+        <tei:author>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753063">Heinrich Carl Crede</tei:persName>
+        </tei:author>
+        <tei:respStmt>
+          <tei:persName>
+            <tei:surname>Pertilla</tei:surname>
+            <tei:forename>Atiba</tei:forename>
+          </tei:persName>
+          <tei:persName ref="https://d-nb.info/gnd/130107921">
+            <tei:surname>Schmidt</tei:surname>
+            <tei:forename>Thomas</tei:forename>
+          </tei:persName>
+          <tei:orgName ref="https://www.ghi-dc.org/">German Historical Institute
+                        Washington (GHI)</tei:orgName>
+          <tei:resp>Digitisation and OCRing of original letter, TEI conversion</tei:resp>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <p/>
+      </tei:publicationStmt>
+      <tei:sourceDesc>
+        <tei:listPerson>
+          <tei:person>
+            <tei:persName ref="https://database.factgrid.de/entity/Q1753063">Heinrich Carl Crede</tei:persName>
+            <tei:birth when="1811"/>
+          </tei:person>
+        </tei:listPerson>
+      </tei:sourceDesc>
+    </tei:fileDesc>
+    <tei:profileDesc>
+      <tei:correspDesc>
+        <tei:correspAction type="sent">
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753063">Heinrich Carl Crede</tei:persName>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753064">Clothilde Schröder (Crede)</tei:persName>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753067">Therese Crede (Winhold)</tei:persName>
+          <tei:placeName xml:lang="de">Strassburg, Elsaß–Lothringen (heute Strassburg, Frankreich)</tei:placeName>
+          <tei:placeName xml:lang="en">Strassburg, Alsace-Lorraine (now Strasbourg, France)</tei:placeName>
+          <tei:date when="1879-02"/>
+        </tei:correspAction>
+        <tei:correspAction type="received">
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753062">Hermann Carl Crede</tei:persName>
+        </tei:correspAction>
+      </tei:correspDesc>
+    </tei:profileDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p xml:id="p1">
+        <tei:note>[page 1, 1st author:]</tei:note>
+      </tei:p>
+      <tei:p xml:id="p2">
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p2_w1">Straßburg</tei:w>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p2_w2">d</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:pc xml:id="p2_pc1">11.t</tei:pc>
+          <tei:w xml:id="p2_w3">Februar</tei:w>
+          <tei:w xml:id="p2_w4">1879</tei:w>
+          <tei:pc xml:id="p2_pc2">.</tei:pc>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+      </tei:p>
+      <tei:p xml:id="p3">
+        <tei:w xml:id="p3_w1">Mein</tei:w>
+        <tei:w xml:id="p3_w2">lieber</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p3_w3">Hermann</tei:w>
+          <tei:pc xml:id="p3_pc1">!</tei:pc>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+      </tei:p>
+      <tei:p xml:id="p4">
+        <tei:w xml:id="p4_w1">Vor</tei:w>
+        <tei:w xml:id="p4_w2">Allem</tei:w>
+        <tei:w xml:id="p4_w3">meinen</tei:w>
+        <tei:w xml:id="p4_w4">besten</tei:w>
+        <tei:w xml:id="p4_w5">Glückwünsche</tei:w>
+        <tei:w xml:id="p4_w6">zu</tei:w>
+        <tei:w xml:id="p4_w7">Deinem</tei:w>
+        <tei:w xml:id="p4_w8">bevorstehenden</tei:w>
+        <tei:w xml:id="p4_w9">43t</tei:w>
+        <tei:pc xml:id="p4_pc1">.</tei:pc>
+        <tei:w xml:id="p4_w10">Geburtstage</tei:w>
+        <tei:pc xml:id="p4_pc2">,</tei:pc>
+        <tei:w xml:id="p4_w11">möchtest</tei:w>
+        <tei:w xml:id="p4_w12">Du</tei:w>
+        <tei:w xml:id="p4_w13">diesen</tei:w>
+        <tei:w xml:id="p4_w14">Tag</tei:w>
+        <tei:w xml:id="p4_w15">noch</tei:w>
+        <tei:w xml:id="p4_w16">vielmals</tei:w>
+        <tei:pc xml:id="p4_pc3">,</tei:pc>
+        <tei:w xml:id="p4_w17">gesund</tei:w>
+        <tei:w xml:id="p4_w18">u.</tei:w>
+        <tei:w xml:id="p4_w19">zufrieden</tei:w>
+        <tei:w xml:id="p4_w20">im</tei:w>
+        <tei:w xml:id="p4_w21">Kreise</tei:w>
+        <tei:w xml:id="p4_w22">Deiner</tei:w>
+        <tei:w xml:id="p4_w23">Familie</tei:w>
+        <tei:w xml:id="p4_w24">erleben</tei:w>
+        <tei:pc xml:id="p4_pc4">!</tei:pc>
+      </tei:p>
+      <tei:p xml:id="p5">
+        <tei:w xml:id="p5_w1">Mit</tei:w>
+        <tei:w xml:id="p5_w2">Spannung</tei:w>
+        <tei:w xml:id="p5_w3">habe</tei:w>
+        <tei:w xml:id="p5_w4">ich</tei:w>
+        <tei:w xml:id="p5_w5">seither</tei:w>
+        <tei:w xml:id="p5_w6">einer</tei:w>
+        <tei:w xml:id="p5_w7">Nachricht</tei:w>
+        <tei:w xml:id="p5_w8">von</tei:w>
+        <tei:w xml:id="p5_w9">Dir</tei:w>
+        <tei:w xml:id="p5_w10">entgegengesehen</tei:w>
+        <tei:pc xml:id="p5_pc1">,</tei:pc>
+        <tei:w xml:id="p5_w11">um</tei:w>
+        <tei:w xml:id="p5_w12">das</tei:w>
+        <tei:w xml:id="p5_w13">Ergebniß</tei:w>
+        <tei:w xml:id="p5_w14">der</tei:w>
+        <tei:w xml:id="p5_w15">BeamtenWahlen</tei:w>
+        <tei:pc xml:id="p5_pc2">&amp;</tei:pc>
+        <tei:w xml:id="p5_w16">namentlich</tei:w>
+        <tei:w xml:id="p5_w17">zu</tei:w>
+        <tei:w xml:id="p5_w18">erfahren</tei:w>
+        <tei:pc xml:id="p5_pc3">,</tei:pc>
+        <tei:w xml:id="p5_w19">ob</tei:w>
+        <tei:w xml:id="p5_w20">Du</tei:w>
+        <tei:w xml:id="p5_w21">wieder</tei:w>
+        <tei:w xml:id="p5_w22">zu</tei:w>
+        <tei:w xml:id="p5_w23">einem</tei:w>
+        <tei:w xml:id="p5_w24">Amte</tei:w>
+        <tei:w xml:id="p5_w25">gewählt</tei:w>
+        <tei:w xml:id="p5_w26">und</tei:w>
+        <tei:w xml:id="p5_w27">die</tei:w>
+        <tei:w xml:id="p5_w28">Wahl</tei:w>
+        <tei:w xml:id="p5_w29">angenommen</tei:w>
+        <tei:w xml:id="p5_w30">hast</tei:w>
+        <tei:pc xml:id="p5_pc4">;</tei:pc>
+        <tei:w xml:id="p5_w31">wovon</tei:w>
+        <tei:w xml:id="p5_w32">Dein</tei:w>
+        <tei:w xml:id="p5_w33">Besuch</tei:w>
+        <tei:w xml:id="p5_w34">bei</tei:w>
+        <tei:w xml:id="p5_w35">uns</tei:w>
+        <tei:w xml:id="p5_w36">in</tei:w>
+        <tei:w xml:id="p5_w37">diesem</tei:w>
+        <tei:w xml:id="p5_w38">Jahre</tei:w>
+        <tei:w xml:id="p5_w39">wohl</tei:w>
+        <tei:w xml:id="p5_w40">abhängen</tei:w>
+        <tei:w xml:id="p5_w41">wird</tei:w>
+        <tei:pc xml:id="p5_pc5">.</tei:pc>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p5_w42">Wilhelm</tei:w>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p5_w43">schrieb</tei:w>
+        <tei:w xml:id="p5_w44">vor</tei:w>
+        <tei:w xml:id="p5_w45">Kurzem</tei:w>
+        <tei:pc xml:id="p5_pc6">,</tei:pc>
+        <tei:w xml:id="p5_w46">doch</tei:w>
+        <tei:w xml:id="p5_w47">nichts</tei:w>
+        <tei:w xml:id="p5_w48">über</tei:w>
+        <tei:w xml:id="p5_w49">die</tei:w>
+        <tei:w xml:id="p5_w50">Wahlen_</tei:w>
+        <tei:pc xml:id="p5_pc7">.</tei:pc>
+      </tei:p>
+      <tei:p xml:id="p6">
+        <tei:w xml:id="p6_w1">Bei</tei:w>
+        <tei:w xml:id="p6_w2">Deiner</tei:w>
+        <tei:w xml:id="p6_w3">Schwester</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p6_w4">Therese</tei:w>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p6_w5">ist</tei:w>
+        <tei:w xml:id="p6_w6">am</tei:w>
+        <tei:w xml:id="p6_w7">6</tei:w>
+        <tei:pc xml:id="p6_pc1">.</tei:pc>
+        <tei:w xml:id="p6_w8">November</tei:w>
+        <tei:w xml:id="p6_w9">d.</tei:w>
+        <tei:w xml:id="p6_w10">J.</tei:w>
+        <tei:w xml:id="p6_w11">ein</tei:w>
+        <tei:w xml:id="p6_w12">kleiner</tei:w>
+        <tei:w xml:id="p6_w13">Bube</tei:w>
+        <tei:w xml:id="p6_w14">angekommen</tei:w>
+        <tei:pc xml:id="p6_pc2">,</tei:pc>
+        <tei:w xml:id="p6_w15">Deine</tei:w>
+        <tei:w xml:id="p6_w16">Mutter</tei:w>
+        <tei:w xml:id="p6_w17">befindet</tei:w>
+        <tei:w xml:id="p6_w18">sich</tei:w>
+        <tei:w xml:id="p6_w19">bereits</tei:w>
+        <tei:w xml:id="p6_w20">seit</tei:w>
+        <tei:w xml:id="p6_w21">Anfang</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p6_w22">October</tei:w>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p6_w23">v.</tei:w>
+        <tei:w xml:id="p6_w24">J.</tei:w>
+        <tei:w xml:id="p6_w25">hier</tei:w>
+        <tei:pc xml:id="p6_pc3">&amp;</tei:pc>
+        <tei:pc xml:id="p6_pc4">.</tei:pc>
+        <tei:w xml:id="p6_w26">ich</tei:w>
+        <tei:w xml:id="p6_w27">bin</tei:w>
+        <tei:w xml:id="p6_w28">am</tei:w>
+        <tei:w xml:id="p6_w29">1.</tei:w>
+        <tei:w xml:id="p6_w30">d.</tei:w>
+        <tei:w xml:id="p6_w31">M.</tei:w>
+        <tei:w xml:id="p6_w32">hier</tei:w>
+        <tei:w xml:id="p6_w33">eingetroffen</tei:w>
+        <tei:w xml:id="p6_w34">u.</tei:w>
+        <tei:w xml:id="p6_w35">werden</tei:w>
+        <tei:w xml:id="p6_w36">wir</tei:w>
+        <tei:pc xml:id="p6_pc5">,</tei:pc>
+        <tei:w xml:id="p6_w37">da</tei:w>
+        <tei:w xml:id="p6_w38">es</tei:w>
+        <tei:w xml:id="p6_w39">jetzt</tei:w>
+        <tei:w xml:id="p6_w40">einerlei</tei:w>
+        <tei:w xml:id="p6_w41">ist</tei:w>
+        <tei:pc xml:id="p6_pc6">,</tei:pc>
+        <tei:w xml:id="p6_w42">wo</tei:w>
+        <tei:w xml:id="p6_w43">wir</tei:w>
+        <tei:w xml:id="p6_w44">unser</tei:w>
+        <tei:w xml:id="p6_w45">Geld</tei:w>
+        <tei:w xml:id="p6_w46">verthun</tei:w>
+        <tei:pc xml:id="p6_pc7">,</tei:pc>
+        <tei:w xml:id="p6_w47">wohl</tei:w>
+        <tei:w xml:id="p6_w48">bis</tei:w>
+        <tei:w xml:id="p6_w49">zum</tei:w>
+        <tei:w xml:id="p6_w50">nächsten</tei:w>
+        <tei:w xml:id="p6_w51">Herbst</tei:w>
+        <tei:w xml:id="p6_w52">in</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p6_w53">Straßburg</tei:w>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p6_w54">verweilen</tei:w>
+        <tei:pc xml:id="p6_pc8">.</tei:pc>
+        <tei:w xml:id="p6_w55">Bei</tei:w>
+        <tei:w xml:id="p6_w56">günstiger</tei:w>
+        <tei:w xml:id="p6_w57">Jahreszeit</tei:w>
+        <tei:w xml:id="p6_w58">werde</tei:w>
+        <tei:w xml:id="p6_w59">ich</tei:w>
+        <tei:w xml:id="p6_w60">dann</tei:w>
+        <tei:w xml:id="p6_w61">wieder</tei:w>
+        <tei:w xml:id="p6_w62">den</tei:w>
+        <tei:w xml:id="p6_w63">Schwarzwald</tei:w>
+        <tei:w xml:id="p6_w64">u.</tei:w>
+        <tei:w xml:id="p6_w65">die</tei:w>
+        <tei:w xml:id="p6_w66">Vogesen</tei:w>
+        <tei:w xml:id="p6_w67">besuchen</tei:w>
+        <tei:pc xml:id="p6_pc9">,</tei:pc>
+        <tei:w xml:id="p6_w68">wo</tei:w>
+        <tei:w xml:id="p6_w69">man</tei:w>
+        <tei:w xml:id="p6_w70">die</tei:w>
+        <tei:w xml:id="p6_w71">großartigsten</tei:w>
+        <tei:w xml:id="p6_w72">Partien</tei:w>
+        <tei:w xml:id="p6_w73">findet</tei:w>
+        <tei:pc xml:id="p6_pc10">.</tei:pc>
+      </tei:p>
+      <tei:p xml:id="p7">
+        <tei:w xml:id="p7_w1">Der</tei:w>
+        <tei:w xml:id="p7_w2">Frühling</tei:w>
+        <tei:w xml:id="p7_w3">wird</tei:w>
+        <tei:w xml:id="p7_w4">hier</tei:w>
+        <tei:w xml:id="p7_w5">nun</tei:w>
+        <tei:w xml:id="p7_w6">bald</tei:w>
+        <tei:w xml:id="p7_w7">einkehren</tei:w>
+        <tei:pc xml:id="p7_pc1">,</tei:pc>
+        <tei:w xml:id="p7_w8">was</tei:w>
+        <tei:w xml:id="p7_w9">hier</tei:w>
+        <tei:w xml:id="p7_w10">immerhin</tei:w>
+        <tei:w xml:id="p7_w11">um</tei:w>
+        <tei:w xml:id="p7_w12">einige</tei:w>
+        <tei:w xml:id="p7_w13">Wochen</tei:w>
+        <tei:w xml:id="p7_w14">früher</tei:w>
+        <tei:w xml:id="p7_w15">der</tei:w>
+        <tei:w xml:id="p7_w16">Fall</tei:w>
+        <tei:w xml:id="p7_w17">ist</tei:w>
+        <tei:pc xml:id="p7_pc2">,</tei:pc>
+        <tei:w xml:id="p7_w18">als</tei:w>
+        <tei:w xml:id="p7_w19">in</tei:w>
+        <tei:w xml:id="p7_w20">Kassel</tei:w>
+        <tei:pc xml:id="p7_pc3">;</tei:pc>
+        <tei:w xml:id="p7_w21">ich</tei:w>
+        <tei:w xml:id="p7_w22">hoffe</tei:w>
+        <tei:pc xml:id="p7_pc4">,</tei:pc>
+        <tei:w xml:id="p7_w23">daß</tei:w>
+        <tei:w xml:id="p7_w24">sich</tei:w>
+        <tei:w xml:id="p7_w25">dann</tei:w>
+        <tei:w xml:id="p7_w26">auch</tei:w>
+        <tei:w xml:id="p7_w27">mein</tei:w>
+        <tei:w xml:id="p7_w28">rheumatisches</tei:w>
+        <tei:w xml:id="p7_w29">Leiden</tei:w>
+        <tei:w xml:id="p7_w30">in</tei:w>
+        <tei:w xml:id="p7_w31">Händen</tei:w>
+        <tei:w xml:id="p7_w32">u.</tei:w>
+        <tei:w xml:id="p7_w33">Füßen</tei:w>
+        <tei:w xml:id="p7_w34">bessert</tei:w>
+        <tei:pc xml:id="p7_pc5">,</tei:pc>
+        <tei:w xml:id="p7_w35">es</tei:w>
+        <tei:w xml:id="p7_w36">ist</tei:w>
+        <tei:w xml:id="p7_w37">dies</tei:w>
+        <tei:w xml:id="p7_w38">zwar</tei:w>
+        <tei:w xml:id="p7_w39">erträglich</tei:w>
+        <tei:pc xml:id="p7_pc6">,</tei:pc>
+        <tei:w xml:id="p7_w40">indeß</tei:w>
+        <tei:w xml:id="p7_w41">sehr</tei:w>
+        <tei:w xml:id="p7_w42">unangenehm</tei:w>
+        <tei:w xml:id="p7_w43">ständig</tei:w>
+        <tei:w xml:id="p7_w44">mit</tei:w>
+        <tei:w xml:id="p7_w45">Schmerzen</tei:w>
+        <tei:w xml:id="p7_w46">behaftet</tei:w>
+        <tei:w xml:id="p7_w47">zu</tei:w>
+        <tei:w xml:id="p7_w48">sein</tei:w>
+        <tei:pc xml:id="p7_pc7">,</tei:pc>
+        <tei:w xml:id="p7_w49">wenn</tei:w>
+        <tei:w xml:id="p7_w50">solche</tei:w>
+        <tei:w xml:id="p7_w51">auch</tei:w>
+        <tei:w xml:id="p7_w52">nicht</tei:w>
+        <tei:w xml:id="p7_w53">sehr</tei:w>
+        <tei:w xml:id="p7_w54">erheblich</tei:w>
+        <tei:w xml:id="p7_w55">sind</tei:w>
+        <tei:pc xml:id="p7_pc8">.</tei:pc>
+        <tei:w xml:id="p7_w56">Deiner</tei:w>
+        <tei:w xml:id="p7_w57">Mutter</tei:w>
+        <tei:w xml:id="p7_w58">geht</tei:w>
+        <tei:w xml:id="p7_w59">es</tei:w>
+        <tei:w xml:id="p7_w60">jetzt</tei:w>
+        <tei:w xml:id="p7_w61">gut</tei:w>
+        <tei:pc xml:id="p7_pc9">,</tei:pc>
+        <tei:w xml:id="p7_w62">sie</tei:w>
+        <tei:w xml:id="p7_w63">kann</tei:w>
+        <tei:w xml:id="p7_w64">noch</tei:w>
+        <tei:w xml:id="p7_w65">tüchtig</tei:w>
+        <tei:w xml:id="p7_w66">arbeiten</tei:w>
+        <tei:w xml:id="p7_w67">u.</tei:w>
+        <tei:w xml:id="p7_w68">hat</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p7_w69">Therese</tei:w>
+          <tei:pc xml:id="p7_pc10">,</tei:pc>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p7_w70">die</tei:w>
+        <tei:w xml:id="p7_w71">sich</tei:w>
+        <tei:w xml:id="p7_w72">kein</tei:w>
+        <tei:w xml:id="p7_w73">Mädchen</tei:w>
+        <tei:w xml:id="p7_w74">hält</tei:w>
+        <tei:pc xml:id="p7_pc11">,</tei:pc>
+        <tei:w xml:id="p7_w75">eine</tei:w>
+        <tei:w xml:id="p7_w76">sehr</tei:w>
+        <tei:w xml:id="p7_w77">wesentliche</tei:w>
+        <tei:w xml:id="p7_w78">Stütze</tei:w>
+        <tei:w xml:id="p7_w79">an</tei:w>
+        <tei:pc xml:id="p7_pc12">ihr._</tei:pc>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p7_w80">Adelheid</tei:w>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+      </tei:p>
+      <tei:p xml:id="p8">
+        <tei:note>[page 2:]</tei:note>
+      </tei:p>
+      <tei:p xml:id="p9">
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p9_w1">Adelheid</tei:w>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p9_w2">nebst</tei:w>
+        <tei:w xml:id="p9_w3">Familie</tei:w>
+        <tei:w xml:id="p9_w4">befinden</tei:w>
+        <tei:w xml:id="p9_w5">sich</tei:w>
+        <tei:w xml:id="p9_w6">wohl</tei:w>
+        <tei:pc xml:id="p9_pc1">,</tei:pc>
+        <tei:w xml:id="p9_w7">ihre</tei:w>
+        <tei:w xml:id="p9_w8">beiden</tei:w>
+        <tei:w xml:id="p9_w9">Mädchen</tei:w>
+        <tei:pc xml:id="p9_pc2">,</tei:pc>
+        <tei:w xml:id="p9_w10">wovon</tei:w>
+        <tei:w xml:id="p9_w11">das</tei:w>
+        <tei:w xml:id="p9_w12">älteste</tei:w>
+        <tei:w xml:id="p9_w13">7</tei:w>
+        <tei:w xml:id="p9_w14">u.</tei:w>
+        <tei:w xml:id="p9_w15">das</tei:w>
+        <tei:w xml:id="p9_w16">andere</tei:w>
+        <tei:w xml:id="p9_w17">5</tei:w>
+        <tei:w xml:id="p9_w18">Jahr</tei:w>
+        <tei:w xml:id="p9_w19">alt</tei:w>
+        <tei:w xml:id="p9_w20">gewesen</tei:w>
+        <tei:pc xml:id="p9_pc3">,</tei:pc>
+        <tei:w xml:id="p9_w21">wachsen</tei:w>
+        <tei:w xml:id="p9_w22">schön</tei:w>
+        <tei:w xml:id="p9_w23">heran</tei:w>
+        <tei:pc xml:id="p9_pc4">&amp;</tei:pc>
+        <tei:pc xml:id="p9_pc5">.</tei:pc>
+        <tei:w xml:id="p9_w24">sind</tei:w>
+        <tei:w xml:id="p9_w25">recht</tei:w>
+        <tei:w xml:id="p9_w26">liebe</tei:w>
+        <tei:w xml:id="p9_w27">Kinder</tei:w>
+        <tei:pc xml:id="p9_pc6">,</tei:pc>
+        <tei:w xml:id="p9_w28">die</tei:w>
+        <tei:w xml:id="p9_w29">uns</tei:w>
+        <tei:w xml:id="p9_w30">viel</tei:w>
+        <tei:w xml:id="p9_w31">Freude</tei:w>
+        <tei:w xml:id="p9_w32">machen</tei:w>
+        <tei:pc xml:id="p9_pc7">.</tei:pc>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p9_w33">Theresens</tei:w>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p9_w34">ältestes</tei:w>
+        <tei:w xml:id="p9_w35">Töchterchen</tei:w>
+        <tei:w xml:id="p9_w36">wird</tei:w>
+        <tei:w xml:id="p9_w37">in</tei:w>
+        <tei:w xml:id="p9_w38">der</tei:w>
+        <tei:w xml:id="p9_w39">Kürze</tei:w>
+        <tei:w xml:id="p9_w40">2</tei:w>
+        <tei:w xml:id="p9_w41">Jahre</tei:w>
+        <tei:w xml:id="p9_w42">alt</tei:w>
+        <tei:w xml:id="p9_w43">u.</tei:w>
+        <tei:w xml:id="p9_w44">ist</tei:w>
+        <tei:w xml:id="p9_w45">ein</tei:w>
+        <tei:w xml:id="p9_w46">prächtiges</tei:w>
+        <tei:w xml:id="p9_w47">Kind</tei:w>
+        <tei:pc xml:id="p9_pc8">,</tei:pc>
+        <tei:w xml:id="p9_w48">dagegen</tei:w>
+        <tei:w xml:id="p9_w49">ist</tei:w>
+        <tei:w xml:id="p9_w50">der</tei:w>
+        <tei:w xml:id="p9_w51">neue</tei:w>
+        <tei:w xml:id="p9_w52">Ankömmling</tei:w>
+        <tei:w xml:id="p9_w53">ein</tei:w>
+        <tei:w xml:id="p9_w54">ziemlicher</tei:w>
+        <tei:w xml:id="p9_w55">Schreier</tei:w>
+        <tei:pc xml:id="p9_pc9">,</tei:pc>
+        <tei:w xml:id="p9_w56">der</tei:w>
+        <tei:w xml:id="p9_w57">sich</tei:w>
+        <tei:w xml:id="p9_w58">indeß</tei:w>
+        <tei:w xml:id="p9_w59">wohl</tei:w>
+        <tei:w xml:id="p9_w60">bei</tei:w>
+        <tei:w xml:id="p9_w61">zunehmenden</tei:w>
+        <tei:w xml:id="p9_w62">Alter</tei:w>
+        <tei:w xml:id="p9_w63">bessern</tei:w>
+        <tei:w xml:id="p9_w64">wird</tei:w>
+        <tei:pc xml:id="p9_pc10">.</tei:pc>
+      </tei:p>
+      <tei:p xml:id="p10">
+        <tei:w xml:id="p10_w1">Tante</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p10_w2">Louise</tei:w>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p10_w3">in</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:w xml:id="p10_w4">K</tei:w>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p10_w5">gehts</tei:w>
+        <tei:w xml:id="p10_w6">gut</tei:w>
+        <tei:pc xml:id="p10_pc1">,</tei:pc>
+        <tei:w xml:id="p10_w7">sie</tei:w>
+        <tei:w xml:id="p10_w8">erinnert</tei:w>
+        <tei:w xml:id="p10_w9">sich</tei:w>
+        <tei:w xml:id="p10_w10">Deiner</tei:w>
+        <tei:w xml:id="p10_w11">stehts</tei:w>
+        <tei:w xml:id="p10_w12">mit</tei:w>
+        <tei:w xml:id="p10_w13">großer</tei:w>
+        <tei:w xml:id="p10_w14">Liebe</tei:w>
+        <tei:pc xml:id="p10_pc2">;</tei:pc>
+        <tei:w xml:id="p10_w15">Du</tei:w>
+        <tei:w xml:id="p10_w16">solltest</tei:w>
+        <tei:w xml:id="p10_w17">ihr</tei:w>
+        <tei:w xml:id="p10_w18">mal</tei:w>
+        <tei:w xml:id="p10_w19">schreiben</tei:w>
+        <tei:pc xml:id="p10_pc3">,</tei:pc>
+        <tei:w xml:id="p10_w20">worüber</tei:w>
+        <tei:w xml:id="p10_w21">sie</tei:w>
+        <tei:w xml:id="p10_w22">sich</tei:w>
+        <tei:w xml:id="p10_w23">gewiß</tei:w>
+        <tei:w xml:id="p10_w24">recht</tei:w>
+        <tei:w xml:id="p10_w25">freuen</tei:w>
+        <tei:w xml:id="p10_w26">würde</tei:w>
+        <tei:pc xml:id="p10_pc4">.</tei:pc>
+        <tei:w xml:id="p10_w27">Sie</tei:w>
+        <tei:w xml:id="p10_w28">hat</tei:w>
+        <tei:w xml:id="p10_w29">trotz</tei:w>
+        <tei:w xml:id="p10_w30">ihres</tei:w>
+        <tei:w xml:id="p10_w31">vorgerückten</tei:w>
+        <tei:w xml:id="p10_w32">Alters</tei:w>
+        <tei:w xml:id="p10_w33">immer</tei:w>
+        <tei:w xml:id="p10_w34">noch</tei:w>
+        <tei:w xml:id="p10_w35">einen</tei:w>
+        <tei:w xml:id="p10_w36">Schwarm</tei:w>
+        <tei:w xml:id="p10_w37">kleiner</tei:w>
+        <tei:w xml:id="p10_w38">Zöglinge</tei:w>
+        <tei:pc xml:id="p10_pc5">&amp;</tei:pc>
+        <tei:pc xml:id="p10_pc6">.</tei:pc>
+        <tei:w xml:id="p10_w39">läßt</tei:w>
+        <tei:w xml:id="p10_w40">es</tei:w>
+        <tei:w xml:id="p10_w41">sich</tei:w>
+        <tei:w xml:id="p10_w42">recht</tei:w>
+        <tei:w xml:id="p10_w43">sauer</tei:w>
+        <tei:w xml:id="p10_w44">werden</tei:w>
+        <tei:pc xml:id="p10_pc7">,</tei:pc>
+        <tei:w xml:id="p10_w45">obschon</tei:w>
+        <tei:w xml:id="p10_w46">sie</tei:w>
+        <tei:w xml:id="p10_w47">es</tei:w>
+        <tei:w xml:id="p10_w48">nicht</tei:w>
+        <tei:w xml:id="p10_w49">nötig</tei:w>
+        <tei:w xml:id="p10_w50">hätte</tei:w>
+        <tei:pc xml:id="p10_pc8">,</tei:pc>
+        <tei:w xml:id="p10_w51">da</tei:w>
+        <tei:w xml:id="p10_w52">sie</tei:w>
+        <tei:w xml:id="p10_w53">in</tei:w>
+        <tei:w xml:id="p10_w54">guten</tei:w>
+        <tei:w xml:id="p10_w55">finanziellen</tei:w>
+        <tei:w xml:id="p10_w56">Verhältnissen</tei:w>
+        <tei:w xml:id="p10_w57">lebt_</tei:w>
+        <tei:pc xml:id="p10_pc9">,</tei:pc>
+        <tei:w xml:id="p10_w58">doch</tei:w>
+        <tei:w xml:id="p10_w59">des</tei:w>
+        <tei:w xml:id="p10_w60">Menschen</tei:w>
+        <tei:w xml:id="p10_w61">Wille</tei:w>
+        <tei:w xml:id="p10_w62">ist</tei:w>
+        <tei:w xml:id="p10_w63">sein</tei:w>
+        <tei:pc xml:id="p10_pc10">Himmelreich._</tei:pc>
+        <tei:w xml:id="p10_w64">Auf</tei:w>
+        <tei:w xml:id="p10_w65">der</tei:w>
+        <tei:w xml:id="p10_w66">alten</tei:w>
+        <tei:w xml:id="p10_w67">Hütte</tei:w>
+        <tei:w xml:id="p10_w68">ist</tei:w>
+        <tei:w xml:id="p10_w69">eine</tei:w>
+        <tei:w xml:id="p10_w70">Veränderung</tei:w>
+        <tei:w xml:id="p10_w71">eingetreten</tei:w>
+        <tei:pc xml:id="p10_pc11">,</tei:pc>
+        <tei:w xml:id="p10_w72">unsere</tei:w>
+        <tei:w xml:id="p10_w73">beste</tei:w>
+        <tei:w xml:id="p10_w74">Freundin</tei:w>
+        <tei:pc xml:id="p10_pc12">,</tei:pc>
+        <tei:w xml:id="p10_w75">Frau</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p10_w76">Spiehs</tei:w>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p10_w77">ist</tei:w>
+        <tei:w xml:id="p10_w78">Ende</tei:w>
+        <tei:w xml:id="p10_w79">v.</tei:w>
+        <tei:w xml:id="p10_w80">J.</tei:w>
+        <tei:w xml:id="p10_w81">in</tei:w>
+        <tei:w xml:id="p10_w82">ihrem</tei:w>
+        <tei:w xml:id="p10_w83">80t</tei:w>
+        <tei:pc xml:id="p10_pc13">.</tei:pc>
+        <tei:w xml:id="p10_w84">Jahre</tei:w>
+        <tei:w xml:id="p10_w85">verstorben</tei:w>
+        <tei:pc xml:id="p10_pc14">,</tei:pc>
+        <tei:w xml:id="p10_w86">sie</tei:w>
+        <tei:w xml:id="p10_w87">war</tei:w>
+        <tei:w xml:id="p10_w88">längere</tei:w>
+        <tei:w xml:id="p10_w89">Zeit</tei:w>
+        <tei:w xml:id="p10_w90">recht</tei:w>
+        <tei:w xml:id="p10_w91">leidend</tei:w>
+        <tei:w xml:id="p10_w92">u.</tei:w>
+        <tei:w xml:id="p10_w93">hatte</tei:w>
+        <tei:w xml:id="p10_w94">Gesicht</tei:w>
+        <tei:w xml:id="p10_w95">u.</tei:w>
+        <tei:w xml:id="p10_w96">Gehör</tei:w>
+        <tei:w xml:id="p10_w97">verloren</tei:w>
+        <tei:pc xml:id="p10_pc15">,</tei:pc>
+        <tei:w xml:id="p10_w98">so</tei:w>
+        <tei:w xml:id="p10_w99">daß</tei:w>
+        <tei:w xml:id="p10_w100">ihr</tei:w>
+        <tei:w xml:id="p10_w101">recht</tei:w>
+        <tei:w xml:id="p10_w102">wohl</tei:w>
+        <tei:w xml:id="p10_w103">war</tei:w>
+        <tei:pc xml:id="p10_pc16">,</tei:pc>
+        <tei:w xml:id="p10_w104">daß</tei:w>
+        <tei:w xml:id="p10_w105">sie</tei:w>
+        <tei:w xml:id="p10_w106">von</tei:w>
+        <tei:w xml:id="p10_w107">Ihrem</tei:w>
+        <tei:w xml:id="p10_w108">Leiden</tei:w>
+        <tei:w xml:id="p10_w109">erlößt</tei:w>
+        <tei:w xml:id="p10_w110">wurde</tei:w>
+        <tei:pc xml:id="p10_pc17">.</tei:pc>
+        <tei:w xml:id="p10_w111">Freund</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p10_w112">Spiehs</tei:w>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p10_w113">ist</tei:w>
+        <tei:w xml:id="p10_w114">noch</tei:w>
+        <tei:w xml:id="p10_w115">rüstig</tei:w>
+        <tei:w xml:id="p10_w116">u.</tei:w>
+        <tei:w xml:id="p10_w117">befindet</tei:w>
+        <tei:w xml:id="p10_w118">sich</tei:w>
+        <tei:w xml:id="p10_w119">wohl</tei:w>
+        <tei:pc xml:id="p10_pc18">.</tei:pc>
+        <tei:w xml:id="p10_w120">Seinen</tei:w>
+        <tei:w xml:id="p10_w121">Söhnen</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p10_w122">Carl</tei:w>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p10_w123">u</tei:w>
+        <tei:pc xml:id="p10_pc19">.</tei:pc>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p10_w124">Adolph</tei:w>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p10_w125">gehts</tei:w>
+        <tei:w xml:id="p10_w126">auch</tei:w>
+        <tei:w xml:id="p10_w127">gut</tei:w>
+        <tei:pc xml:id="p10_pc20">.</tei:pc>
+        <tei:w xml:id="p10_w128">Unseren</tei:w>
+        <tei:w xml:id="p10_w129">Verwandten</tei:w>
+        <tei:w xml:id="p10_w130">in</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p10_w131">Helsa</tei:w>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p10_w132">geht</tei:w>
+        <tei:w xml:id="p10_w133">es</tei:w>
+        <tei:w xml:id="p10_w134">ebenwohl</tei:w>
+        <tei:pc xml:id="p10_pc21">gut._</tei:pc>
+        <tei:w xml:id="p10_w135">Nachdem</tei:w>
+        <tei:w xml:id="p10_w136">ich</tei:w>
+        <tei:w xml:id="p10_w137">Dir</tei:w>
+        <tei:w xml:id="p10_w138">nun</tei:w>
+        <tei:w xml:id="p10_w139">FamilienRapport</tei:w>
+        <tei:w xml:id="p10_w140">abgestattet</tei:w>
+        <tei:pc xml:id="p10_pc22">,</tei:pc>
+        <tei:w xml:id="p10_w141">erwarte</tei:w>
+        <tei:w xml:id="p10_w142">ich</tei:w>
+        <tei:w xml:id="p10_w143">nun</tei:w>
+        <tei:w xml:id="p10_w144">auch</tei:w>
+        <tei:w xml:id="p10_w145">recht</tei:w>
+        <tei:w xml:id="p10_w146">bald</tei:w>
+        <tei:w xml:id="p10_w147">von</tei:w>
+        <tei:w xml:id="p10_w148">Dir</tei:w>
+        <tei:w xml:id="p10_w149">recht</tei:w>
+        <tei:w xml:id="p10_w150">speziell</tei:w>
+        <tei:w xml:id="p10_w151">zu</tei:w>
+        <tei:w xml:id="p10_w152">hören</tei:w>
+        <tei:pc xml:id="p10_pc23">,</tei:pc>
+        <tei:w xml:id="p10_w153">wie</tei:w>
+        <tei:w xml:id="p10_w154">es</tei:w>
+        <tei:w xml:id="p10_w155">Euch</tei:w>
+        <tei:w xml:id="p10_w156">Allen</tei:w>
+        <tei:w xml:id="p10_w157">ergeht</tei:w>
+        <tei:pc xml:id="p10_pc24">,</tei:pc>
+        <tei:w xml:id="p10_w158">namentlich</tei:w>
+        <tei:w xml:id="p10_w159">wird</tei:w>
+        <tei:w xml:id="p10_w160">es</tei:w>
+        <tei:w xml:id="p10_w161">mich</tei:w>
+        <tei:w xml:id="p10_w162">sehr</tei:w>
+        <tei:w xml:id="p10_w163">freuen</tei:w>
+        <tei:pc xml:id="p10_pc25">,</tei:pc>
+        <tei:w xml:id="p10_w164">wenn</tei:w>
+        <tei:w xml:id="p10_w165">Du</tei:w>
+        <tei:w xml:id="p10_w166">recht</tei:w>
+        <tei:w xml:id="p10_w167">ausführlich</tei:w>
+        <tei:w xml:id="p10_w168">von</tei:w>
+        <tei:w xml:id="p10_w169">Deinen</tei:w>
+        <tei:w xml:id="p10_w170">Kindern</tei:w>
+        <tei:w xml:id="p10_w171">schreibst</tei:w>
+        <tei:pc xml:id="p10_pc26">.</tei:pc>
+      </tei:p>
+      <tei:p xml:id="p11">
+        <tei:w xml:id="p11_w1">Lebe</tei:w>
+        <tei:w xml:id="p11_w2">recht</tei:w>
+        <tei:w xml:id="p11_w3">wohl</tei:w>
+        <tei:w xml:id="p11_w4">lieber</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p11_w5">Hermann</tei:w>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p11_w6">u.</tei:w>
+        <tei:w xml:id="p11_w7">sei</tei:w>
+        <tei:w xml:id="p11_w8">mit</tei:w>
+        <tei:w xml:id="p11_w9">den</tei:w>
+        <tei:w xml:id="p11_w10">Deinigen</tei:w>
+        <tei:w xml:id="p11_w11">auf</tei:w>
+        <tei:w xml:id="p11_w12">das</tei:w>
+        <tei:w xml:id="p11_w13">Herzlichste</tei:w>
+        <tei:w xml:id="p11_w14">gegrüßt</tei:w>
+        <tei:w xml:id="p11_w15">von</tei:w>
+        <tei:w xml:id="p11_w16">Deinem</tei:w>
+        <tei:w xml:id="p11_w17">treuen</tei:w>
+        <tei:w xml:id="p11_w18">Vater</tei:w>
+        <tei:pc xml:id="p11_pc1">.</tei:pc>
+      </tei:p>
+      <tei:p xml:id="p12">
+        <tei:note>[underline:]</tei:note>
+        <tei:w xml:id="p12_w1">Adresse</tei:w>
+        <tei:pc xml:id="p12_pc1">.</tei:pc>
+        <tei:note>[/underline]</tei:note>
+      </tei:p>
+      <tei:p xml:id="p13">
+        <tei:w xml:id="p13_w1">An</tei:w>
+        <tei:w xml:id="p13_w2">den</tei:w>
+        <tei:w xml:id="p13_w3">Königlichen</tei:w>
+        <tei:w xml:id="p13_w4">Kanzleirath</tei:w>
+        <tei:w xml:id="p13_w5">Credé</tei:w>
+        <tei:w xml:id="p13_w6">Straßburg</tei:w>
+        <tei:w xml:id="p13_w7">im</tei:w>
+        <tei:w xml:id="p13_w8">Elsaß</tei:w>
+        <tei:note>[underline:]</tei:note>
+        <tei:w xml:id="p13_w9">Neukirchplatz</tei:w>
+        <tei:w xml:id="p13_w10">10</tei:w>
+        <tei:pc xml:id="p13_pc1">.</tei:pc>
+        <tei:w xml:id="p13_w11">III</tei:w>
+        <tei:pc xml:id="p13_pc2">.</tei:pc>
+        <tei:note>[/underline]</tei:note>
+      </tei:p>
+      <tei:p xml:id="p14">
+        <tei:w xml:id="p14_w1">N</tei:w>
+        <tei:pc xml:id="p14_pc1">.</tei:pc>
+        <tei:w xml:id="p14_w2">S</tei:w>
+        <tei:pc xml:id="p14_pc2">.</tei:pc>
+        <tei:w xml:id="p14_w3">Hast</tei:w>
+        <tei:w xml:id="p14_w4">Du</tei:w>
+        <tei:w xml:id="p14_w5">von</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p14_w6">Albert</tei:w>
+          <tei:w xml:id="p14_w7">Harnickell</tei:w>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p14_w8">nichts</tei:w>
+        <tei:w xml:id="p14_w9">gehört</tei:w>
+        <tei:pc xml:id="p14_pc3">?</tei:pc>
+        <tei:w xml:id="p14_w10">Seit</tei:w>
+        <tei:w xml:id="p14_w11">Jahren</tei:w>
+        <tei:w xml:id="p14_w12">ist</tei:w>
+        <tei:w xml:id="p14_w13">wede</tei:w>
+        <tei:w xml:id="p14_w14">von</tei:w>
+        <tei:w xml:id="p14_w15">Ihm</tei:w>
+        <tei:pc xml:id="p14_pc4">,</tei:pc>
+        <tei:w xml:id="p14_w16">noch</tei:w>
+        <tei:w xml:id="p14_w17">von</tei:w>
+        <tei:w xml:id="p14_w18">seiner</tei:w>
+        <tei:w xml:id="p14_w19">Schwester</tei:w>
+        <tei:note>[roman:]</tei:note>
+        <tei:emph>
+          <tei:w xml:id="p14_w20">Minchen</tei:w>
+        </tei:emph>
+        <tei:note>[/roman]</tei:note>
+        <tei:w xml:id="p14_w21">eine</tei:w>
+        <tei:w xml:id="p14_w22">Nachricht</tei:w>
+        <tei:w xml:id="p14_w23">hierher</tei:w>
+        <tei:w xml:id="p14_w24">gekommen_</tei:w>
+        <tei:pc xml:id="p14_pc5">.</tei:pc>
+      </tei:p>
+    </tei:body>
+  </tei:text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.47.0:model_id=265149:date=17_06_2026_16:51</Creator>
+        <Created>2026-06-16T07:28:59.303+02:00</Created>
+        <LastChange>2026-06-29T22:51:25.767+02:00</LastChange>
+        <TranskribusMetadata docId="16887169" pageId="122411647" pageNr="3" tsid="294342770" status="DONE" userId="542398" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=FIWUWFYNHOPHJKIEYAMGQOLM" xmlUrl="https://files.transkribus.eu/Get?id=OKKKQUIVRGMVDGGMMYOIZDSB" imageId="104018733"/>
+    </Metadata>
+    <Page imageFilename="0003_0326.jpg" imageWidth="3463" imageHeight="4956">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049979859" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1785,215 1960,215 1960,317 1785,317"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1802,288 1927,291 1928,261 1803,258"/>
+                <Baseline points="1802,288 1927,291"/>
+                <TextEquiv>
+                    <Unicode>-3-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="623,466 623,1255 3352,1255 3352,466"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} textStyle {offset:12; length:1;superscript:true;}">
+                <Coords points="603,579 2524,572 2521,470 1298,480 961,358 705,501 600,467"/>
+                <Baseline points="623,530 718,535 813,531 909,534 1004,530 1100,530 1195,530 1291,530 1386,530 1482,536 1577,536 1672,535 1768,530 1863,532 1959,536 2054,536 2150,536 2245,536 2341,536 2436,536 2532,542"/>
+                <TextEquiv>
+                    <Unicode>P.S. den 19.t Febry. morgens vor Abgang der Post.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="603,691 1553,763 1945,678 2173,763 2558,685 2681,746 3212,685 3212,531 2674,637 2248,572 1850,634 603,593"/>
+                <Baseline points="623,663 752,669 882,663 1012,669 1142,663 1272,666 1401,663 1531,666 1661,669 1791,663 1921,663 2050,669 2180,669 2310,669 2440,669 2570,669 2699,675 2829,669 2959,675 3089,672 3219,669"/>
+                <TextEquiv>
+                    <Unicode>Letzte Nacht sehr gut geschlafen, keinen Schuß seit gestern Abend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="610,821 1536,889 2132,821 2248,892 2361,818 2602,886 3348,831 3348,753 3110,715 610,739"/>
+                <Baseline points="628,801 764,801 900,800 1036,796 1172,800 1309,800 1445,796 1581,796 1717,799 1853,801 1990,801 2126,801 2262,801 2398,801 2534,801 2670,801 2807,801 2943,801 3079,803 3215,802 3352,813"/>
+                <TextEquiv>
+                    <Unicode>mehr gehört, keine Bewegung in der Yankee Flotte. So eben lese ich in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="620,1008 3297,974 3297,882 1172,831 620,889"/>
+                <Baseline points="640,928 773,928 906,934 1039,934 1173,929 1306,934 1439,934 1572,934 1706,934 1839,934 1972,934 2105,934 2239,934 2372,934 2505,934 2638,935 2772,940 2905,934 3038,934 3171,940 3305,928"/>
+                <TextEquiv>
+                    <Unicode>ver Vicksburg Zeitung daß wir in Galveston die Brooklyn genommen ha-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="610,1097 937,1131 1039,1104 1100,1141 1240,1073 1645,1100 1645,971 1526,1032 1431,978 1240,1022 1114,974 835,988 797,1025 610,998"/>
+                <Baseline points="628,1067 679,1067 730,1066 781,1062 832,1063 883,1067 934,1067 985,1067 1036,1067 1087,1067 1139,1067 1190,1064 1241,1061 1292,1065 1343,1065 1394,1062 1445,1064 1496,1067 1547,1067 1598,1067 1650,1067"/>
+                <TextEquiv>
+                    <Unicode>ben, ob es wahr ist? Dein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;} textStyle {offset:0; length:7;underlined:true;}">
+                <Coords points="1489,1247 1526,1236 1550,1257 1574,1236 1611,1264 1662,1271 1792,1257 1788,1093 1645,1107 1618,1131 1584,1114 1567,1121 1550,1104 1485,1110"/>
+                <Baseline points="1505,1211 1531,1209 1557,1207 1583,1206 1610,1205 1636,1205 1662,1205 1688,1206 1715,1208 1741,1209 1767,1212 1794,1223"/>
+                <TextEquiv>
+                    <Unicode> Rob V.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

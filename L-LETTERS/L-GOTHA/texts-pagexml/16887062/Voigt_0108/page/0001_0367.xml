@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.47.0:model_id=265149:date=17_06_2026_16:49</Creator>
+        <Created>2026-06-16T07:29:17.493+02:00</Created>
+        <LastChange>2026-06-28T00:20:45.107+02:00</LastChange>
+        <TranskribusMetadata docId="16887062" pageId="122411763" pageNr="1" tsid="294141227" status="DONE" userId="542398" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=UUHHMKGQLVBOAZOWVXKHJUUP" xmlUrl="https://files.transkribus.eu/Get?id=LHJTIOWPXDLHTXFQCXPTSDBV" imageId="104018841"/>
+    </Metadata>
+    <Page imageFilename="0001_0367.jpg" imageWidth="3465" imageHeight="4938">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049975593" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="808,984 808,1583 2570,1583 2570,984"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="802,1078 886,1108 930,1086 1042,1095 1084,1073 1133,1093 1245,1073 1276,1086 1276,1005 1212,1018 1183,998 1100,1018 1049,976 1016,985 992,963 915,994 882,967 851,987 802,972"/>
+                <Baseline points="814,1056 840,1056 866,1056 892,1056 918,1056 944,1056 970,1056 996,1056 1022,1056 1048,1056 1074,1056 1100,1056 1126,1056 1152,1056 1178,1056 1204,1056 1230,1056 1256,1058 1282,1062"/>
+                <TextEquiv>
+                    <Unicode>Briefserie:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} textStyle {offset:0; length:28;underlined:true;}">
+                <Coords points="802,1329 976,1291 1393,1340 1463,1296 1922,1320 1992,1300 1992,1221 800,1186"/>
+                <Baseline points="814,1253 873,1253 932,1255 991,1259 1050,1255 1110,1250 1169,1248 1228,1252 1287,1253 1346,1254 1406,1258 1465,1259 1524,1259 1583,1259 1642,1262 1702,1263 1761,1259 1820,1262 1879,1264 1938,1264 1998,1270"/>
+                <TextEquiv>
+                    <Unicode>Texas History Center / Voigt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="796,1485 2120,1470 2391,1521 2567,1465 2567,1384 796,1408"/>
+                <Baseline points="808,1449 896,1455 984,1455 1072,1455 1160,1455 1248,1455 1336,1461 1424,1461 1512,1460 1600,1455 1689,1456 1777,1460 1865,1456 1953,1461 2041,1461 2129,1461 2217,1461 2305,1459 2393,1457 2481,1463 2570,1466"/>
+                <TextEquiv>
+                    <Unicode>Originalkopien der Briefe von Robert Voigt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="809,1587 893,1571 934,1584 959,1567 996,1584 1071,1565 1265,1604 1265,1485 1230,1479 1166,1505 1097,1479 1034,1507 994,1490 917,1505 809,1488"/>
+                <Baseline points="820,1553 845,1553 870,1553 895,1553 920,1554 945,1556 970,1557 995,1559 1020,1557 1045,1555 1070,1554 1095,1553 1120,1553 1145,1553 1170,1553 1195,1555 1220,1557 1245,1558 1270,1559"/>
+                <TextEquiv>
+                    <Unicode>(1862-1868)</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="2541,1626 2541,1794 2702,1794 2702,1626"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2525,1805 2541,1809 2576,1785 2622,1794 2629,1805 2644,1794 2667,1809 2680,1798 2693,1803 2706,1607 2669,1602 2644,1582 2636,1587 2616,1562 2605,1565 2596,1554 2543,1554"/>
+                <Baseline points="2541,1744 2567,1738 2594,1731 2621,1726 2648,1728 2675,1730 2702,1732"/>
+                <TextEquiv>
+                    <Unicode>.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

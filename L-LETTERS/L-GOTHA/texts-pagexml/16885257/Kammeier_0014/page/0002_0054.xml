@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.47.0:model_id=265149:date=17_06_2026_16:41</Creator>
+        <Created>2026-06-16T03:49:42.108+02:00</Created>
+        <LastChange>2026-08-04T23:30:57.691+02:00</LastChange>
+        <TranskribusMetadata docId="16885257" pageId="122408140" pageNr="2" tsid="299145530" status="DONE" userId="144967" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=XBZVWPPIKQEYVLETTVNAZJYN" xmlUrl="https://files.transkribus.eu/Get?id=XYMTBGEHBZBTNJNNYJFNHCWE" imageId="104015043"/>
+    </Metadata>
+    <Page imageFilename="0002_0054.jpg" imageWidth="3471" imageHeight="4963">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049973332" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="341,129 341,1034 2811,1034 2811,129"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="343,212 361,212 397,194 403,200 427,197 446,212 473,212 491,197 512,197 512,142 458,133 449,124 440,127 400,94 385,94 367,109 343,109"/>
+                <Baseline points="358,196 385,194 412,192 439,190 466,192 493,194 520,196"/>
+                <TextEquiv>
+                    <Unicode>(...)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="324,388 643,333 891,385 1164,312 1282,400 1397,418 1397,224 1149,224 1006,273 815,200 718,233 570,200 518,246 421,194 324,218"/>
+                <Baseline points="341,335 394,327 447,323 500,317 553,311 607,307 660,306 713,306 766,306 819,307 873,311 926,312 979,313 1032,316 1085,316 1139,312 1192,312 1245,311 1298,307 1351,306 1405,306"/>
+                <TextEquiv>
+                    <Unicode>Lebet alle Wohl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="349,634 1103,521 1491,582 2501,512 2501,391 1976,470 1661,394 1519,455 1200,394 785,449 352,373"/>
+                <Baseline points="364,561 471,552 578,549 685,543 792,537 899,534 1006,528 1113,520 1220,513 1327,509 1434,512 1541,519 1648,532 1755,532 1862,535 1969,537 2076,532 2183,524 2290,517 2397,506 2504,497"/>
+                <TextEquiv>
+                    <Unicode>Christoph Richter + Louise Richter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="370,864 1758,755 2798,815 2807,606 1003,661 861,591 667,700 376,706"/>
+                <Baseline points="387,844 508,824 629,810 750,804 871,796 993,791 1114,778 1235,770 1356,762 1477,757 1599,751 1720,754 1841,757 1962,762 2083,757 2205,757 2326,741 2447,729 2568,716 2689,704 2811,688"/>
+                <TextEquiv>
+                    <Unicode>FN: Letzter Viertel unterständig wegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="355,1061 482,1028 509,1052 570,1025 697,1046 958,1012 961,831 831,843 770,879 624,870 515,894 433,861 394,894 358,885"/>
+                <Baseline points="370,1000 399,998 429,995 459,993 489,991 518,990 548,989 578,989 608,989 637,989 667,989 697,989 727,989 756,989 786,989 816,987 846,985 875,983 905,985 935,987 965,989"/>
+                <TextEquiv>
+                    <Unicode>Mottenfraß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

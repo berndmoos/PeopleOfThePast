@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title xml:lang="de">Heinrich Carl Crede und Clothilde Crede an Margarete Classen, 15. Februar 1854</tei:title>
+        <tei:title xml:lang="en">Heinrich Carl Crede and Clothilde Crede to Margarete Classen, February 15, 1854</tei:title>
+        <tei:author>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753085">Angelina/Marie Crede</tei:persName>
+        </tei:author>
+        <tei:respStmt>
+          <tei:persName>
+            <tei:surname>Pertilla</tei:surname>
+            <tei:forename>Atiba</tei:forename>
+          </tei:persName>
+          <tei:persName ref="https://d-nb.info/gnd/130107921">
+            <tei:surname>Schmidt</tei:surname>
+            <tei:forename>Thomas</tei:forename>
+          </tei:persName>
+          <tei:orgName ref="https://www.ghi-dc.org/">German Historical Institute
+                        Washington (GHI)</tei:orgName>
+          <tei:resp>Digitisation and OCRing of original letter, TEI conversion</tei:resp>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <p/>
+      </tei:publicationStmt>
+      <tei:sourceDesc>
+        <tei:listPerson>
+          <tei:person>
+            <tei:persName ref="https://database.factgrid.de/entity/Q1753085">Angelina/Marie Crede</tei:persName>
+            <tei:birth when="1843"/>
+          </tei:person>
+        </tei:listPerson>
+      </tei:sourceDesc>
+    </tei:fileDesc>
+    <tei:profileDesc>
+      <tei:correspDesc>
+        <tei:correspAction type="sent">
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753063">Heinrich Carl Crede</tei:persName>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753064">Clothilde Schröder (Crede)</tei:persName>
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753085">Angelina/Marie Crede</tei:persName>
+          <tei:placeName xml:lang="de" ref="http://www.geonames.org/2892518">Kassel, Hessen</tei:placeName>
+          <tei:placeName xml:lang="en" ref="http://www.geonames.org/2892518">Kassel, Hesse</tei:placeName>
+          <tei:date when="1854-02-15"/>
+        </tei:correspAction>
+        <tei:correspAction type="received">
+          <tei:persName ref="https://database.factgrid.de/entity/Q1753094">Margarete Versen (Schröder Classen)</tei:persName>
+        </tei:correspAction>
+      </tei:correspDesc>
+    </tei:profileDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p xml:id="p11">
+        <tei:note>[page 2, 3rd author (group):]</tei:note>
+      </tei:p>
+      <tei:p xml:id="p12">
+        <tei:w xml:id="p12_w1">Liebe</tei:w>
+        <tei:w xml:id="p12_w2">Großeltern</tei:w>
+        <tei:w xml:id="p12_w3">Es</tei:w>
+        <tei:w xml:id="p12_w4">grüßen</tei:w>
+        <tei:w xml:id="p12_w5">euch</tei:w>
+        <tei:w xml:id="p12_w6">herzlich</tei:w>
+        <tei:w xml:id="p12_w7">eure</tei:w>
+        <tei:w xml:id="p12_w8">Enkel</tei:w>
+        <tei:w xml:id="p12_w9">Maria</tei:w>
+        <tei:w xml:id="p12_w10">Crede</tei:w>
+        <tei:pc xml:id="p12_pc1">.</tei:pc>
+        <tei:w xml:id="p12_w11">Wilhelmine</tei:w>
+        <tei:w xml:id="p12_w12">Crede</tei:w>
+        <tei:pc xml:id="p12_pc2">.</tei:pc>
+        <tei:w xml:id="p12_w13">Therese</tei:w>
+        <tei:w xml:id="p12_w14">Crede</tei:w>
+        <tei:pc xml:id="p12_pc3">.</tei:pc>
+        <tei:w xml:id="p12_w15">Adelheid</tei:w>
+        <tei:w xml:id="p12_w16">Crede</tei:w>
+        <tei:pc xml:id="p12_pc4">.</tei:pc>
+      </tei:p>
+    </tei:body>
+  </tei:text>
+</TEI>

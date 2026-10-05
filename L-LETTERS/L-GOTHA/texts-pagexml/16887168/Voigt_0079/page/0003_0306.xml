@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.47.0:model_id=265149:date=17_06_2026_16:51</Creator>
+        <Created>2026-06-16T07:28:52.025+02:00</Created>
+        <LastChange>2026-06-29T19:52:01.164+02:00</LastChange>
+        <TranskribusMetadata docId="16887168" pageId="122411671" pageNr="3" tsid="294330822" status="DONE" userId="542398" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=DZGQGHILPZVIVQUHXBQWGBCV" xmlUrl="https://files.transkribus.eu/Get?id=BOGBRAOLEBAUYHLYCNRIVAIW" imageId="104018750"/>
+    </Metadata>
+    <Page imageFilename="0003_0306.jpg" imageWidth="3460" imageHeight="4961">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1786049979458" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1772,216 1953,216 1953,321 1772,321"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1790,288 1931,292 1932,262 1791,258"/>
+                <Baseline points="1790,288 1931,292"/>
+                <TextEquiv>
+                    <Unicode>-3-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="599,470 599,1123 3253,1123 3253,470"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} textStyle {offset:0; length:1;italic:true;} textStyle {offset:42; length:1;italic:true;}">
+                <Coords points="594,594 1281,554 1576,621 1686,558 1948,604 2038,558 2366,657 2386,435 2114,478 1643,405 1440,498 1178,421 1035,488 591,448"/>
+                <Baseline points="611,553 700,542 789,536 879,542 968,542 1058,542 1147,541 1236,536 1326,536 1415,536 1505,536 1594,536 1683,536 1773,539 1862,542 1952,542 2041,542 2130,542 2220,546 2309,551 2399,559"/>
+                <TextEquiv>
+                    <Unicode>[Zeichnung seines Zeltes und der Zeltstadt]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="581,806 3249,846 3249,763 2519,730 2336,637 1663,760 581,723"/>
+                <Baseline points="599,801 731,801 864,801 997,801 1129,801 1262,801 1395,801 1527,801 1660,805 1793,806 1926,807 2058,807 2191,807 2324,807 2456,807 2589,807 2722,807 2854,807 2987,807 3120,807 3253,807"/>
+                <TextEquiv>
+                    <Unicode>So eben bekam ich noch die Idee Dir mein Zelt abzuzeichnen, mit der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="581,943 1460,1042 1812,949 2008,1006 2857,972 2857,863 2270,906 2038,820 1815,896 581,896"/>
+                <Baseline points="599,940 712,940 825,940 939,940 1052,940 1165,940 1279,940 1392,935 1505,940 1619,940 1732,940 1845,940 1959,940 2072,940 2185,940 2299,940 2412,940 2525,940 2639,940 2752,940 2866,940"/>
+                <TextEquiv>
+                    <Unicode>nächsten Umgegend – es ist ziemlich 12 Uhr. Schlafe wohl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;} textStyle {offset:2; length:9;underlined:true;}">
+                <Coords points="1563,1122 1686,1092 1716,1118 1742,1112 1802,1168 1845,1165 1898,1128 2061,1168 2058,1012 1945,1029 1892,996 1785,1025 1746,992 1646,1019 1560,1006"/>
+                <Baseline points="1580,1072 1605,1072 1631,1072 1657,1072 1683,1073 1708,1075 1734,1077 1760,1078 1786,1076 1812,1074 1837,1072 1863,1072 1889,1072 1915,1072 1941,1074 1966,1078 1992,1081 2018,1085 2044,1087 2070,1090"/>
+                <TextEquiv>
+                    <Unicode>Dein Robert</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>
