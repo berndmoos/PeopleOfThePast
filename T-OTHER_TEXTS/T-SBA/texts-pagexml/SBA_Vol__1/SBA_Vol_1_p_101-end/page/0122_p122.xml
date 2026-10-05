@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:18.521+02:00</Created>
+        <LastChange>2025-11-04T01:16:35.818+01:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101584141" pageNr="122" tsid="259682505" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=EXNPZFUEKCOMNJTOFAKMEVDC" xmlUrl="https://files.transkribus.eu/Get?id=WMAKOBHEOESGKBANNJVLXLGT" imageId="85201574">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0122_p122.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883576982" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+                <RegionRefIndexed index="3" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1842,343 1999,343 1999,468 1842,468"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="1886,453 1959,449 1957,419 1884,423"/>
+                <Baseline points="1886,453 1959,449"/>
+                <TextEquiv>
+                    <Unicode>//161</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2752,336 2865,336 2865,471 2752,471"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2788,435 2854,431 2852,401 2786,405"/>
+                <Baseline points="2788,435 2854,431"/>
+                <TextEquiv>
+                    <Unicode>195</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="2869,296 3022,296 3022,453 2869,453"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2890,420 2942,420 2942,390 2890,390"/>
+                <Baseline points="2890,420 2942,420"/>
+                <TextEquiv>
+                    <Unicode>199</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:3;} structure {type:item-start;}">
+            <Coords points="1866,369 1866,2074 2998,2074 2998,369"/>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="1858,535 2066,539 2199,509 2496,520 2498,456 2346,482 2221,455 1858,475"/>
+                <Baseline points="1866,513 1897,513 1929,512 1960,510 1992,508 2024,507 2055,507 2087,507 2119,507 2150,506 2182,504 2214,504 2245,504 2277,504 2309,504 2340,504 2372,504 2404,501 2435,501 2467,502 2499,504"/>
+                <TextEquiv>
+                    <Unicode>24 July durch H. Graf von Castell</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="1993,591 2015,582 2146,605 2224,609 2243,600 2282,612 2280,539 2235,549 2196,530 2175,541 2085,530 2071,541 2010,532 1992,541"/>
+                <Baseline points="2001,567 2026,567 2052,567 2078,567 2103,567 2129,567 2155,568 2181,570 2206,572 2232,574 2258,580 2284,582"/>
+                <TextEquiv>
+                    <Unicode>beantwortet Hill</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:2;} textStyle {offset:0; length:24;underlined:true;}">
+                <Coords points="2448,635 2470,648 2706,632 2749,652 2811,627 2922,642 2923,567 2865,581 2840,560 2727,575 2683,562 2615,596 2449,574"/>
+                <Baseline points="2455,627 2481,621 2507,621 2533,620 2559,619 2586,618 2612,618 2638,618 2664,618 2691,616 2717,615 2743,615 2769,614 2795,612 2822,612 2848,613 2874,614 2900,616 2927,618"/>
+                <TextEquiv>
+                    <Unicode>München am 10t Juli 1844</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="2074,796 2120,788 2223,806 2249,787 2335,794 2349,806 2417,798 2419,742 2341,746 2316,727 2263,728 2230,745 2196,738 2134,752 2106,730 2075,735"/>
+                <Baseline points="2081,779 2107,782 2133,780 2159,779 2185,779 2212,778 2238,776 2264,776 2290,776 2317,776 2343,776 2369,776 2395,775 2438,773"/>
+                <TextEquiv>
+                    <Unicode>Hochgeborner Graf:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="1879,909 2938,899 2906,834 1881,872"/>
+                <Baseline points="1887,904 1939,904 1992,904 2045,901 2098,901 2151,900 2204,899 2256,899 2309,899 2362,896 2415,895 2468,893 2521,893 2574,891 2626,890 2679,887 2732,887 2785,886 2838,884 2891,882 2944,878"/>
+                <TextEquiv>
+                    <Unicode>vergeben Sie, dass ein Unbekannter es wagt, sich unmittel-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="1883,990 2912,951 2913,916 2868,910 2599,927 2509,898 2143,944 1885,930"/>
+                <Baseline points="1893,967 1944,966 1995,964 2046,964 2097,962 2148,961 2199,961 2250,958 2301,958 2352,957 2404,955 2455,955 2506,955 2557,952 2608,952 2659,949 2710,948 2761,946 2812,946 2863,943 2915,940"/>
+                <TextEquiv>
+                    <Unicode>bar an Sie zu wenden in einer Nationalangelegenheit, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="1882,1040 2925,1017 2913,962 1883,990"/>
+                <Baseline points="1890,1027 1944,1027 1999,1026 2054,1024 2108,1024 2163,1024 2218,1021 2272,1021 2327,1019 2382,1018 2436,1015 2491,1015 2546,1014 2600,1012 2655,1009 2710,1006 2764,1006 2819,1006 2874,1004 2929,1006"/>
+                <TextEquiv>
+                    <Unicode>ihn seit vierzig Jahren, seit der grossen Secularisation,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="1876,1109 2898,1077 2880,1038 2734,1026 1878,1069"/>
+                <Baseline points="1884,1090 1934,1090 1985,1088 2036,1087 2087,1087 2138,1087 2188,1084 2239,1083 2290,1080 2341,1078 2392,1078 2442,1078 2493,1078 2544,1075 2595,1074 2646,1072 2696,1071 2747,1069 2798,1067 2849,1063 2900,1063"/>
+                <TextEquiv>
+                    <Unicode>Mediatisirung und Besitzumstaltung im gemeinsamen deut-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:8;} textStyle {offset:54; length:3;underlined:true;}">
+                <Coords points="1879,1163 2930,1147 2915,1081 1881,1120"/>
+                <Baseline points="1887,1152 1939,1150 1991,1149 2044,1146 2096,1146 2149,1145 2201,1143 2253,1143 2306,1140 2358,1140 2411,1139 2463,1137 2515,1135 2568,1134 2620,1131 2673,1128 2725,1128 2777,1128 2830,1128 2882,1126 2935,1126"/>
+                <TextEquiv>
+                    <Unicode>schen Vaterland (1803/28041, gar häufig beschäftigte, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:9;} textStyle {offset:0; length:21;underlined:true;}">
+                <Coords points="1883,1243 2934,1200 2936,1154 2799,1143 1886,1179"/>
+                <Baseline points="1893,1215 1945,1212 1997,1209 2049,1209 2102,1206 2154,1205 2206,1203 2258,1203 2311,1200 2363,1200 2415,1197 2467,1197 2520,1195 2572,1194 2624,1194 2676,1191 2729,1190 2781,1188 2833,1186 2885,1185 2938,1182"/>
+                <TextEquiv>
+                    <Unicode>deutsche Auswanderung, zuerst den bedrückten Gewissen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:10;}">
+                <Coords points="1892,1293 2915,1265 2888,1208 1893,1243"/>
+                <Baseline points="1899,1275 1952,1274 2006,1272 2059,1269 2113,1269 2167,1266 2220,1266 2274,1264 2328,1263 2381,1260 2435,1260 2488,1259 2542,1257 2596,1255 2649,1251 2703,1251 2757,1250 2810,1248 2864,1246 2918,1242"/>
+                <TextEquiv>
+                    <Unicode>den politisch Verfolgten in den Religions--und, im west-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:11;}">
+                <Coords points="1889,1346 2905,1312 2898,1265 1890,1304"/>
+                <Baseline points="1896,1338 1946,1335 1997,1333 2047,1332 2098,1332 2149,1326 2199,1326 2250,1326 2301,1325 2351,1321 2402,1320 2453,1320 2503,1317 2554,1317 2605,1314 2655,1314 2706,1313 2757,1311 2807,1309 2858,1308 2909,1308"/>
+                <TextEquiv>
+                    <Unicode>pfälischen Frieden als das flebile beneficium enigrandi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:12;}">
+                <Coords points="1889,1409 2531,1408 2744,1371 2955,1396 2957,1318 1890,1368"/>
+                <Baseline points="1896,1397 1949,1393 2002,1391 2055,1391 2108,1388 2161,1387 2214,1385 2268,1385 2321,1383 2374,1382 2427,1379 2480,1378 2533,1376 2586,1374 2640,1373 2693,1373 2746,1370 2799,1369 2852,1367 2905,1365 2959,1364"/>
+                <TextEquiv>
+                    <Unicode>eingeräumt. Seit dem März 1832, als königlich bayerischer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:13;} textStyle {offset:16; length:1;italic:true;}">
+                <Coords points="1889,1465 2869,1458 2870,1394 2799,1382 2716,1411 1890,1423"/>
+                <Baseline points="1896,1454 1944,1454 1993,1454 2042,1453 2091,1451 2140,1449 2189,1446 2237,1445 2286,1445 2335,1442 2384,1442 2433,1439 2482,1439 2531,1438 2579,1435 2628,1433 2677,1433 2726,1431 2775,1428 2824,1427 2873,1427"/>
+                <TextEquiv>
+                    <Unicode>Gesandter in Hannover, seit Jänuar 1839 bei den freien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:14;}">
+                <Coords points="1888,1536 2994,1489 2994,1455 2919,1450 1889,1494"/>
+                <Baseline points="1896,1517 1951,1515 2006,1514 2061,1514 2116,1511 2171,1509 2226,1508 2281,1505 2336,1504 2391,1502 2447,1500 2502,1499 2557,1496 2612,1495 2667,1493 2722,1490 2777,1490 2832,1489 2887,1487 2942,1487 2998,1487"/>
+                <TextEquiv>
+                    <Unicode>Hansestadten Lübeck, Bremen und Hamburg beglaubiget, bildete</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:15;}">
+                <Coords points="1895,1582 2827,1564 2829,1516 1896,1550"/>
+                <Baseline points="1902,1577 1948,1577 1994,1576 2041,1573 2087,1571 2134,1571 2180,1570 2227,1568 2273,1566 2320,1565 2366,1563 2412,1562 2459,1560 2505,1559 2552,1557 2598,1556 2645,1553 2691,1553 2738,1550 2784,1550 2831,1550"/>
+                <TextEquiv>
+                    <Unicode>die Auswanderung einen sehr frequenten Theil meiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:16;}">
+                <Coords points="1895,1649 2965,1625 2966,1580 1896,1593"/>
+                <Baseline points="1902,1636 1955,1635 2008,1633 2061,1633 2115,1630 2168,1630 2221,1627 2275,1627 2328,1627 2381,1622 2435,1621 2488,1620 2541,1618 2594,1616 2648,1612 2701,1612 2754,1609 2808,1609 2861,1607 2914,1606 2968,1609"/>
+                <TextEquiv>
+                    <Unicode>currenten Geschäfte.Ich glaube, dass meine Erfahrungen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:17;}">
+                <Coords points="1903,1706 2391,1717 2640,1676 2801,1708 2911,1700 2925,1650 1903,1671"/>
+                <Baseline points="1911,1696 1961,1696 2012,1694 2063,1693 2114,1693 2165,1690 2215,1690 2266,1687 2317,1687 2368,1685 2419,1682 2469,1681 2520,1678 2571,1675 2622,1674 2673,1672 2723,1672 2774,1670 2825,1669 2876,1666 2927,1663"/>
+                <TextEquiv>
+                    <Unicode>Vorstellungen nicht wenig beitrugen, die fragliche Ange-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:18;}">
+                <Coords points="1899,1769 2766,1753 2893,1743 2895,1694 1900,1729"/>
+                <Baseline points="1908,1756 1957,1759 2006,1756 2056,1755 2105,1753 2155,1752 2204,1748 2254,1747 2303,1745 2353,1744 2402,1744 2451,1741 2501,1740 2550,1738 2600,1737 2649,1735 2699,1733 2748,1732 2798,1730 2847,1729 2897,1732"/>
+                <TextEquiv>
+                    <Unicode>legenheit in Bremen auf einen Fuss zu setzen, wie sie,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:19;} textStyle {offset:51; length:1;superscript:true;}">
+                <Coords points="1900,1836 2193,1814 2260,1846 2659,1800 2706,1832 2965,1794 2945,1743 1902,1785"/>
+                <Baseline points="1908,1818 1961,1816 2014,1815 2067,1812 2120,1812 2173,1809 2226,1808 2279,1806 2332,1804 2385,1803 2438,1803 2491,1800 2544,1796 2597,1795 2650,1795 2703,1795 2756,1792 2809,1791 2862,1789 2915,1787 2968,1786"/>
+                <TextEquiv>
+                    <Unicode>(zumal seit dem musterhaften Senatsverfügungen am 8t April</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:20;} textStyle {offset:14; length:1;superscript:true;}">
+                <Coords points="1900,1899 2916,1868 2966,1829 1902,1836"/>
+                <Baseline points="1908,1878 1961,1876 2014,1875 2067,1875 2120,1872 2173,1871 2226,1869 2279,1867 2332,1866 2385,1866 2438,1863 2491,1860 2544,1858 2597,1857 2650,1857 2703,1854 2756,1851 2809,1850 2862,1846 2915,1847 2968,1845"/>
+                <TextEquiv>
+                    <Unicode>1840 und vom 6t Juni 1842) noch nie und nirgend war, wess-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:21;}">
+                <Coords points="1902,1954 2976,1928 2988,1868 1903,1907"/>
+                <Baseline points="1911,1941 1964,1938 2018,1937 2072,1935 2126,1933 2180,1932 2234,1932 2288,1929 2342,1927 2396,1926 2450,1923 2503,1923 2557,1920 2611,1918 2665,1917 2719,1917 2773,1914 2827,1913 2881,1911 2935,1909 2989,1908"/>
+                <TextEquiv>
+                    <Unicode>halb auch Bremen von Seite sämtlicher königlich bayerischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:22;}">
+                <Coords points="1900,2013 2944,1985 2945,1936 2895,1925 2694,1964 2323,1933 2248,1970 1902,1964"/>
+                <Baseline points="1908,2001 1962,1998 2017,1998 2072,1997 2126,1993 2181,1992 2236,1992 2290,1988 2345,1986 2400,1986 2454,1983 2509,1982 2564,1980 2618,1978 2673,1977 2728,1974 2782,1974 2837,1974 2892,1972 2947,1968"/>
+                <TextEquiv>
+                    <Unicode>Behörden vor allen andern begünstiget wird, als derjenige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_26" custom="readingOrder {index:23;}">
+                <Coords points="1900,2064 2257,2104 2483,2050 2730,2074 2944,2039 2894,1989 2727,1985 1902,2024"/>
+                <Baseline points="1908,2060 1962,2060 2017,2057 2072,2057 2126,2055 2181,2054 2236,2051 2290,2048 2345,2046 2400,2045 2454,2042 2509,2041 2564,2039 2618,2039 2673,2036 2728,2036 2782,2032 2837,2032 2892,2031 2947,2028"/>
+                <TextEquiv>
+                    <Unicode>Einschiffungsplatz, welcher die meisten Garantieen darbie-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

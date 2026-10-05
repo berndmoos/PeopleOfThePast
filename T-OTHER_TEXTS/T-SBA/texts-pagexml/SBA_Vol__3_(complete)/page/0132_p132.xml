@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=39995:lm=none:date=29_10_2025_17:00</Creator>
+        <Created>2025-10-10T22:22:14.285+02:00</Created>
+        <LastChange>2026-06-03T05:42:44.926+02:00</LastChange>
+        <TranskribusMetadata docId="11233159" pageId="104147933" pageNr="132" tsid="290528018" status="DONE" userId="531018" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=QDDRPRYENHFMHYYPGUZFUILV" xmlUrl="https://files.transkribus.eu/Get?id=MSRBAMDKROOGCEAJCKEDIBFW" imageId="87396516">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0132_p132.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883594837" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2911,319 3049,319 3049,366 2911,366"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2942,402 2966,407 2981,392 2998,395 3011,383 3030,383 3032,300 3009,310 2986,312 2965,325 2943,326"/>
+                <Baseline points="2950,358 2978,356 3006,355 3034,355"/>
+                <TextEquiv>
+                    <Unicode>130</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="3057,282 3186,282 3186,358 3057,358"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3066,353 3084,358 3097,350 3119,358 3134,352 3143,362 3153,362 3158,277 3143,280 3136,273 3126,283 3118,285 3109,280 3105,284 3082,262 3073,262"/>
+                <Baseline points="3076,328 3103,326 3131,324 3159,322"/>
+                <TextEquiv>
+                    <Unicode>197</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="2004,319 2004,1126 3085,1126 3085,319"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1999,518 3061,504 3062,429 2474,458 2367,418 2234,440 2195,402 2129,441 2000,418"/>
+                <Baseline points="2007,489 2059,490 2112,489 2165,489 2218,489 2271,488 2324,487 2376,489 2429,487 2482,486 2535,486 2588,486 2641,486 2694,484 2746,483 2799,486 2852,483 2905,483 2958,483 3011,483 3064,480"/>
+                <TextEquiv>
+                    <Unicode>Commisserium künftig nur in eine Hand zu legen. Indem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1996,568 2992,563 2992,498 2950,495 2631,525 1996,509"/>
+                <Baseline points="2004,558 2053,558 2103,555 2152,555 2202,555 2251,554 2301,552 2350,552 2400,552 2449,552 2499,552 2549,552 2598,552 2648,549 2697,549 2747,549 2796,549 2846,549 2895,547 2945,546 2995,546"/>
+                <TextEquiv>
+                    <Unicode>ich dem Herrn Kammerdirecktor Kröber hierdurch für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="1996,636 3050,633 3024,553 1998,586"/>
+                <Baseline points="2004,621 2056,621 2108,621 2161,621 2213,620 2266,618 2318,618 2370,618 2423,618 2475,618 2528,615 2580,615 2632,615 2685,615 2737,615 2790,615 2842,612 2894,612 2947,612 2999,612 3052,609"/>
+                <TextEquiv>
+                    <Unicode>meinen Theil verbindlichst danke für seine seitherige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="1996,725 2835,687 3080,720 3067,638 1998,642"/>
+                <Baseline points="2004,689 2058,686 2112,686 2166,686 2220,686 2274,683 2328,683 2382,683 2436,683 2490,683 2544,683 2598,680 2652,680 2706,680 2760,680 2814,680 2868,677 2922,677 2976,677 3030,675 3085,677"/>
+                <TextEquiv>
+                    <Unicode>Mitwirkung in der Commission, ertheile ich meine Stimme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="2004,774 3001,759 3001,702 2950,695 2006,717"/>
+                <Baseline points="2013,752 2062,752 2112,752 2161,752 2211,751 2260,749 2310,749 2359,747 2409,746 2458,746 2508,746 2558,746 2607,746 2657,746 2706,746 2756,745 2805,743 2855,743 2904,743 2954,740 3004,740"/>
+                <TextEquiv>
+                    <Unicode>zur Fortführung der Geschäfte dem Herrn Justizrath</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="2003,832 3028,824 3049,757 2004,783"/>
+                <Baseline points="2010,815 2062,815 2114,815 2166,815 2218,815 2270,815 2322,815 2374,815 2426,812 2478,812 2531,811 2583,811 2635,810 2687,809 2739,809 2791,809 2843,808 2895,806 2947,806 2999,806 3052,806"/>
+                <TextEquiv>
+                    <Unicode>von Meibom in Gotha mit dem Ersuchen des Commissorium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="2002,902 3046,889 3046,830 3003,821 2838,855 2003,845"/>
+                <Baseline points="2010,884 2064,884 2119,884 2174,884 2228,884 2283,881 2338,881 2392,878 2447,878 2502,878 2556,878 2611,878 2666,878 2720,876 2775,875 2830,872 2884,872 2939,872 2994,872 3049,869"/>
+                <TextEquiv>
+                    <Unicode>anzunehmen, die nöthige Vollmacht baldigst zu entwer-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="2002,978 2160,954 2759,967 2774,902 2003,902"/>
+                <Baseline points="2010,952 2048,952 2086,950 2125,949 2163,949 2201,949 2240,949 2278,949 2316,949 2355,947 2393,946 2431,946 2470,946 2508,943 2546,943 2585,943 2623,943 2661,943 2700,943 2738,943 2777,940"/>
+                <TextEquiv>
+                    <Unicode>fen, und demnächst in Zirkal zu setzen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="2203,1041 2271,1031 2433,1056 2508,1021 2621,1035 2622,959 2522,960 2483,982 2443,962 2355,978 2205,960"/>
+                <Baseline points="2210,1015 2235,1015 2261,1015 2287,1015 2313,1015 2339,1015 2365,1014 2391,1013 2417,1012 2443,1012 2469,1010 2495,1009 2521,1009 2547,1009 2573,1009 2599,1009 2625,1009"/>
+                <TextEquiv>
+                    <Unicode>Neu Wied 25 Nov 1854.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="2585,1113 2693,1114 2736,1143 2773,1121 2804,1137 2828,1117 3007,1114 3008,1040 2924,1035 2865,1066 2809,1067 2742,1058 2704,1033 2641,1062 2586,1028"/>
+                <Baseline points="2592,1108 2618,1108 2644,1108 2670,1107 2696,1105 2722,1105 2748,1105 2774,1105 2801,1105 2827,1105 2853,1104 2879,1102 2905,1102 2931,1102 2957,1102 2983,1101 3010,1099"/>
+                <TextEquiv>
+                    <Unicode>Herman Fürst z. Wied</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

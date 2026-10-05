@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.49.0:model_id=50870:lm=none:date=15_07_2026_01:53</Creator>
+        <Created>2025-10-10T22:23:04.521+02:00</Created>
+        <LastChange>2026-07-15T02:10:34.283+02:00</LastChange>
+        <TranskribusMetadata docId="11233179" pageId="104148186" pageNr="129" tsid="296054307" status="DONE" userId="490466" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=IOVLRFPZZELQVNQRJLOZTALC" xmlUrl="https://files.transkribus.eu/Get?id=FTSACSOCRTJWPTZDMIBQPEJW" imageId="87396702">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0129_p129.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883603593" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="2929,243 2929,396 3019,396 3019,243"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2923,371 2948,361 2955,366 2988,371 3006,356 3016,358 3018,287 3002,290 2997,286 2984,298 2975,291 2965,299 2963,295 2955,304 2924,306"/>
+                <Baseline points="2929,346 2959,344 2989,343 3019,343"/>
+                <TextEquiv>
+                    <Unicode>204</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="2010,512 2010,651 2947,651 2947,512"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2004,582 2470,601 2556,562 2735,590 2944,560 2945,483 2509,516 2466,482 2092,530 2006,497"/>
+                <Baseline points="2010,567 2056,564 2103,564 2150,561 2197,561 2244,560 2291,558 2337,557 2384,555 2431,555 2478,555 2525,555 2572,555 2619,553 2665,552 2712,552 2759,550 2806,549 2853,546 2900,546 2947,543"/>
+                <TextEquiv>
+                    <Unicode>Diese Seite zu Anfang falsch numeriert, heisst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2008,660 2088,666 2136,635 2186,666 2231,664 2255,643 2435,673 2439,585 2402,580 2386,596 2316,583 2187,613 2140,587 2012,580"/>
+                <Baseline points="2016,636 2042,633 2069,631 2095,630 2122,630 2148,629 2175,627 2201,627 2228,627 2254,627 2281,626 2307,624 2334,620 2360,619 2387,620 2413,621 2440,621"/>
+                <TextEquiv>
+                    <Unicode>jetzt --- 223----</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:18.166+02:00</Created>
+        <LastChange>2025-11-04T01:16:07.513+01:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101584120" pageNr="119" tsid="259682489" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=EOGCADYKHJFYTEGNEDYROZGT" xmlUrl="https://files.transkribus.eu/Get?id=INEMDVPQBFEYMHEJUQBPZDRN" imageId="85201553">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0119_p119.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883576964" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2722,343 2836,343 2836,439 2722,439"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2744,417 2803,413 2801,383 2742,387"/>
+                <Baseline points="2744,417 2803,413"/>
+                <TextEquiv>
+                    <Unicode>192</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2839,289 2985,289 2985,435 2839,435"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2858,409 2898,406 2896,376 2856,379"/>
+                <Baseline points="2858,409 2908,406"/>
+                <TextEquiv>
+                    <Unicode>196</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1860,342 1860,911 2929,911 2929,342"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1851,582 2910,557 2911,490 2871,483 2622,528 2490,498 1852,527"/>
+                <Baseline points="1860,558 1912,558 1965,558 2017,555 2070,555 2123,555 2175,555 2228,553 2280,552 2333,552 2386,552 2438,551 2491,549 2543,549 2596,549 2649,546 2701,546 2754,546 2806,544 2859,541 2912,540"/>
+                <TextEquiv>
+                    <Unicode>verursacht worden, ersucht man gefälligst von der Post zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1859,648 1878,650 1889,642 1903,650 1979,626 2050,627 2052,578 2020,579 2009,588 1981,578 1937,597 1924,597 1904,582 1860,584"/>
+                <Baseline points="1866,621 1892,621 1919,621 1946,621 1973,620 2000,619 2027,618 2054,618"/>
+                <TextEquiv>
+                    <Unicode>entnehmen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="1942,689 2137,710 2534,671 2713,701 2706,630 2568,650 2342,615 2256,648 1943,657"/>
+                <Baseline points="1950,680 1988,680 2026,678 2065,677 2103,676 2141,675 2180,675 2218,675 2256,673 2295,674 2333,674 2371,672 2410,672 2448,672 2486,672 2525,670 2563,671 2601,671 2640,669 2678,669 2717,669"/>
+                <TextEquiv>
+                    <Unicode>Mit der Versicherung schuldiger Verehrung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="2046,749 2837,742 2837,690 2633,714 2530,688 2046,700"/>
+                <Baseline points="2054,740 2093,737 2132,737 2171,737 2211,737 2250,737 2289,735 2329,734 2368,733 2407,731 2447,731 2486,731 2525,731 2564,731 2604,729 2643,728 2682,728 2722,728 2761,727 2800,725 2840,725"/>
+                <TextEquiv>
+                    <Unicode>Waldenburg (in Sachsen) den 28. Juni 1844.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="2170,814 2350,833 2398,800 2590,832 2652,799 2808,796 2809,764 2171,756"/>
+                <Baseline points="2177,797 2208,797 2240,797 2271,797 2303,797 2335,796 2366,794 2398,794 2430,792 2461,792 2493,794 2525,792 2556,791 2588,791 2620,791 2651,790 2683,788 2715,788 2746,788 2778,788 2810,788"/>
+                <TextEquiv>
+                    <Unicode>Fürstlich Schönburgsche Hofkanzlei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="2413,921 2424,918 2435,927 2448,927 2467,920 2479,932 2500,936 2566,934 2567,862 2534,868 2492,861 2485,866 2449,857 2432,866 2414,865"/>
+                <Baseline points="2422,890 2451,890 2481,890 2511,888 2541,887 2571,887"/>
+                <TextEquiv>
+                    <Unicode>Förster</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

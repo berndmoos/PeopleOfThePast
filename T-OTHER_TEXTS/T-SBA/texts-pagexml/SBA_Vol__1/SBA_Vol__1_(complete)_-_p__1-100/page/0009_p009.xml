@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_17:53</Creator>
+        <Created>2025-08-12T17:15:21.037+02:00</Created>
+        <LastChange>2025-12-03T21:25:07.820+01:00</LastChange>
+        <TranskribusMetadata docId="10053002" pageId="101583666" pageNr="9" tsid="263611610" status="DONE" userId="144967" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=EMAYWMAORWQXDXPVSMGNKFHZ" xmlUrl="https://files.transkribus.eu/Get?id=QQICHBOZYEFJUOPVBGVZEFHC" imageId="85201151">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0009_p009.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1787002854363" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="3011,351 3102,351 3102,446 3011,446"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3022,439 3080,439 3080,409 3022,409"/>
+                <Baseline points="3022,439 3080,439"/>
+                <TextEquiv>
+                    <Unicode>VI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TableRegion id="t" custom="readingOrder {index:1;}">
+            <Coords points="1970,447 3161,447 3161,2172 1970,2172"/>
+            <TableCell row="0" col="0" rowSpan="1" colSpan="1" id="c_25" custom="structure {type:TOC-entry;}">
+                <Coords points="1970,447 1970,576 3007,576 3007,447"/>
+                <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                    <Coords points="2026,508 2918,502 2918,437 2663,471 2026,468"/>
+                    <Baseline points="2033,489 2077,489 2121,489 2166,486 2210,486 2255,483 2299,486 2343,486 2388,486 2432,489 2477,486 2521,486 2565,489 2610,489 2654,489 2699,489 2743,489 2787,489 2832,491 2876,492 2921,492"/>
+                    <TextEquiv>
+                        <Unicode>Einladung zur Privatsubscription, im Auftrage</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                    <Coords points="2152,531 2882,540 2860,498 2152,500"/>
+                    <Baseline points="2159,522 2195,520 2231,519 2267,519 2304,519 2340,519 2376,519 2413,521 2449,522 2485,522 2522,522 2558,522 2594,522 2630,522 2667,523 2703,525 2739,522 2776,524 2812,525 2848,526 2885,528"/>
+                    <TextEquiv>
+                        <Unicode>des Ausschusses, Mainz, den 13. Juni,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                    <Coords points="2150,586 2209,562 2263,573 2327,555 2452,562 2501,585 2589,577 2589,534 2570,527 2291,525 2252,544 2233,526 2150,531"/>
+                    <Baseline points="2156,555 2181,555 2207,555 2232,555 2258,554 2284,552 2309,553 2335,555 2361,553 2386,552 2412,554 2438,555 2463,555 2489,554 2515,552 2540,554 2566,556 2592,558"/>
+                    <TextEquiv>
+                        <Unicode>1844, an die Aktionäre</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="1" rowSpan="1" colSpan="1" id="c_27" custom="structure {type:TOC-pageref;}">
+                <Coords points="3007,447 3007,576 3161,576 3161,447"/>
+                <TextLine id="tr_4_tl_1" custom="readingOrder {index:0;}">
+                    <Coords points="3027,569 3090,568 3096,574 3110,572 3141,592 3151,585 3178,596 3182,519 3139,519 3124,510 3100,531 3030,528"/>
+                    <Baseline points="3034,561 3063,558 3093,558 3123,556 3153,554 3183,552"/>
+                    <TextEquiv>
+                        <Unicode>185</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="0" rowSpan="1" colSpan="1" id="c_39" custom="structure {type:TOC-entry;}">
+                <Coords points="1970,576 1970,717 3007,717 3007,576"/>
+                <TextLine id="tr_3_tl_4" custom="readingOrder {index:0;}">
+                    <Coords points="2026,631 2934,636 2934,597 2860,587 2026,592"/>
+                    <Baseline points="2033,624 2078,621 2123,621 2168,621 2213,621 2258,621 2303,621 2348,621 2393,621 2438,621 2484,621 2529,618 2574,618 2619,624 2664,621 2709,621 2754,621 2799,621 2844,624 2889,624 2935,624"/>
+                    <TextEquiv>
+                        <Unicode>Friedrich Hühn, Altendorf bey Holzminden, Her-</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_5" custom="readingOrder {index:1;}">
+                    <Coords points="2146,664 2742,658 2834,679 2812,631 2146,633"/>
+                    <Baseline points="2153,651 2187,653 2221,654 2255,654 2289,654 2324,654 2358,654 2392,654 2426,654 2460,654 2495,654 2529,655 2563,657 2597,654 2631,656 2666,656 2700,655 2734,657 2768,657 2802,658 2837,660"/>
+                    <TextEquiv>
+                        <Unicode>zogthum Braunschweig, den 14. Juni,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_6" custom="readingOrder {index:2;}">
+                    <Coords points="2150,709 2270,690 2338,714 2405,693 2493,723 2745,699 2745,668 2692,662 2150,662"/>
+                    <Baseline points="2156,686 2185,686 2215,687 2244,689 2274,687 2303,686 2333,686 2362,686 2392,686 2421,686 2451,686 2481,687 2510,689 2540,687 2569,686 2599,686 2628,686 2658,687 2687,689 2717,691 2747,695"/>
+                    <TextEquiv>
+                        <Unicode>1844, an die Vereinsverwaltung</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="1" rowSpan="1" colSpan="1" id="c_41" custom="structure {type:TOC-pageref;}">
+                <Coords points="3007,576 3007,717 3161,717 3161,576"/>
+                <TextLine id="tr_4_tl_2" custom="readingOrder {index:0;}">
+                    <Coords points="3018,695 3047,707 3067,698 3079,708 3118,702 3163,725 3175,713 3184,714 3190,639 3165,649 3153,645 3135,656 3123,652 3107,662 3086,648 3070,649 3053,661 3042,657 3020,668"/>
+                    <Baseline points="3025,692 3052,692 3079,692 3107,691 3134,687 3161,685 3189,683"/>
+                    <TextEquiv>
+                        <Unicode>187</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="0" rowSpan="1" colSpan="1" id="c_56" custom="structure {type:TOC-entry;}">
+                <Coords points="1970,717 1970,807 3007,807 3007,717"/>
+                <TextLine id="tr_3_tl_7" custom="readingOrder {index:0;}">
+                    <Coords points="2026,760 2891,763 2891,726 2371,702 2026,729"/>
+                    <Baseline points="2033,749 2076,752 2119,755 2162,752 2205,752 2248,752 2291,752 2334,752 2377,752 2420,754 2463,753 2506,752 2549,752 2592,752 2635,753 2678,755 2721,755 2764,755 2807,755 2850,756 2894,758"/>
+                    <TextEquiv>
+                        <Unicode>Wm. Pringle, London, den 22. Juni, 1844, an</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_8" custom="readingOrder {index:1;}">
+                    <Coords points="2146,793 2411,810 2582,792 2629,814 2819,798 2819,769 2784,758 2146,766"/>
+                    <Baseline points="2153,788 2186,788 2219,787 2253,785 2286,785 2320,785 2353,785 2387,786 2420,788 2454,786 2487,786 2520,788 2554,788 2587,790 2621,790 2654,788 2688,788 2721,788 2755,788 2788,788 2822,788"/>
+                    <TextEquiv>
+                        <Unicode>Graf Carl von Castell [Englisch]</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="1" rowSpan="1" colSpan="1" id="c_58" custom="structure {type:TOC-pageref;}">
+                <Coords points="3007,717 3007,807 3161,807 3161,717"/>
+                <TextLine id="tr_4_tl_3" custom="readingOrder {index:0;}">
+                    <Coords points="3023,811 3035,805 3053,810 3098,794 3110,807 3119,802 3151,819 3185,797 3189,735 3142,748 3092,742 3077,751 3070,745 3050,752 3025,749"/>
+                    <Baseline points="3031,791 3057,791 3083,789 3110,787 3136,786 3162,785 3189,785"/>
+                    <TextEquiv>
+                        <Unicode>189</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="0" rowSpan="1" colSpan="1" id="c_76" custom="structure {type:TOC-entry;}">
+                <Coords points="1970,807 1970,945 3007,945 3007,807"/>
+                <TextLine id="tr_3_tl_9" custom="readingOrder {index:0;}">
+                    <Coords points="2026,859 2848,869 2879,863 2878,823 2025,823"/>
+                    <Baseline points="2033,848 2075,845 2117,850 2160,851 2202,851 2245,851 2287,851 2330,851 2372,851 2415,851 2457,851 2499,852 2542,854 2584,854 2627,853 2669,851 2712,854 2754,854 2797,854 2839,854 2882,857"/>
+                    <TextEquiv>
+                        <Unicode>Fürstlich Schönburgsche Hofkanzlei, Walden-</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_10" custom="readingOrder {index:1;}">
+                    <Coords points="2146,890 2858,897 2838,859 2742,879 2643,857 2146,858"/>
+                    <Baseline points="2153,884 2188,884 2223,884 2259,884 2294,884 2330,884 2365,884 2400,884 2436,885 2471,887 2507,887 2542,885 2577,884 2613,885 2648,887 2684,887 2719,889 2754,889 2790,887 2825,887 2861,890"/>
+                    <TextEquiv>
+                        <Unicode>burg in Sachsen, den 28. Juni, 1844,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_11" custom="readingOrder {index:2;}">
+                    <Coords points="2144,946 2245,923 2330,949 2441,928 2557,951 2631,940 2631,894 2144,893"/>
+                    <Baseline points="2150,919 2175,919 2200,919 2226,919 2251,919 2277,919 2302,919 2328,919 2353,919 2379,919 2404,919 2430,919 2455,919 2481,919 2506,919 2532,919 2557,919 2583,919 2608,920 2634,922"/>
+                    <TextEquiv>
+                        <Unicode>an die Vereinsverwaltung</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="1" rowSpan="1" colSpan="1" id="c_78" custom="structure {type:TOC-pageref;}">
+                <Coords points="3007,807 3007,945 3161,945 3161,807"/>
+                <TextLine id="tr_4_tl_4" custom="readingOrder {index:0;}">
+                    <Coords points="3029,934 3052,945 3065,935 3098,953 3123,940 3157,950 3194,939 3198,858 3180,856 3159,867 3149,859 3124,867 3100,863 3089,872 3032,873"/>
+                    <Baseline points="3037,919 3063,922 3090,920 3117,918 3144,914 3171,914 3198,916"/>
+                    <TextEquiv>
+                        <Unicode>191</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="0" rowSpan="1" colSpan="1" id="c_99" custom="structure {type:TOC-entry;}">
+                <Coords points="1970,945 1970,1038 3007,1038 3007,945"/>
+                <TextLine id="tr_3_tl_12" custom="readingOrder {index:0;}">
+                    <Coords points="2026,989 2855,1010 2829,952 2026,955"/>
+                    <Baseline points="2033,982 2074,985 2115,985 2156,983 2198,982 2239,982 2280,984 2321,984 2363,982 2404,982 2445,983 2486,985 2528,985 2569,985 2610,985 2651,985 2693,985 2734,985 2775,985 2816,986 2858,988"/>
+                    <TextEquiv>
+                        <Unicode>Die Vereinsverwaltung, Mainz, den 6. Juli,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_13" custom="readingOrder {index:1;}">
+                    <Coords points="2150,1033 2203,1023 2215,1034 2371,1027 2417,1040 2507,1030 2507,988 2452,1000 2309,986 2267,1003 2233,989 2150,991"/>
+                    <Baseline points="2156,1021 2181,1018 2206,1015 2232,1017 2257,1020 2282,1023 2308,1023 2333,1021 2358,1019 2384,1018 2409,1018 2434,1018 2460,1018 2485,1018 2511,1018"/>
+                    <TextEquiv>
+                        <Unicode>1844 [Englisch]</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="1" rowSpan="1" colSpan="1" id="c_101" custom="structure {type:TOC-pageref;}">
+                <Coords points="3007,945 3007,1038 3161,1038 3161,945"/>
+                <TextLine id="tr_4_tl_5" custom="readingOrder {index:0;}">
+                    <Coords points="3027,1026 3066,1039 3107,1033 3189,1042 3192,962 3184,959 3174,956 3154,971 3107,973 3072,988 3030,989"/>
+                    <Baseline points="3034,1021 3060,1019 3086,1018 3113,1018 3139,1017 3165,1014 3192,1012"/>
+                    <TextEquiv>
+                        <Unicode>193</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="0" rowSpan="1" colSpan="1" id="c_125" custom="structure {type:TOC-entry;}">
+                <Coords points="1970,1038 1970,1135 3007,1135 3007,1038"/>
+                <TextLine id="tr_3_tl_14" custom="readingOrder {index:0;}">
+                    <Coords points="2030,1091 2919,1109 2918,1042 2028,1050"/>
+                    <Baseline points="2036,1084 2080,1081 2124,1084 2168,1081 2213,1081 2257,1081 2301,1078 2345,1081 2390,1081 2434,1081 2478,1081 2522,1084 2567,1084 2611,1084 2655,1084 2699,1084 2744,1084 2788,1084 2832,1084 2876,1084 2921,1087"/>
+                    <TextEquiv>
+                        <Unicode>Joseph Freiherr von Hormayr, München, den 10.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_15" custom="readingOrder {index:1;}">
+                    <Coords points="2150,1126 2231,1145 2330,1119 2416,1141 2558,1123 2609,1146 2759,1144 2759,1092 2734,1089 2150,1089"/>
+                    <Baseline points="2156,1117 2186,1117 2216,1117 2246,1117 2277,1117 2307,1117 2337,1117 2368,1115 2398,1114 2428,1114 2459,1116 2489,1116 2519,1114 2549,1114 2580,1114 2610,1114 2640,1116 2671,1116 2701,1114 2731,1117 2762,1120"/>
+                    <TextEquiv>
+                        <Unicode>Juli, 1844, an Graf von Castell</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="1" rowSpan="1" colSpan="1" id="c_127" custom="structure {type:TOC-pageref;}">
+                <Coords points="3007,1038 3007,1135 3161,1135 3161,1038"/>
+                <TextLine id="tr_4_tl_6" custom="readingOrder {index:0;}">
+                    <Coords points="3027,1142 3102,1134 3110,1128 3141,1141 3161,1134 3168,1141 3183,1138 3184,1069 3147,1081 3123,1074 3108,1083 3092,1071 3076,1079 3061,1068 3047,1077 3029,1074"/>
+                    <Baseline points="3034,1117 3059,1117 3084,1117 3110,1117 3135,1117 3160,1116 3186,1114"/>
+                    <TextEquiv>
+                        <Unicode>195</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="0" rowSpan="1" colSpan="1" id="c_154" custom="structure {type:TOC-entry;}">
+                <Coords points="1970,1135 1970,1239 3007,1239 3007,1135"/>
+                <TextLine id="tr_3_tl_16" custom="readingOrder {index:0;}">
+                    <Coords points="2021,1198 2840,1193 2838,1156 2695,1135 2417,1164 2198,1133 2020,1150"/>
+                    <Baseline points="2028,1179 2068,1179 2109,1179 2150,1179 2191,1179 2231,1179 2272,1179 2313,1179 2354,1180 2394,1182 2435,1182 2476,1179 2517,1179 2557,1181 2598,1182 2639,1182 2680,1180 2720,1179 2761,1180 2802,1184 2843,1185"/>
+                    <TextEquiv>
+                        <Unicode>Der Vereinsdirektor, Mainz, den 19. Juli,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_17" custom="readingOrder {index:1;}">
+                    <Coords points="2126,1243 2179,1246 2250,1219 2339,1242 2414,1221 2625,1225 2625,1194 2572,1183 2477,1198 2444,1184 2244,1199 2126,1187"/>
+                    <Baseline points="2132,1218 2158,1215 2184,1215 2210,1215 2236,1215 2262,1215 2288,1215 2314,1215 2340,1215 2366,1215 2393,1213 2419,1213 2445,1215 2471,1215 2497,1215 2523,1215 2549,1215 2575,1215 2601,1214 2628,1212"/>
+                    <TextEquiv>
+                        <Unicode>1844, an Henry Fr. Fisher</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="1" rowSpan="1" colSpan="1" id="c_156" custom="structure {type:TOC-pageref;}">
+                <Coords points="3007,1135 3007,1239 3161,1239 3161,1135"/>
+                <TextLine id="tr_4_tl_7" custom="readingOrder {index:0;}">
+                    <Coords points="3017,1227 3030,1225 3043,1241 3053,1234 3083,1235 3092,1245 3109,1245 3125,1234 3151,1236 3179,1253 3197,1253 3202,1178 3142,1168 3098,1183 3082,1172 3059,1177 3020,1166"/>
+                    <Baseline points="3025,1215 3050,1215 3076,1215 3101,1213 3127,1211 3152,1209 3178,1206 3204,1203"/>
+                    <TextEquiv>
+                        <Unicode>200</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="0" rowSpan="1" colSpan="1" id="c_186" custom="structure {type:TOC-entry;}">
+                <Coords points="1970,1239 1970,1327 3007,1327 3007,1239"/>
+                <TextLine id="tr_3_tl_18" custom="readingOrder {index:0;}">
+                    <Coords points="2024,1286 2956,1288 2902,1243 2742,1234 2024,1245"/>
+                    <Baseline points="2030,1278 2076,1278 2122,1278 2169,1278 2215,1278 2262,1278 2308,1278 2355,1278 2401,1278 2448,1278 2494,1278 2540,1278 2587,1278 2633,1278 2680,1279 2726,1281 2773,1281 2819,1281 2866,1281 2912,1283 2959,1287"/>
+                    <TextEquiv>
+                        <Unicode>Aufnahmeschein und Diplom des Henry Fr. Fisher,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_19" custom="readingOrder {index:1;}">
+                    <Coords points="2140,1324 2297,1319 2345,1336 2409,1316 2556,1319 2605,1343 2651,1322 2651,1290 2615,1281 2554,1298 2403,1282 2298,1284 2276,1302 2239,1284 2140,1290"/>
+                    <Baseline points="2147,1314 2172,1312 2197,1314 2222,1314 2248,1314 2273,1312 2298,1311 2323,1311 2349,1311 2374,1311 2399,1311 2424,1311 2450,1312 2475,1314 2500,1314 2525,1314 2551,1314 2576,1313 2601,1311 2626,1311 2652,1311"/>
+                    <TextEquiv>
+                        <Unicode>Mainz, den 19. Juli, 1844.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="1" rowSpan="1" colSpan="1" id="c_188" custom="structure {type:TOC-pageref;}">
+                <Coords points="3007,1239 3007,1327 3161,1327 3161,1239"/>
+                <TextLine id="tr_4_tl_8" custom="readingOrder {index:0;}">
+                    <Coords points="3021,1328 3044,1318 3074,1341 3097,1345 3153,1321 3174,1327 3198,1319 3198,1260 3171,1262 3142,1252 3108,1277 3088,1271 3061,1277 3053,1270 3021,1280"/>
+                    <Baseline points="3028,1314 3056,1314 3085,1315 3114,1317 3143,1317 3172,1315 3201,1311"/>
+                    <TextEquiv>
+                        <Unicode>201</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="8" col="0" rowSpan="1" colSpan="1" id="c_221" custom="structure {type:TOC-entry;}">
+                <Coords points="1970,1327 1970,1437 3007,1437 3007,1327"/>
+                <TextLine id="tr_3_tl_20" custom="readingOrder {index:0;}">
+                    <Coords points="2026,1386 2941,1383 2941,1336 2819,1319 2759,1354 2026,1339"/>
+                    <Baseline points="2033,1376 2078,1376 2124,1379 2169,1376 2215,1376 2260,1376 2306,1376 2351,1376 2397,1376 2442,1376 2488,1379 2534,1379 2579,1379 2625,1379 2670,1379 2716,1379 2761,1379 2807,1379 2852,1379 2898,1379 2944,1382"/>
+                    <TextEquiv>
+                        <Unicode>Fritzleben, Rudolstadt, den 30. Juli, 1844, an</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_21" custom="readingOrder {index:1;}">
+                    <Coords points="2146,1434 2178,1442 2196,1428 2221,1440 2235,1426 2268,1431 2288,1417 2311,1429 2328,1418 2389,1419 2389,1382 2334,1392 2323,1383 2300,1389 2286,1378 2240,1389 2146,1383"/>
+                    <Baseline points="2153,1409 2179,1409 2206,1409 2232,1409 2259,1409 2285,1409 2312,1409 2338,1409 2365,1411 2392,1412"/>
+                    <TextEquiv>
+                        <Unicode>Graf Castell</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="8" col="1" rowSpan="1" colSpan="1" id="c_223" custom="structure {type:TOC-pageref;}">
+                <Coords points="3007,1327 3007,1437 3161,1437 3161,1327"/>
+                <TextLine id="tr_4_tl_9" custom="readingOrder {index:0;}">
+                    <Coords points="3023,1434 3048,1434 3061,1422 3089,1424 3100,1416 3127,1418 3148,1431 3161,1423 3179,1438 3203,1435 3204,1363 3149,1372 3118,1361 3079,1370 3064,1365 3045,1379 3024,1372"/>
+                    <Baseline points="3031,1412 3056,1412 3081,1411 3106,1410 3131,1409 3156,1409 3181,1409 3207,1409"/>
+                    <TextEquiv>
+                        <Unicode>202</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="9" col="0" rowSpan="1" colSpan="1" id="c_259" custom="structure {type:TOC-entry;}">
+                <Coords points="1970,1437 1970,1533 3007,1533 3007,1437"/>
+                <TextLine id="tr_3_tl_22" custom="readingOrder {index:0;}">
+                    <Coords points="2021,1487 2987,1487 2985,1438 2135,1453 2020,1426"/>
+                    <Baseline points="2028,1475 2076,1475 2124,1475 2172,1476 2220,1478 2268,1477 2316,1475 2364,1475 2412,1475 2460,1475 2508,1475 2556,1475 2604,1475 2652,1478 2700,1478 2748,1478 2796,1478 2844,1478 2892,1478 2940,1479 2989,1484"/>
+                    <TextEquiv>
+                        <Unicode>A. Martini, Stud. Med., Göttingen, den 1. August,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_23" custom="readingOrder {index:1;}">
+                    <Coords points="2144,1519 2262,1516 2308,1542 2421,1514 2568,1529 2569,1484 2554,1481 2324,1494 2145,1483"/>
+                    <Baseline points="2150,1511 2176,1511 2202,1511 2228,1511 2255,1510 2281,1508 2307,1510 2334,1511 2360,1509 2386,1508 2413,1508 2439,1508 2465,1508 2492,1508 2518,1509 2544,1510 2571,1514"/>
+                    <TextEquiv>
+                        <Unicode>1844, an Graf Castell</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="9" col="1" rowSpan="1" colSpan="1" id="c_261" custom="structure {type:TOC-pageref;}">
+                <Coords points="3007,1437 3007,1533 3161,1533 3161,1437"/>
+                <TextLine id="tr_4_tl_10" custom="readingOrder {index:0;}">
+                    <Coords points="3031,1547 3053,1532 3070,1535 3090,1524 3113,1537 3121,1530 3144,1530 3174,1543 3207,1537 3206,1465 3179,1455 3139,1458 3108,1484 3076,1470 3053,1479 3029,1473"/>
+                    <Baseline points="3037,1511 3065,1511 3094,1511 3123,1511 3152,1513 3181,1514 3210,1514"/>
+                    <TextEquiv>
+                        <Unicode>203</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="0" rowSpan="1" colSpan="1" id="c_300" custom="structure {type:TOC-entry;}">
+                <Coords points="1970,1533 1970,1627 3007,1627 3007,1533"/>
+                <TextLine id="tr_3_tl_24" custom="readingOrder {index:0;}">
+                    <Coords points="2021,1578 2935,1593 2935,1553 2846,1543 2021,1546"/>
+                    <Baseline points="2028,1574 2073,1574 2119,1577 2164,1574 2210,1571 2255,1574 2301,1574 2346,1574 2392,1574 2437,1577 2483,1574 2528,1574 2574,1575 2619,1576 2665,1574 2710,1575 2756,1577 2801,1577 2847,1577 2892,1578 2938,1579"/>
+                    <TextEquiv>
+                        <Unicode>Herman Fürst zu Wied, Neuwied, den 14. August,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_25" custom="readingOrder {index:1;}">
+                    <Coords points="2150,1623 2741,1625 2733,1583 2306,1579 2261,1597 2150,1579"/>
+                    <Baseline points="2156,1609 2185,1609 2214,1609 2244,1609 2273,1609 2303,1609 2332,1609 2361,1609 2391,1609 2420,1609 2450,1607 2479,1606 2508,1606 2538,1606 2567,1605 2597,1603 2626,1606 2655,1609 2685,1607 2714,1607 2744,1609"/>
+                    <TextEquiv>
+                        <Unicode>1844, an die Vereinsverwaltung</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="1" rowSpan="1" colSpan="1" id="c_302" custom="structure {type:TOC-pageref;}">
+                <Coords points="3007,1533 3007,1627 3161,1627 3161,1533"/>
+                <TextLine id="tr_4_tl_11" custom="readingOrder {index:0;}">
+                    <Coords points="3018,1623 3067,1629 3091,1618 3144,1625 3156,1637 3169,1632 3179,1641 3212,1636 3213,1552 3149,1556 3106,1581 3097,1575 3074,1585 3060,1575 3018,1575"/>
+                    <Baseline points="3025,1609 3052,1609 3079,1609 3106,1609 3134,1609 3161,1609 3188,1607 3216,1609"/>
+                    <TextEquiv>
+                        <Unicode>205</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="11" col="0" rowSpan="1" colSpan="1" id="c_344" custom="structure {type:TOC-entry;}">
+                <Coords points="1970,1627 1970,1726 3007,1726 3007,1627"/>
+                <TextLine id="tr_3_tl_26" custom="readingOrder {index:0;}">
+                    <Coords points="2021,1697 2917,1685 2889,1632 2021,1648"/>
+                    <Baseline points="2028,1675 2072,1675 2117,1675 2161,1675 2206,1672 2250,1675 2295,1672 2339,1672 2384,1672 2428,1672 2473,1675 2517,1672 2562,1675 2606,1675 2651,1672 2695,1672 2740,1675 2784,1678 2829,1675 2873,1675 2918,1681"/>
+                    <TextEquiv>
+                        <Unicode>Fritzleben, Rudolstadt, den 28. August, 1844,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_27" custom="readingOrder {index:1;}">
+                    <Coords points="2140,1730 2306,1708 2375,1737 2456,1714 2474,1726 2525,1720 2525,1680 2489,1674 2469,1689 2221,1679 2198,1694 2140,1680"/>
+                    <Baseline points="2147,1708 2172,1708 2197,1708 2223,1708 2248,1708 2274,1708 2299,1708 2325,1708 2350,1708 2376,1708 2401,1708 2427,1708 2452,1708 2478,1708 2503,1708 2529,1708"/>
+                    <TextEquiv>
+                        <Unicode>an Graf von Castell</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="11" col="1" rowSpan="1" colSpan="1" id="c_346" custom="structure {type:TOC-pageref;}">
+                <Coords points="3007,1627 3007,1726 3161,1726 3161,1627"/>
+                <TextLine id="tr_4_tl_12" custom="readingOrder {index:0;}">
+                    <Coords points="3021,1712 3031,1712 3042,1719 3054,1719 3059,1714 3067,1713 3088,1723 3100,1718 3100,1673 3071,1668 3056,1680 3048,1673 3030,1686 3021,1685"/>
+                    <Baseline points="3028,1708 3053,1708 3078,1708 3103,1711"/>
+                    <TextEquiv>
+                        <Unicode>﻿206</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="0" rowSpan="1" colSpan="1" id="c_391" custom="structure {type:TOC-entry;}">
+                <Coords points="1970,1726 1970,1866 3007,1866 3007,1726"/>
+                <TextLine id="tr_3_tl_28" custom="readingOrder {index:0;}">
+                    <Coords points="2024,1779 2974,1783 2974,1736 2920,1725 2663,1755 2024,1744"/>
+                    <Baseline points="2030,1768 2077,1774 2124,1777 2172,1774 2219,1774 2266,1774 2314,1774 2361,1774 2408,1774 2456,1775 2503,1775 2550,1774 2598,1774 2645,1774 2692,1774 2740,1771 2787,1771 2834,1774 2882,1771 2929,1774 2977,1774"/>
+                    <TextEquiv>
+                        <Unicode>Wm. Henry Daingerfield, Legation of Texas at the</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_29" custom="readingOrder {index:1;}">
+                    <Coords points="2150,1815 2919,1825 2919,1773 2150,1779"/>
+                    <Baseline points="2156,1806 2194,1806 2232,1806 2270,1806 2309,1806 2347,1806 2385,1806 2423,1806 2462,1804 2500,1803 2538,1803 2576,1804 2615,1807 2653,1809 2691,1806 2729,1806 2768,1806 2806,1806 2844,1806 2882,1806 2921,1806"/>
+                    <TextEquiv>
+                        <Unicode>Hague, den 16. September, 1844, an Graf-</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_30" custom="readingOrder {index:2;}">
+                    <Coords points="2144,1860 2274,1873 2388,1845 2477,1871 2557,1874 2612,1853 2653,1868 2652,1825 2611,1813 2144,1814"/>
+                    <Baseline points="2150,1839 2175,1839 2200,1839 2225,1839 2251,1839 2276,1839 2301,1839 2326,1839 2352,1842 2377,1845 2402,1845 2427,1845 2453,1845 2478,1843 2503,1840 2528,1839 2554,1839 2579,1839 2604,1840 2629,1843 2655,1845"/>
+                    <TextEquiv>
+                        <Unicode>von Castell [Englisch]</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="1" rowSpan="1" colSpan="1" id="c_393" custom="structure {type:TOC-pageref;}">
+                <Coords points="3007,1726 3007,1866 3161,1866 3161,1726"/>
+                <TextLine id="tr_4_tl_13" custom="readingOrder {index:0;}">
+                    <Coords points="3021,1847 3092,1862 3131,1845 3163,1857 3179,1843 3219,1845 3218,1788 3202,1785 3160,1810 3132,1800 3108,1816 3064,1797 3021,1810"/>
+                    <Baseline points="3028,1839 3055,1839 3083,1840 3111,1842 3138,1842 3166,1842 3194,1842 3222,1842"/>
+                    <TextEquiv>
+                        <Unicode>208</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="13" col="0" rowSpan="1" colSpan="1" id="c_441" custom="structure {type:TOC-entry;}">
+                <Coords points="1970,1866 1970,1965 3007,1965 3007,1866"/>
+                <TextLine id="tr_3_tl_31" custom="readingOrder {index:0;}">
+                    <Coords points="2026,1918 2959,1916 2959,1856 2460,1892 2026,1863"/>
+                    <Baseline points="2033,1902 2079,1905 2125,1908 2172,1905 2218,1902 2265,1905 2311,1905 2358,1905 2404,1905 2451,1905 2497,1905 2543,1905 2590,1905 2636,1905 2683,1905 2729,1905 2776,1905 2822,1905 2869,1905 2915,1905 2962,1908"/>
+                    <TextEquiv>
+                        <Unicode>Voivin, Paris, den 19. Juli, 1844, an Graf Carl</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_32" custom="readingOrder {index:1;}">
+                    <Coords points="2146,1950 2249,1943 2300,1963 2392,1942 2494,1967 2676,1966 2676,1918 2648,1912 2146,1913"/>
+                    <Baseline points="2153,1938 2179,1938 2205,1938 2231,1938 2258,1938 2284,1938 2310,1938 2337,1938 2363,1940 2389,1942 2416,1944 2442,1943 2468,1941 2494,1941 2521,1941 2547,1941 2573,1941 2600,1941 2626,1941 2652,1942 2679,1944"/>
+                    <TextEquiv>
+                        <Unicode>von Castell [Französisch]</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="13" col="1" rowSpan="1" colSpan="1" id="c_443" custom="structure {type:TOC-pageref;}">
+                <Coords points="3007,1866 3007,1965 3161,1965 3161,1866"/>
+                <TextLine id="tr_4_tl_14" custom="readingOrder {index:0;}">
+                    <Coords points="3027,1946 3091,1950 3108,1940 3168,1969 3207,1965 3207,1916 3159,1909 3144,1920 3132,1919 3108,1906 3027,1914"/>
+                    <Baseline points="3034,1944 3059,1944 3084,1944 3109,1944 3134,1944 3159,1944 3184,1944 3210,1944"/>
+                    <TextEquiv>
+                        <Unicode>210</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="14" col="0" rowSpan="1" colSpan="1" id="c_442" custom="structure {type:TOC-entry;}">
+                <Coords points="1970,1965 1970,2172 3007,2172 3007,1965"/>
+                <TextLine id="tr_3_tl_33" custom="readingOrder {index:0;}">
+                    <Coords points="2024,2010 2903,2016 2903,1978 2859,1975 2024,1978"/>
+                    <Baseline points="2030,2007 2073,2007 2117,2007 2161,2007 2205,2004 2249,2004 2292,2004 2336,2006 2380,2005 2424,2006 2468,2007 2511,2007 2555,2005 2599,2004 2643,2006 2687,2007 2730,2007 2774,2007 2818,2007 2862,2007 2906,2010"/>
+                    <TextEquiv>
+                        <Unicode>Bericht über die politischen Verhältnisse in</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_34" custom="readingOrder {index:1;}">
+                    <Coords points="2140,2050 2970,2042 2907,2008 2140,2013"/>
+                    <Baseline points="2147,2039 2188,2039 2229,2039 2270,2039 2311,2037 2353,2036 2394,2036 2435,2037 2476,2039 2517,2039 2559,2039 2600,2039 2641,2039 2682,2039 2723,2039 2765,2039 2806,2039 2847,2039 2888,2039 2929,2039 2971,2039"/>
+                    <TextEquiv>
+                        <Unicode>Mexiko und Texas, [keine Anrede und Unter-</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_35" custom="readingOrder {index:2;}">
+                    <Coords points="2140,2080 2275,2103 2334,2074 2393,2104 2494,2073 2607,2102 2789,2078 2867,2099 2849,2046 2140,2049"/>
+                    <Baseline points="2147,2072 2183,2074 2219,2075 2255,2075 2291,2075 2327,2075 2363,2073 2400,2072 2436,2072 2472,2072 2508,2072 2544,2072 2580,2072 2616,2072 2653,2072 2689,2072 2725,2075 2761,2075 2797,2075 2833,2075 2870,2075"/>
+                    <TextEquiv>
+                        <Unicode>schrift] Bremen, 28. November, 1844</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="14" col="1" rowSpan="1" colSpan="1" id="c_444" custom="structure {type:TOC-pageref;}">
+                <Coords points="3007,1965 3007,2172 3161,2172 3161,1965"/>
+                <TextLine id="tr_4_tl_15" custom="readingOrder {index:0;}">
+                    <Coords points="3024,2086 3037,2082 3053,2089 3065,2079 3077,2090 3089,2081 3094,2080 3097,2084 3109,2082 3109,2034 3101,2034 3090,2026 3074,2028 3065,2037 3050,2038 3024,2026"/>
+                    <Baseline points="3031,2072 3058,2074 3085,2074 3112,2072"/>
+                    <TextEquiv>
+                        <Unicode>212</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+        </TableRegion>
+    </Page>
+</PcGts>

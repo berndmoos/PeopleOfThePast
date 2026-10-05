@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:12.590+02:00</Created>
+        <LastChange>2025-11-04T00:34:14.941+01:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101584055" pageNr="68" tsid="259681757" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=GPHCKXQXFTRIKJVFHBYIOQIE" xmlUrl="https://files.transkribus.eu/Get?id=VAQDZMMHGBEPKSUZNTPUFURV" imageId="85201493">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0068_p068.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883576110" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+                <RegionRefIndexed index="3" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1853,387 1988,387 1988,464 1853,464"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1859,453 1900,458 1944,436 1967,436 1976,388 1967,387 1965,381 1932,402 1913,399 1904,391 1869,397"/>
+                <Baseline points="1869,448 1894,440 1920,437 1945,433 1971,430"/>
+                <TextEquiv>
+                    <Unicode>// 125</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2781,325 2883,325 2883,417 2781,417"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2803,398 2865,398 2865,368 2803,368"/>
+                <Baseline points="2803,398 2865,398"/>
+                <TextEquiv>
+                    <Unicode>152</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="2887,292 2982,292 2982,406 2887,406"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2901,384 2960,387 2962,357 2903,354"/>
+                <Baseline points="2901,384 2960,387"/>
+                <TextEquiv>
+                    <Unicode>154</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:3;} structure {type:item-start;}">
+            <Coords points="1866,344 1866,2110 3001,2110 3001,344"/>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="2396,475 2944,450 2944,411 2817,387 2716,418 2653,404 2625,425 2553,408 2396,427"/>
+                <Baseline points="2404,453 2431,450 2458,450 2485,450 2512,450 2539,450 2566,450 2594,450 2621,450 2648,450 2675,450 2702,450 2729,450 2756,450 2784,450 2811,450 2838,449 2865,448 2892,448 2919,447 2947,445"/>
+                <TextEquiv>
+                    <Unicode>Neu Orleans, 18. January 1844</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="1858,600 1894,608 1946,591 2019,604 2058,583 2100,596 2123,584 2207,591 2210,552 2166,541 2098,552 2053,525 1923,568 1859,559"/>
+                <Baseline points="1866,591 1892,588 1918,587 1945,585 1971,583 1998,582 2024,582 2051,581 2077,579 2104,579 2130,578 2157,577 2183,576 2210,576"/>
+                <TextEquiv>
+                    <Unicode>pr. Boston Steamer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="1858,654 1949,673 1990,649 2030,670 2148,645 2186,660 2206,646 2270,649 2271,589 2234,580 2185,611 2134,618 2081,600 2032,612 1997,600 1979,618 1907,628 1859,618"/>
+                <Baseline points="1866,648 1891,648 1916,648 1942,646 1967,644 1992,643 2018,641 2043,639 2069,639 2094,639 2119,639 2145,639 2170,639 2195,639 2221,639 2246,639 2277,639"/>
+                <TextEquiv>
+                    <Unicode>Mein lieber Herr graf,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="1952,722 2779,717 2954,695 2955,653 1953,668"/>
+                <Baseline points="1959,701 2009,702 2059,701 2109,698 2159,698 2209,697 2259,695 2309,695 2359,695 2409,693 2459,692 2509,692 2559,692 2609,692 2659,692 2709,691 2759,689 2809,689 2859,689 2909,689 2959,686"/>
+                <TextEquiv>
+                    <Unicode>Eingedenk meines Versprechens Ihnen zu schreiben, nehme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="1864,772 2989,758 2964,703 1865,726"/>
+                <Baseline points="1872,767 1928,766 1984,763 2040,761 2096,761 2152,760 2208,758 2264,758 2320,755 2376,755 2432,755 2488,755 2544,755 2600,754 2656,752 2712,750 2768,749 2824,749 2880,749 2936,749 2992,746"/>
+                <TextEquiv>
+                    <Unicode>ich mir die Freiheit Sie mit dem Gang politischer Verhältnisse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="1864,846 2919,832 2944,776 1865,793"/>
+                <Baseline points="1872,827 1925,826 1979,824 2033,824 2087,822 2140,821 2194,818 2248,818 2302,816 2355,815 2409,815 2463,813 2517,814 2570,812 2624,812 2678,812 2732,812 2785,812 2839,810 2893,809 2947,806"/>
+                <TextEquiv>
+                    <Unicode>zu unterhalten, wie sie sich seit Ihrer Abreise hier gestal-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="1873,905 2888,894 2889,825 1875,856"/>
+                <Baseline points="1881,890 1931,887 1982,887 2032,884 2083,881 2133,881 2184,881 2234,880 2285,877 2335,877 2386,876 2436,875 2487,875 2537,875 2588,872 2638,872 2689,872 2739,870 2790,869 2840,866 2891,866"/>
+                <TextEquiv>
+                    <Unicode>tet haben. Unterm 13. v. Mts. empfingen wir die Message</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="1871,958 2605,961 2958,932 2959,897 1871,921"/>
+                <Baseline points="1878,946 1932,946 1986,944 2040,945 2094,943 2149,940 2203,940 2257,939 2311,937 2365,935 2420,934 2474,934 2528,933 2582,931 2636,931 2691,931 2745,931 2799,928 2853,928 2907,928 2962,928"/>
+                <TextEquiv>
+                    <Unicode>von President Tyler hier, die uns damit bekannt machte, dass</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="1864,1024 2926,1005 2926,958 2749,943 1865,975"/>
+                <Baseline points="1872,1009 1924,1009 1977,1007 2030,1003 2083,1003 2136,1000 2189,1000 2241,1000 2294,998 2347,997 2400,997 2453,996 2506,994 2559,994 2611,991 2664,991 2717,991 2770,990 2823,988 2876,988 2929,985"/>
+                <TextEquiv>
+                    <Unicode>Mexico, vertraut mit den Vorgängen in den Ver. Staaten der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:9;}">
+                <Coords points="1869,1096 2973,1075 2975,1017 1871,1031"/>
+                <Baseline points="1878,1069 1935,1070 1993,1066 2051,1065 2109,1063 2167,1063 2225,1060 2282,1060 2340,1058 2398,1057 2456,1057 2514,1055 2572,1051 2629,1053 2687,1053 2745,1052 2803,1048 2861,1048 2919,1046 2977,1045"/>
+                <TextEquiv>
+                    <Unicode>Annexirung von Texas an dieselben, habe durch seinen Minister</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:10;} textStyle {offset:44; length:2;strikethrough:true;} textStyle {offset:46; length:4;italic:true;}">
+                <Coords points="1871,1139 2875,1113 2814,1078 1872,1096"/>
+                <Baseline points="1878,1131 1928,1131 1978,1128 2028,1126 2078,1126 2128,1126 2178,1125 2228,1122 2278,1122 2328,1121 2378,1120 2428,1120 2478,1117 2528,1116 2578,1114 2628,1113 2678,1111 2728,1111 2778,1109 2828,1111 2879,1108"/>
+                <TextEquiv>
+                    <Unicode>in Washington, General Almonte, dem Gouverneurment der Ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:11;}">
+                <Coords points="1871,1204 2971,1187 2982,1138 1871,1166"/>
+                <Baseline points="1878,1191 1933,1190 1988,1188 2044,1188 2099,1185 2155,1185 2210,1183 2265,1185 2321,1182 2376,1179 2432,1177 2487,1176 2542,1173 2598,1173 2653,1173 2709,1173 2764,1170 2819,1169 2875,1167 2930,1165 2986,1167"/>
+                <TextEquiv>
+                    <Unicode>St. förmlich angezeigt, dass ein Beschluss des Congresses der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:12;}">
+                <Coords points="1879,1263 2985,1249 2986,1204 1879,1227"/>
+                <Baseline points="1887,1254 1942,1251 1997,1251 2052,1251 2107,1247 2162,1245 2217,1245 2272,1245 2327,1242 2382,1241 2438,1239 2493,1236 2548,1236 2603,1235 2658,1233 2713,1230 2768,1230 2823,1230 2878,1228 2933,1225 2989,1227"/>
+                <TextEquiv>
+                    <Unicode>ver. St. Texas zu incorporiren von dem Gouvernment von Mexico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:13;} textStyle {offset:9; length:9;italic:true;} textStyle {offset:19; length:11;strikethrough:true;}">
+                <Coords points="1876,1333 2965,1293 2955,1250 1878,1293"/>
+                <Baseline points="1884,1314 1938,1311 1992,1311 2046,1310 2100,1308 2155,1308 2209,1308 2263,1304 2317,1302 2371,1300 2426,1302 2480,1299 2534,1296 2588,1296 2642,1294 2697,1293 2751,1293 2805,1290 2859,1288 2913,1287 2968,1287"/>
+                <TextEquiv>
+                    <Unicode>als eine förmliche freiwillige Kriegserklärung angesehen werden würde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:14;}">
+                <Coords points="1876,1400 2899,1356 2899,1324 2667,1313 1878,1341"/>
+                <Baseline points="1884,1373 1937,1372 1991,1370 2044,1370 2098,1370 2152,1367 2205,1366 2259,1364 2313,1364 2366,1361 2420,1361 2473,1360 2527,1356 2581,1355 2634,1355 2688,1354 2742,1352 2795,1351 2849,1350 2903,1350"/>
+                <TextEquiv>
+                    <Unicode>President Tyler hat auf diese Demonstration weiter keine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:15;}">
+                <Coords points="1879,1439 2671,1450 2945,1431 2947,1376 1879,1407"/>
+                <Baseline points="1887,1430 1940,1433 1993,1433 2046,1431 2099,1430 2152,1430 2205,1429 2259,1425 2312,1424 2365,1424 2418,1421 2471,1421 2524,1420 2577,1416 2631,1415 2684,1412 2737,1412 2790,1411 2843,1409 2896,1409 2950,1406"/>
+                <TextEquiv>
+                    <Unicode>Rücksicht gelegt, sondern sagt in Beziehung der Feindselig-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:16;}">
+                <Coords points="1882,1502 2919,1473 2919,1438 2693,1435 1882,1462"/>
+                <Baseline points="1890,1493 1941,1496 1993,1492 2044,1490 2096,1490 2147,1490 2199,1487 2250,1487 2302,1484 2353,1483 2405,1481 2457,1481 2508,1481 2560,1478 2611,1478 2663,1475 2714,1474 2766,1472 2817,1470 2869,1469 2921,1466"/>
+                <TextEquiv>
+                    <Unicode>keiten zwischen Mexico &amp; Texas folgendes: "There must be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:17;}">
+                <Coords points="1879,1561 1972,1588 2026,1557 2895,1546 2922,1494 1880,1523"/>
+                <Baseline points="1887,1553 1938,1556 1990,1553 2042,1553 2094,1552 2146,1550 2198,1548 2249,1547 2301,1547 2353,1544 2405,1544 2457,1542 2509,1541 2561,1538 2612,1538 2664,1535 2716,1535 2768,1533 2820,1532 2872,1532 2924,1532"/>
+                <TextEquiv>
+                    <Unicode>a limit to all wars“ und "wars may sometime be necessary,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:18;}">
+                <Coords points="1880,1632 2504,1642 2595,1604 2891,1603 2892,1553 2847,1547 2297,1588 1883,1569"/>
+                <Baseline points="1890,1615 1940,1615 1990,1615 2040,1612 2090,1612 2141,1609 2191,1608 2241,1606 2291,1606 2341,1604 2392,1603 2442,1603 2492,1600 2542,1597 2592,1597 2643,1597 2693,1595 2743,1594 2793,1592 2843,1588 2894,1591"/>
+                <TextEquiv>
+                    <Unicode>but all nations have a common interest in bringing them</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:19;}">
+                <Coords points="1882,1690 2833,1682 2996,1658 2997,1614 1883,1644"/>
+                <Baseline points="1890,1675 1945,1675 2000,1675 2056,1672 2111,1672 2167,1671 2222,1667 2277,1666 2333,1666 2388,1665 2444,1663 2499,1660 2554,1660 2610,1657 2665,1657 2721,1655 2776,1654 2831,1651 2887,1649 2942,1648 2998,1645"/>
+                <TextEquiv>
+                    <Unicode>speedily to a close“ und "it becomes the U. S. as the oldest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:20;} textStyle {offset:7; length:1;strikethrough:true;} textStyle {offset:8; length:1;italic:true;}">
+                <Coords points="1885,1760 2713,1747 2912,1714 2913,1666 1886,1704"/>
+                <Baseline points="1893,1738 1944,1737 1995,1735 2046,1733 2097,1732 2148,1729 2199,1729 2250,1729 2301,1726 2352,1725 2404,1723 2455,1723 2506,1723 2557,1720 2608,1717 2659,1716 2710,1714 2761,1712 2812,1711 2863,1711 2915,1708"/>
+                <TextEquiv>
+                    <Unicode>of the Aamerican Republic to hold a language to Mexiko on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:21;}">
+                <Coords points="1882,1799 2971,1785 2943,1739 1883,1767"/>
+                <Baseline points="1890,1795 1944,1795 1998,1795 2052,1795 2106,1793 2161,1792 2215,1789 2269,1788 2323,1787 2377,1787 2432,1783 2486,1783 2540,1780 2594,1778 2648,1775 2703,1774 2757,1774 2811,1771 2865,1769 2919,1768 2974,1765"/>
+                <TextEquiv>
+                    <Unicode>this subject of an unambiguous character.“ Kurz er hat er-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_26" custom="readingOrder {index:22;} textStyle {offset:12; length:3;strikethrough:true;} textStyle {offset:15; length:3;italic:true;}">
+                <Coords points="1885,1869 2748,1859 2973,1841 2975,1798 1886,1831"/>
+                <Baseline points="1893,1857 1947,1857 2001,1856 2055,1853 2109,1851 2164,1851 2218,1848 2272,1848 2326,1847 2380,1845 2435,1842 2489,1842 2543,1839 2597,1837 2651,1836 2706,1833 2760,1833 2814,1832 2868,1830 2922,1828 2977,1824"/>
+                <TextEquiv>
+                    <Unicode>klärt, dass vondas Gouv. der V. S. die Wiederöffnung der Feind-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_27" custom="readingOrder {index:23;}">
+                <Coords points="1887,1928 2463,1939 2566,1906 2637,1934 2704,1896 2934,1894 2892,1845 1889,1887"/>
+                <Baseline points="1896,1917 1948,1917 2000,1914 2052,1913 2104,1911 2156,1911 2208,1909 2260,1908 2312,1905 2364,1905 2417,1904 2469,1900 2521,1899 2573,1899 2625,1896 2677,1896 2729,1893 2781,1892 2833,1888 2885,1887 2938,1890"/>
+                <TextEquiv>
+                    <Unicode>seligkeiten zw. Mexico &amp; Texas nicht zugeben werde. Mein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_28" custom="readingOrder {index:24;}">
+                <Coords points="1889,1984 2072,2008 2277,1970 2910,1970 2912,1923 2302,1913 1889,1955"/>
+                <Baseline points="1896,1974 1949,1974 2003,1974 2056,1974 2110,1971 2164,1970 2217,1968 2271,1966 2325,1965 2378,1962 2432,1961 2485,1959 2539,1959 2593,1957 2646,1956 2700,1952 2754,1950 2807,1950 2861,1950 2915,1950"/>
+                <TextEquiv>
+                    <Unicode>Correspondent von Galveston sagt: "There was overjoy in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_29" custom="readingOrder {index:25;}">
+                <Coords points="1887,2054 2996,2016 2965,1963 1889,2000"/>
+                <Baseline points="1896,2033 1951,2033 2006,2033 2061,2033 2117,2032 2172,2029 2227,2028 2282,2025 2338,2024 2393,2023 2448,2023 2503,2019 2559,2019 2614,2015 2669,2013 2724,2011 2780,2010 2835,2008 2890,2008 2945,2007 3001,2007"/>
+                <TextEquiv>
+                    <Unicode>Washington (Texas) upon receipt of President Tyler’'s message,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_30" custom="readingOrder {index:26;}">
+                <Coords points="1890,2127 2944,2078 2945,2039 2854,2035 1893,2056"/>
+                <Baseline points="1899,2096 1951,2096 2003,2096 2056,2096 2108,2092 2161,2090 2213,2088 2265,2085 2318,2084 2370,2084 2423,2081 2475,2080 2527,2078 2580,2076 2632,2075 2685,2072 2737,2071 2789,2069 2842,2069 2894,2067 2947,2069"/>
+                <TextEquiv>
+                    <Unicode>and the Bill for annexation mas immediately introduced in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=39995:lm=none:date=20_10_2025_20:47</Creator>
+        <Created>2025-10-10T22:20:27.594+02:00</Created>
+        <LastChange>2025-12-03T21:03:00.158+01:00</LastChange>
+        <TranskribusMetadata docId="11233079" pageId="104147789" pageNr="48" tsid="263610119" status="DONE" userId="144967" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=HAXQLTBEMKSYVNHIYPYTITCB" xmlUrl="https://files.transkribus.eu/Get?id=DJIIGZLMFOBCCAYWINEYAAIT" imageId="87396279">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0048_p048.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883583063" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+                <RegionRefIndexed index="3" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1970,359 2042,359 2042,389 1970,389"/>
+            <TextLine id="l" custom="readingOrder {index:0;} textStyle {offset:2; length:2;superscript:true;}">
+                <Coords points="1970,389 2042,389 2042,359 1970,359"/>
+                <Baseline points="1970,389 2042,389"/>
+                <TextEquiv>
+                    <Unicode>//22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2924,211 3185,211 3185,299 2924,299"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3071,308 3084,308 3092,300 3101,300 3114,291 3126,291 3136,299 3150,297 3153,211 3136,211 3128,219 3121,214 3098,234 3085,225 3073,228"/>
+                <Baseline points="3082,280 3119,277 3156,277"/>
+                <TextEquiv>
+                    <Unicode>26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="3225,165 3225,317 3303,317 3303,165"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3216,294 3228,297 3238,289 3246,289 3266,305 3288,297 3301,299 3301,197 3271,201 3266,198 3238,212 3216,209"/>
+                <Baseline points="3225,265 3251,267 3277,267 3303,265"/>
+                <TextEquiv>
+                    <Unicode>47</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:3;} structure {type:item-start;}">
+            <Coords points="2081,234 2081,1117 3204,1117 3204,234"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;} textStyle {offset:23; length:3;superscript:true;}">
+                <Coords points="2172,472 3106,475 3106,403 3055,374 2944,431 2724,366 2569,425 2299,425 2219,392 2172,423"/>
+                <Baseline points="2180,459 2226,456 2272,456 2319,455 2365,453 2412,453 2458,453 2505,453 2551,453 2598,453 2644,455 2690,454 2737,455 2783,456 2830,456 2876,456 2923,456 2969,459 3016,456 3062,456 3109,456"/>
+                <TextEquiv>
+                    <Unicode>Der Aufferderung vom 27ten Septbr., ps den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;} textStyle {offset:1; length:1;superscript:true;}">
+                <Coords points="2085,549 2793,563 3147,528 3117,472 2313,491 2085,458"/>
+                <Baseline points="2093,528 2145,528 2198,528 2251,528 2304,526 2357,525 2410,525 2463,525 2516,525 2569,525 2622,525 2674,525 2727,525 2780,525 2833,527 2886,528 2939,528 2992,528 3045,525 3098,525 3151,528"/>
+                <TextEquiv>
+                    <Unicode>3t Oktbr. entsprechend, erkläre ich hiermit, dass</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;} textStyle {offset:36; length:1;italic:true;}">
+                <Coords points="2082,626 3200,615 3200,539 3165,533 2967,572 2082,565"/>
+                <Baseline points="2090,600 2145,599 2201,597 2257,597 2312,597 2368,597 2424,597 2479,595 2535,594 2591,597 2647,597 2702,597 2758,597 2814,597 2869,597 2925,597 2981,597 3036,599 3092,597 3148,597 3204,594"/>
+                <TextEquiv>
+                    <Unicode>ich weder im Besitze von 10 f. Loosen bin, noch weiss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="2079,692 2461,700 2576,668 2626,700 3099,698 3099,638 3010,616 2079,624"/>
+                <Baseline points="2087,669 2137,669 2188,669 2239,669 2290,669 2341,669 2391,666 2442,667 2493,668 2544,666 2595,668 2645,669 2696,666 2747,669 2798,669 2849,669 2899,668 2950,668 3001,669 3052,669 3103,666"/>
+                <TextEquiv>
+                    <Unicode>dass meine Angehörigen solche besitzen. Ebenso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="2079,763 2629,745 3011,785 3158,750 3136,676 2994,706 2079,692"/>
+                <Baseline points="2087,740 2140,740 2194,740 2248,740 2302,740 2355,737 2409,737 2463,737 2517,737 2570,737 2624,737 2678,737 2732,737 2785,737 2839,737 2893,737 2947,740 3000,740 3054,740 3108,740 3162,740"/>
+                <TextEquiv>
+                    <Unicode>wenig wird beabsichtigt deren vor der Convertirung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="2073,840 2095,846 2156,826 2205,857 2255,832 2286,859 2321,849 2356,859 2356,758 2161,763 2143,752 2129,763 2104,755 2073,777"/>
+                <Baseline points="2081,809 2106,809 2131,809 2156,809 2182,809 2207,809 2232,809 2257,809 2283,809 2308,809 2333,809 2359,809"/>
+                <TextEquiv>
+                    <Unicode>zu erwerben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="2266,975 2420,1000 2516,1000 2563,967 2631,989 2886,983 2886,904 2868,898 2725,914 2494,888 2323,923 2266,892"/>
+                <Baseline points="2275,949 2305,951 2336,951 2366,949 2397,951 2428,952 2458,952 2489,952 2520,951 2550,949 2581,949 2612,949 2642,949 2673,949 2704,949 2734,949 2765,949 2796,951 2826,952 2857,952 2888,952"/>
+                <TextEquiv>
+                    <Unicode>Braunfels d. 4. Oktbr. 1862.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="2587,1115 2744,1129 2867,1105 2970,1151 3117,1129 3117,1039 3041,1035 2950,1065 2893,1019 2746,1058 2587,1046"/>
+                <Baseline points="2595,1096 2621,1094 2647,1093 2673,1093 2700,1093 2726,1093 2752,1093 2779,1093 2805,1093 2831,1093 2858,1093 2884,1093 2910,1093 2936,1093 2963,1093 2989,1093 3015,1093 3042,1093 3068,1093 3094,1093 3121,1093"/>
+                <TextEquiv>
+                    <Unicode>Ferdinand Fürst zu Solms</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

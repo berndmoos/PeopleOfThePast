@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.35.0:model_id=39995:lm=none:date=24_11_2025_02:28</Creator>
+        <Created>2025-10-10T22:22:52.157+02:00</Created>
+        <LastChange>2025-11-28T00:51:08.846+01:00</LastChange>
+        <TranskribusMetadata docId="11233179" pageId="104147968" pageNr="19" tsid="263078266" status="DONE" userId="431293" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=LAZKBKMHDEYDHNSRHFTWBBJW" xmlUrl="https://files.transkribus.eu/Get?id=XCOBMOBJNQUOFWCQERMYKUDZ" imageId="87396225">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0019_p019.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883602055" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1983,397 1983,336 3156,336 3156,397"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3055,382 3093,386 3137,382 3134,321 3108,322 3096,335 3091,331 3081,335 3061,316 3052,315"/>
+                <Baseline points="3061,370 3087,372 3113,373 3139,373"/>
+                <TextEquiv>
+                    <Unicode>241</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="3166,184 3303,184 3303,281 3166,281"/>
+            <TextLine id="l_4" custom="readingOrder {index:0;}">
+                <Coords points="3201,258 3261,256 3260,226 3200,228"/>
+                <Baseline points="3201,258 3261,256"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="3156,397 3156,614 1983,614 1983,397"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="1976,480 3154,444 3154,384 2867,416 2796,386 1978,395"/>
+                <Baseline points="1986,453 2044,456 2103,456 2161,454 2220,453 2278,452 2337,450 2395,450 2454,448 2512,448 2571,448 2629,448 2688,448 2746,448 2805,445 2863,445 2922,445 2980,445 3039,444 3097,442 3156,442"/>
+                <TextEquiv>
+                    <Unicode>schen Ausfall deckenden hohen Herrn noch die Schlusser-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:1;}">
+                <Coords points="1978,542 3030,543 2996,468 1979,489"/>
+                <Baseline points="1986,528 2038,526 2090,525 2143,525 2195,522 2248,522 2300,520 2352,519 2405,519 2457,519 2510,518 2562,516 2614,516 2667,516 2719,516 2772,516 2824,516 2876,516 2929,516 2981,516 3034,516"/>
+                <TextEquiv>
+                    <Unicode>klärungen Ihres durchlauchtigsten Fürsten abgeht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:2;}">
+                <Coords points="1975,603 2887,625 3093,602 3094,550 1976,543"/>
+                <Baseline points="1983,597 2038,597 2094,597 2150,594 2205,591 2261,591 2317,591 2372,591 2428,591 2484,591 2540,589 2595,588 2651,588 2707,587 2762,585 2818,585 2874,585 2929,585 2985,585 3041,585 3097,585"/>
+                <TextEquiv>
+                    <Unicode>Sie haben wohl die Güte solche jetzt zu veranlassen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

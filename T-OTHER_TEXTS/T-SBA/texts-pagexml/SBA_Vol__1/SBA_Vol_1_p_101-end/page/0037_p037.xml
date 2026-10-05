@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:09.212+02:00</Created>
+        <LastChange>2025-10-29T20:01:59.199+01:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101584038" pageNr="37" tsid="259276697" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=EMEURBDUXYPIXDOQCFZCKIPN" xmlUrl="https://files.transkribus.eu/Get?id=FBGZYVEQEYUNRUMJJBTMXAOD" imageId="85201456">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0037_p037.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883575613" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="2856,403 2901,403 2901,434 2856,434"/>
+            <TextLine id="l" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="2856,433 2900,434 2901,404 2857,403"/>
+                <Baseline points="2856,433 2900,434"/>
+                <TextEquiv>
+                    <Unicode>126</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2941,394 2999,394 2999,426 2941,426"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2941,424 2998,426 2999,396 2942,394"/>
+                <Baseline points="2941,424 2998,426"/>
+                <TextEquiv>
+                    <Unicode>126</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:2;} structure {type:item-start;}">
+            <Coords points="1900,450 3043,505 3035,1204 1926,1215"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="2208,677 2361,681 2362,651 2209,647"/>
+                <Baseline points="2208,677 2361,681"/>
+                <TextEquiv>
+                    <Unicode>Monsieur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:1;}">
+                <Coords points="2043,802 2531,798 2531,768 2043,772"/>
+                <Baseline points="2043,802 2673,798"/>
+                <TextEquiv>
+                    <Unicode>Monsieur le comte chs. De Castell</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:2;}">
+                <Coords points="2369,919 2510,924 2511,894 2370,889"/>
+                <Baseline points="2369,919 2510,924"/>
+                <TextEquiv>
+                    <Unicode>mayence</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:3;}">
+                <Coords points="2497,984 2567,987 2568,957 2498,954"/>
+                <Baseline points="2497,984 2567,987"/>
+                <TextEquiv>
+                    <Unicode>Rhin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

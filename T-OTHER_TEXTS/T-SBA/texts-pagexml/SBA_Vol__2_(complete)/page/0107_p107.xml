@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=39995:lm=none:date=24_10_2025_05:12</Creator>
+        <Created>2025-10-10T22:20:32.678+02:00</Created>
+        <LastChange>2025-12-03T20:06:04.624+01:00</LastChange>
+        <TranskribusMetadata docId="11233079" pageId="104147859" pageNr="107" tsid="263607389" status="DONE" userId="144967" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CNIQUHZJQNZKCCIIVBWWGXLY" xmlUrl="https://files.transkribus.eu/Get?id=LHNGVZRJTHTMLNXGTXHCELVR" imageId="87396359">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0107_p107.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883583961" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2910,278 2977,278 2977,341 2910,341"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2921,324 2956,323 2955,293 2920,294"/>
+                <Baseline points="2921,324 2956,323"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="3017,245 3146,245 3146,314 3017,314"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3026,313 3051,313 3067,307 3083,320 3097,314 3106,323 3133,317 3132,239 3119,241 3101,228 3086,235 3070,234 3062,241 3044,235 3025,238"/>
+                <Baseline points="3034,298 3059,298 3085,298 3110,298 3136,301"/>
+                <TextEquiv>
+                    <Unicode>156</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1912,352 1914,835 3136,835 3131,353"/>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1908,415 2886,441 3068,415 3068,375 1907,323"/>
+                <Baseline points="1917,400 1974,403 2032,403 2089,403 2147,403 2205,403 2262,405 2320,406 2378,403 2435,403 2493,406 2551,406 2608,406 2666,406 2724,406 2781,409 2839,409 2897,409 2954,409 3012,408 3070,406"/>
+                <TextEquiv>
+                    <Unicode>sobald ich das Feldlager im Rücken habe wird es zuverläs-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1906,502 2947,521 2946,417 1904,418"/>
+                <Baseline points="1914,468 1965,468 2017,469 2069,470 2121,468 2173,468 2224,468 2276,471 2328,471 2380,471 2432,471 2483,473 2535,474 2587,474 2639,474 2691,474 2742,474 2794,474 2846,474 2898,474 2950,474"/>
+                <TextEquiv>
+                    <Unicode>sig meine erste Aufgabe sein alle Verbindlichkeiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="1906,561 2074,551 2158,577 2181,555 2246,576 2324,550 2397,584 2468,552 2611,558 2611,515 2547,490 1906,502"/>
+                <Baseline points="1914,540 1950,540 1987,538 2024,537 2061,537 2097,537 2134,537 2171,537 2208,537 2245,537 2281,538 2318,540 2355,537 2392,539 2429,540 2465,540 2502,540 2539,543 2576,541 2613,543"/>
+                <TextEquiv>
+                    <Unicode>gegenüber dem Vereine zu erfüllen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="2477,708 2506,723 2624,707 2638,721 2684,697 2787,724 2824,704 2852,724 2884,692 2934,692 2934,638 2858,643 2832,617 2747,603 2602,633 2526,587 2477,593"/>
+                <Baseline points="2484,677 2509,677 2534,677 2559,677 2584,677 2610,677 2635,677 2660,677 2685,676 2711,675 2736,675 2761,675 2786,676 2811,677 2837,677 2862,677 2887,677 2912,677 2938,677"/>
+                <TextEquiv>
+                    <Unicode>V. A. Gf. v. Leiningen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="1906,845 2203,829 2338,863 2429,834 2553,861 2693,835 2693,728 2591,763 2459,727 2373,760 2291,715 2229,752 2057,763 1906,715"/>
+                <Baseline points="1914,812 1953,812 1992,812 2031,812 2070,811 2109,809 2148,809 2188,809 2227,809 2266,812 2305,812 2344,812 2383,812 2422,812 2462,812 2501,812 2540,812 2579,812 2618,812 2657,812 2697,812"/>
+                <TextEquiv>
+                    <Unicode>Ollegio im Tiemonte d. 11 ten Juni 49.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

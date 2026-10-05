@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.1:model_id=39995:lm=none:date=01_11_2025_22:45</Creator>
+        <Created>2025-10-10T22:22:23.003+02:00</Created>
+        <LastChange>2026-06-30T01:31:00.953+02:00</LastChange>
+        <TranskribusMetadata docId="11233159" pageId="104148143" pageNr="213" tsid="294349296" status="DONE" userId="531018" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=KYTLRUXZINUMUAKSYIRLDPLQ" xmlUrl="https://files.transkribus.eu/Get?id=HHBVHHPXTLIRUEWSMMPZYZKE" imageId="87396661">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0213_p213.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883596043" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_3"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2965,321 3069,321 3069,364 2965,364"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2969,355 2978,356 3006,374 3064,366 3062,288 3052,288 3042,297 3013,301 3005,309 2991,313 2975,331 2968,331"/>
+                <Baseline points="2977,358 3007,358 3037,359 3067,361"/>
+                <TextEquiv>
+                    <Unicode>224</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="3097,189 3097,342 3195,342 3195,189"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3091,337 3100,338 3135,322 3151,328 3162,320 3193,329 3189,190 3160,193 3146,185 3135,187 3104,208 3088,209"/>
+                <Baseline points="3097,289 3129,289 3162,290 3195,292"/>
+                <TextEquiv>
+                    <Unicode>291</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1987,375 1989,1852 3165,1852 3165,374"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1993,429 3054,456 3036,369 2628,395 2505,341 2346,369 1991,332"/>
+                <Baseline points="2001,412 2053,415 2106,415 2159,418 2212,419 2265,421 2318,421 2370,421 2423,421 2476,423 2529,424 2582,424 2635,424 2688,424 2740,424 2793,426 2846,427 2899,427 2952,427 3005,427 3058,427"/>
+                <TextEquiv>
+                    <Unicode>Dienstag Abend bei meiner Rückkehr von Büdingen hier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1997,519 2043,521 2074,502 2104,516 2111,509 2140,512 2150,503 2196,516 2194,442 2156,441 2131,451 2110,442 2074,456 2058,444 2030,451 2012,433 1996,432"/>
+                <Baseline points="2004,480 2031,482 2059,483 2087,483 2114,483 2142,483 2170,485 2198,486"/>
+                <TextEquiv>
+                    <Unicode>vorfinde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="2100,562 3104,588 3103,503 2846,478 2626,516 2350,467 2245,515 2100,512"/>
+                <Baseline points="2108,549 2157,552 2207,552 2257,553 2307,555 2357,555 2407,557 2457,558 2507,558 2557,558 2607,558 2656,558 2706,559 2756,560 2806,560 2856,561 2906,561 2956,561 3006,561 3056,561 3106,564"/>
+                <TextEquiv>
+                    <Unicode>Wenn es Ihnen und H. v. Meibom irgend möglich ist,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;} textStyle {offset:24; length:1;strikethrough:true;} textStyle {offset:25; length:1;italic:true;}">
+                <Coords points="1999,632 3114,651 3114,595 3043,583 1999,567"/>
+                <Baseline points="2007,618 2062,618 2118,619 2173,621 2229,621 2284,622 2340,623 2395,623 2451,624 2506,624 2562,624 2618,624 2673,627 2729,627 2784,627 2840,627 2895,627 2951,627 3006,627 3062,627 3118,627"/>
+                <TextEquiv>
+                    <Unicode>so bleiben Sie bis zum Moittwoch; vielleicht erhalte ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="1997,703 3088,729 3119,647 1996,644"/>
+                <Baseline points="2004,686 2060,686 2116,686 2172,686 2228,689 2284,690 2340,692 2396,690 2452,692 2508,692 2564,692 2620,692 2676,692 2732,695 2788,695 2844,695 2900,695 2956,695 3012,695 3068,695 3124,695"/>
+                <TextEquiv>
+                    <Unicode>bis dahin das Geld von der Nassauer Bank bei Rothschild</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="1990,773 3045,789 3045,717 1990,714"/>
+                <Baseline points="1998,752 2050,755 2103,755 2155,755 2208,757 2260,758 2313,755 2365,758 2418,758 2470,758 2523,760 2576,761 2628,761 2681,761 2733,761 2786,761 2838,761 2891,761 2943,761 2996,761 3049,761"/>
+                <TextEquiv>
+                    <Unicode>zur Verfügung gestellt und können wir dann das Geld-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="1999,847 2880,865 3070,843 3070,795 1997,791"/>
+                <Baseline points="2007,821 2060,822 2113,824 2166,826 2220,825 2273,824 2326,827 2380,827 2433,827 2486,827 2540,830 2593,827 2646,827 2699,828 2753,830 2806,830 2859,830 2913,830 2966,830 3019,830 3073,833"/>
+                <TextEquiv>
+                    <Unicode>geschäft gemeinschaftlich abmachen. H. v. Meibom hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="1999,911 2608,901 2985,939 3080,905 3080,852 1999,847"/>
+                <Baseline points="2007,890 2060,891 2114,893 2168,893 2222,893 2275,893 2329,896 2383,896 2437,896 2490,896 2544,896 2598,896 2652,897 2705,897 2759,896 2813,899 2867,898 2920,897 2974,897 3028,898 3082,899"/>
+                <TextEquiv>
+                    <Unicode>dann wohl die Gefälligkeit bis zu meiner Hinkunft den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="1999,975 3068,997 3094,915 2426,939 2334,901 1997,905"/>
+                <Baseline points="2007,955 2061,958 2116,958 2170,958 2225,958 2279,958 2334,959 2388,961 2443,961 2497,961 2552,962 2606,963 2661,961 2715,963 2770,964 2824,964 2879,964 2933,964 2988,961 3042,964 3097,964"/>
+                <TextEquiv>
+                    <Unicode>Vertrag zu entwerfen; er wird damit wohl schneller als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="1999,1045 3080,1053 3080,993 3005,987 1999,1000"/>
+                <Baseline points="2007,1027 2060,1025 2114,1027 2168,1027 2222,1027 2275,1027 2329,1027 2383,1028 2437,1030 2490,1030 2544,1030 2598,1030 2652,1030 2705,1030 2759,1030 2813,1030 2867,1030 2920,1030 2974,1030 3028,1030 3082,1030"/>
+                <TextEquiv>
+                    <Unicode>ich fertig werden, denn, wie gesagt, ich erachte mich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="1993,1113 3082,1119 3082,1052 1993,1055"/>
+                <Baseline points="2001,1096 2055,1096 2109,1096 2163,1096 2217,1096 2272,1099 2326,1096 2380,1097 2434,1099 2488,1096 2543,1099 2597,1099 2651,1099 2705,1099 2759,1099 2814,1099 2868,1099 2922,1099 2976,1099 3030,1096 3085,1099"/>
+                <TextEquiv>
+                    <Unicode>ausser Stand, eine solches Werk in drängender Eile zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="1990,1190 3131,1193 3101,1119 1990,1135"/>
+                <Baseline points="1998,1161 2054,1161 2111,1161 2168,1161 2225,1161 2281,1161 2338,1161 2395,1164 2452,1164 2508,1164 2565,1164 2622,1164 2679,1164 2735,1164 2792,1164 2849,1164 2906,1164 2962,1164 3019,1164 3076,1164 3133,1164"/>
+                <TextEquiv>
+                    <Unicode>schaffen.-- In Beziehung auf diesen Vertrag erlaube ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="1987,1245 3132,1251 3132,1196 3083,1183 1987,1199"/>
+                <Baseline points="1995,1230 2052,1227 2109,1230 2166,1230 2223,1230 2280,1230 2337,1230 2394,1230 2451,1230 2508,1230 2565,1231 2622,1231 2679,1230 2736,1230 2793,1233 2850,1233 2907,1233 2964,1232 3021,1230 3078,1230 3136,1227"/>
+                <TextEquiv>
+                    <Unicode>mir noch besonders darauf aufmerksam zu machen, dass für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="1993,1316 3163,1316 3141,1249 2509,1278 1993,1246"/>
+                <Baseline points="2001,1299 2059,1296 2117,1296 2175,1299 2233,1299 2292,1299 2350,1299 2408,1299 2466,1299 2524,1299 2583,1299 2641,1299 2699,1299 2757,1302 2815,1299 2874,1299 2932,1299 2990,1299 3048,1299 3106,1299 3165,1296"/>
+                <TextEquiv>
+                    <Unicode>die von einigen Herrn übernommene Ausgleichung der Streit-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="1990,1377 3132,1389 3132,1316 1990,1326"/>
+                <Baseline points="1998,1361 2054,1364 2111,1364 2168,1364 2225,1364 2282,1365 2339,1365 2396,1364 2453,1364 2510,1364 2567,1364 2623,1364 2680,1364 2737,1364 2794,1364 2851,1364 2908,1364 2965,1364 3022,1364 3079,1364 3136,1364"/>
+                <TextEquiv>
+                    <Unicode>frage eine Form gefunden werden muss, welche nach keiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="1993,1457 3067,1453 3067,1405 3018,1390 1993,1381"/>
+                <Baseline points="2001,1433 2054,1430 2107,1430 2161,1430 2214,1430 2268,1430 2321,1433 2375,1433 2428,1433 2482,1433 2535,1433 2588,1433 2642,1432 2695,1432 2749,1433 2802,1430 2856,1430 2909,1433 2963,1433 3016,1433 3070,1433"/>
+                <TextEquiv>
+                    <Unicode>Seite hin verletzt, also nirgends durchblicken lässt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="1993,1505 2131,1527 2371,1506 2401,1530 2546,1502 2689,1527 2689,1457 2641,1450 1993,1457"/>
+                <Baseline points="2001,1499 2035,1499 2070,1499 2104,1499 2139,1499 2173,1499 2208,1499 2242,1499 2277,1499 2311,1499 2346,1499 2380,1499 2415,1499 2449,1499 2484,1499 2518,1497 2553,1496 2587,1496 2622,1499 2656,1499 2691,1502"/>
+                <TextEquiv>
+                    <Unicode>dass einer für den andern bezahlt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="2082,1602 2973,1591 2973,1518 2887,1507 2558,1545 2466,1519 2082,1530"/>
+                <Baseline points="2090,1565 2134,1565 2178,1565 2223,1565 2267,1565 2311,1565 2356,1565 2400,1565 2444,1565 2489,1565 2533,1565 2577,1565 2622,1565 2666,1568 2710,1568 2755,1568 2799,1568 2843,1568 2888,1568 2932,1568 2977,1568"/>
+                <TextEquiv>
+                    <Unicode>Mit herzlichen Grüssen an Sie und H. v. Meibom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:18;}">
+                <Coords points="2658,1642 2722,1643 2722,1613 2658,1612"/>
+                <Baseline points="2658,1642 2722,1643"/>
+                <TextEquiv>
+                    <Unicode>Ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="1981,1720 2071,1706 2132,1720 2157,1703 2240,1742 2350,1742 2350,1643 2229,1663 2100,1653 2074,1666 1981,1641"/>
+                <Baseline points="1989,1702 2015,1702 2041,1702 2067,1702 2093,1702 2119,1702 2145,1702 2171,1702 2197,1702 2223,1702 2249,1702 2275,1702 2301,1702 2327,1701 2353,1699"/>
+                <TextEquiv>
+                    <Unicode>Meerholz 18/3/55.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="2709,1801 2781,1791 2815,1806 2877,1786 2899,1795 2916,1786 2926,1794 2956,1788 2957,1711 2889,1727 2835,1717 2800,1735 2711,1735"/>
+                <Baseline points="2717,1768 2743,1768 2770,1768 2797,1768 2824,1768 2851,1768 2878,1768 2905,1768 2932,1767 2959,1765"/>
+                <TextEquiv>
+                    <Unicode>ergebenster</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="2807,1874 2886,1872 2904,1887 2944,1874 2973,1874 2972,1783 2953,1782 2924,1798 2892,1788 2877,1795 2837,1794 2806,1807"/>
+                <Baseline points="2816,1833 2842,1833 2869,1834 2896,1835 2923,1836 2950,1836 2977,1833"/>
+                <TextEquiv>
+                    <Unicode>Kroeber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

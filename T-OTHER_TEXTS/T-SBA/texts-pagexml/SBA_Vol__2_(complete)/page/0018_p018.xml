@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=50870:lm=none:date=19_10_2025_23:24</Creator>
+        <Created>2025-10-10T22:20:25.124+02:00</Created>
+        <LastChange>2025-12-03T20:59:04.846+01:00</LastChange>
+        <TranskribusMetadata docId="11233079" pageId="104147650" pageNr="18" tsid="263609517" status="DONE" userId="144967" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CISXTZVPHCWKBOVAQUNYWBFL" xmlUrl="https://files.transkribus.eu/Get?id=KGSMEOBFYDNGURUTWKDHZLUH" imageId="87396290">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0018_p018.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883582593" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_3"/>
+                <RegionRefIndexed index="1" regionRef="r_4"/>
+                <RegionRefIndexed index="2" regionRef="r"/>
+                <RegionRefIndexed index="3" regionRef="r_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_3" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2966,434 1954,434 1950,248 2966,214"/>
+            <TextLine id="l_3" custom="readingOrder {index:0;} textStyle {offset:2; length:1;superscript:true;}">
+                <Coords points="3216,255 3254,255 3254,225 3216,225"/>
+                <Baseline points="3216,255 3254,255"/>
+                <TextEquiv>
+                    <Unicode>//5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_4" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="3199,434 2966,434 2966,214 3199,206"/>
+            <TextLine id="l_4" custom="readingOrder {index:0;}">
+                <Coords points="3119,306 3153,305 3152,275 3118,276"/>
+                <Baseline points="3119,306 3153,305"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="3199,206 3276,203 3279,434 3199,434"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="1959,350 2002,348 2001,318 1958,320"/>
+                <Baseline points="1959,350 2002,348"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:3;} structure {type:item-start;}">
+            <Coords points="3279,434 3288,1252 1971,1231 1954,434"/>
+            <TextLine id="l_6" custom="readingOrder {index:0;}">
+                <Coords points="2181,546 3123,551 3122,471 2495,496 2180,447"/>
+                <Baseline points="2189,528 2235,528 2282,528 2329,528 2376,528 2423,528 2470,528 2517,528 2564,529 2611,531 2658,531 2704,531 2751,531 2798,531 2845,531 2892,531 2939,531 2986,533 3033,534 3080,534 3127,534"/>
+                <TextEquiv>
+                    <Unicode>Ich ersuche Herrn Rechnungsrath Reuscher zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:1;}">
+                <Coords points="2049,626 3165,647 3165,566 2049,546"/>
+                <Baseline points="2057,600 2112,599 2168,597 2223,597 2279,597 2334,597 2390,597 2445,597 2501,600 2556,600 2612,600 2668,600 2723,600 2779,603 2834,603 2890,603 2945,603 3001,603 3056,603 3112,603 3168,603"/>
+                <TextEquiv>
+                    <Unicode>Wiesbaden von der für Rechnung des Prinzen Alexander</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:2;}">
+                <Coords points="2053,689 2616,669 3072,706 3086,630 2052,625"/>
+                <Baseline points="2060,669 2111,666 2163,669 2214,669 2266,669 2317,669 2369,669 2420,669 2472,669 2523,669 2575,669 2627,669 2678,669 2730,669 2781,669 2833,672 2884,672 2936,674 2987,673 3039,675 3091,672"/>
+                <TextEquiv>
+                    <Unicode>zu Solms im Jahr 1852 zum Voraus bezahlten Summe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:3;} comment {offset:0; length:12;type:not\u0020sure;}">
+                <Coords points="2659,720 2693,724 2710,710 2739,718 2768,711 2782,721 2836,711 2931,720 2931,681 2813,695 2753,672 2727,685 2659,688"/>
+                <Baseline points="2667,710 2693,708 2720,707 2746,707 2773,707 2799,707 2826,707 2852,707 2879,707 2905,707 2932,707"/>
+                <TextEquiv>
+                    <Unicode>resfirerende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:4;} textStyle {offset:20; length:2;strikethrough:true;} textStyle {offset:22; length:1;italic:true;}">
+                <Coords points="2049,738 2204,771 2977,755 3111,791 3100,692 2686,728 2531,681 2049,702"/>
+                <Baseline points="2057,737 2109,737 2162,737 2215,737 2268,737 2320,737 2373,737 2426,738 2479,740 2531,738 2584,737 2637,740 2690,742 2742,743 2795,740 2848,740 2901,741 2953,743 3006,743 3059,743 3112,740"/>
+                <TextEquiv>
+                    <Unicode>von 481 G. 9Kr. die deannoch (illegible) Summe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:5;}">
+                <Coords points="2056,830 3033,829 3019,763 2056,773"/>
+                <Baseline points="2063,806 2111,806 2160,806 2208,807 2257,808 2305,806 2354,807 2402,809 2451,809 2499,809 2548,809 2597,809 2645,809 2694,809 2742,809 2791,809 2839,810 2888,812 2936,812 2985,812 3034,815"/>
+                <TextEquiv>
+                    <Unicode>von 320 G. 53 Kr. an Herrn Kammerrath Stephan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:6;}">
+                <Coords points="2053,894 3175,914 3144,811 2896,847 2053,829"/>
+                <Baseline points="2060,878 2115,878 2171,878 2227,878 2283,878 2339,878 2395,878 2450,878 2506,878 2562,879 2618,880 2674,880 2730,881 2786,881 2841,881 2897,883 2953,884 3009,884 3065,884 3121,884 3177,884"/>
+                <TextEquiv>
+                    <Unicode>hierselbst auf diese neue Anweisung hin für Rechnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:7;}">
+                <Coords points="2049,960 2302,959 2441,1009 2592,961 2861,999 3079,968 3066,910 2049,894"/>
+                <Baseline points="2057,949 2108,949 2159,947 2210,949 2262,949 2313,949 2364,949 2415,949 2467,949 2518,949 2569,949 2620,949 2672,949 2723,952 2774,952 2825,952 2877,953 2928,955 2979,955 3030,953 3082,952"/>
+                <TextEquiv>
+                    <Unicode>des Prinzen Alexander zur Auzzahlung bringen zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:8;}">
+                <Coords points="2049,1065 2061,1062 2079,1075 2107,1073 2137,1048 2159,1051 2172,1038 2191,1047 2215,1045 2215,974 2186,975 2144,964 2123,982 2105,989 2096,982 2084,995 2049,988"/>
+                <Baseline points="2057,1021 2084,1021 2111,1021 2138,1021 2165,1021 2192,1021 2219,1021"/>
+                <TextEquiv>
+                    <Unicode>wollen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:9;}">
+                <Coords points="2620,1108 2806,1122 2837,1098 2928,1132 3021,1115 3128,1146 3245,1114 3245,1031 3161,1055 2989,1055 2938,1026 2736,1054 2620,1030"/>
+                <Baseline points="2628,1096 2659,1094 2690,1093 2721,1093 2752,1093 2783,1094 2814,1096 2845,1093 2876,1095 2907,1096 2938,1096 2969,1096 3000,1096 3031,1096 3062,1098 3093,1099 3124,1099 3155,1097 3186,1096 3217,1096 3249,1096"/>
+                <TextEquiv>
+                    <Unicode>Braunfels den 7ten Juls 1854</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:10;}">
+                <Coords points="2636,1241 2700,1266 2750,1247 2798,1263 2908,1249 2986,1282 3052,1262 3156,1268 3156,1149 3109,1178 3062,1157 2982,1191 2775,1152 2636,1188"/>
+                <Baseline points="2643,1239 2668,1236 2694,1236 2720,1236 2746,1236 2772,1236 2797,1236 2823,1237 2849,1239 2875,1237 2901,1237 2926,1238 2952,1239 2978,1239 3004,1239 3030,1239 3055,1239 3081,1238 3107,1237 3133,1235 3159,1233"/>
+                <TextEquiv>
+                    <Unicode>Bernhard Prinz zu Solms</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

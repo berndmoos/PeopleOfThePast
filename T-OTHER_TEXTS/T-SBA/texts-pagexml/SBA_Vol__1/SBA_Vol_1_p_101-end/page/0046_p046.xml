@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:10.173+02:00</Created>
+        <LastChange>2025-11-04T00:09:24.787+01:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101584027" pageNr="46" tsid="259681177" status="IN_PROGRESS" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=RSVPDFDBYRQDBDEIEPMNHJBA" xmlUrl="https://files.transkribus.eu/Get?id=ZGKJZKLEHJQHCYIIFGGDEYCC" imageId="85201476"/>
+    </Metadata>
+    <Page imageFilename="0046_p046.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883575707" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2965,282 3090,282 3090,359 2965,359"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2973,346 3061,346 3061,316 2973,316"/>
+                <Baseline points="2973,346 3061,346"/>
+                <TextEquiv>
+                    <Unicode>135</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:item-start;}">
+            <Coords points="2004,247 2965,247 2965,390 2004,390"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="2050,331 2113,337 2129,329 2137,339 2152,331 2200,333 2247,343 2290,333 2290,308 2273,301 2248,310 2175,304 2160,315 2149,305 2111,313 2050,306"/>
+                <Baseline points="2057,328 2083,328 2109,328 2135,328 2161,328 2188,326 2214,325 2240,325 2266,325 2293,325"/>
+                <TextEquiv>
+                    <Unicode>Fürstlich Solms Archiv Braunfels</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="2940,393 2033,396 2031,323 2940,344"/>
+                <Baseline points="2039,367 2091,364 2144,364 2197,366 2250,367 2302,362 2355,365 2408,376 2461,376 2513,376 2566,376 2619,376 2672,379 2724,379 2777,379 2830,377 2883,378 2940,379"/>
+                <TextEquiv>
+                    <Unicode>CA ia 1. Nr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:2;}">
+                <Coords points="2055,306 2661,319 2652,252 2055,259"/>
+                <Baseline points="2063,295 2093,297 2123,298 2153,298 2183,298 2213,297 2243,295 2273,295 2303,296 2333,298 2363,298 2393,298 2423,298 2453,298 2483,299 2513,301 2543,301 2573,301 2603,301 2633,301 2664,301"/>
+                <TextEquiv>
+                    <Unicode>Scale in centimeters</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="2036,426 2039,2046 3159,2046 3129,442"/>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:0;}">
+                <Coords points="2323,503 2394,500 2420,491 2433,508 2457,506 2462,449 2434,447 2420,455 2405,451 2377,463 2368,473 2326,479"/>
+                <Baseline points="2332,495 2357,493 2383,490 2409,487 2435,485 2461,483"/>
+                <TextEquiv>
+                    <Unicode>untreh</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:1;}">
+                <Coords points="2104,499 2116,506 2127,504 2138,515 2144,515 2161,500 2171,499 2199,511 2202,437 2179,445 2165,445 2162,441 2128,463 2105,462"/>
+                <Baseline points="2111,495 2142,493 2173,492 2204,492"/>
+                <TextEquiv>
+                    <Unicode>1129</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:2;}">
+                <Coords points="2116,565 2216,548 2261,570 2392,527 2618,527 2622,469 2600,459 2507,466 2434,510 2413,491 2317,521 2272,492 2255,506 2227,492 2195,515 2171,498 2120,515"/>
+                <Baseline points="2126,546 2152,544 2178,543 2204,541 2230,539 2256,537 2282,536 2308,534 2334,531 2360,528 2387,526 2413,524 2439,522 2465,519 2491,516 2517,514 2543,513 2569,513 2595,512 2622,510"/>
+                <TextEquiv>
+                    <Unicode>verzilung für den Lenttenerpet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="2123,626 2241,595 2302,612 2480,572 2540,576 2591,558 2594,531 2392,527 2259,570 2229,549 2128,554"/>
+                <Baseline points="2132,594 2157,590 2183,589 2209,586 2234,582 2260,582 2286,581 2312,578 2337,575 2363,574 2389,572 2414,570 2440,568 2466,566 2492,563 2517,560 2543,558 2569,557 2595,555"/>
+                <TextEquiv>
+                    <Unicode>necht same sr Kopf 7 Gulde¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="2105,698 2548,619 2680,664 2787,614 3118,634 3122,562 2929,557 2829,594 2563,558 2219,643 2112,627"/>
+                <Baseline points="2114,683 2164,674 2215,666 2265,658 2316,654 2366,647 2417,641 2467,633 2518,624 2568,617 2619,615 2669,615 2720,612 2770,612 2821,608 2871,606 2922,606 2972,606 3023,606 3073,603 3124,606"/>
+                <TextEquiv>
+                    <Unicode>des Gat d g t. anh atent 107. Allgemeine Annteung und de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="2130,719 2574,665 2672,718 2748,676 3120,692 3122,652 3039,616 2682,664 2542,619 2385,673 2132,684"/>
+                <Baseline points="2138,713 2187,706 2236,699 2285,691 2335,688 2384,685 2433,680 2483,676 2532,668 2581,666 2631,675 2680,677 2729,677 2778,676 2828,674 2877,672 2926,670 2976,669 3025,667 3074,666 3124,669"/>
+                <TextEquiv>
+                    <Unicode>en nachbeliebet einen saf beweichig folgung der gesetzlichen Bestimmung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="2116,764 2157,772 2191,748 2219,759 2323,727 2368,747 2417,715 2581,734 2610,725 2615,676 2574,667 2471,701 2410,681 2278,694 2216,722 2120,722"/>
+                <Baseline points="2123,755 2148,748 2174,742 2200,739 2226,736 2252,734 2278,731 2304,728 2330,724 2356,721 2382,720 2408,717 2434,713 2460,711 2486,710 2512,708 2538,705 2564,702 2590,697 2616,692"/>
+                <TextEquiv>
+                    <Unicode>richt. Betmmillichr eine iehlt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:7;}">
+                <Coords points="2639,746 2723,755 2761,731 2897,758 2933,731 2965,729 2965,702 2940,693 2917,705 2871,684 2801,696 2751,676 2676,718 2640,719"/>
+                <Baseline points="2646,734 2672,734 2699,734 2726,732 2753,730 2780,729 2807,728 2833,728 2860,728 2887,727 2914,726 2941,724 2968,722"/>
+                <TextEquiv>
+                    <Unicode>3.r Mepublit Tepes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:8;}">
+                <Coords points="2103,808 2182,789 2208,816 2252,795 2325,813 2404,766 2509,775 2516,718 2449,731 2420,714 2371,747 2334,727 2273,762 2255,747 2223,759 2191,747 2146,779 2108,767"/>
+                <Baseline points="2111,803 2136,796 2161,788 2187,784 2212,781 2237,778 2263,774 2288,771 2314,769 2339,767 2364,764 2390,760 2415,755 2440,751 2466,749 2491,748 2517,746"/>
+                <TextEquiv>
+                    <Unicode>sater e3 schebesten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:9;}">
+                <Coords points="2170,886 2361,875 2541,813 2789,830 2886,788 3077,797 3113,830 3102,725 2732,787 2665,748 2381,817 2179,791"/>
+                <Baseline points="2180,863 2227,857 2274,850 2321,844 2368,838 2415,831 2462,822 2509,817 2556,813 2603,808 2650,803 2697,798 2744,795 2791,792 2838,789 2885,786 2932,785 2979,782 3026,779 3073,779 3121,776"/>
+                <TextEquiv>
+                    <Unicode>rüchligern 17. Lsreitung E. Feide. Renahl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:10;}">
+                <Coords points="2133,950 2398,882 2536,912 2693,855 2849,904 3109,878 3113,829 3039,789 2788,832 2710,801 2602,840 2511,816 2361,875 2138,892"/>
+                <Baseline points="2144,916 2192,908 2241,902 2289,898 2338,892 2386,883 2435,876 2483,872 2532,863 2580,860 2629,857 2678,853 2726,851 2775,850 2823,848 2872,846 2920,843 2969,844 3017,843 3066,837 3115,839"/>
+                <TextEquiv>
+                    <Unicode>heim mi den slg listigdurfgährliche Abzehlung¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:11;}">
+                <Coords points="2121,974 2397,977 2574,942 2664,962 2785,935 2790,882 2693,855 2603,907 2563,890 2466,919 2401,882 2347,917 2325,894 2243,935 2125,941"/>
+                <Baseline points="2129,970 2162,964 2195,964 2228,962 2261,958 2294,958 2327,954 2361,949 2394,942 2427,938 2460,935 2493,933 2526,931 2559,926 2593,922 2626,917 2659,913 2692,911 2725,908 2758,906 2792,904"/>
+                <TextEquiv>
+                    <Unicode>in jede Alssatz aus 3 Gehrr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:12;}">
+                <Coords points="2154,1043 3126,1011 3127,969 3072,941 2948,935 2655,991 2542,950 2371,995 2157,970"/>
+                <Baseline points="2162,1027 2210,1021 2258,1018 2307,1016 2355,1015 2404,1013 2452,1009 2500,1009 2549,1006 2597,1006 2646,1002 2694,1000 2742,999 2791,996 2839,994 2888,992 2936,989 2984,988 3033,988 3081,985 3130,979"/>
+                <TextEquiv>
+                    <Unicode>Anmerkung. Sobald der Ausmandier die erforderlicher Pepie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:13;}">
+                <Coords points="2396,1090 2674,1056 2798,1081 2863,1053 2900,1085 2978,1047 3119,1071 3135,985 3065,1024 2922,999 2804,1039 2666,1015 2627,1040 2571,1018 2398,1044"/>
+                <Baseline points="2404,1072 2440,1066 2477,1064 2513,1060 2550,1060 2587,1060 2623,1058 2660,1056 2696,1054 2733,1054 2770,1051 2806,1051 2843,1050 2879,1048 2916,1048 2953,1048 2989,1044 3026,1040 3062,1038 3099,1036 3136,1036"/>
+                <TextEquiv>
+                    <Unicode>dem seredns-Comiti eigesandt hat, und dieselbe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:14;}">
+                <Coords points="2401,1139 2520,1167 2632,1115 2780,1109 2862,1138 2897,1106 3136,1096 3139,1057 3006,1077 2944,1055 2900,1085 2709,1097 2670,1065 2405,1082"/>
+                <Baseline points="2410,1128 2446,1127 2482,1126 2519,1125 2555,1120 2592,1118 2628,1113 2665,1110 2701,1107 2738,1105 2774,1105 2810,1105 2847,1104 2883,1101 2920,1098 2956,1093 2993,1093 3029,1091 3066,1089 3102,1087 3139,1087"/>
+                <TextEquiv>
+                    <Unicode>als richtig befunden werden sind, erhält er einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:15;}">
+                <Coords points="2397,1228 2619,1176 2768,1167 2870,1203 2900,1177 2949,1197 3119,1155 3094,1109 3020,1134 2908,1106 2788,1143 2645,1118 2520,1168 2402,1154"/>
+                <Baseline points="2407,1194 2442,1187 2478,1181 2514,1179 2550,1178 2586,1176 2622,1174 2657,1170 2693,1167 2729,1166 2765,1164 2801,1162 2837,1161 2873,1160 2908,1158 2944,1158 2980,1156 3016,1150 3052,1145 3088,1142 3124,1137"/>
+                <TextEquiv>
+                    <Unicode>gestempelten Autwandeungescheid, gegen dester</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:16;}">
+                <Coords points="2401,1265 2615,1234 2718,1267 2886,1220 3081,1250 3140,1221 3143,1176 3080,1162 2955,1201 2904,1179 2872,1203 2754,1185 2586,1224 2526,1204 2402,1238"/>
+                <Baseline points="2410,1251 2446,1244 2483,1241 2520,1236 2557,1236 2593,1234 2630,1231 2667,1229 2704,1227 2740,1224 2777,1222 2814,1219 2851,1218 2887,1217 2924,1215 2961,1212 2998,1210 3034,1207 3071,1205 3108,1202 3145,1197"/>
+                <TextEquiv>
+                    <Unicode>weis er an dem Einschiffungsrete wondem Agent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:17;}">
+                <Coords points="2408,1320 2479,1308 2561,1348 2684,1291 2787,1315 2858,1284 3006,1315 3076,1286 3146,1315 3150,1243 3107,1233 2789,1241 2717,1269 2599,1238 2410,1294"/>
+                <Baseline points="2416,1305 2452,1302 2489,1301 2526,1299 2563,1296 2599,1294 2636,1291 2673,1290 2710,1289 2746,1284 2783,1282 2820,1281 2857,1280 2893,1277 2930,1275 2967,1272 3004,1270 3040,1266 3077,1262 3114,1260 3151,1260"/>
+                <TextEquiv>
+                    <Unicode>der Gesellschaft die Aufnahme als Einnendeedi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:18;}">
+                <Coords points="2409,1406 2534,1381 2581,1411 2636,1383 2672,1407 2821,1397 2915,1342 2983,1373 3054,1345 3128,1357 3131,1307 2971,1298 2905,1324 2847,1300 2563,1348 2451,1305 2414,1321"/>
+                <Baseline points="2419,1367 2454,1367 2490,1365 2526,1363 2561,1360 2597,1358 2633,1355 2668,1353 2704,1351 2740,1349 2776,1347 2811,1345 2847,1344 2883,1341 2918,1337 2954,1335 2990,1335 3025,1331 3061,1329 3097,1329 3133,1329"/>
+                <TextEquiv>
+                    <Unicode>Schiffotraneperlberechtigung verlange. kan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:19;}">
+                <Coords points="2148,1585 2392,1555 2647,1588 2738,1540 2853,1534 2924,1503 2928,1472 2664,1465 2430,1513 2158,1486"/>
+                <Baseline points="2156,1574 2194,1572 2233,1568 2271,1563 2310,1558 2349,1556 2387,1551 2426,1548 2465,1545 2503,1541 2542,1537 2581,1534 2619,1529 2658,1526 2697,1521 2735,1518 2774,1514 2813,1507 2851,1501 2890,1499 2929,1496"/>
+                <TextEquiv>
+                    <Unicode>Ee der sulucf der tas id de steist, de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:20;}">
+                <Coords points="2688,1691 2812,1674 2870,1638 3148,1609 3155,1566 3106,1538 3065,1551 3048,1538 2922,1562 2855,1597 2794,1583 2728,1600 2703,1581"/>
+                <Baseline points="2700,1660 2725,1656 2750,1654 2775,1651 2800,1647 2826,1642 2851,1638 2876,1634 2901,1631 2927,1627 2952,1624 2977,1620 3002,1615 3027,1611 3053,1610 3078,1606 3103,1601 3128,1596 3154,1591"/>
+                <TextEquiv>
+                    <Unicode>t e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:21;}">
+                <Coords points="2132,1808 2434,1795 2878,1688 3019,1704 3142,1659 3150,1609 2748,1695 2145,1725"/>
+                <Baseline points="2141,1798 2191,1794 2241,1790 2292,1784 2342,1777 2392,1773 2443,1766 2493,1759 2543,1750 2594,1743 2644,1734 2694,1722 2745,1714 2795,1699 2845,1694 2896,1684 2946,1675 2996,1668 3047,1661 3097,1652 3148,1642"/>
+                <TextEquiv>
+                    <Unicode>ene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:22;}">
+                <Coords points="2156,1873 2821,1741 3139,1741 3151,1666 3018,1704 2816,1695 2434,1797 2166,1804"/>
+                <Baseline points="2168,1842 2217,1837 2266,1828 2315,1823 2364,1818 2413,1811 2462,1805 2511,1799 2560,1790 2609,1783 2658,1773 2707,1761 2756,1751 2805,1745 2854,1738 2903,1732 2952,1723 3001,1720 3050,1718 3099,1712 3148,1705"/>
+                <TextEquiv>
+                    <Unicode>eh teh ih e e n n en een</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:23;}">
+                <Coords points="2162,1905 2451,1855 2570,1876 2942,1773 2987,1804 3074,1758 3117,1778 3120,1708 2371,1849 2171,1848"/>
+                <Baseline points="2174,1878 2221,1875 2269,1872 2316,1866 2364,1860 2411,1853 2459,1845 2506,1841 2554,1834 2601,1827 2649,1817 2696,1809 2744,1803 2791,1798 2839,1791 2886,1783 2934,1775 2981,1769 3029,1763 3076,1756 3124,1750"/>
+                <TextEquiv>
+                    <Unicode>hende se sih dend et ein seteten  ee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:24;}">
+                <Coords points="2676,1878 2773,1876 2874,1844 3008,1864 3089,1836 3124,1849 3152,1840 3160,1786 3135,1766 3064,1765 2994,1804 2957,1777 2682,1830"/>
+                <Baseline points="2685,1866 2711,1866 2737,1861 2764,1856 2790,1852 2816,1848 2843,1843 2869,1839 2895,1836 2922,1834 2948,1830 2974,1825 3001,1821 3027,1818 3053,1816 3080,1814 3106,1813 3132,1812 3159,1812"/>
+                <TextEquiv>
+                    <Unicode>sit Men pe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:25;}">
+                <Coords points="2145,1940 2223,1925 2286,1942 2371,1910 2410,1926 2466,1898 2561,1909 2586,1894 2589,1869 2542,1865 2490,1886 2347,1877 2293,1899 2264,1886 2195,1915 2148,1911"/>
+                <Baseline points="2153,1932 2178,1930 2204,1927 2229,1923 2255,1921 2281,1919 2306,1916 2332,1912 2358,1909 2383,1907 2409,1905 2435,1902 2460,1899 2486,1899 2512,1898 2537,1896 2563,1895 2589,1893"/>
+                <TextEquiv>
+                    <Unicode>Derntie Nag vnhratt unff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:26;}">
+                <Coords points="2153,1975 2521,1947 2587,1918 2660,1915 2665,1877 2530,1914 2466,1902 2410,1926 2369,1910 2285,1942 2222,1925 2157,1944"/>
+                <Baseline points="2162,1971 2187,1967 2212,1965 2237,1962 2262,1959 2287,1957 2312,1955 2337,1950 2362,1946 2387,1945 2413,1942 2438,1938 2463,1933 2488,1929 2513,1927 2538,1924 2563,1919 2588,1915 2613,1912 2638,1911 2664,1911"/>
+                <TextEquiv>
+                    <Unicode>Fallend nachr as dez s ant gegte enden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:27;}">
+                <Coords points="2173,2020 2573,1988 2845,1913 2921,1925 2932,1847 2686,1930 2591,1918 2413,1964 2179,1977"/>
+                <Baseline points="2183,2004 2220,2003 2257,1998 2294,1993 2332,1988 2369,1983 2406,1979 2444,1977 2481,1974 2518,1969 2556,1964 2593,1959 2630,1954 2667,1949 2705,1941 2742,1931 2779,1925 2817,1919 2854,1911 2891,1904 2929,1896"/>
+                <TextEquiv>
+                    <Unicode>secheh den betendten en t sche det</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:28;}">
+                <Coords points="2157,2051 2243,2061 2315,2053 2348,2030 2383,2034 2400,2021 2476,2029 2491,2024 2495,1983 2442,2001 2420,1988 2301,1993 2239,2014 2212,2002 2175,2026 2160,2018"/>
+                <Baseline points="2165,2036 2190,2036 2215,2036 2241,2035 2266,2033 2292,2031 2317,2028 2343,2025 2368,2022 2394,2020 2419,2017 2445,2011 2470,2010 2496,2010"/>
+                <TextEquiv>
+                    <Unicode>Kinder nicht erwüßen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

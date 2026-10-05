@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:06.611+02:00</Created>
+        <LastChange>2025-10-25T19:32:52.645+02:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101583949" pageNr="12" tsid="258858099" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=KEQBRYNVLOZYECLWIIXMVIJA" xmlUrl="https://files.transkribus.eu/Get?id=LELVYCUISLNZCQLBSBWBDDZH" imageId="85201398">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0012_p012.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883575247" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2792,340 2883,340 2883,435 2792,435"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2817,409 2869,406 2867,376 2815,379"/>
+                <Baseline points="2817,409 2869,406"/>
+                <TextEquiv>
+                    <Unicode>101</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2894,300 3026,300 3026,406 2894,406"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2893,408 2911,404 2924,388 2946,391 2951,383 2988,388 2986,335 2970,334 2966,329 2953,334 2940,324 2931,328 2916,319 2911,324 2902,319 2890,322"/>
+                <Baseline points="2900,373 2930,375 2961,376 2992,376"/>
+                <TextEquiv>
+                    <Unicode>101</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1914,340 1914,2148 3097,2148 3097,340"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1924,542 2440,513 2542,554 2876,522 3005,560 3093,493 2855,498 2749,443 2548,491 2252,421 1922,436"/>
+                <Baseline points="1932,513 1990,510 2048,510 2106,510 2165,510 2223,510 2281,510 2339,513 2398,510 2456,512 2514,513 2572,516 2631,516 2689,516 2747,519 2805,520 2864,522 2922,522 2980,522 3038,522 3097,525"/>
+                <TextEquiv>
+                    <Unicode>was schwer ist, de England bereits die begünstigte Nation ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1924,587 3010,590 3010,548 2915,536 1924,542"/>
+                <Baseline points="1932,576 1986,576 2040,575 2094,573 2148,573 2202,573 2256,573 2310,573 2364,575 2418,576 2472,576 2526,576 2580,576 2634,578 2688,579 2742,582 2796,582 2850,582 2904,584 2958,585 3013,582"/>
+                <TextEquiv>
+                    <Unicode>Wir glauben daher, dass es der beste Ausweg ist, wenn die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;} textStyle {offset:41; length:18;italic:true;}">
+                <Coords points="1918,640 3011,665 3010,603 2874,589 2670,618 2516,583 2268,617 1918,592"/>
+                <Baseline points="1926,639 1980,638 2034,636 2089,636 2143,633 2197,636 2252,636 2306,636 2360,636 2415,636 2469,639 2523,639 2578,639 2632,641 2686,642 2741,642 2795,642 2849,642 2904,642 2958,642 3013,642"/>
+                <TextEquiv>
+                    <Unicode>Regierung von Texas der Gesellschaft als Heimatgesellschaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="2638,708 2766,719 2794,707 2943,739 2986,721 3020,735 3049,727 3037,670 2896,684 2839,653 2810,666 2765,652 2747,668 2638,679"/>
+                <Baseline points="2646,704 1952,705 2696,704 2722,706 2747,707 2772,707 2798,707 2823,707 2849,707 2874,707 2899,709 2925,710 2950,710 2975,710 3001,710 3026,711 3052,713"/>
+                <TextEquiv>
+                    <Unicode>Vortheile giebt, wir machen uns dann gegen unserer Regierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="2632,771 2721,771 2761,796 2823,774 2868,805 2973,771 2972,730 2943,739 2887,724 2826,749 2788,727 2676,745 2631,739"/>
+                <Baseline points="1942,772 2665,765 2691,765 2717,767 2743,767 2769,767 2795,767 2821,768 2847,770 2873,770 2899,770 2925,770 2951,770 2977,770"/>
+                <TextEquiv>
+                    <Unicode>verbindlich, dass wir diese Vortheile nur den teutschen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="2516,829 2899,857 3042,840 3042,809 2937,790 2865,805 2804,781 2615,806 2516,784"/>
+                <Baseline points="2523,827 1962,830 2575,827 2601,827 2627,828 2653,830 2679,827 2706,829 2732,830 2758,830 2784,830 2810,830 2836,830 2862,831 2889,832 2915,833 2941,833 2967,831 2993,830 3019,832 3046,833"/>
+                <TextEquiv>
+                    <Unicode>Produkten zuwenden wollen. In diesem Sinne haben wir den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="2505,914 2574,888 2701,918 2766,892 2864,917 3055,899 3055,873 2900,872 2849,841 2733,858 2556,835 2505,860"/>
+                <Baseline points="2514,890 1945,888 2568,887 2595,887 2622,888 2650,890 2677,890 2704,890 2731,890 2758,891 2786,893 2813,891 2840,891 2867,893 2894,892 2922,890 2949,892 2976,893 3003,893 3030,893 3058,890"/>
+                <TextEquiv>
+                    <Unicode>Col. Dangerfield, der längere Zeit hier war, eine Note über-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:7;}">
+                <Coords points="2744,959 2819,960 2857,972 2914,959 3013,965 3013,915 2982,908 2938,920 2896,920 2887,911 2849,917 2801,896 2744,892"/>
+                <Baseline points="1933,952 2779,955 2805,955 2831,955 2858,955 2884,955 2910,954 2937,952 2963,954 2989,955 3016,955"/>
+                <TextEquiv>
+                    <Unicode>geben, von der ich Ihnen hier die Abschrift beilege, damit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:8;}">
+                <Coords points="2516,1016 2794,1019 2916,1042 2972,1026 3013,1048 3011,979 2833,994 2635,963 2587,985 2514,969"/>
+                <Baseline points="1943,1012 2548,1012 2574,1012 2600,1012 2626,1012 2652,1012 2678,1012 2704,1012 2730,1014 2756,1016 2782,1017 2808,1018 2834,1018 2860,1018 2886,1018 2912,1018 2938,1018 2964,1018 2990,1018 3016,1018"/>
+                <TextEquiv>
+                    <Unicode>Sie von Allem genau instruirt sind und das Nöthige bei dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:9;}">
+                <Coords points="2527,1084 2965,1092 2963,1032 2912,1042 2830,1028 2762,1058 2526,1029"/>
+                <Baseline points="1944,1078 2560,1075 2585,1075 2611,1075 2636,1078 2662,1075 2687,1075 2713,1075 2738,1075 2764,1075 2789,1075 2815,1075 2840,1075 2866,1077 2891,1078 2917,1078 2942,1079 2968,1081"/>
+                <TextEquiv>
+                    <Unicode>Präsidenten thun können. --- Geht diess durch, so treten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:10;}">
+                <Coords points="2516,1170 2586,1141 2647,1160 2677,1138 2989,1160 3048,1153 3048,1118 2841,1079 2676,1102 2514,1081"/>
+                <Baseline points="1934,1134 2549,1134 2575,1134 2602,1136 2628,1137 2655,1137 2681,1137 2708,1137 2734,1140 2761,1140 2787,1140 2813,1140 2840,1140 2866,1140 2893,1140 2919,1140 2946,1140 2972,1140 2999,1140 3025,1138 3052,1140"/>
+                <TextEquiv>
+                    <Unicode>unsere Regierungen bei und die Sache wird ein grosses Unter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:11;}">
+                <Coords points="2778,1223 2890,1205 2932,1229 2967,1211 3068,1232 3068,1165 3017,1173 2986,1157 2962,1169 2922,1156 2817,1166 2778,1146"/>
+                <Baseline points="1931,1200 2811,1203 2837,1203 2863,1201 2889,1201 2915,1203 2940,1203 2966,1203 2992,1203 3018,1203 3044,1203 3070,1203"/>
+                <TextEquiv>
+                    <Unicode>nehmen zum Besten Teutschlands und zu unserm Besten zugleich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:12;}">
+                <Coords points="2459,1269 2689,1264 2750,1281 2784,1267 2844,1293 2982,1274 2981,1224 2457,1214"/>
+                <Baseline points="1937,1263 2494,1260 2521,1260 2548,1260 2576,1260 2603,1260 2630,1262 2658,1263 2685,1263 2712,1263 2740,1263 2767,1263 2794,1263 2822,1263 2849,1263 2876,1263 2904,1263 2931,1263 2958,1263 2986,1263"/>
+                <TextEquiv>
+                    <Unicode>Betheiligen sich die Regierungen nicht, so gehen wir auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:13;}">
+                <Coords points="2505,1332 3071,1341 3069,1280 2835,1293 2771,1265 2726,1299 2505,1286"/>
+                <Baseline points="1937,1324 2543,1323 2572,1323 2602,1323 2631,1323 2661,1324 2690,1326 2719,1326 2749,1326 2778,1326 2808,1328 2837,1329 2867,1329 2896,1329 2925,1329 2955,1329 2984,1329 3014,1329 3043,1329 3073,1329"/>
+                <TextEquiv>
+                    <Unicode>unserer eingeschlagenen Band fort. Diess ist eine Sache, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:14;}">
+                <Coords points="2554,1390 2798,1415 2820,1398 2975,1395 2973,1337 2957,1331 2912,1344 2868,1332 2849,1348 2813,1339 2734,1367 2701,1344 2616,1353 2552,1322"/>
+                <Baseline points="1933,1385 2587,1385 2613,1385 2639,1385 2665,1386 2691,1388 2717,1388 2743,1388 2769,1388 2795,1388 2821,1388 2847,1389 2873,1391 2899,1391 2925,1391 2951,1391 2977,1394"/>
+                <TextEquiv>
+                    <Unicode>sich entscheiden wird, sobald wir Ihre Antwort haben, ob</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:15;}">
+                <Coords points="2126,1529 2185,1513 2231,1527 2301,1511 2387,1526 2562,1514 2562,1469 2535,1482 2501,1462 2460,1487 2367,1481 2316,1459 2285,1481 2231,1485 2126,1472"/>
+                <Baseline points="2135,1505 2160,1507 2185,1508 2210,1506 2236,1506 2261,1507 2286,1508 2312,1508 2337,1508 2362,1508 2387,1508 2413,1508 2438,1508 2463,1509 2489,1511 2514,1511 2539,1511 2565,1511"/>
+                <TextEquiv>
+                    <Unicode>An H. Graf Boos Waldeck</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:16;}">
+                <Coords points="2714,1525 2779,1523 2793,1513 2919,1529 2918,1475 2899,1479 2865,1468 2832,1476 2812,1466 2801,1476 2772,1469 2742,1482 2733,1476 2712,1482"/>
+                <Baseline points="2720,1514 2745,1514 2770,1514 2795,1514 2820,1514 2845,1514 2870,1515 2895,1517 2921,1517"/>
+                <TextEquiv>
+                    <Unicode>(90 verso)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:17;}">
+                <Coords points="2040,1641 3055,1651 3008,1599 2040,1595"/>
+                <Baseline points="1922,1632 2098,1627 2149,1628 2199,1630 2250,1630 2300,1630 2351,1632 2401,1633 2452,1630 2502,1633 2553,1634 2603,1636 2654,1636 2704,1636 2755,1636 2805,1636 2856,1639 2906,1639 2957,1639 3007,1639 3058,1639"/>
+                <TextEquiv>
+                    <Unicode>wir Land und Handelsvortheile erhalten können.-- Wir bitten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:18;}">
+                <Coords points="2040,1715 3046,1720 3045,1673 2892,1650 2820,1679 2666,1648 2040,1656"/>
+                <Baseline points="1931,1695 2098,1690 2148,1690 2198,1691 2248,1693 2298,1693 2348,1695 2398,1696 2448,1696 2498,1699 2548,1696 2598,1697 2648,1699 2698,1699 2748,1699 2798,1699 2848,1699 2898,1699 2948,1702 2998,1703 3049,1705"/>
+                <TextEquiv>
+                    <Unicode>Sie daher in unserm Interesse den Prasidenten zu bearbeiten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:19;}">
+                <Coords points="2086,1766 2144,1791 2215,1758 2965,1774 2981,1711 2816,1740 2580,1704 2443,1732 2296,1699 2198,1733 2084,1717"/>
+                <Baseline points="1932,1750 2137,1753 2182,1753 2226,1756 2271,1756 2316,1756 2360,1756 2405,1756 2450,1759 2494,1759 2539,1759 2584,1759 2628,1762 2673,1762 2718,1762 2762,1762 2807,1762 2852,1762 2896,1762 2941,1762 2986,1768"/>
+                <TextEquiv>
+                    <Unicode>und haben Ihnen desshalb die Abschrift der Note gesendet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:20;}">
+                <Coords points="1914,1822 3027,1832 2959,1783 1912,1759"/>
+                <Baseline points="1920,1812 1975,1812 2031,1813 2086,1815 2142,1815 2197,1818 2253,1818 2308,1818 2364,1818 2419,1818 2475,1819 2531,1821 2586,1821 2642,1821 2697,1822 2753,1824 2808,1822 2864,1824 2919,1822 2975,1824 3031,1824"/>
+                <TextEquiv>
+                    <Unicode>damit Sie wissen, worauf es uns enkonnen muss.-- Wir müssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:21;}">
+                <Coords points="1912,1882 2965,1893 2965,1845 2908,1838 2339,1864 2054,1818 1912,1848"/>
+                <Baseline points="1920,1872 1972,1872 2024,1875 2077,1877 2129,1878 2182,1878 2234,1878 2286,1881 2339,1881 2391,1881 2444,1883 2496,1884 2548,1884 2601,1884 2653,1884 2706,1886 2758,1887 2810,1887 2863,1887 2915,1887 3051,1894"/>
+                <TextEquiv>
+                    <Unicode>natürlich erst wissen, ob die Tex. Regierung günstg gestimmt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:22;}">
+                <Coords points="1911,1953 2884,1966 2976,1960 2975,1896 2460,1933 1909,1876"/>
+                <Baseline points="1917,1935 1970,1935 2023,1936 2076,1938 2129,1938 2182,1941 2235,1941 2289,1942 2342,1944 2395,1944 2448,1944 2501,1944 2554,1944 2607,1945 2661,1947 2714,1947 2767,1947 2820,1947 2873,1950 2926,1950 2980,1947"/>
+                <TextEquiv>
+                    <Unicode>ist, ehe wir mit unserm Gouv. uns definitiv abschliessen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:23;}">
+                <Coords points="1908,2001 1991,2004 2014,2024 2043,2004 2077,2019 2271,2003 2355,2024 2373,2022 2371,1965 2344,1955 2319,1976 2239,1955 2176,1973 2110,1947 2057,1965 2033,1952 1906,1962"/>
+                <Baseline points="1914,1995 1939,1997 1965,1998 1991,1998 2016,1998 2042,1998 2068,1998 2094,1998 2119,2000 2145,2001 2171,2001 2196,2001 2222,2001 2248,2002 2274,2004 2299,2004 2325,2004 2351,2004 2998,2018"/>
+                <TextEquiv>
+                    <Unicode>können.-- Um indess doch eine vorläufige Unterhandlung mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:24;}">
+                <Coords points="1912,2064 2003,2074 2038,2059 2094,2075 2138,2064 2220,2073 2231,2068 2230,2023 2143,2022 2122,2036 2057,2013 2038,2024 1911,2029"/>
+                <Baseline points="1920,2054 1946,2056 1972,2057 1998,2057 2024,2058 2050,2060 2077,2060 2103,2060 2129,2062 2155,2063 2181,2063 2207,2064 3017,2074"/>
+                <TextEquiv>
+                    <Unicode>unserm Gov. einleiten zu können, so habe wir den Grant an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:25;}">
+                <Coords points="1911,2141 1947,2125 2065,2151 2116,2137 2169,2143 2183,2140 2182,2093 2153,2105 2137,2097 2128,2106 2096,2096 2074,2102 2006,2071 1934,2093 1908,2090"/>
+                <Baseline points="1917,2123 1943,2121 1970,2121 1997,2122 2024,2124 2051,2126 2078,2126 2105,2127 2132,2128 2159,2129 3002,2139"/>
+                <TextEquiv>
+                    <Unicode>der Medina, welcher Herrn Bourgeois d'Orvanne gegeben ist,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

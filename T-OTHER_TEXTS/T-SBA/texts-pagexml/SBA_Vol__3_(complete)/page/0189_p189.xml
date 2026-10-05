@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=39995:lm=none:date=29_10_2025_22:30</Creator>
+        <Created>2025-10-10T22:22:20.294+02:00</Created>
+        <LastChange>2026-06-19T05:40:56.123+02:00</LastChange>
+        <TranskribusMetadata docId="11233159" pageId="104148052" pageNr="189" tsid="292924054" status="DONE" userId="531018" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=RZMSZBHFNBYTWEVDRYKUTOUC" xmlUrl="https://files.transkribus.eu/Get?id=EEGCQAIKUDSLVCLWSZHYLTHD" imageId="87396613">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0189_p189.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883595714" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_4"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="3053,295 3124,295 3124,349 3053,349"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3035,355 3061,352 3071,357 3088,353 3093,359 3099,356 3126,359 3124,278 3109,274 3105,280 3074,278 3057,292 3034,297"/>
+                <Baseline points="3043,331 3072,331 3101,332 3130,334"/>
+                <TextEquiv>
+                    <Unicode>199</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_4" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="3133,186 3133,339 3234,339 3234,186"/>
+            <TextLine id="tr_4_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3126,323 3146,326 3157,312 3165,311 3195,315 3230,311 3229,242 3216,242 3209,234 3204,237 3192,229 3153,223 3136,210 3123,209"/>
+                <Baseline points="3133,286 3158,288 3183,289 3208,289 3234,289"/>
+                <TextEquiv>
+                    <Unicode>266</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1998,299 1998,1036 3133,1036 3133,299"/>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1996,441 3027,462 3069,451 3069,390 2446,383 2318,336 2242,383 1994,376"/>
+                <Baseline points="2004,418 2057,418 2110,419 2164,421 2217,421 2271,424 2324,424 2378,424 2431,424 2485,424 2538,424 2591,424 2645,427 2698,427 2752,427 2805,427 2859,427 2912,427 2966,427 3019,427 3073,427"/>
+                <TextEquiv>
+                    <Unicode>ertheilen die Gewogenheit haben. Die sofortige Klage-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:1;} unclear {offset:23; length:10;}">
+                <Coords points="1996,496 3064,520 3038,456 1996,441"/>
+                <Baseline points="2004,483 2057,486 2110,486 2163,486 2216,488 2269,486 2322,486 2376,488 2429,485 2482,483 2535,483 2588,483 2641,487 2694,492 2748,494 2801,495 2854,495 2907,495 2960,495 3013,495 3067,495"/>
+                <TextEquiv>
+                    <Unicode>anstellung gegen die e Renitentin namenlich den Herrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="1999,571 3082,579 3082,516 3007,507 1999,518"/>
+                <Baseline points="2007,552 2060,551 2114,550 2168,552 2222,554 2276,555 2330,555 2384,555 2438,555 2492,555 2546,558 2599,558 2653,559 2707,561 2761,561 2815,561 2869,560 2923,558 2977,560 3031,561 3085,558"/>
+                <TextEquiv>
+                    <Unicode>Graf von Knyphausen, den Frinzen Carl zu Solms und die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="1996,643 3132,660 3132,575 3051,568 1996,575"/>
+                <Baseline points="2004,615 2060,617 2116,615 2173,617 2229,618 2286,619 2342,621 2399,621 2455,621 2512,624 2568,624 2624,624 2681,624 2737,624 2794,624 2850,627 2907,624 2963,627 3020,627 3076,627 3133,627"/>
+                <TextEquiv>
+                    <Unicode>Erbin Castell wird die unmittelbare Folge der Vollziehung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="1996,702 3093,715 3093,662 1994,643"/>
+                <Baseline points="2004,683 2058,683 2113,683 2167,685 2222,686 2277,686 2331,686 2386,686 2441,688 2495,689 2550,689 2605,689 2659,689 2714,689 2769,689 2823,692 2878,692 2933,692 2987,692 3042,692 3097,695"/>
+                <TextEquiv>
+                    <Unicode>dieses Vertrages seyn und der nicht zweifelhafte Erfolg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="1996,788 3078,770 3065,712 2266,733 1996,702"/>
+                <Baseline points="2004,746 2057,749 2111,749 2165,751 2219,752 2273,752 2327,752 2381,752 2435,754 2489,755 2543,755 2596,755 2650,755 2704,755 2758,755 2812,755 2866,757 2920,756 2974,756 3028,755 3082,755"/>
+                <TextEquiv>
+                    <Unicode>dieser Klagen in Verbindung mit dem Umstand dass durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="1990,823 3083,850 3074,775 1990,790"/>
+                <Baseline points="1998,815 2052,815 2106,815 2161,815 2215,815 2269,818 2324,816 2378,818 2432,818 2487,818 2541,821 2595,821 2650,821 2704,821 2758,821 2813,821 2867,821 2921,823 2976,824 3030,821 3085,821"/>
+                <TextEquiv>
+                    <Unicode>Realisirung des Vertrages vom Jahre 1850 die einzelnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="1990,896 3091,911 3091,857 3019,839 1990,840"/>
+                <Baseline points="1998,881 2052,884 2107,884 2162,884 2217,884 2272,884 2326,884 2381,886 2436,887 2491,887 2546,887 2600,887 2655,889 2710,887 2765,887 2820,888 2874,888 2929,887 2984,887 3039,887 3094,887"/>
+                <TextEquiv>
+                    <Unicode>Herrn gegen jeden Weitern Ausfall gedeckt wurden, über-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="1990,973 3030,992 3030,907 1990,896"/>
+                <Baseline points="1998,946 2049,949 2101,946 2153,947 2205,949 2257,949 2308,949 2360,949 2412,950 2464,951 2516,951 2567,952 2619,952 2671,952 2723,952 2775,952 2826,952 2878,952 2930,952 2982,952 3034,952"/>
+                <TextEquiv>
+                    <Unicode>wiegt sicherlich jedes Bedenken welches Sie, verehr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="1990,1048 2674,1040 2708,1068 2911,1033 2882,968 1989,986"/>
+                <Baseline points="1998,1015 2043,1015 2089,1015 2135,1015 2181,1015 2227,1015 2273,1015 2318,1015 2364,1018 2410,1018 2456,1018 2502,1018 2548,1018 2594,1018 2639,1018 2685,1019 2731,1020 2777,1018 2823,1018 2869,1018 2915,1018"/>
+                <TextEquiv>
+                    <Unicode>Graf, etwa noch bey der Sache haben könnten.—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

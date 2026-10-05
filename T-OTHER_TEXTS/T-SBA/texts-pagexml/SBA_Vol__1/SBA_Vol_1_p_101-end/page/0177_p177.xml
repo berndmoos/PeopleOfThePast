@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:24.363+02:00</Created>
+        <LastChange>2025-11-04T02:42:10.401+01:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101584188" pageNr="177" tsid="259684399" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=QBEEMMLQMUUHDJBAGAZUMKVC" xmlUrl="https://files.transkribus.eu/Get?id=NEDPXPKVHADIGPHQAPEHZRGB" imageId="85201636">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0177_p177.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883577852" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2805,310 2889,310 2889,377 2805,377"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2820,356 2873,356 2873,326 2820,326"/>
+                <Baseline points="2820,356 2873,356"/>
+                <TextEquiv>
+                    <Unicode>248</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2898,279 3011,279 3011,364 2898,364"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2929,342 2972,341 2971,311 2928,312"/>
+                <Baseline points="2929,342 2972,341"/>
+                <TextEquiv>
+                    <Unicode>253</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1851,304 1851,2096 2998,2096 2998,304"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;} textStyle {offset:45; length:3;italic:true;} textStyle {offset:49; length:3;strikethrough:true;}">
+                <Coords points="1844,471 2956,467 2936,409 2846,437 2729,389 2625,434 1844,416"/>
+                <Baseline points="1851,459 1906,459 1961,457 2017,456 2072,456 2128,456 2183,456 2238,456 2294,456 2349,459 2405,459 2460,456 2515,456 2571,459 2626,459 2682,461 2737,459 2792,458 2848,456 2903,456 2959,453"/>
+                <TextEquiv>
+                    <Unicode>schiffungsort Bremen 300 fl. oder 171 Gl. 13 Sgr Spr. mPr. Court</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1845,551 2946,537 2956,485 1847,485"/>
+                <Baseline points="1854,519 1909,522 1964,522 2019,522 2075,523 2130,524 2185,522 2240,519 2296,519 2351,520 2406,520 2461,519 2517,519 2572,519 2627,519 2682,519 2738,516 2793,516 2848,516 2903,514 2959,516"/>
+                <TextEquiv>
+                    <Unicode>wenn er ledig ist, nachweisen kann. Eine Familie bis zu der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;} textStyle {offset:44; length:3;strikethrough:true;}">
+                <Coords points="1847,602 2973,597 2961,540 2689,524 2413,570 1847,551"/>
+                <Baseline points="1854,588 1910,585 1966,585 2022,585 2078,585 2134,584 2190,582 2247,582 2303,585 2359,583 2415,584 2471,582 2527,582 2583,578 2640,577 2696,579 2752,579 2808,576 2864,576 2920,576 2977,573"/>
+                <TextEquiv>
+                    <Unicode>zahl von 6 Köpfen muss 600 fl. oder 342 Gl. 1376 Sgr. Pr. Court.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="1852,676 2887,662 2855,604 2109,597 2059,631 1852,598"/>
+                <Baseline points="1860,648 1911,648 1963,648 2014,648 2066,648 2117,648 2169,648 2220,648 2272,647 2323,645 2375,645 2427,645 2478,645 2530,645 2581,645 2633,645 2684,644 2736,642 2787,640 2839,639 2891,639"/>
+                <TextEquiv>
+                    <Unicode>nachweisen, eine Familie von 7 und mehr Köpfen muss das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;} textStyle {offset:27; length:3;strikethrough:true;} textStyle {offset:31; length:3;italic:true;}">
+                <Coords points="1852,733 2923,732 2923,669 1852,676"/>
+                <Baseline points="1860,707 1913,710 1966,710 2020,710 2073,710 2126,710 2180,707 2233,707 2286,709 2340,707 2393,707 2446,708 2500,709 2553,707 2606,704 2660,707 2713,704 2766,703 2820,701 2873,701 2927,701"/>
+                <TextEquiv>
+                    <Unicode>Ueberfarthsgeld von 80 fl. pro per Kopf haben, und im Ganzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="1852,800 2919,789 2920,738 2877,729 1854,740"/>
+                <Baseline points="1860,773 1913,773 1966,773 2019,773 2072,773 2125,770 2178,770 2231,770 2284,770 2337,770 2390,770 2443,770 2496,768 2549,767 2602,767 2655,767 2708,764 2761,764 2814,764 2867,764 2936,761"/>
+                <TextEquiv>
+                    <Unicode>noch 100 fl. darüber nachweisen, und kann ohne diess Ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="1847,847 2244,864 2315,840 2457,866 2457,803 2383,792 2343,807 2278,786 2217,810 2138,792 2070,814 1847,800"/>
+                <Baseline points="1854,836 1884,836 1914,836 1945,836 1975,836 2005,836 2036,834 2066,833 2096,833 2127,833 2157,833 2187,833 2218,833 2248,833 2278,833 2309,831 2339,830 2369,830 2400,830 2430,830 2461,830"/>
+                <TextEquiv>
+                    <Unicode>mögen niemand angenommen werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="1945,913 2852,891 2926,921 2926,846 1945,866"/>
+                <Baseline points="1953,899 2001,898 2050,896 2099,896 2148,896 2197,896 2245,896 2294,894 2343,896 2392,893 2441,893 2489,893 2538,893 2587,893 2636,892 2685,890 2733,890 2782,888 2831,887 2880,887 2929,887"/>
+                <TextEquiv>
+                    <Unicode>Diese Summe von 300 fl. respect 600 fl. wird bei dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="1852,999 1959,964 2873,967 2875,921 1852,934"/>
+                <Baseline points="1860,958 1910,960 1961,958 2012,958 2063,958 2114,958 2164,955 2215,957 2266,955 2317,955 2368,955 2418,955 2469,955 2520,955 2571,952 2622,952 2672,951 2723,949 2774,949 2825,946 2876,949"/>
+                <TextEquiv>
+                    <Unicode>Vereine deponirt und zwar vor der Einschiffung bei der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="1855,1042 2943,1022 2943,981 2890,971 1855,995"/>
+                <Baseline points="1863,1021 1917,1021 1971,1021 2025,1021 2079,1021 2134,1018 2188,1018 2242,1018 2296,1018 2350,1016 2405,1015 2459,1015 2513,1015 2567,1013 2621,1012 2676,1012 2730,1012 2784,1011 2838,1009 2892,1009 2947,1012"/>
+                <TextEquiv>
+                    <Unicode>Direktion in Mainz oder bei dem Banquier der Gesellschaft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="1852,1096 2914,1075 2914,1046 2803,1031 1852,1041"/>
+                <Baseline points="1860,1087 1912,1085 1965,1084 2018,1084 2071,1084 2124,1081 2177,1081 2230,1079 2283,1078 2336,1078 2389,1078 2441,1077 2494,1077 2547,1078 2600,1075 2653,1075 2706,1075 2759,1074 2812,1072 2865,1072 2918,1069"/>
+                <TextEquiv>
+                    <Unicode>Herrn L. H. Flersheim in Frankfurt am Main, oder vor der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="1851,1169 2912,1146 2870,1088 1852,1123"/>
+                <Baseline points="1860,1149 1912,1147 1965,1146 2018,1146 2071,1143 2123,1143 2176,1143 2229,1143 2282,1140 2334,1140 2387,1140 2440,1140 2493,1138 2545,1137 2598,1137 2651,1137 2704,1134 2756,1133 2809,1131 2862,1131 2915,1128"/>
+                <TextEquiv>
+                    <Unicode>Einschiffung in Bremen selbst, bei einem seiner Zeit da-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="1859,1220 2973,1210 2973,1152 1861,1177"/>
+                <Baseline points="1869,1212 1924,1208 1979,1206 2035,1206 2090,1206 2146,1206 2201,1204 2256,1203 2312,1203 2367,1203 2423,1201 2478,1200 2533,1200 2589,1199 2644,1197 2700,1197 2755,1194 2810,1194 2866,1194 2921,1192 2977,1191"/>
+                <TextEquiv>
+                    <Unicode>selbst zu bestellenden Agenten des Vereines. Dafür bestrei-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="1854,1297 2936,1263 2922,1229 2576,1206 1855,1246"/>
+                <Baseline points="1863,1272 1916,1271 1970,1269 2024,1269 2078,1269 2131,1269 2185,1266 2239,1266 2293,1266 2346,1264 2400,1266 2454,1263 2508,1263 2561,1261 2615,1260 2669,1260 2723,1259 2776,1257 2830,1255 2884,1254 2938,1257"/>
+                <TextEquiv>
+                    <Unicode>tet der Verein: Ueberfahrt nebst Verköstigung von Bremen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:14;} textStyle {offset:6; length:1;strikethrough:true;}">
+                <Coords points="1858,1335 2479,1355 2967,1327 2969,1291 1859,1294"/>
+                <Baseline points="1866,1332 1921,1335 1976,1335 2031,1332 2087,1332 2142,1331 2197,1331 2252,1329 2308,1329 2363,1328 2418,1326 2473,1323 2529,1323 2584,1323 2639,1323 2694,1323 2750,1320 2805,1320 2860,1318 2915,1317 2971,1317"/>
+                <TextEquiv>
+                    <Unicode>bis and den ersten Ausschiffungsort Galveston, welches sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="1861,1404 2936,1391 2936,1350 2735,1338 1862,1364"/>
+                <Baseline points="1869,1400 1922,1397 1975,1397 2029,1395 2082,1394 2136,1391 2189,1393 2243,1391 2296,1391 2350,1391 2403,1388 2456,1388 2510,1388 2563,1386 2617,1385 2670,1385 2724,1382 2777,1382 2831,1380 2884,1379 2938,1379"/>
+                <TextEquiv>
+                    <Unicode>auf ungefähr 60 fl. per Kopf belaufen wird, Transport bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="1858,1472 2712,1478 2960,1461 2961,1408 1858,1429"/>
+                <Baseline points="1866,1460 1920,1460 1975,1457 2030,1459 2085,1457 2140,1457 2194,1454 2249,1454 2304,1452 2359,1454 2414,1452 2468,1451 2523,1448 2578,1447 2633,1445 2688,1445 2742,1445 2797,1444 2852,1442 2907,1442 2962,1445"/>
+                <TextEquiv>
+                    <Unicode>zum 2ten Ausschiffungsort in der Matagorda-Bai, so wie den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="1857,1555 2845,1509 2934,1539 2934,1474 2875,1465 1858,1489"/>
+                <Baseline points="1866,1523 1919,1522 1973,1520 2026,1520 2080,1520 2134,1517 2187,1515 2241,1517 2294,1515 2348,1516 2402,1514 2455,1511 2509,1511 2562,1511 2616,1509 2670,1508 2723,1508 2777,1507 2830,1505 2884,1505 2938,1505"/>
+                <TextEquiv>
+                    <Unicode>Land-Fransport für Frauen, Kinder und Gepäck von dem Aus-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="1861,1603 2906,1590 2970,1576 2971,1528 1861,1556"/>
+                <Baseline points="1869,1585 1924,1583 1979,1582 2034,1582 2090,1579 2145,1579 2200,1578 2255,1577 2311,1577 2366,1577 2421,1577 2476,1574 2532,1574 2587,1573 2642,1571 2697,1569 2753,1568 2808,1568 2863,1568 2918,1566 2974,1568"/>
+                <TextEquiv>
+                    <Unicode>schiffungsorte bis auf die Colonie selbst auf den Wagen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="1864,1656 2879,1659 2934,1647 2936,1603 1865,1603"/>
+                <Baseline points="1872,1648 1925,1647 1978,1645 2031,1645 2085,1642 2138,1642 2191,1642 2245,1640 2298,1639 2351,1636 2405,1636 2458,1636 2511,1636 2564,1634 2618,1633 2671,1633 2724,1633 2778,1632 2831,1630 2884,1628 2938,1633"/>
+                <TextEquiv>
+                    <Unicode>in den Zelten der Gesellschaft für circa 20 fl. per Kopf;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="1867,1728 2929,1710 2953,1664 1868,1670"/>
+                <Baseline points="1875,1711 1929,1708 1983,1707 2037,1705 2091,1705 2145,1705 2199,1702 2253,1702 2307,1700 2361,1699 2415,1699 2469,1699 2523,1698 2577,1696 2631,1696 2685,1693 2739,1693 2793,1692 2847,1690 2901,1690 2956,1690"/>
+                <TextEquiv>
+                    <Unicode>er bestreitet ferner die Uebergabe eines Wohnhauses in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="1867,1777 2994,1767 2974,1720 1868,1726"/>
+                <Baseline points="1875,1771 1931,1771 1987,1771 2043,1771 2099,1768 2155,1767 2211,1765 2268,1763 2324,1762 2380,1762 2436,1762 2492,1760 2548,1759 2604,1759 2661,1758 2717,1756 2773,1756 2829,1753 2885,1752 2941,1752 2998,1753"/>
+                <TextEquiv>
+                    <Unicode>Colonie (wenn der Einwanderer nicht vorzieht, es sich selbst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:22;}">
+                <Coords points="1861,1847 2926,1818 2926,1780 2850,1773 1862,1788"/>
+                <Baseline points="1869,1830 1922,1833 1975,1833 2028,1833 2081,1830 2134,1830 2187,1830 2240,1828 2293,1827 2346,1824 2399,1824 2452,1823 2505,1821 2558,1819 2611,1818 2664,1818 2717,1817 2770,1815 2823,1813 2876,1812 2929,1812"/>
+                <TextEquiv>
+                    <Unicode>zu bauen), im möglichst niedrigen Kosten-Anschlage, über</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:23;}">
+                <Coords points="1864,1921 2970,1884 2970,1828 1865,1862"/>
+                <Baseline points="1872,1896 1927,1896 1982,1893 2037,1893 2092,1890 2147,1890 2202,1888 2257,1887 2312,1887 2367,1887 2423,1885 2478,1884 2533,1881 2588,1881 2643,1881 2698,1878 2753,1878 2808,1878 2863,1876 2918,1873 2974,1869"/>
+                <TextEquiv>
+                    <Unicode>den restirenden Betrag der je nach der Kopfzahl der auswan-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_26" custom="readingOrder {index:24;}">
+                <Coords points="1864,1962 2846,1959 2966,1951 2967,1899 1864,1921"/>
+                <Baseline points="1872,1956 1926,1956 1981,1956 2036,1955 2091,1953 2146,1951 2200,1950 2255,1950 2310,1947 2365,1947 2420,1945 2474,1944 2529,1943 2584,1941 2639,1941 2694,1941 2748,1938 2803,1938 2858,1938 2913,1938 2968,1935"/>
+                <TextEquiv>
+                    <Unicode>dernden Familien sich verschieden henausstellen wird, wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_27" custom="readingOrder {index:25;}">
+                <Coords points="1864,2016 1996,2042 2906,2003 2906,1965 2801,1952 1865,1992"/>
+                <Baseline points="1872,2013 1923,2013 1975,2013 2027,2010 2079,2010 2131,2008 2183,2007 2234,2004 2286,2004 2338,2003 2390,2001 2442,2001 2494,2001 2546,1998 2597,1998 2649,1997 2701,1995 2753,1993 2805,1994 2857,1992 2909,1986"/>
+                <TextEquiv>
+                    <Unicode>der Agent im Namen des Vereines dem Auswanderer vor der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_28" custom="readingOrder {index:26;}">
+                <Coords points="1871,2103 2291,2082 2402,2123 2988,2066 2988,2026 2835,2006 2705,2046 2634,2015 1872,2047"/>
+                <Baseline points="1878,2081 1933,2078 1989,2078 2045,2075 2100,2072 2156,2072 2212,2072 2267,2070 2323,2069 2379,2068 2435,2066 2490,2066 2546,2066 2602,2065 2657,2063 2713,2061 2769,2060 2824,2060 2880,2060 2936,2058 2992,2057"/>
+                <TextEquiv>
+                    <Unicode>Einschiffung einen Empfangschein ausstellen, welcher in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

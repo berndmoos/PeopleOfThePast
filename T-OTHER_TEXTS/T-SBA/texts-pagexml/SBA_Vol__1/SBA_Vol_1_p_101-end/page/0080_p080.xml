@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:13.934+02:00</Created>
+        <LastChange>2025-10-26T00:33:49.036+02:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101584082" pageNr="80" tsid="258865927" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=VKQLGKFRTQGRHGGHZXEGRAUD" xmlUrl="https://files.transkribus.eu/Get?id=XYKLGBXPFWCOFAVRNVUBSEMU" imageId="85201500">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0080_p080.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883576332" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2744,343 2858,343 2858,435 2744,435"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="2767,419 2779,420 2783,416 2788,419 2798,409 2822,425 2846,427 2842,346 2821,348 2814,356 2797,355 2776,343 2763,346"/>
+                <Baseline points="2774,406 2799,406 2824,407 2849,412"/>
+                <TextEquiv>
+                    <Unicode>162</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2858,303 2978,303 2978,413 2858,413"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2856,391 2873,390 2875,385 2887,380 2909,390 2936,390 2950,385 2948,322 2909,328 2873,326 2867,322 2854,324"/>
+                <Baseline points="2864,379 2893,381 2923,382 2953,382"/>
+                <TextEquiv>
+                    <Unicode>164</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1863,335 1863,1196 2983,1196 2983,335"/>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="1855,604 2979,570 2811,513 2693,548 2452,518 1857,559"/>
+                <Baseline points="1863,588 1919,584 1975,582 2031,580 2087,576 2143,576 2199,576 2255,574 2311,573 2367,573 2423,573 2479,573 2535,570 2591,570 2647,570 2703,570 2759,567 2815,567 2871,567 2927,565 2983,564"/>
+                <TextEquiv>
+                    <Unicode>My best &amp; kindest respects and compliments to Count Leiningen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="1859,668 2878,640 2845,583 1861,611"/>
+                <Baseline points="1869,648 1919,646 1970,643 2020,642 2071,639 2122,639 2172,636 2223,636 2274,636 2324,634 2375,633 2426,633 2476,630 2527,633 2578,632 2628,630 2679,629 2730,627 2780,627 2831,627 2882,630"/>
+                <TextEquiv>
+                    <Unicode>&amp; to Prince Solms &amp; believe me my dear Count most truly,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="1864,715 2201,703 2263,729 2402,699 2517,716 2518,659 2416,650 2347,674 2277,652 2140,682 1986,666 1865,685"/>
+                <Baseline points="1872,707 1904,706 1936,704 1969,702 2001,701 2034,701 2066,698 2098,700 2131,700 2163,698 2196,698 2228,697 2260,695 2293,695 2325,693 2358,692 2390,692 2422,692 2455,692 2487,693 2520,695"/>
+                <TextEquiv>
+                    <Unicode>most sincerely and most gratefully.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="2304,828 2325,832 2368,821 2410,835 2421,825 2455,830 2465,820 2491,821 2501,813 2517,818 2517,796 2490,780 2441,788 2410,780 2367,799 2356,786 2319,789 2305,782"/>
+                <Baseline points="2311,818 2337,815 2363,815 2389,815 2415,813 2441,812 2467,812 2493,813 2520,815"/>
+                <TextEquiv>
+                    <Unicode>Yr. friend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="2214,883 2336,881 2402,909 2466,891 2563,890 2588,904 2633,893 2634,839 2620,837 2550,848 2507,831 2393,855 2215,848"/>
+                <Baseline points="2222,878 2247,878 2273,878 2299,878 2325,878 2351,878 2377,878 2403,878 2429,877 2455,875 2481,875 2507,875 2533,875 2559,874 2585,872 2611,872 2637,872"/>
+                <TextEquiv>
+                    <Unicode>Wm. Henry Daingerfield</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="1876,1078 1907,1075 1924,1080 1930,1075 1965,1083 1984,1073 2007,1082 2015,1073 2036,1069 2037,1038 2002,1033 1993,1040 1986,1036 1966,1043 1949,1027 1930,1037 1897,1027 1892,1033 1878,1031"/>
+                <Baseline points="1884,1069 1909,1069 1935,1069 1961,1068 1987,1067 2013,1066 2039,1066"/>
+                <TextEquiv>
+                    <Unicode>Monsieur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="1959,1166 1981,1169 2040,1134 2056,1138 2095,1128 2107,1134 2131,1132 2131,1096 2082,1099 2075,1106 2060,1094 2047,1099 2036,1090 2016,1099 2007,1092 1986,1100 1960,1092"/>
+                <Baseline points="1968,1126 1995,1126 2023,1126 2051,1126 2079,1126 2107,1125 2135,1123"/>
+                <TextEquiv>
+                    <Unicode>Le Count</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="2054,1198 2148,1187 2206,1206 2274,1184 2318,1202 2353,1195 2353,1145 2344,1143 2306,1152 2246,1143 2236,1152 2157,1134 2096,1155 2056,1150"/>
+                <Baseline points="2063,1182 2089,1182 2116,1182 2142,1182 2169,1182 2196,1182 2222,1182 2249,1182 2276,1180 2302,1179 2329,1179 2356,1182"/>
+                <TextEquiv>
+                    <Unicode>Charles Castell</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

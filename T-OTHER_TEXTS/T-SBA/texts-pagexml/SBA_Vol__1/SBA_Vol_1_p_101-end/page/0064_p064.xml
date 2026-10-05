@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:12.124+02:00</Created>
+        <LastChange>2025-11-04T00:33:01.785+01:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101584053" pageNr="64" tsid="259681744" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=XIRUAWJZDMNEDMWSKUENMIUZ" xmlUrl="https://files.transkribus.eu/Get?id=YWTAGXZHKMHFUJCCLMACKNTL" imageId="85201491">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0064_p064.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883576067" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2750,349 2875,349 2875,444 2750,444"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2768,414 2840,419 2842,389 2770,384"/>
+                <Baseline points="2768,414 2840,419"/>
+                <TextEquiv>
+                    <Unicode>150c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;} structure {type:item-continue;}">
+            <Coords points="1842,368 1842,644 2855,644 2855,368"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1920,514 2846,508 2832,438 1920,446"/>
+                <Baseline points="1926,507 1972,504 2018,504 2064,504 2110,504 2156,504 2202,502 2249,501 2295,501 2341,501 2387,501 2433,501 2479,499 2525,500 2572,501 2618,501 2664,501 2710,501 2756,501 2802,501 2849,498"/>
+                <TextEquiv>
+                    <Unicode>Empfanzen Sie, mein Herr, die Versicherung meiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1834,621 1968,611 2036,628 2092,603 2143,624 2197,620 2199,536 2133,544 2103,513 1870,521 1836,536"/>
+                <Baseline points="1831,567 1859,571 1893,570 1918,570 1944,569 1970,567 1995,567 2021,567 2047,565 2072,564 2098,564 2124,565 2149,567 2175,567 2201,567"/>
+                <TextEquiv>
+                    <Unicode>besten Hochachtung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="2464,661 2506,639 2546,654 2585,642 2605,656 2640,639 2720,629 2720,564 2703,559 2665,556 2651,566 2620,556 2535,574 2502,566 2464,572"/>
+                <Baseline points="2470,624 2495,624 2520,624 2545,624 2571,624 2596,624 2621,624 2647,624 2672,624 2697,624 2723,624"/>
+                <TextEquiv>
+                    <Unicode>Ashbel Smith.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

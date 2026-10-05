@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.36.0:model_id=50870:lm=none:date=08_01_2026_15:23</Creator>
+        <Created>2025-08-12T22:09:00.190+02:00</Created>
+        <LastChange>2026-05-11T23:18:40.413+02:00</LastChange>
+        <TranskribusMetadata docId="10057127" pageId="101590477" pageNr="87" tsid="286867646" status="DONE" userId="154586" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=IJMKOHZBFXBWQDBSZASYPIVC" xmlUrl="https://files.transkribus.eu/Get?id=WPBOBFNHQKOWAVRPGQXEFHJY" imageId="85205871">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0087_image00061.jpg" imageWidth="1904" imageHeight="3180">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1787931886740" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="r_1"/>
+                <RegionRefIndexed index="3" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="82,12 82,164 178,164 178,12"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="67,123 83,119 98,132 119,134 127,143 150,134 170,134 172,31 157,27 136,31 127,25 112,36 105,31 89,47 69,45"/>
+                <Baseline points="82,114 114,112 146,112 178,112"/>
+                <TextEquiv>
+                    <Unicode>86</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:day_start;}">
+            <Coords points="22,1320 22,162 1882,162 1882,1320"/>
+            <TextLine id="l_3" custom="readingOrder {index:0;} textStyle {offset:0; length:8;italic:true;} textStyle {offset:9; length:3;italic:true;} textStyle {offset:15; length:3;italic:true; superscript:true;} textStyle {offset:19; length:6;italic:true;}">
+                <Coords points="548,250 1547,246 1333,157 1230,217 1138,170 1042,192 948,116 839,197 548,208"/>
+                <Baseline points="560,240 609,241 659,243 709,244 758,244 808,244 858,244 907,241 957,242 1007,242 1057,240 1106,240 1156,238 1206,232 1255,232 1305,234 1355,236 1404,238 1454,240 1504,242 1554,242"/>
+                <TextEquiv>
+                    <Unicode>Mittwoch den 13ten Januar. 1875.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:1;}">
+                <Coords points="262,389 427,385 490,436 595,387 758,434 818,382 968,427 1194,378 1796,380 1796,340 1677,347 1501,259 1424,322 1304,259 1199,353 1098,300 1017,351 758,302 704,353 624,309 443,349 369,280 262,329"/>
+                <Baseline points="274,376 350,375 426,380 503,380 579,380 656,380 732,380 808,380 885,379 961,376 1038,379 1114,382 1190,380 1267,380 1343,376 1420,375 1496,376 1572,375 1649,376 1725,376 1802,374"/>
+                <TextEquiv>
+                    <Unicode>Wie ich gestern sagte ist's geschehe. Trübes Wetter mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:2;} textStyle {offset:17; length:11;italic:true;}">
+                <Coords points="264,501 501,463 1147,463 1201,499 1333,454 1393,503 1442,458 1820,461 1780,391 1525,420 1465,378 1064,438 868,423 821,380 756,438 593,389 517,441 338,385 264,425"/>
+                <Baseline points="276,458 353,460 431,460 508,462 586,461 663,458 741,458 818,459 896,456 973,455 1051,454 1128,456 1206,455 1283,454 1361,453 1438,452 1516,452 1593,454 1671,454 1748,452 1826,452"/>
+                <TextEquiv>
+                    <Unicode>scharfen Norder. Thermometer 2 Grad. Hin und wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:3;}">
+                <Coords points="271,566 1004,534 1109,581 1170,534 1758,526 1758,479 1550,458 1436,510 1324,458 1069,512 870,465 745,512 684,463 586,512 445,467 271,512"/>
+                <Baseline points="282,532 356,532 430,532 504,534 578,533 652,530 726,532 800,532 874,532 948,532 1023,532 1097,532 1171,532 1245,530 1319,530 1393,528 1467,528 1541,527 1615,524 1689,524 1764,522"/>
+                <TextEquiv>
+                    <Unicode>fängt es wieder leise an zu regnen. Wenn das nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:4;}">
+                <Coords points="259,646 707,613 845,653 1118,610 1261,660 1409,608 1487,657 1541,610 1767,610 1720,537 1619,528 1456,586 1304,537 1082,588 1002,534 852,588 763,541 619,590 539,537 432,590 259,575"/>
+                <Baseline points="272,610 346,610 421,612 496,612 571,610 646,610 721,612 796,610 871,608 946,608 1021,608 1095,608 1170,606 1245,607 1320,606 1395,605 1470,604 1545,603 1620,600 1695,604 1770,602"/>
+                <TextEquiv>
+                    <Unicode>zum Verzweifeln ist, dann weiß ich es nicht!!! Seit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:5;}">
+                <Coords points="273,689 362,687 427,742 519,687 1268,684 1308,725 1402,680 1494,720 1706,691 1706,644 1583,610 1534,660 1315,613 1261,662 1214,617 792,666 738,615 512,662 409,610 273,653"/>
+                <Baseline points="286,680 357,680 428,682 499,684 571,682 642,685 713,686 785,686 856,685 927,686 999,682 1070,684 1141,684 1212,684 1284,684 1355,680 1426,679 1498,678 1569,678 1640,678 1712,678"/>
+                <TextEquiv>
+                    <Unicode>6 Wochen fast kein einzig Mal die Sonne gesehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:6;} textStyle {offset:17; length:5;italic:true;}">
+                <Coords points="284,772 373,812 434,763 503,821 559,765 997,765 1064,823 1158,763 1306,803 1355,760 1492,801 1670,763 1735,805 1825,758 1825,707 1778,736 1641,682 1527,738 1402,682 1217,725 1100,691 1051,740 892,684 843,729 651,684 432,745 371,695 284,707"/>
+                <Baseline points="296,756 372,761 449,764 526,761 602,762 679,763 756,762 832,764 909,764 986,762 1063,760 1139,760 1216,761 1293,762 1369,759 1446,756 1523,756 1599,756 1676,760 1753,758 1830,752"/>
+                <TextEquiv>
+                    <Unicode>Muß auch bald an Clara schreiben, Sonnabend ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:7;}">
+                <Coords points="255,897 376,897 445,843 501,899 584,841 722,843 774,894 865,836 1380,841 1487,897 1552,841 1798,843 1798,774 1621,816 1536,763 1489,801 1366,763 1196,816 1149,774 1067,816 941,769 843,816 796,769 680,807 557,765 496,825 425,778 255,823"/>
+                <Baseline points="268,842 344,841 421,842 498,842 575,838 652,839 728,840 805,838 882,836 959,834 1036,833 1112,834 1189,837 1266,836 1343,836 1420,834 1496,832 1573,835 1650,836 1727,836 1804,834"/>
+                <TextEquiv>
+                    <Unicode>ja ihr Geburtstag. Ob ich ihr ein Gedicht mache?!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:8;}">
+                <Coords points="259,919 711,917 772,973 1031,917 1100,968 1183,908 1308,941 1818,919 1771,839 1662,843 1610,892 1340,841 1219,877 1044,836 968,877 888,834 814,894 586,863 259,894"/>
+                <Baseline points="272,914 349,914 427,914 504,914 582,912 660,912 737,916 815,914 892,912 970,910 1048,906 1125,907 1203,910 1280,910 1358,910 1436,910 1513,911 1591,912 1668,914 1746,912 1824,912"/>
+                <TextEquiv>
+                    <Unicode>Bekamen um ungefähr 3 Uhr Nachts einen Norder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:9;}">
+                <Coords points="268,995 593,1035 693,993 1346,986 1416,1033 1456,993 1565,1031 1697,988 1635,919 1492,915 1427,966 1266,917 910,973 772,973 716,921 662,955 597,919 528,973 358,912 268,953"/>
+                <Baseline points="280,990 351,992 422,990 493,991 564,990 636,992 707,992 778,992 849,992 920,992 992,990 1063,986 1134,988 1205,985 1276,984 1348,986 1419,986 1490,984 1561,982 1632,985 1704,986"/>
+                <TextEquiv>
+                    <Unicode>Las eine Zeit lang vor. Mit dem hübschen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:10;}">
+                <Coords points="262,1076 1190,1069 1259,1120 1331,1064 1780,1073 1780,1038 1713,1047 1637,988 1552,1042 1458,995 1418,1033 1360,995 1080,1031 912,1000 827,1053 691,1000 626,1044 385,988 262,1026"/>
+                <Baseline points="274,1064 349,1068 425,1070 500,1072 576,1072 652,1070 727,1068 803,1068 878,1068 954,1068 1030,1068 1105,1069 1181,1066 1256,1065 1332,1062 1408,1062 1483,1062 1559,1064 1634,1066 1710,1066 1786,1064"/>
+                <TextEquiv>
+                    <Unicode>Wetter wird es wol wieder Nichts sein. Thermo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:11;} textStyle {offset:34; length:1;superscript:true;} textStyle {offset:36; length:1;subscript:true;}">
+                <Coords points="248,1154 597,1196 662,1147 810,1181 984,1145 1060,1196 1237,1145 1317,1205 1411,1136 1485,1203 1767,1163 1738,1089 1568,1067 1301,1073 1257,1118 924,1073 783,1123 642,1078 546,1125 427,1078 369,1125 248,1123"/>
+                <Baseline points="260,1142 335,1144 411,1148 486,1146 562,1144 638,1145 713,1144 789,1142 864,1141 940,1146 1016,1146 1091,1144 1167,1142 1242,1140 1318,1139 1394,1135 1469,1135 1545,1138 1620,1138 1696,1140 1772,1144"/>
+                <TextEquiv>
+                    <Unicode>meter jetzt wo ich dies schreibe (1/2 10 Uhr Nachts)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:12;}">
+                <Coords points="266,1219 347,1275 416,1225 521,1221 579,1259 628,1225 1013,1223 1013,1156 852,1154 812,1183 760,1145 702,1203 637,1176 490,1205 320,1147 266,1185"/>
+                <Baseline points="278,1216 314,1218 351,1221 388,1221 425,1220 462,1220 499,1220 536,1221 573,1220 610,1220 647,1220 683,1220 720,1219 757,1218 794,1214 831,1212 868,1213 905,1214 942,1214 979,1216 1016,1218"/>
+                <TextEquiv>
+                    <Unicode>5 Grad R. unter Null!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:2;} structure {type:day_continue;}">
+            <Coords points="1882,1320 1882,3111 22,3111 22,1320"/>
+            <TextLine id="l_20" custom="readingOrder {index:0;} textStyle {offset:0; length:10;italic:true;} textStyle {offset:11; length:3;italic:true;} textStyle {offset:17; length:3;italic:true; superscript:true;} textStyle {offset:21; length:6;italic:true;}">
+                <Coords points="519,1489 564,1465 975,1469 1058,1536 1158,1469 1288,1485 1288,1420 1234,1391 1179,1418 1127,1366 964,1364 870,1407 691,1373 597,1433 519,1409"/>
+                <Baseline points="530,1450 568,1459 606,1463 644,1467 682,1472 720,1473 758,1474 796,1476 834,1474 872,1473 911,1471 949,1468 987,1468 1025,1469 1063,1472 1101,1474 1139,1471 1177,1469 1215,1468 1253,1469 1292,1478"/>
+                <TextEquiv>
+                    <Unicode>Donnerstag den 14ten Januar 1875.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:1;} textStyle {offset:0; length:11;italic:true;}">
+                <Coords points="342,1653 400,1608 693,1619 729,1586 821,1668 874,1617 1024,1641 1230,1601 1456,1644 1565,1610 1648,1655 1717,1615 1717,1536 1648,1581 1552,1577 1480,1512 1411,1554 1279,1534 1237,1577 1033,1525 619,1534 564,1572 470,1483 340,1516"/>
+                <Baseline points="352,1596 420,1602 489,1604 557,1606 626,1606 694,1605 763,1603 831,1604 900,1606 968,1606 1037,1606 1105,1606 1174,1605 1242,1606 1311,1608 1379,1606 1448,1603 1516,1603 1585,1606 1653,1611 1722,1610"/>
+                <TextEquiv>
+                    <Unicode>Thermometer 7 Grad R. unter Null. (morgens).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:2;}">
+                <Coords points="277,1715 957,1686 1082,1742 1217,1686 1655,1691 1704,1733 1749,1693 1874,1708 1834,1635 1733,1617 1650,1666 1565,1610 1465,1662 1315,1610 1174,1664 369,1606 277,1646"/>
+                <Baseline points="290,1680 369,1682 448,1682 528,1684 607,1684 687,1684 766,1686 845,1687 925,1686 1004,1686 1084,1683 1163,1682 1242,1682 1322,1682 1401,1682 1481,1681 1560,1684 1639,1686 1719,1686 1798,1686 1878,1690"/>
+                <TextEquiv>
+                    <Unicode>Hin und wieder ein ganz feiner Regenschauer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:3;}">
+                <Coords points="280,1764 584,1760 749,1823 823,1769 901,1823 1134,1760 1708,1771 1695,1686 1581,1747 1436,1684 1080,1744 1026,1706 959,1744 903,1691 729,1742 649,1693 476,1742 356,1688 280,1726"/>
+                <Baseline points="292,1756 363,1759 434,1759 505,1758 576,1757 647,1758 718,1758 789,1762 860,1762 931,1763 1003,1762 1074,1762 1145,1758 1216,1762 1287,1762 1358,1761 1429,1764 1500,1762 1571,1762 1642,1760 1714,1758"/>
+                <TextEquiv>
+                    <Unicode>Gegen Mittag theilte sich das Gewölk und die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:4;}">
+                <Coords points="268,1836 912,1845 1013,1890 1132,1843 1416,1845 1458,1885 1501,1849 1811,1843 1731,1751 1541,1825 1418,1769 1378,1807 1082,1776 1035,1823 910,1825 823,1769 760,1825 568,1760 496,1820 268,1776"/>
+                <Baseline points="280,1834 356,1837 433,1838 510,1841 587,1840 664,1842 740,1842 817,1844 894,1843 971,1842 1048,1842 1124,1842 1201,1839 1278,1838 1355,1840 1432,1840 1508,1840 1585,1840 1662,1838 1739,1836 1816,1842"/>
+                <TextEquiv>
+                    <Unicode>Sonne kam auf eine halbe Stunde zum Vor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:5;}">
+                <Coords points="253,1963 351,1921 452,1963 508,1919 720,1921 798,1977 879,1921 1078,1921 1132,1970 1205,1916 1831,1925 1796,1863 1646,1849 1530,1899 1407,1847 1225,1849 1165,1896 843,1847 794,1883 756,1847 698,1899 619,1843 564,1896 505,1852 447,1899 342,1849 253,1881"/>
+                <Baseline points="264,1916 342,1916 421,1918 500,1918 578,1916 657,1918 736,1918 814,1920 893,1918 972,1918 1051,1916 1129,1916 1208,1916 1287,1917 1365,1918 1444,1918 1523,1917 1601,1916 1680,1916 1759,1914 1838,1914"/>
+                <TextEquiv>
+                    <Unicode>schein; sie konnte sich aber nicht halten und wurde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:6;}">
+                <Coords points="230,2008 675,1995 814,2044 944,1992 1820,2004 1820,1957 1726,1916 1568,1959 1424,1925 1315,1977 1239,1923 1165,1975 874,1925 801,1977 700,1919 230,1977"/>
+                <Baseline points="242,1996 321,1990 400,1990 479,1990 558,1992 638,1990 717,1992 796,1992 875,1993 954,1992 1034,1991 1113,1994 1192,1994 1271,1994 1350,1994 1430,1994 1509,1993 1588,1994 1667,1992 1746,1992 1826,1994"/>
+                <TextEquiv>
+                    <Unicode>von den Wolken schmählich verdrangt. Das Wetter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:7;}">
+                <Coords points="226,2075 599,2107 1067,2071 1250,2120 1386,2069 1659,2107 1793,2075 1747,2001 1601,1992 1313,2053 1156,1999 997,2046 944,1992 801,2051 662,2008 577,2051 534,2008 456,2035 418,1997 226,2048"/>
+                <Baseline points="238,2068 316,2069 394,2067 472,2070 550,2070 628,2070 706,2069 784,2070 862,2070 940,2068 1019,2064 1097,2068 1175,2070 1253,2070 1331,2068 1409,2068 1487,2068 1565,2068 1643,2068 1721,2068 1800,2070"/>
+                <TextEquiv>
+                    <Unicode>wird allmahlig gelinder und gegen Abend, ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_28" custom="readingOrder {index:8;} textStyle {offset:4; length:11;italic:true;}">
+                <Coords points="257,2149 1849,2156 1849,2095 1534,2115 1483,2066 1266,2129 1120,2084 1031,2127 872,2089 830,2129 704,2071 631,2113 517,2073 405,2111 356,2071 257,2111"/>
+                <Baseline points="270,2144 349,2143 428,2144 507,2146 586,2146 666,2148 745,2148 824,2148 903,2150 982,2149 1062,2146 1141,2146 1220,2147 1299,2149 1378,2150 1458,2148 1537,2150 1616,2150 1695,2144 1774,2144 1854,2146"/>
+                <TextEquiv>
+                    <Unicode>der Thermometer nur noch einen Grad unter Null.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_29" custom="readingOrder {index:9;}">
+                <Coords points="259,2238 552,2227 606,2272 662,2227 776,2283 852,2232 908,2265 1232,2232 1304,2277 1384,2227 1814,2234 1693,2151 1624,2209 1478,2151 1402,2205 1190,2149 1024,2151 982,2194 792,2154 722,2192 642,2151 588,2205 434,2200 367,2142 259,2176"/>
+                <Baseline points="272,2226 349,2218 426,2220 504,2223 581,2225 659,2226 736,2228 813,2226 891,2226 968,2228 1046,2226 1123,2226 1200,2224 1278,2223 1355,2224 1433,2227 1510,2226 1587,2230 1665,2227 1742,2224 1820,2226"/>
+                <TextEquiv>
+                    <Unicode>Wie man sich doch an die Kälte gewöhnen kann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_31" custom="readingOrder {index:10;} comment {offset:0; length:1;type:unclear;}">
+                <Coords points="9,2350 145,2303 812,2303 894,2357 962,2306 1143,2315 1185,2355 1257,2308 1695,2303 1758,2341 1807,2310 1787,2250 1648,2234 1581,2285 1518,2225 1382,2230 1319,2285 1230,2230 1176,2272 1098,2234 1013,2290 959,2238 774,2283 660,2225 604,2272 9,2250"/>
+                <Baseline points="22,2300 111,2298 200,2302 290,2301 379,2300 469,2302 558,2299 647,2296 737,2302 826,2300 916,2302 1005,2306 1094,2304 1184,2302 1273,2302 1363,2302 1452,2302 1541,2302 1631,2304 1720,2302 1810,2302"/>
+                <TextEquiv>
+                    <Unicode>W vor 4 oder 5 Wochen, das Quecksilber bis auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_33" custom="readingOrder {index:11;}">
+                <Coords points="250,2411 342,2375 485,2438 534,2388 651,2426 713,2379 830,2446 930,2379 1073,2435 1143,2386 1234,2440 1293,2384 1487,2379 1543,2435 1686,2395 1735,2440 1858,2395 1858,2319 1753,2353 1619,2308 1547,2350 1375,2301 1212,2361 1132,2317 1013,2348 971,2306 906,2359 615,2364 528,2312 479,2346 445,2312 250,2332"/>
+                <Baseline points="262,2374 342,2373 422,2377 502,2378 582,2378 662,2378 742,2380 822,2379 902,2378 982,2380 1062,2379 1142,2379 1222,2378 1302,2380 1382,2376 1462,2376 1542,2381 1622,2383 1702,2382 1782,2382 1862,2386"/>
+                <TextEquiv>
+                    <Unicode>4 oder 6 Grad Wärme fiel so fror ich nach Noten. Jetzt gehe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:12;}">
+                <Coords points="226,2498 302,2511 367,2458 635,2455 711,2493 1049,2458 1156,2507 1217,2464 1438,2458 1621,2462 1673,2509 1836,2467 1836,2429 1630,2444 1586,2402 1545,2438 1346,2388 1246,2435 836,2377 640,2438 581,2386 483,2438 340,2399 226,2429"/>
+                <Baseline points="238,2456 318,2457 398,2455 478,2456 558,2455 639,2455 719,2456 799,2457 879,2460 959,2458 1040,2456 1120,2455 1200,2458 1280,2457 1360,2456 1441,2456 1521,2458 1601,2461 1681,2462 1761,2462 1842,2458"/>
+                <TextEquiv>
+                    <Unicode>ich bei 1 oder 2 Grad Kälte, in Hemdsärmeln ohne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_35" custom="readingOrder {index:13;}">
+                <Coords points="228,2540 633,2536 700,2596 823,2536 921,2594 1006,2538 1816,2540 1816,2489 1722,2469 1657,2520 1344,2460 1127,2518 1051,2458 993,2505 783,2462 588,2516 382,2473 329,2514 228,2502"/>
+                <Baseline points="240,2532 319,2530 398,2533 477,2532 556,2534 635,2532 714,2532 793,2534 872,2535 951,2536 1031,2534 1110,2535 1189,2536 1268,2534 1347,2532 1426,2532 1505,2534 1584,2536 1663,2538 1742,2536 1822,2530"/>
+                <TextEquiv>
+                    <Unicode>daß mir in Geringsten kalt ist. Mein Blut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:14;}">
+                <Coords points="235,2657 315,2612 649,2623 702,2670 776,2616 1344,2614 1420,2675 1527,2619 1787,2619 1787,2583 1666,2540 1617,2585 1395,2536 1199,2596 1080,2543 948,2601 772,2554 635,2596 577,2540 523,2583 315,2536 235,2581"/>
+                <Baseline points="246,2610 323,2611 400,2610 477,2612 554,2613 632,2616 709,2614 786,2614 863,2616 940,2618 1018,2617 1095,2617 1172,2616 1249,2614 1326,2614 1404,2614 1481,2614 1558,2617 1635,2618 1712,2618 1790,2614"/>
+                <TextEquiv>
+                    <Unicode>fließt aber auch viel rascher als früher. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_37" custom="readingOrder {index:15;}">
+                <Coords points="266,2724 1876,2701 1876,2663 1767,2623 1416,2675 1333,2625 1143,2659 1078,2621 760,2677 640,2625 597,2659 266,2625"/>
+                <Baseline points="278,2688 358,2687 438,2688 518,2690 598,2690 679,2692 759,2694 839,2692 919,2692 999,2694 1080,2691 1160,2690 1240,2688 1320,2687 1400,2690 1481,2692 1561,2694 1641,2696 1721,2694 1801,2690 1882,2698"/>
+                <TextEquiv>
+                    <Unicode>Puls schlägt in einer Minute 100-111 Mal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:16;}">
+                <Coords points="208,2777 727,2771 814,2829 890,2773 939,2822 997,2784 1134,2833 1241,2771 1424,2831 1527,2775 1818,2780 1760,2692 1691,2757 1304,2695 1212,2739 1015,2701 872,2751 792,2701 557,2739 488,2697 443,2742 378,2701 208,2751"/>
+                <Baseline points="220,2768 300,2767 380,2769 460,2768 540,2770 621,2771 701,2768 781,2767 861,2768 941,2770 1022,2770 1102,2767 1182,2770 1262,2769 1342,2769 1423,2772 1503,2772 1583,2774 1663,2776 1743,2772 1824,2770"/>
+                <TextEquiv>
+                    <Unicode>während er sonst gewöhnlich 75 Schläge in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_39" custom="readingOrder {index:17;}">
+                <Coords points="233,2876 288,2853 490,2840 543,2845 608,2889 653,2853 733,2847 733,2782 711,2773 684,2786 631,2771 575,2827 512,2777 411,2824 338,2775 313,2795 233,2793"/>
+                <Baseline points="244,2842 270,2845 296,2845 322,2843 348,2843 374,2844 400,2844 426,2842 452,2840 478,2840 504,2841 530,2843 556,2844 582,2844 608,2844 634,2844 660,2844 686,2843 712,2842 738,2842"/>
+                <TextEquiv>
+                    <Unicode>Minute that.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_40" custom="readingOrder {index:18;}">
+                <Coords points="268,2923 593,2921 651,2965 836,2921 984,2963 1040,2927 1516,2925 1619,2983 1702,2929 1865,2925 1865,2880 1758,2900 1583,2838 1512,2885 1445,2851 1380,2905 1181,2833 1076,2905 935,2820 852,2898 725,2845 624,2905 266,2858"/>
+                <Baseline points="280,2916 359,2916 438,2919 518,2918 597,2919 677,2924 756,2920 835,2919 915,2921 994,2924 1074,2926 1153,2926 1232,2926 1312,2928 1391,2928 1471,2924 1550,2926 1629,2928 1709,2927 1788,2921 1868,2920"/>
+                <TextEquiv>
+                    <Unicode>Was aus unserm Turnerball wird bin ich neu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_41" custom="readingOrder {index:19;}">
+                <Coords points="242,3064 331,3001 624,3010 711,3057 765,3012 968,3008 1069,3068 1181,3012 1849,3021 1825,2927 1684,2992 1485,2927 1440,2965 1272,2932 1208,2979 1004,2925 874,2961 836,2925 675,2974 344,2945 242,2983"/>
+                <Baseline points="254,2998 334,3000 414,3002 494,3004 574,3004 654,3005 734,3004 814,3002 894,3004 974,3004 1055,3009 1135,3008 1215,3008 1295,3007 1375,3006 1455,3006 1535,3006 1615,3008 1695,3010 1775,3007 1856,3006"/>
+                <TextEquiv>
+                    <Unicode>gierig; wenn sich das Wetter nicht änders können wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_43" custom="readingOrder {index:20;}">
+                <Coords points="226,3111 306,3146 385,3082 754,3131 841,3086 1243,3086 1310,3126 1422,3082 1476,3129 1530,3084 1677,3099 1386,3008 1183,3010 1071,3068 919,3010 678,3057 626,3012 555,3050 360,3006 226,3061"/>
+                <Baseline points="238,3076 310,3076 382,3076 454,3080 526,3079 598,3080 670,3081 742,3082 814,3078 886,3080 959,3082 1031,3082 1103,3082 1175,3082 1247,3080 1319,3080 1391,3080 1463,3080 1535,3082 1607,3085 1680,3094"/>
+                <TextEquiv>
+                    <Unicode>noch ein mal verschieben. Das Abends vor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:3;} structure {type:comment;}">
+            <Coords points="6,2106 261,2106 261,2350 6,2350"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="57,2230 203,2236 204,2206 58,2200"/>
+                <Baseline points="57,2230 203,2236"/>
+                <TextEquiv>
+                    <Unicode>V. bush</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="72,2321 187,2317 186,2287 71,2291"/>
+                <Baseline points="72,2321 187,2317"/>
+                <TextEquiv>
+                    <Unicode>of Corn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

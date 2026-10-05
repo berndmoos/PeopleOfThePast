@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=39995:lm=none:date=24_10_2025_05:10</Creator>
+        <Created>2025-10-10T22:20:31.707+02:00</Created>
+        <LastChange>2025-12-03T21:09:10.776+01:00</LastChange>
+        <TranskribusMetadata docId="11233079" pageId="104147839" pageNr="96" tsid="263610429" status="DONE" userId="144967" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=QRFNNIFZLSJBNXEFCZNWPBCP" xmlUrl="https://files.transkribus.eu/Get?id=UGDZDVMHYMLYVNKXOXJTPYHG" imageId="87396370">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0096_p096.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883583822" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="tr_4"/>
+                <RegionRefIndexed index="3" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1896,303 1896,468 2001,468 2001,303"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;} textStyle {offset:2; length:2;superscript:true;}">
+                <Coords points="1884,441 1915,443 1938,437 1945,443 1980,431 1993,435 2007,342 1989,335 1957,337 1941,326 1927,326 1919,317 1903,319"/>
+                <Baseline points="1896,418 1922,413 1948,408 1974,405 2001,403"/>
+                <TextEquiv>
+                    <Unicode>//29</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2826,263 2945,263 2945,345 2826,345"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2853,324 2903,327 2905,297 2855,294"/>
+                <Baseline points="2853,324 2903,327"/>
+                <TextEquiv>
+                    <Unicode>37</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_4" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="3013,198 3013,354 3115,354 3115,198"/>
+            <TextLine id="tr_4_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3006,315 3027,333 3039,330 3043,334 3051,326 3086,326 3101,314 3112,313 3114,243 3105,240 3090,245 3082,240 3073,245 3062,235 3054,240 3008,235"/>
+                <Baseline points="3013,304 3038,301 3064,301 3089,300 3115,298"/>
+                <TextEquiv>
+                    <Unicode>147</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:3;} structure {type:item-continue;}">
+            <Coords points="2081,607 2081,1227 2882,1227 2882,607"/>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:0;} textStyle {offset:30; length:7;strikethrough:true;} textStyle {offset:38; length:5;italic:true;}">
+                <Coords points="2074,679 2163,710 2374,680 2830,685 2830,642 2712,645 2609,593 2457,632 2303,604 2074,633"/>
+                <Baseline points="2081,672 2118,672 2156,672 2193,672 2231,672 2269,671 2306,669 2344,669 2382,669 2419,669 2457,669 2495,669 2532,669 2570,669 2608,669 2645,669 2683,667 2721,667 2758,668 2796,666 2834,666"/>
+                <TextEquiv>
+                    <Unicode>am 7. März 1857 dem Geh. Rath Schlünz Schür</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="2080,758 2854,758 2856,681 2630,707 2080,691"/>
+                <Baseline points="2087,740 2125,739 2164,740 2202,740 2241,739 2279,737 2318,740 2356,738 2395,737 2433,735 2472,734 2511,734 2549,734 2588,734 2626,734 2665,734 2703,734 2742,733 2780,732 2819,734 2858,731"/>
+                <TextEquiv>
+                    <Unicode>einebeglaubigte Abschrift des Vertrags</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="2086,822 2712,811 2843,857 2864,763 2086,762"/>
+                <Baseline points="2093,803 2131,806 2170,806 2208,806 2247,806 2285,806 2324,803 2362,803 2401,803 2439,803 2478,803 2517,803 2555,803 2594,800 2632,802 2671,801 2709,800 2748,800 2786,800 2825,800 2864,797"/>
+                <TextEquiv>
+                    <Unicode>von 1851 geschickt und ihn gebeten die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="2074,907 2670,927 2756,899 2756,837 2681,817 2590,817 2543,845 2342,814 2255,845 2075,821"/>
+                <Baseline points="2081,872 2114,874 2148,874 2182,872 2216,872 2250,872 2284,872 2318,872 2352,872 2386,872 2420,872 2453,872 2487,869 2521,869 2555,869 2589,869 2623,869 2657,869 2691,869 2725,868 2759,866"/>
+                <TextEquiv>
+                    <Unicode>Sicherheitsbestellung zu beeilen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:4;} textStyle {offset:11; length:7;strikethrough:true;} textStyle {offset:19; length:9;italic:true;}">
+                <Coords points="2075,1098 2574,1105 2742,1074 2857,1105 2881,1005 2638,997 2441,1052 2076,1035"/>
+                <Baseline points="2084,1078 2123,1081 2163,1078 2203,1075 2243,1077 2283,1076 2323,1075 2363,1074 2403,1073 2443,1075 2483,1075 2522,1072 2562,1072 2602,1072 2642,1070 2682,1069 2722,1069 2762,1069 2802,1068 2842,1066 2882,1066"/>
+                <TextEquiv>
+                    <Unicode>Gefragt ob ich bey ihm wegen Friedrich und in den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:5;} textStyle {offset:15; length:2;strikethrough:true;} textStyle {offset:17; length:4;italic:true;} unclear {offset:17; length:4;}">
+                <Coords points="2074,1156 2713,1176 2791,1157 2792,1104 2697,1080 2559,1108 2075,1097"/>
+                <Baseline points="2081,1146 2116,1147 2152,1146 2188,1145 2223,1143 2259,1143 2295,1141 2330,1140 2366,1140 2402,1140 2438,1138 2473,1137 2509,1137 2545,1137 2580,1137 2616,1135 2652,1134 2687,1134 2723,1134 2759,1134 2795,1131"/>
+                <TextEquiv>
+                    <Unicode>Leing. Schuldenermaus etwas bekannt sey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="2072,1246 2141,1266 2241,1221 2367,1258 2437,1233 2489,1250 2570,1212 2638,1225 2640,1178 2587,1156 2445,1175 2285,1153 2176,1184 2074,1179"/>
+                <Baseline points="2081,1215 2109,1215 2137,1213 2165,1212 2193,1212 2221,1212 2249,1211 2277,1209 2305,1209 2333,1209 2362,1209 2390,1208 2418,1206 2446,1208 2474,1208 2502,1206 2530,1206 2558,1206 2586,1204 2614,1203 2643,1203"/>
+                <TextEquiv>
+                    <Unicode>und um Mittheilung gebeten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

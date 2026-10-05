@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=50870:lm=none:date=19_10_2025_23:20</Creator>
+        <Created>2025-10-10T22:20:24.226+02:00</Created>
+        <LastChange>2026-05-09T04:45:29.382+02:00</LastChange>
+        <TranskribusMetadata docId="11233079" pageId="104147623" pageNr="7" tsid="286661767" status="DONE" userId="490466" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=JQXIWSJWGMXYROLWJLIUULLD" xmlUrl="https://files.transkribus.eu/Get?id=MIUINMXWPLVKTXQVIDZXRPOW" imageId="87396271">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0007_p007.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883582447" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="3080,277 3203,277 3203,334 3090,373"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3107,328 3146,328 3146,298 3107,298"/>
+                <Baseline points="3107,328 3146,328"/>
+                <TextEquiv>
+                    <Unicode>IV</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TableRegion id="t" custom="readingOrder {index:1;}">
+            <Coords points="2006,331 3264,331 3264,2311 2006,2311"/>
+            <TableCell row="0" col="0" rowSpan="1" colSpan="1" id="c_33" custom="structure {type:TOC-entry;}">
+                <Coords points="2006,331 2006,463 3040,463 3040,331"/>
+                <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                    <Coords points="2044,401 2152,427 2543,390 2938,402 2939,349 2904,329 2046,350"/>
+                    <Baseline points="2051,394 2095,397 2140,397 2184,394 2229,397 2273,397 2318,394 2362,394 2407,391 2451,391 2496,391 2540,391 2585,391 2629,388 2674,388 2718,388 2763,388 2807,388 2852,388 2896,388 2941,388"/>
+                    <TextEquiv>
+                        <Unicode>Sommerfeld, Düsseldorf, den 29. Mai, 1849,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                    <Coords points="2171,443 2279,459 2345,438 2401,457 2508,437 2632,459 2690,443 2690,405 2633,391 2171,411"/>
+                    <Baseline points="2177,433 2202,433 2228,433 2254,432 2280,431 2306,430 2332,430 2357,430 2383,430 2409,430 2435,429 2461,428 2487,427 2513,427 2538,427 2564,427 2590,427 2616,427 2642,427 2668,428 2694,430"/>
+                    <TextEquiv>
+                        <Unicode>an Rechnungsrat Reuscher</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="1" rowSpan="1" colSpan="1" id="c_35" custom="structure {type:TOC-pageref;}">
+                <Coords points="3040,331 3040,463 3261,463 3261,331"/>
+                <TextLine id="l_1" custom="readingOrder {index:0;}">
+                    <Coords points="3090,427 3146,427 3146,397 3090,397"/>
+                    <Baseline points="3090,427 3146,427"/>
+                    <TextEquiv>
+                        <Unicode>54</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="0" rowSpan="1" colSpan="1" id="c_69" custom="structure {type:TOC-entry;}">
+                <Coords points="2006,463 2006,566 3040,566 3040,463"/>
+                <TextLine id="tr_3_tl_3" custom="readingOrder {index:0;}">
+                    <Coords points="2044,525 2647,493 2922,522 2922,452 2793,467 2715,426 2636,459 2044,464"/>
+                    <Baseline points="2051,504 2094,504 2138,503 2181,501 2225,501 2269,500 2312,498 2356,497 2400,495 2443,496 2487,498 2531,497 2574,495 2618,494 2662,492 2705,492 2749,495 2793,495 2836,492 2880,492 2924,495"/>
+                    <TextEquiv>
+                        <Unicode>Sommerfeld. Düsseldorf, den 3. Mai, 1849,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_4" custom="readingOrder {index:1;}">
+                    <Coords points="2176,563 2380,570 2454,543 2569,561 2690,541 2690,507 2636,497 2177,516"/>
+                    <Baseline points="2183,537 2208,537 2234,537 2259,536 2285,534 2310,534 2336,534 2361,534 2387,534 2412,532 2438,531 2464,531 2489,531 2515,531 2540,531 2566,531 2591,531 2617,531 2642,531 2668,530 2694,528"/>
+                    <TextEquiv>
+                        <Unicode>an Rechnungsrat Reuscher</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="1" rowSpan="1" colSpan="1" id="c_71" custom="structure {type:TOC-pageref;}">
+                <Coords points="3040,463 3040,566 3261,566 3261,463"/>
+                <TextLine id="l_2" custom="readingOrder {index:0;}">
+                    <Coords points="3090,538 3151,538 3151,508 3090,508"/>
+                    <Baseline points="3090,538 3151,538"/>
+                    <TextEquiv>
+                        <Unicode>55</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="0" rowSpan="1" colSpan="1" id="c_101" custom="structure {type:TOC-entry;}">
+                <Coords points="2006,566 2006,734 3040,734 3040,566"/>
+                <TextLine id="tr_3_tl_5" custom="readingOrder {index:0;}">
+                    <Coords points="2047,625 2875,608 2876,527 2745,573 2048,569"/>
+                    <Baseline points="2054,612 2095,610 2136,609 2177,609 2218,608 2259,605 2300,603 2341,603 2382,603 2423,603 2465,603 2506,603 2547,603 2588,601 2629,600 2670,600 2711,601 2752,602 2793,600 2834,597 2876,600"/>
+                    <TextEquiv>
+                        <Unicode>Reuscher, Wiesbaden, den 1. Juni, 1849,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_6" custom="readingOrder {index:1;}">
+                    <Coords points="2177,648 2695,635 2909,671 2971,641 2971,582 2908,580 2860,614 2177,619"/>
+                    <Baseline points="2183,645 2222,642 2262,642 2301,639 2341,639 2380,639 2420,639 2459,638 2499,636 2538,636 2578,636 2618,636 2657,636 2697,634 2736,635 2776,634 2815,633 2855,633 2894,633 2934,633 2974,636"/>
+                    <TextEquiv>
+                        <Unicode>an die Hofstaatscasse Sr. Königlichen</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_7" custom="readingOrder {index:2;}">
+                    <Coords points="2177,684 2324,676 2401,708 2506,687 2539,710 2578,688 2870,688 2871,647 2813,641 2178,648"/>
+                    <Baseline points="2183,677 2217,677 2252,677 2286,675 2321,675 2355,675 2390,675 2424,675 2459,675 2493,673 2528,672 2562,672 2597,675 2631,673 2666,672 2700,672 2735,669 2769,669 2804,669 2838,669 2873,669"/>
+                    <TextEquiv>
+                        <Unicode>Hoheit den Prinzen Friedrich von</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_8" custom="readingOrder {index:3;}">
+                    <Coords points="2177,745 2203,747 2223,738 2247,745 2267,726 2288,719 2310,725 2318,720 2336,729 2352,719 2362,723 2362,684 2324,676 2278,692 2241,683 2234,691 2177,684"/>
+                    <Baseline points="2183,713 2209,711 2235,710 2261,710 2287,710 2313,710 2339,711 2365,713"/>
+                    <TextEquiv>
+                        <Unicode>Preussen</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="1" rowSpan="1" colSpan="1" id="c_103" custom="structure {type:TOC-pageref;}">
+                <Coords points="3040,566 3040,734 3261,734 3261,566"/>
+                <TextLine id="l_3" custom="readingOrder {index:0;}">
+                    <Coords points="3092,715 3159,715 3159,685 3092,685"/>
+                    <Baseline points="3092,715 3159,715"/>
+                    <TextEquiv>
+                        <Unicode>56</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="0" rowSpan="1" colSpan="1" id="c_137" custom="structure {type:TOC-entry;}">
+                <Coords points="2006,734 2006,849 3040,849 3040,734"/>
+                <TextLine id="tr_3_tl_9" custom="readingOrder {index:0;}">
+                    <Coords points="2047,802 2859,775 2953,801 2966,731 2881,709 2744,749 2659,723 2465,754 2048,728"/>
+                    <Baseline points="2054,788 2099,785 2145,785 2191,785 2236,785 2282,785 2328,783 2373,782 2419,782 2465,780 2511,779 2556,777 2602,776 2648,776 2693,776 2739,776 2785,776 2830,776 2876,773 2922,773 2968,776"/>
+                    <TextEquiv>
+                        <Unicode>Sommerfeld, Düsseldorf, den 19. Juli, 1849,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_10" custom="readingOrder {index:1;}">
+                    <Coords points="2177,840 2714,846 2937,819 2938,782 2177,802"/>
+                    <Baseline points="2183,821 2220,821 2258,819 2296,818 2334,818 2371,818 2409,817 2447,815 2485,815 2522,815 2560,815 2598,814 2636,812 2673,812 2711,815 2749,813 2787,810 2824,809 2862,809 2900,809 2938,806"/>
+                    <TextEquiv>
+                        <Unicode>an Rechnungsrat Reuscher, Wiesbaden</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="1" rowSpan="1" colSpan="1" id="c_139" custom="structure {type:TOC-pageref;}">
+                <Coords points="3040,734 3040,849 3261,849 3261,734"/>
+                <TextLine id="l_4" custom="readingOrder {index:0;}">
+                    <Coords points="3091,816 3135,816 3135,786 3091,786"/>
+                    <Baseline points="3091,816 3135,816"/>
+                    <TextEquiv>
+                        <Unicode>57</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="0" rowSpan="1" colSpan="1" id="c_177" custom="structure {type:TOC-entry;}">
+                <Coords points="2006,849 2006,956 3040,956 3040,849"/>
+                <TextLine id="tr_3_tl_11" custom="readingOrder {index:0;}">
+                    <Coords points="2051,907 2854,879 2956,905 2969,846 2301,866 2182,840 2114,867 2052,843"/>
+                    <Baseline points="2057,890 2102,892 2148,891 2194,890 2239,890 2285,890 2331,888 2376,887 2422,887 2468,885 2514,886 2559,885 2605,884 2651,881 2696,881 2742,881 2788,881 2833,881 2879,878 2925,878 2971,884"/>
+                    <TextEquiv>
+                        <Unicode>Sommerfeld, Asseiderf, den 30. Juli, 1849,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_12" custom="readingOrder {index:1;}">
+                    <Coords points="2185,943 2871,952 2939,938 2940,893 2185,896"/>
+                    <Baseline points="2192,925 2229,925 2266,925 2304,923 2341,922 2379,922 2416,921 2454,919 2491,919 2529,919 2566,919 2603,918 2641,917 2678,919 2716,919 2753,917 2791,914 2828,913 2866,913 2903,913 2941,916"/>
+                    <TextEquiv>
+                        <Unicode>an Rechnungsrat Reuscher, Wiesbaden</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="1" rowSpan="1" colSpan="1" id="c_179" custom="structure {type:TOC-pageref;}">
+                <Coords points="3040,849 3040,956 3261,956 3261,849"/>
+                <TextLine id="l_5" custom="readingOrder {index:0;}">
+                    <Coords points="3094,922 3148,919 3146,889 3092,892"/>
+                    <Baseline points="3094,922 3148,919"/>
+                    <TextEquiv>
+                        <Unicode>59</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="0" rowSpan="1" colSpan="1" id="c_221" custom="structure {type:TOC-entry;}">
+                <Coords points="2006,956 2006,1131 3040,1131 3040,956"/>
+                <TextLine id="tr_3_tl_13" custom="readingOrder {index:0;}">
+                    <Coords points="2057,1016 2928,1002 2958,957 2057,953"/>
+                    <Baseline points="2063,997 2107,1000 2152,997 2197,997 2242,994 2287,994 2331,994 2376,994 2421,991 2466,991 2511,991 2555,991 2600,991 2645,988 2690,988 2735,988 2779,985 2824,985 2869,985 2914,982 2959,982"/>
+                    <TextEquiv>
+                        <Unicode>Vertrag zwischen dem Bankhaus, L. H. Flers-</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_14" custom="readingOrder {index:1;}">
+                    <Coords points="2182,1036 2919,1041 2912,990 2183,1014"/>
+                    <Baseline points="2189,1033 2225,1033 2262,1033 2299,1033 2336,1030 2372,1030 2409,1028 2446,1027 2483,1027 2519,1027 2556,1025 2593,1024 2630,1024 2666,1023 2703,1021 2740,1024 2777,1022 2813,1019 2850,1018 2887,1019 2924,1024"/>
+                    <TextEquiv>
+                        <Unicode>heim und dem Prinzen Friedrich von</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_15" custom="readingOrder {index:2;}">
+                    <Coords points="2185,1080 2563,1069 2677,1105 2877,1082 2878,1028 2185,1046"/>
+                    <Baseline points="2192,1069 2226,1071 2260,1068 2295,1066 2329,1066 2363,1066 2398,1065 2432,1063 2466,1063 2501,1061 2535,1061 2569,1063 2604,1060 2638,1060 2672,1060 2707,1060 2741,1060 2775,1058 2810,1057 2844,1058 2879,1060"/>
+                    <TextEquiv>
+                        <Unicode>Preussen, Frankfurt am Main, den</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_16" custom="readingOrder {index:3;}">
+                    <Coords points="2182,1120 2218,1131 2380,1116 2572,1126 2565,1069 2500,1070 2469,1088 2393,1065 2375,1078 2183,1082"/>
+                    <Baseline points="2189,1105 2214,1105 2240,1105 2266,1105 2291,1105 2317,1105 2343,1105 2368,1104 2394,1102 2420,1102 2445,1102 2471,1102 2497,1101 2522,1099 2548,1099 2574,1099"/>
+                    <TextEquiv>
+                        <Unicode>6. September, 1849</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="1" rowSpan="1" colSpan="1" id="c_223" custom="structure {type:TOC-pageref;}">
+                <Coords points="3040,956 3040,1131 3261,1131 3261,956"/>
+                <TextLine id="l_6" custom="readingOrder {index:0;}">
+                    <Coords points="3104,1106 3152,1106 3152,1076 3104,1076"/>
+                    <Baseline points="3104,1106 3152,1106"/>
+                    <TextEquiv>
+                        <Unicode>60</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="0" rowSpan="1" colSpan="1" id="c_269" custom="structure {type:TOC-entry;}">
+                <Coords points="2006,1131 2006,1238 3040,1238 3040,1131"/>
+                <TextLine id="tr_3_tl_17" custom="readingOrder {index:0;}">
+                    <Coords points="2053,1193 2648,1167 3038,1192 3039,1121 2909,1137 2845,1103 2054,1136"/>
+                    <Baseline points="2060,1179 2109,1179 2158,1175 2207,1174 2256,1176 2305,1176 2354,1174 2404,1173 2453,1171 2502,1170 2551,1173 2600,1167 2649,1167 2698,1167 2748,1166 2797,1164 2846,1164 2895,1164 2944,1162 2993,1161 3043,1167"/>
+                    <TextEquiv>
+                        <Unicode>Sommerfeld, Düsseldorf, den 8. November, 1849,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_18" custom="readingOrder {index:1;}">
+                    <Coords points="2192,1234 2455,1247 2563,1219 2701,1233 2713,1171 2193,1187"/>
+                    <Baseline points="2198,1212 2223,1212 2249,1212 2275,1211 2301,1210 2327,1209 2352,1209 2378,1209 2404,1209 2430,1209 2456,1208 2481,1207 2507,1207 2533,1209 2559,1206 2585,1203 2610,1203 2636,1203 2662,1203 2688,1203 2714,1203"/>
+                    <TextEquiv>
+                        <Unicode>an Rechnungsrat Reuscher</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="1" rowSpan="1" colSpan="1" id="c_271" custom="structure {type:TOC-pageref;}">
+                <Coords points="3040,1131 3040,1238 3261,1238 3261,1131"/>
+                <TextLine id="l_7" custom="readingOrder {index:0;}">
+                    <Coords points="3103,1201 3149,1201 3149,1171 3103,1171"/>
+                    <Baseline points="3103,1201 3149,1201"/>
+                    <TextEquiv>
+                        <Unicode>65</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="0" rowSpan="1" colSpan="1" id="c_321" custom="structure {type:TOC-entry;}">
+                <Coords points="2006,1238 2009,1313 3043,1313 3040,1238"/>
+                <TextLine id="tr_3_tl_19" custom="readingOrder {index:0;}">
+                    <Coords points="2062,1297 3007,1282 3008,1219 2063,1240"/>
+                    <Baseline points="2069,1284 2116,1287 2163,1287 2210,1284 2257,1283 2304,1282 2351,1284 2398,1283 2445,1280 2492,1278 2539,1278 2586,1278 2633,1278 2680,1276 2727,1275 2774,1275 2821,1273 2868,1272 2915,1272 2962,1269 3010,1272"/>
+                    <TextEquiv>
+                        <Unicode>v. Pritzelwitz, Düsseldorf, den 1. Mai, 1850</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="1" rowSpan="1" colSpan="1" id="c_323" custom="structure {type:TOC-pageref;}">
+                <Coords points="3040,1238 3043,1313 3264,1313 3261,1238"/>
+                <TextLine id="l_8" custom="readingOrder {index:0;}">
+                    <Coords points="3090,1266 3156,1264 3155,1234 3089,1236"/>
+                    <Baseline points="3090,1266 3156,1264"/>
+                    <TextEquiv>
+                        <Unicode>68</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="8" col="0" rowSpan="1" colSpan="1" id="c_377" custom="structure {type:TOC-entry;}">
+                <Coords points="2009,1313 2006,1410 3040,1410 3043,1313"/>
+                <TextLine id="tr_3_tl_20" custom="readingOrder {index:0;}">
+                    <Coords points="2062,1360 2107,1384 2652,1346 2949,1377 2998,1369 3000,1307 2120,1329 2063,1299"/>
+                    <Baseline points="2069,1350 2115,1353 2162,1355 2208,1355 2255,1355 2302,1354 2348,1352 2395,1351 2441,1350 2488,1350 2535,1348 2581,1347 2628,1345 2674,1344 2721,1344 2768,1344 2814,1344 2861,1344 2907,1344 2954,1341 3001,1341"/>
+                    <TextEquiv>
+                        <Unicode>Sommerfeld, Düsseldorf, den 3. Oktober, 1850</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_21" custom="readingOrder {index:1;}">
+                    <Coords points="2187,1422 2333,1395 2418,1421 2528,1386 2713,1402 2714,1353 2188,1364"/>
+                    <Baseline points="2195,1391 2222,1391 2249,1393 2276,1393 2304,1389 2331,1388 2358,1388 2386,1386 2413,1385 2440,1385 2468,1385 2495,1385 2522,1385 2550,1384 2577,1382 2604,1382 2632,1382 2659,1380 2686,1380 2714,1382"/>
+                    <TextEquiv>
+                        <Unicode>an Rechnungsrat Reuscher</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="8" col="1" rowSpan="1" colSpan="1" id="c_379" custom="structure {type:TOC-pageref;}">
+                <Coords points="3043,1313 3040,1410 3261,1410 3264,1313"/>
+                <TextLine id="l_9" custom="readingOrder {index:0;}">
+                    <Coords points="3109,1384 3155,1383 3154,1353 3108,1354"/>
+                    <Baseline points="3109,1384 3155,1383"/>
+                    <TextEquiv>
+                        <Unicode>69</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="9" col="0" rowSpan="1" colSpan="1" id="c_437" custom="structure {type:TOC-entry;}">
+                <Coords points="2006,1410 2006,1519 3040,1519 3040,1410"/>
+                <TextLine id="tr_3_tl_22" custom="readingOrder {index:0;}">
+                    <Coords points="2055,1489 2224,1464 2716,1490 2873,1454 2913,1481 2998,1458 3000,1407 2860,1380 2787,1422 2057,1422"/>
+                    <Baseline points="2063,1466 2109,1463 2156,1463 2203,1465 2250,1462 2297,1460 2344,1460 2391,1460 2438,1459 2485,1457 2532,1457 2578,1455 2625,1452 2672,1451 2719,1451 2766,1451 2813,1451 2860,1448 2907,1448 2954,1448 3001,1451"/>
+                    <TextEquiv>
+                        <Unicode>Tabor, Wiesbaden, den 15. Februar, 1851, an</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="l_17" custom="readingOrder {index:1;}">
+                    <Coords points="2207,1506 2263,1501 2260,1471 2204,1476"/>
+                    <Baseline points="2207,1506 2263,1501"/>
+                    <TextEquiv>
+                        <Unicode>(?)</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="9" col="1" rowSpan="1" colSpan="1" id="c_439" custom="structure {type:TOC-pageref;}">
+                <Coords points="3040,1410 3040,1519 3261,1519 3261,1410"/>
+                <TextLine id="l_10" custom="readingOrder {index:0;}">
+                    <Coords points="3104,1494 3169,1496 3170,1466 3105,1464"/>
+                    <Baseline points="3104,1494 3169,1496"/>
+                    <TextEquiv>
+                        <Unicode>70</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="0" rowSpan="1" colSpan="1" id="c_501" custom="structure {type:TOC-entry;}">
+                <Coords points="2006,1519 2006,1615 3040,1615 3040,1519"/>
+                <TextLine id="tr_3_tl_23" custom="readingOrder {index:0;}">
+                    <Coords points="2062,1573 2901,1588 2995,1574 2996,1520 2766,1502 2575,1532 2297,1491 2140,1544 2062,1518"/>
+                    <Baseline points="2069,1565 2115,1569 2161,1570 2208,1568 2254,1568 2301,1567 2347,1565 2394,1565 2440,1565 2487,1563 2533,1562 2579,1560 2626,1559 2672,1561 2719,1560 2765,1559 2812,1556 2858,1556 2905,1556 2951,1553 2998,1553"/>
+                    <TextEquiv>
+                        <Unicode>Sommerfeld, Berlin, den 28. April, 1851, an</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_24" custom="readingOrder {index:1;}">
+                    <Coords points="2198,1629 2339,1612 2357,1625 2494,1611 2515,1626 2651,1624 2652,1567 2621,1563 2199,1577"/>
+                    <Baseline points="2204,1609 2229,1605 2254,1603 2279,1601 2304,1600 2329,1600 2354,1600 2379,1600 2404,1599 2429,1597 2454,1597 2479,1597 2504,1595 2529,1594 2554,1594 2579,1594 2604,1594 2629,1593 2655,1591"/>
+                    <TextEquiv>
+                        <Unicode>Rechnungsrat Reuscher</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="1" rowSpan="1" colSpan="1" id="c_503" custom="structure {type:TOC-pageref;}">
+                <Coords points="3040,1519 3040,1615 3261,1615 3261,1519"/>
+                <TextLine id="l_11" custom="readingOrder {index:0;}">
+                    <Coords points="3116,1590 3157,1589 3156,1559 3115,1560"/>
+                    <Baseline points="3116,1590 3157,1589"/>
+                    <TextEquiv>
+                        <Unicode>72</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="11" col="0" rowSpan="1" colSpan="1" id="c_569" custom="structure {type:TOC-entry;}">
+                <Coords points="2006,1615 2006,1733 3040,1733 3040,1615"/>
+                <TextLine id="tr_3_tl_25" custom="readingOrder {index:0;}">
+                    <Coords points="2065,1693 3057,1678 3058,1616 2899,1601 2481,1641 2067,1629"/>
+                    <Baseline points="2072,1672 2121,1675 2170,1675 2220,1672 2269,1672 2319,1672 2368,1670 2418,1669 2467,1669 2517,1666 2566,1666 2615,1663 2665,1660 2714,1662 2764,1660 2813,1660 2863,1660 2912,1660 2962,1660 3011,1657 3061,1660"/>
+                    <TextEquiv>
+                        <Unicode>Sommerfeld, Berlin, den 14. November, 1851, an</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_26" custom="readingOrder {index:1;}">
+                    <Coords points="2200,1731 2298,1740 2359,1736 2390,1714 2547,1731 2645,1716 2646,1674 2631,1667 2567,1682 2492,1667 2395,1683 2202,1679"/>
+                    <Baseline points="2207,1708 2233,1708 2259,1708 2285,1708 2311,1707 2337,1705 2363,1705 2389,1705 2415,1705 2441,1704 2467,1702 2493,1702 2519,1702 2545,1702 2571,1701 2597,1699 2623,1699 2649,1699"/>
+                    <TextEquiv>
+                        <Unicode>Rechnungsrat Reuscher</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="11" col="1" rowSpan="1" colSpan="1" id="c_571" custom="structure {type:TOC-pageref;}">
+                <Coords points="3040,1615 3040,1733 3261,1733 3261,1615"/>
+                <TextLine id="l_12" custom="readingOrder {index:0;}">
+                    <Coords points="3120,1703 3153,1703 3153,1673 3120,1673"/>
+                    <Baseline points="3120,1703 3153,1703"/>
+                    <TextEquiv>
+                        <Unicode>73</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="0" rowSpan="1" colSpan="1" id="c_641" custom="structure {type:TOC-entry;}">
+                <Coords points="2006,1733 2006,1848 3040,1848 3040,1733"/>
+                <TextLine id="tr_3_tl_27" custom="readingOrder {index:0;} textStyle {offset:7; length:1;italic:true;} textStyle {offset:15; length:1;italic:true;}">
+                    <Coords points="2060,1794 2538,1806 2692,1775 2800,1810 2958,1770 2959,1724 2817,1711 2713,1742 2630,1714 2062,1741"/>
+                    <Baseline points="2069,1783 2113,1783 2158,1783 2202,1786 2247,1782 2291,1777 2336,1777 2380,1777 2425,1777 2469,1774 2514,1771 2558,1771 2603,1771 2647,1768 2692,1768 2736,1768 2781,1768 2825,1768 2870,1765 2914,1765 2959,1765"/>
+                    <TextEquiv>
+                        <Unicode>Bibra, [Neuwied], den 27. Dezember, 1851</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_28" custom="readingOrder {index:1;}">
+                    <Coords points="2198,1834 2249,1843 2266,1835 2277,1843 2293,1832 2440,1833 2440,1787 2400,1794 2381,1783 2374,1791 2340,1783 2324,1791 2314,1781 2286,1782 2266,1784 2251,1798 2198,1786"/>
+                    <Baseline points="2204,1815 2230,1812 2257,1812 2283,1812 2310,1812 2336,1812 2363,1812 2389,1812 2416,1811 2443,1809"/>
+                    <TextEquiv>
+                        <Unicode>an Reuscher</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="1" rowSpan="1" colSpan="1" id="c_643" custom="structure {type:TOC-pageref;}">
+                <Coords points="3040,1733 3040,1848 3261,1848 3261,1733"/>
+                <TextLine id="l_13" custom="readingOrder {index:0;}">
+                    <Coords points="3112,1817 3169,1817 3169,1787 3112,1787"/>
+                    <Baseline points="3112,1817 3169,1817"/>
+                    <TextEquiv>
+                        <Unicode>74</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="13" col="0" rowSpan="1" colSpan="1" id="c_717" custom="structure {type:TOC-entry;}">
+                <Coords points="2006,1848 2006,1937 3040,1937 3040,1848"/>
+                <TextLine id="tr_3_tl_29" custom="readingOrder {index:0;}">
+                    <Coords points="2077,1898 3017,1896 3016,1797 2791,1849 2636,1818 2078,1849"/>
+                    <Baseline points="2084,1887 2130,1887 2177,1884 2224,1884 2271,1884 2317,1883 2364,1882 2411,1881 2458,1879 2504,1879 2551,1878 2598,1878 2645,1876 2691,1875 2738,1875 2785,1873 2832,1874 2878,1875 2925,1872 2972,1869 3019,1872"/>
+                    <TextEquiv>
+                        <Unicode>v. Pritzelwitz, Berlin, den 23. April, 1852,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_30" custom="readingOrder {index:1;}">
+                    <Coords points="2202,1932 2324,1947 2552,1928 2678,1945 2695,1940 2698,1883 2203,1897"/>
+                    <Baseline points="2210,1923 2235,1921 2261,1920 2287,1920 2313,1920 2338,1920 2364,1918 2390,1917 2416,1917 2442,1916 2467,1915 2493,1914 2519,1914 2545,1912 2571,1911 2596,1911 2622,1911 2648,1911 2674,1911 2700,1911"/>
+                    <TextEquiv>
+                        <Unicode>an das Geschäftskomitee</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="13" col="1" rowSpan="1" colSpan="1" id="c_719" custom="structure {type:TOC-pageref;}">
+                <Coords points="3040,1848 3040,1937 3261,1937 3261,1848"/>
+                <TextLine id="l_14" custom="readingOrder {index:0;}">
+                    <Coords points="3119,1907 3160,1911 3163,1881 3122,1877"/>
+                    <Baseline points="3119,1907 3160,1911"/>
+                    <TextEquiv>
+                        <Unicode>75</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="14" col="0" rowSpan="1" colSpan="1" id="c_797" custom="structure {type:TOC-entry;}">
+                <Coords points="2006,1937 2006,2023 3040,2023 3040,1937"/>
+                <TextLine id="tr_3_tl_31" custom="readingOrder {index:0;}">
+                    <Coords points="2200,2013 2253,2026 2416,1990 2506,2007 2721,1994 2722,1937 2700,1934 2202,1942"/>
+                    <Baseline points="2207,1989 2234,1992 2261,1990 2288,1989 2316,1989 2343,1989 2370,1989 2398,1987 2425,1985 2452,1983 2480,1983 2507,1983 2534,1983 2562,1983 2589,1983 2616,1981 2644,1980 2671,1980 2698,1980 2726,1980"/>
+                    <TextEquiv>
+                        <Unicode>Anlage: Kammerhandlungen</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="14" col="1" rowSpan="1" colSpan="1" id="c_799" custom="structure {type:TOC-pageref;}">
+                <Coords points="3040,1937 3040,2023 3261,2023 3261,1937"/>
+                <TextLine id="l_15" custom="readingOrder {index:0;}">
+                    <Coords points="3124,1979 3167,1982 3169,1952 3126,1949"/>
+                    <Baseline points="3124,1979 3167,1982"/>
+                    <TextEquiv>
+                        <Unicode>76</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="15" col="0" rowSpan="1" colSpan="1" id="c_798" custom="structure {type:TOC-entry;}">
+                <Coords points="2006,2023 2006,2311 3040,2311 3040,2023"/>
+                <TextLine id="tr_3_tl_32" custom="readingOrder {index:0;}">
+                    <Coords points="2080,2077 3013,2067 3015,2002 2081,2018"/>
+                    <Baseline points="2087,2066 2133,2063 2179,2062 2226,2060 2272,2061 2319,2060 2365,2057 2412,2055 2458,2054 2505,2052 2551,2051 2597,2051 2644,2051 2690,2051 2737,2049 2783,2048 2830,2045 2876,2045 2923,2045 2969,2045 3016,2045"/>
+                    <TextEquiv>
+                        <Unicode>Dr. Tabor, Frankfurt an Main, den 26. April,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_33" custom="readingOrder {index:1;}">
+                    <Coords points="2209,2098 2930,2086 2953,2053 2210,2064"/>
+                    <Baseline points="2216,2096 2253,2093 2290,2092 2327,2090 2364,2087 2401,2087 2438,2085 2475,2083 2512,2082 2549,2084 2586,2084 2623,2082 2660,2081 2697,2082 2734,2081 2771,2078 2808,2078 2845,2078 2882,2078 2919,2078 2956,2075"/>
+                    <TextEquiv>
+                        <Unicode>1852, an das Hofmarschallamt Seiner</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_34" custom="readingOrder {index:2;}">
+                    <Coords points="2209,2132 2465,2120 2524,2158 2622,2130 2746,2157 2860,2128 2922,2154 3064,2112 3065,2053 2862,2090 2209,2098"/>
+                    <Baseline points="2216,2126 2258,2123 2301,2123 2343,2122 2386,2120 2428,2120 2471,2119 2513,2117 2556,2116 2598,2114 2641,2114 2684,2114 2726,2110 2769,2111 2811,2111 2854,2111 2896,2109 2939,2108 2981,2108 3024,2108 3067,2105"/>
+                    <TextEquiv>
+                        <Unicode>Königlichen Hoheit des Prinzen Friedrich</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_35" custom="readingOrder {index:3;}">
+                    <Coords points="2214,2184 2284,2166 2338,2193 2443,2172 2474,2182 2475,2122 2430,2133 2396,2125 2215,2132"/>
+                    <Baseline points="2222,2159 2247,2156 2272,2157 2298,2159 2323,2157 2349,2156 2374,2156 2399,2155 2425,2153 2450,2153 2476,2153"/>
+                    <TextEquiv>
+                        <Unicode>von Preussen</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="15" col="1" rowSpan="1" colSpan="1" id="c_800" custom="structure {type:TOC-pageref;}">
+                <Coords points="3040,2023 3040,2311 3261,2311 3261,2023"/>
+                <TextLine id="l_16" custom="readingOrder {index:0;}">
+                    <Coords points="3125,2150 3163,2149 3162,2119 3124,2120"/>
+                    <Baseline points="3125,2150 3163,2149"/>
+                    <TextEquiv>
+                        <Unicode>80</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+        </TableRegion>
+    </Page>
+</PcGts>

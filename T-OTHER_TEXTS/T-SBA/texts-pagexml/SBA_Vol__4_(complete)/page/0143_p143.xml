@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.35.0:model_id=39995:lm=none:date=29_11_2025_19:29</Creator>
+        <Created>2025-10-10T22:23:05.991+02:00</Created>
+        <LastChange>2026-05-26T21:30:39.887+02:00</LastChange>
+        <TranskribusMetadata docId="11233179" pageId="104148210" pageNr="143" tsid="289092532" status="DONE" userId="144967" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BNGIUQNGRRPKGNBXOIVXSHQQ" xmlUrl="https://files.transkribus.eu/Get?id=AIVTARDYSLLBFMTPXDIEDIAZ" imageId="87396724">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0143_p143.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883603872" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2880,286 3092,286 3092,350 2880,350"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="2923,338 2952,335 2967,347 2978,343 2989,347 2994,341 3005,338 3002,262 2990,267 2964,262 2953,265 2933,252 2920,253"/>
+                <Baseline points="2929,325 2955,325 2981,326 3007,328"/>
+                <TextEquiv>
+                    <Unicode>448</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2988,214 3130,214 3130,298 2988,298"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2999,300 3035,308 3056,296 3087,314 3100,316 3100,226 3079,227 3072,220 3059,218 3035,233 2999,227"/>
+                <Baseline points="3007,280 3039,282 3071,282 3103,280"/>
+                <TextEquiv>
+                    <Unicode>218</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1944,244 1944,1305 3115,1305 3115,244"/>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="1935,441 3066,419 3066,362 2718,330 2448,372 2099,324 1935,365"/>
+                <Baseline points="1944,412 2000,415 2056,412 2112,412 2169,409 2225,409 2281,409 2338,409 2394,409 2450,409 2507,409 2563,409 2619,409 2675,409 2732,408 2788,406 2844,406 2901,406 2957,405 3013,403 3070,400"/>
+                <TextEquiv>
+                    <Unicode>solche über Nacht erwachsen, und sich also mit Bestimmt-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="1940,505 3066,495 3040,420 1940,435"/>
+                <Baseline points="1947,483 2003,480 2059,480 2115,480 2171,477 2227,477 2283,477 2340,477 2396,477 2452,477 2508,477 2564,477 2620,477 2676,477 2733,476 2789,474 2845,471 2901,471 2957,471 3013,471 3070,471"/>
+                <TextEquiv>
+                    <Unicode>heit nichts sagen lässt. Kömmt die Conferenz zu Stande,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:2;} textStyle {offset:34; length:6;underlined:true;}">
+                <Coords points="1944,568 3087,567 3087,505 3040,498 2699,530 2608,494 2508,524 1946,500"/>
+                <Baseline points="1953,552 2009,552 2066,549 2123,549 2180,549 2237,549 2294,546 2351,546 2408,546 2465,549 2522,549 2578,549 2635,549 2692,549 2749,545 2806,543 2863,540 2920,539 2977,538 3034,538 3091,534"/>
+                <TextEquiv>
+                    <Unicode>so möchte ich als neutralen Boden Kassel vorschla-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="1951,643 3112,620 3112,561 3038,555 1951,579"/>
+                <Baseline points="1959,618 2016,618 2074,618 2132,615 2190,615 2248,615 2305,615 2363,612 2421,614 2479,615 2537,615 2594,612 2652,612 2710,612 2768,609 2826,609 2883,609 2941,609 2999,607 3057,607 3115,606"/>
+                <TextEquiv>
+                    <Unicode>gen. In Eisenach ist es im Winter zum Sterben langweilig,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="1943,709 3066,693 3085,620 1943,649"/>
+                <Baseline points="1950,689 2006,686 2063,686 2120,686 2177,684 2234,683 2291,683 2348,683 2405,681 2462,680 2519,680 2575,680 2632,680 2689,677 2746,677 2803,677 2860,675 2917,675 2974,674 3031,672 3088,672"/>
+                <TextEquiv>
+                    <Unicode>in Meiningen ebenwohl, und noch mehr da und dort der Hof</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="1951,784 2113,753 2972,768 2956,699 1953,730"/>
+                <Baseline points="1959,755 2009,757 2060,755 2111,753 2162,752 2213,752 2264,752 2315,752 2366,752 2417,752 2468,750 2518,749 2569,749 2620,749 2671,746 2722,746 2773,746 2824,744 2875,743 2926,743 2977,743"/>
+                <TextEquiv>
+                    <Unicode>genirt. Gleiches würde der Fall sein, wenn wir in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="1947,838 3027,822 3027,766 2951,760 1948,788"/>
+                <Baseline points="1956,824 2009,823 2063,821 2117,821 2171,821 2224,821 2278,820 2332,818 2386,818 2439,818 2493,818 2547,815 2601,815 2654,815 2708,815 2762,812 2816,812 2869,812 2923,810 2977,809 3031,809"/>
+                <TextEquiv>
+                    <Unicode>Gotha zusammen kommen, während wir uns in Kassel doch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="1948,911 2945,904 3009,886 3011,826 1950,850"/>
+                <Baseline points="1956,893 2008,893 2061,891 2114,890 2167,890 2220,887 2273,887 2325,887 2378,887 2431,887 2484,884 2537,884 2590,884 2643,884 2695,881 2748,881 2801,878 2854,878 2907,878 2960,876 3013,875"/>
+                <TextEquiv>
+                    <Unicode>nach gethaner Arbeit besser unterhalten können. Bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="1948,986 3030,964 2999,886 1950,920"/>
+                <Baseline points="1956,964 2009,961 2063,960 2117,958 2171,958 2225,955 2279,958 2333,955 2387,953 2441,952 2495,952 2548,952 2602,952 2656,950 2710,949 2764,949 2818,946 2872,946 2926,946 2980,944 3034,946"/>
+                <TextEquiv>
+                    <Unicode>Meiningen gebe ich ausserdem zu bedenken, dass wir von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:9;}">
+                <Coords points="1948,1062 3069,1045 3071,958 1948,986"/>
+                <Baseline points="1956,1027 2011,1027 2067,1027 2123,1027 2179,1024 2235,1024 2291,1024 2346,1022 2402,1021 2458,1021 2514,1019 2570,1018 2626,1018 2682,1015 2737,1015 2793,1015 2849,1015 2905,1012 2961,1010 3017,1009 3073,1012"/>
+                <TextEquiv>
+                    <Unicode>Eisenach per Post fahren müssen, was wahrlich auch kein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:10;}">
+                <Coords points="1957,1140 1982,1143 2029,1119 2088,1128 2151,1102 2221,1121 2249,1109 2250,1053 2234,1045 2200,1056 2174,1046 2129,1068 2085,1043 2013,1059 1991,1042 1959,1045"/>
+                <Baseline points="1965,1099 1991,1096 2017,1096 2043,1096 2069,1096 2095,1094 2121,1093 2147,1093 2173,1093 2199,1093 2225,1092 2252,1090"/>
+                <TextEquiv>
+                    <Unicode>Vergnügen ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:11;}">
+                <Coords points="2052,1195 2354,1197 2527,1159 2901,1173 2893,1077 2745,1115 2369,1122 2294,1083 2234,1122 2054,1115"/>
+                <Baseline points="2060,1161 2102,1161 2144,1161 2186,1161 2228,1158 2270,1161 2312,1159 2355,1158 2397,1156 2439,1155 2481,1155 2523,1153 2565,1152 2607,1152 2650,1152 2692,1152 2734,1151 2776,1149 2818,1149 2860,1149 2903,1146"/>
+                <TextEquiv>
+                    <Unicode>Stets der Ihrige mit alter Anhänglichkeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:12;}">
+                <Coords points="2605,1307 2636,1307 2659,1298 2674,1304 2681,1298 2710,1318 2721,1318 2737,1304 2744,1311 2762,1308 2762,1234 2669,1235 2653,1242 2605,1226"/>
+                <Baseline points="2613,1287 2638,1287 2663,1287 2689,1287 2714,1287 2739,1287 2765,1287"/>
+                <TextEquiv>
+                    <Unicode>Meibom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

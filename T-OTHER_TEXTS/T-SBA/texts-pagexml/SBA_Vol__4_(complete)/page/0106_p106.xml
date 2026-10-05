@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.47.0:model_id=50870:lm=none:date=20_06_2026_22:15</Creator>
+        <Created>2025-10-10T22:23:01.945+02:00</Created>
+        <LastChange>2026-06-23T22:25:32.865+02:00</LastChange>
+        <TranskribusMetadata docId="11233179" pageId="104148134" pageNr="106" tsid="293662527" status="DONE" userId="490466" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BDQLJPPJVUICNBKOTQYDNEON" xmlUrl="https://files.transkribus.eu/Get?id=MRGHGGVRVFPTMLTSJURJPXZS" imageId="87396691">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0106_p106.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883603406" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="1848,287 1848,750 3207,750 3207,287"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2989,358 3013,358 3028,349 3033,351 3052,334 3092,346 3101,261 3060,271 3052,261 3038,268 3016,249 2999,251"/>
+                <Baseline points="3004,316 3036,311 3068,309 3100,307"/>
+                <TextEquiv>
+                    <Unicode>180</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1847,500 1908,482 1952,502 1978,482 2156,500 2326,477 2327,424 2263,410 2193,427 2159,402 2080,424 2020,414 1978,383 1947,407 1849,424"/>
+                <Baseline points="1857,474 1882,474 1907,472 1932,471 1957,469 1982,468 2007,468 2032,468 2057,468 2082,467 2107,465 2132,465 2157,465 2182,465 2207,464 2232,463 2257,462 2282,462 2307,459 2332,456"/>
+                <TextEquiv>
+                    <Unicode>-(346 verso)- continued-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1842,560 3091,548 3201,526 3203,460 1844,492"/>
+                <Baseline points="1851,543 1918,539 1986,537 2054,536 2122,532 2190,531 2257,529 2325,528 2393,528 2461,528 2529,525 2596,525 2664,522 2732,521 2800,519 2868,518 2935,516 3003,515 3071,510 3139,509 3207,504"/>
+                <TextEquiv>
+                    <Unicode>es bedarf keiner Benachrichtigung der Herrn weil es sehr günstig ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="1839,617 3174,611 3189,524 2577,536 2512,578 2283,539 1840,568"/>
+                <Baseline points="1848,603 1915,603 1982,600 2049,600 2116,597 2183,595 2250,594 2317,594 2384,594 2451,591 2518,591 2585,590 2652,588 2719,586 2786,585 2853,584 2920,582 2987,579 3054,576 3121,573 3189,573"/>
+                <TextEquiv>
+                    <Unicode>Dass/das Consortium in der --- ist (NB für die Zinsen von August</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="1839,684 2538,670 2699,709 2872,660 3143,665 3145,604 1840,629"/>
+                <Baseline points="1848,672 1913,671 1978,666 2043,666 2108,664 2173,663 2238,661 2303,660 2368,660 2433,660 2498,657 2563,657 2628,654 2693,654 2758,651 2823,649 2888,647 2953,645 3018,642 3083,642 3148,639"/>
+                <TextEquiv>
+                    <Unicode>hatte Schm.schon das Geld in Mai für die vom Febr erhielt er es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="1847,777 1993,787 2085,757 2171,772 2304,738 2410,763 2412,685 2385,678 2232,694 2098,677 2049,701 1946,678 1849,712"/>
+                <Baseline points="1857,740 1886,736 1915,735 1945,734 1974,734 2004,732 2033,731 2062,731 2092,731 2121,731 2151,731 2180,729 2210,728 2239,728 2268,726 2298,725 2327,725 2357,725 2386,725 2416,725"/>
+                <TextEquiv>
+                    <Unicode>im Novbr. des Jahres vorher.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

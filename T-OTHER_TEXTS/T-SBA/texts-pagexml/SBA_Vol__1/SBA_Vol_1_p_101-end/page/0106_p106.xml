@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:16.823+02:00</Created>
+        <LastChange>2025-11-04T01:10:36.506+01:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101584074" pageNr="106" tsid="259682432" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=LZFWSWQLUIPZOWMBYKZEKDVO" xmlUrl="https://files.transkribus.eu/Get?id=ATPRPOREOBKKBWMEFSKKFXSY" imageId="85201523">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0106_p106.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883576702" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2708,336 2876,336 2876,439 2708,439"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2741,432 2760,429 2774,418 2784,422 2820,421 2836,408 2844,409 2846,350 2836,349 2804,360 2796,354 2782,356 2777,350 2770,352 2764,347 2756,352 2744,349"/>
+                <Baseline points="2750,412 2782,412 2814,411 2846,409"/>
+                <TextEquiv>
+                    <Unicode>183c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;} structure {type:item-continue;}">
+            <Coords points="1830,376 1830,1144 2947,1144 2947,376"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1823,527 2865,534 2877,434 2784,458 2724,426 2559,484 2502,456 2307,487 2167,438 1823,489"/>
+                <Baseline points="1830,522 1882,520 1934,516 1987,516 2039,516 2092,515 2144,511 2197,510 2249,513 2302,510 2354,509 2406,507 2459,507 2511,507 2564,507 2616,504 2669,504 2721,504 2774,504 2826,502 2879,501"/>
+                <TextEquiv>
+                    <Unicode>könnten die Auswanderer, welche Sie nach Amerika zu senden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1823,594 2702,594 2862,572 2864,531 1823,535"/>
+                <Baseline points="1830,588 1881,582 1933,581 1985,578 2036,576 2088,576 2140,573 2191,573 2243,573 2295,573 2347,572 2398,570 2450,570 2502,570 2553,570 2605,567 2657,567 2708,567 2760,565 2812,564 2864,564"/>
+                <TextEquiv>
+                    <Unicode>gedenken, ohne Sorge dorthin schicken, da von der grossen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="1823,651 2927,644 2928,591 2809,585 1824,623"/>
+                <Baseline points="1830,648 1885,646 1940,642 1995,639 2050,639 2105,637 2160,636 2215,636 2270,636 2325,635 2381,633 2436,633 2491,633 2546,630 2601,630 2656,630 2711,627 2766,627 2821,625 2876,624 2932,621"/>
+                <TextEquiv>
+                    <Unicode>Anzahl deutscher Kolonisten, die täglich nach jenem Lande ab-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="1823,720 2192,745 2304,703 2678,694 2884,728 2913,641 1823,678"/>
+                <Baseline points="1830,707 1884,707 1938,704 1992,703 2047,701 2101,698 2155,698 2209,695 2264,695 2318,695 2372,695 2426,692 2481,692 2535,692 2589,692 2643,689 2698,689 2752,688 2806,686 2860,684 2915,683"/>
+                <TextEquiv>
+                    <Unicode>reisen, man die Ueberzeugung gewinnt, dass sie dorten glück-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="1825,779 1846,779 1912,804 1926,794 1952,804 1963,797 1992,804 2006,793 2021,800 2021,731 1914,746 1874,747 1849,732 1825,738"/>
+                <Baseline points="1833,770 1860,769 1887,767 1915,767 1942,767 1970,767 1997,767 2025,767"/>
+                <TextEquiv>
+                    <Unicode>lich sind.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="1918,860 2307,860 2422,818 2898,834 2900,761 2596,801 2530,772 1919,794"/>
+                <Baseline points="1926,827 1974,826 2023,824 2072,824 2121,822 2170,821 2219,821 2267,821 2316,821 2365,818 2414,818 2463,815 2512,815 2561,815 2609,814 2658,812 2707,812 2756,810 2805,809 2854,806 2903,809"/>
+                <TextEquiv>
+                    <Unicode>Herr Bourgeois bittet, dass er an Sie für Seine Hoheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="1828,918 2915,874 2894,826 1830,858"/>
+                <Baseline points="1836,896 1890,893 1944,890 1998,889 2052,885 2106,884 2160,884 2214,884 2268,882 2322,881 2377,881 2431,881 2485,880 2539,878 2593,876 2647,875 2701,872 2755,872 2809,872 2863,870 2918,869"/>
+                <TextEquiv>
+                    <Unicode>den Prinzen von Leiningen ein kleines Boot senden darf, wel-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="1834,972 1863,986 1990,960 2108,983 2198,955 2323,958 2325,910 1955,915 1916,933 1859,910 1835,920"/>
+                <Baseline points="1842,955 1867,953 1892,952 1918,952 1943,952 1969,952 1994,950 2020,949 2045,949 2071,948 2096,946 2122,946 2147,946 2173,946 2198,946 2224,944 2249,943 2275,943 2300,944 2326,946"/>
+                <TextEquiv>
+                    <Unicode>ches er hier bestellt hat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="1918,1020 2625,1033 2923,997 2924,943 2726,976 1918,975"/>
+                <Baseline points="1926,1012 1976,1012 2026,1009 2076,1009 2126,1009 2176,1006 2226,1006 2276,1005 2326,1003 2376,1003 2426,1003 2476,1003 2526,1003 2576,999 2626,997 2676,996 2726,994 2776,994 2826,992 2876,991 2927,988"/>
+                <TextEquiv>
+                    <Unicode>Gestatten Sie uns die Versicherung unserer besten Hoch-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="1828,1088 1856,1093 1864,1088 1892,1097 1925,1082 1943,1092 1952,1084 2001,1096 1999,1042 1973,1040 1936,1051 1908,1035 1872,1046 1864,1055 1828,1042"/>
+                <Baseline points="1836,1078 1863,1078 1891,1077 1918,1076 1946,1078 1973,1081 2001,1078"/>
+                <TextEquiv>
+                    <Unicode>achtung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="2319,1137 2593,1161 2745,1121 2945,1125 2946,1081 2520,1066 2319,1095"/>
+                <Baseline points="2310,1128 2357,1126 2388,1126 2419,1126 2450,1126 2481,1124 2512,1123 2543,1123 2574,1121 2605,1120 2636,1120 2667,1120 2698,1119 2729,1117 2760,1117 2791,1115 2822,1114 2853,1114 2884,1112 2915,1111 2947,1111"/>
+                <TextEquiv>
+                    <Unicode>Bisschop, Basteyns &amp; N.J. de Cock.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

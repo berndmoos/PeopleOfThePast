@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.35.0:model_id=39995:lm=none:date=01_12_2025_16:18</Creator>
+        <Created>2025-10-10T22:22:54.183+02:00</Created>
+        <LastChange>2025-12-01T19:58:32.646+01:00</LastChange>
+        <TranskribusMetadata docId="11233179" pageId="104148024" pageNr="37" tsid="263413084" status="DONE" userId="431293" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=FPTJYADDXBDTZUTILANHWPMQ" xmlUrl="https://files.transkribus.eu/Get?id=IQIWYOKYQLHBFWJIESSABTRT" imageId="87396552">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0037_p037.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883602341" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1962,296 1962,234 3192,234 3192,296"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3113,299 3131,298 3140,304 3189,302 3189,226 3168,226 3163,222 3156,225 3149,219 3139,225 3128,219 3113,222"/>
+                <Baseline points="3121,277 3156,279 3192,277"/>
+                <TextEquiv>
+                    <Unicode>27</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="1962,356 1962,296 3192,296 3192,356"/>
+            <TextLine id="l_8" custom="readingOrder {index:0;}">
+                <Coords points="2947,347 2959,347 2969,339 2979,339 2988,347 3002,347 3008,340 3020,344 3038,340 3038,240 3011,239 2997,225 2972,225 2955,242 2947,242"/>
+                <Baseline points="2956,334 2985,332 3014,332 3043,334"/>
+                <TextEquiv>
+                    <Unicode>260</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="3192,356 3192,925 1962,925 1962,356"/>
+            <TextLine id="l_9" custom="readingOrder {index:0;}">
+                <Coords points="2061,447 2383,418 3154,447 3156,362 2858,325 2788,362 2063,369"/>
+                <Baseline points="2069,415 2123,415 2177,412 2232,412 2286,410 2340,409 2395,409 2449,409 2503,408 2558,406 2612,406 2666,406 2721,406 2775,406 2829,406 2884,403 2938,406 2992,406 3047,404 3101,403 3156,400"/>
+                <TextEquiv>
+                    <Unicode>Alles Weitere mündlich und heute nur noch die herz-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:1;}">
+                <Coords points="1953,517 1982,529 2099,517 2122,497 2187,514 2244,506 2326,553 2385,550 2388,439 2206,448 2168,424 2104,451 2017,421 1955,450"/>
+                <Baseline points="1962,489 1987,489 2012,489 2037,489 2063,487 2088,486 2113,486 2139,485 2164,483 2189,482 2214,480 2240,480 2265,479 2290,478 2316,478 2341,480 2366,479 2392,477"/>
+                <TextEquiv>
+                    <Unicode>lichsten Grüsse von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:2;}">
+                <Coords points="2447,570 2482,567 2488,572 2510,565 2516,572 2520,568 2582,572 2582,505 2563,508 2548,500 2534,506 2523,496 2503,512 2490,499 2465,506 2447,500"/>
+                <Baseline points="2455,549 2481,547 2507,546 2533,546 2559,546 2586,546"/>
+                <TextEquiv>
+                    <Unicode>Ihrem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:3;}">
+                <Coords points="2637,708 2660,705 2677,716 2715,699 2748,722 2800,699 2861,708 2899,701 2899,648 2876,638 2829,634 2794,654 2780,641 2768,652 2757,641 2736,651 2637,651"/>
+                <Baseline points="2646,686 2671,684 2697,683 2723,683 2748,685 2774,686 2800,684 2825,683 2851,683 2877,683 2903,683"/>
+                <TextEquiv>
+                    <Unicode>ergebensten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:4;}">
+                <Coords points="2757,768 2804,780 2821,763 2833,769 2852,762 2868,769 2931,762 2931,704 2894,714 2871,704 2815,704 2807,711 2795,704 2757,716"/>
+                <Baseline points="2765,755 2793,753 2821,752 2850,752 2878,752 2906,752 2935,752"/>
+                <TextEquiv>
+                    <Unicode>Kroeber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:5;}">
+                <Coords points="1953,941 2023,947 2070,921 2168,933 2219,921 2313,945 2354,930 2356,848 2288,830 2245,850 2172,819 2114,819 1997,859 1955,838"/>
+                <Baseline points="1962,904 1988,904 2014,903 2040,901 2067,901 2093,901 2119,901 2145,901 2172,901 2198,901 2224,901 2250,900 2277,899 2303,899 2329,899 2356,899"/>
+                <TextEquiv>
+                    <Unicode>Meerholz 14/6/55.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

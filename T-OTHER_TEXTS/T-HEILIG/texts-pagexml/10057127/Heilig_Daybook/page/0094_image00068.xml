@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.36.0:model_id=50870:lm=none:date=08_01_2026_15:28</Creator>
+        <Created>2025-08-12T22:09:00.974+02:00</Created>
+        <LastChange>2026-07-17T20:45:35.763+02:00</LastChange>
+        <TranskribusMetadata docId="10057127" pageId="101590392" pageNr="94" tsid="296598702" status="DONE" userId="154586" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=EMQNSQUMFEGYSJJEHFEPLVLB" xmlUrl="https://files.transkribus.eu/Get?id=DCVBRHILQWARIRYLEHHWLUHB" imageId="85205896">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0094_image00068.jpg" imageWidth="1896" imageHeight="3136">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1787931886971" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="0,116 0,26 1894,26 1894,116"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1710,57 1758,62 1767,52 1772,52 1788,69 1803,69 1807,19 1781,19 1777,14 1760,17 1748,5 1734,0 1715,0"/>
+                <Baseline points="1726,52 1753,51 1780,46 1808,48"/>
+                <TextEquiv>
+                    <Unicode>93</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;} structure {type:day_continue;}">
+            <Coords points="0,2451 0,116 1894,116 1894,2451"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;} comment {offset:0; length:16;type:unclear;} textStyle {offset:18; length:17;italic:true;}">
+                <Coords points="12,242 137,280 403,225 865,227 905,268 964,225 1386,261 1445,225 1886,225 1886,180 1601,149 1544,192 1464,147 1319,194 1232,149 1182,192 1066,152 943,187 869,123 490,178 381,114 334,159 173,147 111,206 57,163 12,185"/>
+                <Baseline points="24,232 117,230 210,228 304,228 397,224 490,225 584,222 677,219 770,219 864,218 957,218 1050,218 1144,218 1237,218 1330,218 1424,217 1517,214 1610,214 1704,218 1797,214 1891,212"/>
+                <TextEquiv>
+                    <Unicode>eleverschaudseös! Benners Cl. A. S. ritt noch mit mir. Als wir uf de andere Seite von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_41" custom="readingOrder {index:1;} textStyle {offset:50; length:1;italic:true;}">
+                <Coords points="2,315 355,306 403,341 502,296 566,343 659,291 760,332 884,287 929,327 1201,291 1255,339 1303,294 1573,332 1632,291 1886,306 1871,225 2,261"/>
+                <Baseline points="16,308 109,303 203,298 297,298 391,296 485,294 578,290 672,287 766,285 860,286 954,285 1047,288 1141,288 1235,286 1329,288 1423,288 1516,286 1610,286 1704,286 1798,286 1892,300"/>
+                <TextEquiv>
+                    <Unicode>etonten waren, fung et an feinet Eis zu rejnen u. S. meente, wenn er jewußt haben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_42" custom="readingOrder {index:2;}">
+                <Coords points="0,403 1886,388 1869,301 1608,343 1488,306 1161,348 1061,308 955,351 640,315 595,353 372,355 133,308 0,346"/>
+                <Baseline points="12,382 106,377 200,373 294,372 388,374 482,374 576,372 670,370 764,370 858,371 952,369 1046,368 1140,368 1234,366 1328,368 1422,366 1516,364 1610,362 1704,365 1798,364 1892,364"/>
+                <TextEquiv>
+                    <Unicode>dduhe dhate, det et noch eenen Eisnorder jeben dhäte, denn wäre er daheeme jeblieben. Von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_43" custom="readingOrder {index:3;} textStyle {offset:12; length:5;italic:true;}">
+                <Coords points="0,469 514,450 559,488 597,450 912,476 945,445 1033,490 1187,448 1329,500 1386,443 1492,478 1886,457 1862,377 1708,412 1552,377 1452,422 1374,379 1326,424 1258,379 1066,415 971,374 640,426 0,405"/>
+                <Baseline points="12,460 110,455 209,448 308,451 407,451 506,446 605,444 704,447 803,444 902,444 1000,444 1099,446 1198,444 1297,444 1396,441 1495,440 1594,440 1693,441 1792,441 1891,446"/>
+                <TextEquiv>
+                    <Unicode>Brfels. bis S. M. is er wenigstens 15 M. von's Pferd jestiegen, um seinen Hut, seine Handschuh</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_44" custom="readingOrder {index:4;}">
+                <Coords points="0,547 1881,538 1881,455 1703,481 1660,443 1329,500 1258,448 1028,490 943,445 829,497 0,490"/>
+                <Baseline points="14,530 107,527 201,524 294,524 388,522 482,522 575,521 669,522 762,522 856,520 950,518 1043,522 1137,518 1230,520 1324,518 1418,516 1511,513 1605,511 1698,511 1792,512 1886,512"/>
+                <TextEquiv>
+                    <Unicode>oder sonst etwas zu holen wat er verloren hadde. Ick hatte Nischt als meinen Wachsmantel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_45" custom="readingOrder {index:5;} textStyle {offset:45; length:3;italic:true;}">
+                <Coords points="0,625 628,595 677,637 921,592 1315,635 1428,592 1886,595 1850,526 1637,552 1604,519 1208,576 1146,531 997,571 827,531 772,571 668,542 355,576 263,540 154,580 104,533 0,564"/>
+                <Baseline points="10,606 104,603 198,600 292,598 386,596 480,596 574,594 668,594 762,592 856,592 950,592 1044,592 1138,594 1232,596 1326,592 1420,590 1514,588 1608,586 1702,585 1796,584 1891,586"/>
+                <TextEquiv>
+                    <Unicode>um frur im Anfang wie een Schneederin'ner Eisbox; zuletzt spürte ick aber de Kälte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_46" custom="readingOrder {index:6;}">
+                <Coords points="0,725 54,682 114,737 334,675 651,675 775,727 862,673 1379,666 1443,701 1488,668 1552,701 1587,666 1867,670 1867,609 1580,587 1315,635 1026,592 959,649 727,609 540,651 379,595 0,640"/>
+                <Baseline points="10,680 103,676 196,674 289,674 382,672 475,670 568,670 661,669 754,668 847,667 941,667 1034,664 1127,664 1220,664 1313,662 1406,662 1499,660 1592,659 1685,658 1778,656 1872,658"/>
+                <TextEquiv>
+                    <Unicode>jaar nich mehr. Als ick aber mal abstieg um widder ruffer wollte uf's Pferd, da kribbelte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_47" custom="readingOrder {index:7;}">
+                <Coords points="0,770 865,744 974,791 1052,741 1222,777 1848,751 1848,708 1732,675 1679,715 1594,675 1376,682 1336,720 1236,675 1052,708 876,677 820,725 445,687 339,730 275,682 173,732 47,692 0,725"/>
+                <Baseline points="0,754 92,749 185,749 278,749 370,748 463,745 556,745 648,744 741,742 834,742 927,742 1019,740 1112,740 1205,739 1297,741 1390,738 1483,738 1575,738 1668,736 1761,734 1854,738"/>
+                <TextEquiv>
+                    <Unicode>[???]mich in de Beene als wenn ick een labendiges Nadelkissen oder Ameesennest wäre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_48" custom="readingOrder {index:8;}">
+                <Coords points="0,843 377,824 559,860 651,817 929,869 1056,817 1864,827 1864,749 1191,779 1154,741 988,794 805,756 666,798 616,756 438,798 258,760 0,779"/>
+                <Baseline points="6,826 99,824 192,822 285,822 379,821 472,819 565,818 658,818 752,818 845,818 938,814 1031,814 1125,814 1218,814 1311,814 1404,813 1498,810 1591,810 1684,808 1777,806 1871,812"/>
+                <TextEquiv>
+                    <Unicode>un det war nur mit eißerschter Anstrengung det ick widder uf't Pferd kam. Um 20 Min.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_49" custom="readingOrder {index:9;} textStyle {offset:24; length:4;italic:true;} textStyle {offset:35; length:16;italic:true;} comment {offset:77; length:7;type:unclear;}">
+                <Coords points="0,914 45,945 102,905 677,895 777,948 943,891 1038,926 1189,895 1246,943 1312,891 1869,914 1869,865 1592,820 1374,872 1310,824 1225,862 1132,820 929,867 801,827 753,865 585,834 310,881 230,827 0,872"/>
+                <Baseline points="8,904 101,902 194,901 288,900 381,900 475,896 568,894 661,896 755,896 848,892 942,890 1035,893 1128,892 1222,891 1315,890 1409,890 1502,888 1595,889 1689,884 1782,884 1876,898"/>
+                <TextEquiv>
+                    <Unicode>nach 2 Uhr kamen wir in S. M. an. (started 10 A. M.) Da war Der e Dreck, det etrenem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_50" custom="readingOrder {index:10;}">
+                <Coords points="0,1014 268,976 483,1011 557,978 614,1019 659,981 976,966 1071,1014 1149,966 1838,971 1838,898 1748,893 1154,948 1009,907 841,950 704,910 595,955 540,912 381,957 220,912 0,948"/>
+                <Baseline points="6,978 97,976 189,972 281,974 373,974 465,970 557,970 649,974 741,972 833,970 925,966 1016,968 1108,968 1200,965 1292,966 1384,964 1476,963 1568,962 1660,958 1752,954 1844,958"/>
+                <TextEquiv>
+                    <Unicode>zude Halsbinde rinn loofen dhat. Am andern Morjen war Allens jefruren. De Pferde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_51" custom="readingOrder {index:11;} textStyle {offset:68; length:8;italic:true;} comment {offset:69; length:7;type:San\u0020Marcos\u0020River;}">
+                <Coords points="0,1097 57,1056 251,1087 396,1047 853,1083 990,1045 1841,1064 1859,1004 1786,978 1608,1019 1469,971 1360,1019 1260,964 1154,1023 1019,993 765,1026 711,978 616,1026 566,981 365,1028 315,983 0,1009"/>
+                <Baseline points="8,1056 100,1050 193,1050 286,1049 379,1047 472,1046 564,1046 657,1046 750,1046 843,1046 936,1044 1028,1044 1121,1044 1214,1043 1307,1040 1400,1038 1492,1041 1585,1039 1678,1036 1771,1036 1864,1040"/>
+                <TextEquiv>
+                    <Unicode>schnitten sich bei jedem Schritt de Fesseln entzwee. Wie wir iber'n S. M. R. waren, da waren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_52" custom="readingOrder {index:12;}">
+                <Coords points="0,1146 1850,1130 1850,1066 1717,1047 1672,1090 1566,1052 1372,1094 1263,1045 1090,1097 699,1101 599,1047 348,1104 303,1059 249,1092 163,1056 0,1097"/>
+                <Baseline points="0,1126 92,1128 185,1126 278,1127 371,1124 464,1122 556,1122 649,1122 742,1122 835,1120 928,1118 1020,1118 1113,1116 1206,1116 1299,1115 1392,1114 1484,1116 1577,1113 1670,1110 1763,1108 1856,1110"/>
+                <TextEquiv>
+                    <Unicode>unsere Pferde, so weit det Wasser jegangen war, mit Eis überzogen. Ick sage dich, det</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_53" custom="readingOrder {index:13;}">
+                <Coords points="0,1218 216,1208 270,1251 343,1206 654,1244 701,1203 1056,1232 1092,1201 1203,1251 1296,1191 1862,1194 1862,1146 1701,1163 1649,1118 1537,1170 1457,1120 1232,1170 834,1125 753,1170 701,1132 407,1165 358,1128 0,1175"/>
+                <Baseline points="0,1206 93,1204 186,1202 280,1202 373,1202 467,1199 560,1200 653,1199 747,1198 840,1195 934,1194 1027,1192 1120,1192 1214,1192 1307,1188 1401,1189 1494,1191 1587,1188 1681,1186 1774,1184 1868,1182"/>
+                <TextEquiv>
+                    <Unicode>wert so erbärmlich schön und so prachtvoll kalt, det mich noch jetzt de Ohren wackeln un een</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:14;} textStyle {offset:61; length:2;italic:true;}">
+                <Coords points="0,1291 208,1284 272,1324 322,1281 978,1279 1045,1319 1123,1274 1518,1272 1594,1315 1639,1272 1689,1312 1729,1272 1876,1270 1817,1199 1585,1203 1521,1246 1386,1201 1203,1251 981,1208 834,1241 794,1201 751,1241 606,1213 564,1255 481,1213 393,1255 343,1203 268,1253 78,1206 0,1239"/>
+                <Baseline points="0,1274 94,1280 188,1278 282,1278 376,1278 470,1276 564,1276 658,1276 752,1276 846,1275 941,1274 1035,1270 1129,1268 1223,1270 1317,1270 1411,1268 1505,1268 1599,1264 1693,1263 1787,1262 1882,1266"/>
+                <TextEquiv>
+                    <Unicode>kalter Jrusel nach dem andern den Rücken runter spaziert. Am Bl. war et jrad so. Mein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_55" custom="readingOrder {index:15;}">
+                <Coords points="0,1407 123,1362 296,1364 343,1409 415,1360 675,1405 831,1355 1561,1372 1862,1353 1864,1298 713,1322 663,1291 547,1338 377,1286 306,1341 0,1312"/>
+                <Baseline points="0,1360 93,1358 187,1358 280,1358 374,1358 467,1356 561,1355 654,1355 748,1353 841,1352 935,1350 1028,1348 1122,1348 1215,1348 1309,1348 1402,1346 1496,1344 1589,1341 1683,1342 1776,1338 1870,1342"/>
+                <TextEquiv>
+                    <Unicode>Schnurrus war nischt als een Eiszappen unter de Nase. Eene Meile oder so, verbockte ick</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_56" custom="readingOrder {index:16;} textStyle {offset:6; length:5;italic:true;} textStyle {offset:28; length:3;italic:true;}">
+                <Coords points="0,1452 673,1428 824,1464 1068,1426 1163,1480 1229,1428 1585,1454 1703,1414 1784,1452 1838,1421 1838,1350 1717,1395 1502,1348 1182,1405 1080,1360 1033,1407 862,1362 689,1409 514,1369 310,1412 123,1362 0,1407"/>
+                <Baseline points="0,1434 92,1432 184,1430 276,1432 368,1430 461,1430 553,1430 645,1428 737,1428 829,1426 922,1424 1014,1424 1106,1426 1198,1423 1290,1421 1383,1418 1475,1417 1567,1416 1659,1416 1751,1414 1844,1418"/>
+                <TextEquiv>
+                    <Unicode>mit'n Dixie un ick mußte im mud spazieren, der mich bis über't Knie jung un so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_57" custom="readingOrder {index:17;} textStyle {offset:74; length:5;italic:true;}">
+                <Coords points="0,1547 142,1507 306,1549 353,1516 398,1559 478,1509 656,1549 713,1507 1023,1542 1355,1502 1433,1547 1490,1499 1606,1530 1748,1492 1869,1528 1869,1454 1703,1414 1597,1457 1248,1435 1163,1480 1120,1440 661,1438 540,1488 457,1435 275,1485 47,1443 0,1480"/>
+                <Baseline points="10,1516 103,1508 196,1506 289,1508 382,1507 476,1507 569,1508 662,1505 755,1503 848,1504 942,1502 1035,1500 1128,1500 1221,1498 1314,1498 1408,1496 1501,1494 1594,1493 1687,1490 1780,1490 1874,1500"/>
+                <TextEquiv>
+                    <Unicode>freundlich war jefällischt meine Schtriebeln hinunter zu loofen. Als wir (Dixie u. ick) uns rauß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_58" custom="readingOrder {index:18;}">
+                <Coords points="0,1601 126,1589 175,1630 220,1587 528,1582 713,1630 770,1585 1149,1570 1208,1608 1504,1566 1767,1613 1883,1592 1886,1540 1722,1504 1319,1549 1251,1497 1101,1552 917,1514 313,1561 163,1504 0,1544"/>
+                <Baseline points="10,1584 108,1580 207,1578 306,1580 405,1580 504,1580 603,1578 702,1577 801,1576 900,1576 998,1574 1097,1572 1196,1568 1295,1570 1394,1570 1493,1568 1592,1568 1691,1566 1790,1567 1889,1578"/>
+                <TextEquiv>
+                    <Unicode>jearbeit't hadden, ritten wir verjeigt weiter, un meine Hosen, Beene, Stiebeln, Steigbügel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_59" custom="readingOrder {index:19;}">
+                <Coords points="0,1679 1883,1665 1883,1585 1829,1573 1769,1613 1687,1573 1409,1630 1075,1618 1035,1578 993,1618 824,1592 741,1634 535,1582 486,1623 0,1623"/>
+                <Baseline points="0,1654 94,1660 188,1660 283,1660 377,1660 472,1658 566,1656 661,1656 755,1654 850,1654 944,1653 1038,1652 1133,1652 1227,1652 1322,1650 1416,1650 1511,1647 1605,1644 1700,1643 1794,1644 1889,1649"/>
+                <TextEquiv>
+                    <Unicode>um Schweißleder fruren so fest an eenander det ick mer vorkam wie een fest in Joldjefaßter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_60" custom="readingOrder {index:20;} textStyle {offset:81; length:1;italic:true;}">
+                <Coords points="0,1753 493,1736 538,1781 687,1779 758,1741 798,1779 921,1734 1071,1786 1130,1734 1417,1765 1459,1729 1845,1729 1845,1665 1573,1706 1502,1660 1466,1696 1201,1672 1123,1708 902,1658 720,1717 661,1682 386,1717 0,1672"/>
+                <Baseline points="8,1730 100,1739 192,1740 284,1738 376,1738 468,1736 560,1736 652,1736 744,1734 836,1734 929,1731 1021,1730 1113,1729 1205,1729 1297,1728 1389,1728 1481,1728 1573,1724 1665,1724 1757,1722 1850,1724"/>
+                <TextEquiv>
+                    <Unicode>Diamant der eene in'n Syruptopp versunkene Flieje. Nachts um 8 Uhr kamen wir bei S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_61" custom="readingOrder {index:21;} textStyle {offset:0; length:14;italic:true;}">
+                <Coords points="0,1826 358,1855 422,1824 457,1859 668,1814 815,1848 1011,1810 1064,1850 1284,1807 1383,1848 1426,1812 1480,1845 1559,1810 1630,1850 1689,1807 1888,1833 1855,1746 1706,1736 1615,1779 1556,1736 1469,1769 1326,1734 1071,1788 921,1748 564,1796 502,1753 355,1748 263,1796 0,1762"/>
+                <Baseline points="8,1812 102,1817 196,1818 290,1818 384,1818 478,1818 572,1816 667,1814 761,1812 855,1812 949,1810 1043,1808 1137,1808 1231,1806 1326,1802 1420,1803 1514,1802 1608,1800 1702,1798 1796,1798 1891,1804"/>
+                <TextEquiv>
+                    <Unicode>B. u. B. store an. S. hatte sein Pferd marode jeritten, un hatte keen Jewicht uf seinen Jaul, während</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_62" custom="readingOrder {index:22;} textStyle {offset:0; length:5;italic:true;} textStyle {offset:37; length:14;italic:true;} textStyle {offset:58; length:28;underlined:true;}">
+                <Coords points="0,1914 332,1935 604,1895 692,1940 756,1888 1158,1883 1244,1933 1826,1888 1826,1843 1710,1817 1653,1857 1206,1826 1165,1867 962,1814 919,1855 805,1819 692,1869 320,1824 133,1876 0,1831"/>
+                <Baseline points="0,1890 91,1894 183,1894 274,1894 366,1890 458,1890 549,1892 641,1890 732,1887 824,1886 916,1887 1007,1884 1099,1884 1190,1885 1282,1884 1374,1884 1465,1884 1557,1882 1648,1878 1740,1876 1832,1878"/>
+                <TextEquiv>
+                    <Unicode>Dixie mit 200 Pfd. uf'm Buckel noch „tu jour fidel war.- (Weiteres über meine Reise u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_63" custom="readingOrder {index:23;} textStyle {offset:0; length:40;underlined:true;}">
+                <Coords points="0,1978 341,2006 834,1968 902,2018 957,1966 1272,2006 1376,1961 1888,1968 1888,1916 1762,1895 1521,1940 1407,1904 1154,1928 1106,1890 910,1893 869,1933 798,1893 640,1947 462,1897 289,1954 88,1897 0,1928"/>
+                <Baseline points="0,1966 94,1970 189,1972 284,1970 378,1970 473,1969 568,1966 662,1966 757,1966 852,1964 947,1966 1041,1962 1136,1960 1231,1962 1325,1958 1420,1956 1515,1958 1609,1956 1704,1955 1799,1954 1894,1952"/>
+                <TextEquiv>
+                    <Unicode>Verfinden des Briefes bei meiner Ankunft.) Wat dein Hierherkom̄en an belangt, im̄er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_64" custom="readingOrder {index:24;}">
+                <Coords points="0,2075 192,2051 239,2089 334,2049 483,2101 580,2051 1080,2037 1388,2092 1504,2035 1876,2039 1850,1957 1765,1997 1518,1968 1466,2016 1331,1971 1163,2021 1101,1966 1014,2009 955,1966 902,2016 855,1971 701,1966 334,2018 277,1985 232,2028 152,1992 0,2013"/>
+                <Baseline points="12,2044 105,2046 199,2046 292,2048 386,2048 479,2048 573,2046 666,2043 760,2042 853,2041 947,2038 1040,2038 1134,2038 1227,2038 1321,2037 1414,2034 1508,2034 1601,2032 1695,2030 1788,2026 1882,2026"/>
+                <TextEquiv>
+                    <Unicode>zu! Raum für Alle hat de Erde. _ _ Wie kannst de nur so fragen, ob ick een schmucker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_65" custom="readingOrder {index:25;}">
+                <Coords points="0,2130 291,2127 343,2163 417,2127 462,2170 505,2130 976,2122 1023,2156 1064,2120 1177,2167 1260,2113 1372,2148 1476,2113 1530,2156 1826,2118 1826,2061 1746,2042 1386,2092 964,2044 812,2101 689,2058 445,2106 381,2056 341,2092 291,2056 256,2092 0,2075"/>
+                <Baseline points="10,2118 101,2122 192,2123 283,2124 374,2124 465,2126 556,2125 647,2119 738,2117 829,2119 921,2116 1012,2114 1103,2117 1194,2117 1285,2114 1376,2112 1467,2110 1558,2110 1649,2110 1740,2106 1832,2104"/>
+                <TextEquiv>
+                    <Unicode>Kerrel jeworden sei. Herrgott! _ _ _ na Du hast mir ja in Fijura jesehe u. kanst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_66" custom="readingOrder {index:26;}">
+                <Coords points="0,2205 149,2253 204,2205 760,2193 888,2236 926,2198 1111,2193 1177,2241 1241,2196 1589,2227 1668,2184 1724,2234 1765,2203 1831,2236 1869,2222 1871,2115 1563,2165 1431,2115 1312,2153 1260,2115 1173,2170 1135,2132 1030,2167 976,2122 895,2172 841,2122 786,2158 554,2134 481,2177 422,2132 0,2160"/>
+                <Baseline points="0,2194 93,2198 187,2198 281,2198 374,2194 468,2196 562,2196 655,2193 749,2192 843,2192 937,2190 1030,2190 1124,2190 1218,2192 1311,2188 1405,2185 1499,2185 1592,2184 1686,2182 1780,2180 1874,2184"/>
+                <TextEquiv>
+                    <Unicode>also bezeujen det ick unserem Urahe, dem Orang Utang, alle Ehre mache. Det is zweedeitig, leg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_67" custom="readingOrder {index:27;} textStyle {offset:42; length:29;underlined:true;}">
+                <Coords points="0,2286 647,2274 727,2331 784,2279 988,2317 1445,2300 1490,2262 1710,2307 1836,2269 1836,2198 1507,2243 1381,2196 1158,2248 1016,2205 886,2241 597,2203 507,2241 398,2193 280,2253 95,2241 40,2196 0,2229"/>
+                <Baseline points="0,2272 92,2272 184,2272 276,2270 368,2270 460,2270 552,2270 644,2268 736,2268 828,2268 921,2268 1013,2266 1105,2266 1197,2267 1289,2264 1381,2262 1473,2264 1565,2262 1657,2258 1749,2256 1842,2254"/>
+                <TextEquiv>
+                    <Unicode>Dir also aus wie et Dich am Besten paßt. (Von der Kälte u. dem Blattern) Wat macht de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_68" custom="readingOrder {index:28;}">
+                <Coords points="0,2355 322,2388 396,2350 1042,2347 1090,2395 1210,2345 1270,2385 1308,2347 1521,2383 1594,2340 1746,2381 1869,2359 1857,2269 853,2326 779,2283 732,2331 604,2274 469,2328 341,2283 301,2317 0,2286"/>
+                <Baseline points="0,2346 93,2349 187,2346 280,2348 374,2348 468,2346 561,2348 655,2348 748,2347 842,2344 936,2344 1029,2344 1123,2344 1216,2342 1310,2341 1404,2339 1497,2339 1591,2336 1684,2336 1778,2338 1872,2338"/>
+                <TextEquiv>
+                    <Unicode>kleene Jroß oder Jrooßens Klerne? Die mir freundlichst übersandten Grüße Deiner Elter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_70" custom="readingOrder {index:29;} textStyle {offset:21; length:14;italic:true;}">
+                <Coords points="0,2447 178,2478 232,2428 381,2426 478,2475 526,2430 931,2428 969,2461 1016,2421 1279,2423 1203,2350 1064,2397 943,2347 715,2359 670,2404 505,2392 464,2350 163,2397 0,2355"/>
+                <Baseline points="0,2418 64,2424 128,2427 192,2425 256,2424 321,2424 385,2424 449,2422 513,2422 577,2422 642,2424 706,2423 770,2422 834,2420 898,2420 963,2418 1027,2418 1091,2416 1155,2416 1219,2414 1284,2422"/>
+                <TextEquiv>
+                    <Unicode>[???] Geschwister u. St. Klingemann bitte dankend zu erwiedern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:2;} structure {type:day_continue;}">
+            <Coords points="1894,2451 1894,3063 0,3063 0,2451"/>
+            <TextLine id="l_71" custom="readingOrder {index:0;} textStyle {offset:13; length:8;italic:true;} textStyle {offset:23; length:48;italic:true;}">
+                <Coords points="166,2504 277,2551 332,2506 611,2501 687,2549 739,2504 1014,2497 1116,2551 1196,2499 1518,2499 1575,2537 1646,2497 1883,2497 1883,2442 1812,2409 1696,2466 1630,2428 1151,2456 1087,2423 964,2464 841,2428 614,2464 578,2430 514,2480 393,2433 334,2475 270,2430 166,2478"/>
+                <Baseline points="178,2502 263,2494 349,2498 434,2498 520,2500 605,2500 691,2500 776,2498 862,2498 947,2498 1033,2496 1119,2494 1204,2492 1290,2492 1375,2492 1461,2490 1546,2490 1632,2490 1717,2488 1803,2488 1889,2487"/>
+                <TextEquiv>
+                    <Unicode>Folgendes an Ed Moyei „Dear Ed! I beg a thousand pardons for not having</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_72" custom="readingOrder {index:1;} textStyle {offset:0; length:90;italic:true;}">
+                <Coords points="0,2589 154,2591 201,2632 308,2582 770,2582 855,2634 1016,2577 1234,2625 1364,2572 1469,2606 1672,2575 1720,2620 1784,2575 1886,2584 1886,2494 1727,2539 1670,2501 1570,2539 1158,2516 1111,2554 846,2499 699,2563 635,2518 315,2561 0,2523"/>
+                <Baseline points="0,2574 94,2582 189,2581 283,2580 378,2581 472,2582 567,2582 661,2582 756,2578 850,2580 945,2578 1040,2577 1134,2574 1229,2574 1323,2574 1418,2571 1512,2570 1607,2570 1701,2567 1796,2566 1891,2568"/>
+                <TextEquiv>
+                    <Unicode>answered your dear letter before now. In fact it is not my fault altogether, for my inten-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_73" custom="readingOrder {index:2;} textStyle {offset:0; length:69;italic:true;} textStyle {offset:69; length:2;italic:true; superscript:true;} textStyle {offset:71; length:19;italic:true;}">
+                <Coords points="0,2667 268,2698 407,2660 533,2705 651,2662 758,2698 796,2660 1021,2653 1146,2700 1322,2648 1433,2691 1485,2653 1687,2686 1803,2653 1803,2603 1694,2617 1618,2572 1469,2608 1310,2582 1196,2632 656,2627 585,2589 535,2627 415,2596 116,2636 0,2603"/>
+                <Baseline points="0,2646 90,2654 180,2656 271,2656 361,2656 452,2656 542,2658 632,2656 723,2656 813,2656 904,2652 994,2650 1084,2650 1175,2650 1265,2650 1356,2648 1446,2646 1536,2646 1627,2646 1717,2646 1808,2646"/>
+                <TextEquiv>
+                    <Unicode>ttention was, to present myself personally and individually on the 26th of Dec. last year.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_74" custom="readingOrder {index:3;} textStyle {offset:0; length:73;italic:true;}">
+                <Coords points="5,2736 628,2738 704,2779 846,2736 1435,2731 1488,2769 1552,2731 1850,2736 1829,2658 1682,2696 1651,2665 1424,2693 1379,2655 1315,2696 1255,2655 1144,2703 803,2660 573,2717 308,2662 263,2703 218,2662 163,2700 5,2667"/>
+                <Baseline points="18,2722 109,2732 201,2734 293,2734 385,2732 477,2733 568,2735 660,2734 752,2734 844,2732 936,2730 1027,2729 1119,2729 1211,2730 1303,2728 1395,2728 1486,2726 1578,2726 1670,2724 1762,2724 1854,2722"/>
+                <TextEquiv>
+                    <Unicode>The weather however did not think it proper to let me have my will and so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_75" custom="readingOrder {index:4;} textStyle {offset:0; length:81;italic:true;}">
+                <Coords points="0,2809 201,2845 410,2814 488,2866 625,2816 1177,2807 1270,2852 1322,2809 1857,2816 1857,2762 1478,2774 1438,2734 1374,2788 1272,2743 912,2752 796,2795 576,2748 0,2764"/>
+                <Baseline points="12,2796 104,2812 197,2814 289,2814 382,2814 475,2812 567,2816 660,2816 752,2815 845,2814 938,2812 1030,2808 1123,2806 1215,2806 1308,2804 1401,2807 1493,2805 1586,2804 1678,2806 1771,2804 1864,2800"/>
+                <TextEquiv>
+                    <Unicode>I was compelled to stay at home, i.e. N. Brfls. My trip down here again was worse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_76" custom="readingOrder {index:5;} textStyle {offset:0; length:74;italic:true;}">
+                <Coords points="0,2888 135,2944 225,2897 372,2937 538,2895 595,2949 677,2897 853,2933 924,2899 990,2949 1099,2892 1848,2895 1848,2826 1734,2816 1587,2857 1537,2812 1490,2859 1379,2857 1331,2809 1241,2859 1002,2819 936,2859 881,2814 786,2861 490,2871 410,2816 0,2847"/>
+                <Baseline points="10,2878 102,2888 194,2892 286,2894 378,2892 471,2892 563,2893 655,2894 747,2892 839,2892 932,2890 1024,2886 1116,2888 1208,2888 1300,2888 1393,2886 1485,2886 1577,2886 1669,2884 1761,2881 1854,2878"/>
+                <TextEquiv>
+                    <Unicode>than anything I can imagine. I nearly froze to death, and a friend of mine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_77" custom="readingOrder {index:6;} textStyle {offset:0; length:84;italic:true;}">
+                <Coords points="0,2985 277,2978 332,3018 490,2973 1871,2989 1871,2892 1814,2888 1668,2942 1274,2890 1187,2942 993,2949 677,2904 625,2956 502,2895 327,2949 0,2914"/>
+                <Baseline points="8,2962 101,2966 195,2972 288,2973 382,2971 475,2971 569,2973 662,2974 756,2972 849,2970 943,2970 1036,2968 1130,2971 1223,2970 1317,2968 1410,2970 1504,2966 1597,2966 1691,2966 1784,2962 1878,2978"/>
+                <TextEquiv>
+                    <Unicode>that rode along with me, fainted, when we came to Sch. B. &amp; B's store in. H. Prairie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_78" custom="readingOrder {index:7;} textStyle {offset:0; length:30;italic:true;} textStyle {offset:31; length:44;italic:true;}">
+                <Coords points="0,3037 467,3101 649,3046 817,3046 936,3103 1047,3051 1741,3096 1857,3046 1779,2966 1687,3013 1492,2980 1360,3015 1258,2975 1064,2982 1014,3025 959,2982 917,3023 850,2978 794,3027 616,3030 505,2973 367,3027 0,2985"/>
+                <Baseline points="12,3028 104,3040 197,3044 289,3046 382,3047 474,3046 567,3046 659,3044 752,3044 844,3044 937,3042 1029,3044 1122,3042 1214,3044 1307,3042 1399,3044 1492,3042 1584,3041 1677,3040 1769,3040 1862,3038"/>
+                <TextEquiv>
+                    <Unicode>and had taken a glass of mine. My legs boots pants and stirrups were frozen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

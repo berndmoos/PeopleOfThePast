@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:09.966+02:00</Created>
+        <LastChange>2025-10-25T20:32:26.482+02:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101584026" pageNr="44" tsid="258859733" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=PSSEXQINWPSQEBIEBNXTNUAZ" xmlUrl="https://files.transkribus.eu/Get?id=WMELTECWBKOBVJEQEXQHXQAD" imageId="85201475">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0044_p044.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883575669" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2774,340 2865,340 2865,435 2774,435"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2792,413 2836,413 2836,383 2792,383"/>
+                <Baseline points="2792,413 2836,413"/>
+                <TextEquiv>
+                    <Unicode>133</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2879,303 2964,303 2964,435 2879,435"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2905,395 2945,395 2945,365 2905,365"/>
+                <Baseline points="2905,395 2945,395"/>
+                <TextEquiv>
+                    <Unicode>133</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;} structure {type:item-start;}">
+            <Coords points="1920,502 1920,1030 2281,1030 2281,502"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1926,567 1969,562 1993,545 2031,566 2070,545 2110,540 2123,546 2134,540 2134,499 2101,507 2081,496 2063,508 2023,504 2011,512 1976,494 1959,508 1924,499"/>
+                <Baseline points="1932,537 1957,535 1982,534 2008,534 2033,534 2058,534 2084,535 2109,537 2135,537"/>
+                <TextEquiv>
+                    <Unicode>(111 verso)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1919,682 1939,675 1955,684 1972,677 1993,690 2005,683 2019,691 2034,682 2064,692 2084,690 2084,632 2064,633 2045,624 2015,637 1997,630 1974,637 1969,630 1944,628 1919,640"/>
+                <Baseline points="1921,664 1944,662 1979,660 2006,660 2033,660 2060,659 2087,657"/>
+                <TextEquiv>
+                    <Unicode>A. A. Z.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1915,725 1953,725 1976,738 2044,717 2061,729 2102,719 2186,733 2186,684 2140,683 2088,699 2038,682 1993,690 1976,673 1915,684"/>
+                <Baseline points="1923,722 1949,720 1976,719 2002,719 2029,718 2056,716 2082,716 2109,717 2137,716 2162,717 2189,719"/>
+                <TextEquiv>
+                    <Unicode>Leipz. A. Ztg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1913,782 1939,788 1959,782 1989,795 2003,784 2028,787 2044,779 2063,792 2078,786 2090,795 2103,788 2131,794 2132,753 2095,750 2069,734 2052,748 1998,732 1914,738"/>
+                <Baseline points="1920,776 1946,774 1973,773 2000,773 2027,773 2054,773 2081,773 2108,772 2135,770"/>
+                <TextEquiv>
+                    <Unicode>Dorfzeitung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1919,849 2144,835 2189,856 2219,842 2277,860 2277,795 2185,809 2164,798 2139,815 2099,803 2069,815 1997,791 1919,803"/>
+                <Baseline points="1926,836 1951,834 1976,833 2002,833 2027,833 2052,833 2078,833 2103,833 2128,833 2154,833 2179,835 2204,836 2230,836 2255,836 2281,836"/>
+                <TextEquiv>
+                    <Unicode>Schwäbischer Merkur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1922,903 1965,906 1999,898 2016,904 2053,896 2063,906 2095,902 2113,912 2126,900 2147,898 2147,875 2135,877 2113,860 2067,863 2032,877 2002,865 1952,874 1922,866"/>
+                <Baseline points="1929,896 1956,896 1984,895 2011,893 2039,893 2067,893 2094,895 2122,895 2150,893"/>
+                <TextEquiv>
+                    <Unicode>Mainzer Ztg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1922,987 2009,973 2032,991 2086,979 2107,990 2159,971 2276,961 2276,910 2265,908 2085,904 1984,936 1922,913"/>
+                <Baseline points="1931,961 1952,958 1982,954 2009,953 2036,952 2063,952 2090,952 2116,953 2143,954 2170,955 2197,955 2224,955 2251,955 2278,955"/>
+                <TextEquiv>
+                    <Unicode>Frankfurter Journal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1922,1028 1969,1027 1994,1041 2023,1025 2180,1035 2180,973 2170,970 2107,991 2088,979 2034,991 2009,973 1922,986"/>
+                <Baseline points="1929,1015 1954,1015 1979,1015 2005,1015 2030,1015 2056,1015 2081,1015 2106,1015 2132,1015 2157,1015 2183,1015"/>
+                <TextEquiv>
+                    <Unicode>Weser Zeitung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_17:54</Creator>
+        <Created>2025-08-12T17:15:30.357+02:00</Created>
+        <LastChange>2025-11-03T01:13:56.874+01:00</LastChange>
+        <TranskribusMetadata docId="10053002" pageId="101583756" pageNr="93" tsid="259582334" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=DDPMETQJHOSIQRLDKYYDUBYZ" xmlUrl="https://files.transkribus.eu/Get?id=MDGDMWLNTUSWLUPSAGIGEDNN" imageId="85201244">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0093_p093.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1787002855914" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2878,293 2981,293 2981,390 2878,390"/>
+            <TextLine id="l_4" custom="readingOrder {index:0;}">
+                <Coords points="2893,359 2947,359 2947,329 2893,329"/>
+                <Baseline points="2893,359 2947,359"/>
+                <TextEquiv>
+                    <Unicode>82</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2996,254 3108,254 3108,371 2996,371"/>
+            <TextLine id="l_5" custom="readingOrder {index:0;}">
+                <Coords points="3005,347 3080,341 3078,311 3003,317"/>
+                <Baseline points="3005,347 3080,341"/>
+                <TextEquiv>
+                    <Unicode>82</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1878,373 3067,414 3040,1257 1933,1257"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} textStyle {offset:0; length:1;italic:true;} textStyle {offset:8; length:1;italic:true;}">
+                <Coords points="1906,470 1918,470 1922,474 1934,462 1938,464 1948,458 1968,468 1984,470 1986,400 1974,398 1958,412 1940,404 1928,406 1920,398 1908,400"/>
+                <Baseline points="1917,453 1953,450 1989,450"/>
+                <TextEquiv>
+                    <Unicode>[Adresse]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="2226,470 2264,486 2300,462 2316,462 2348,488 2434,468 2434,408 2402,402 2384,388 2376,392 2364,380 2320,390 2308,402 2226,404"/>
+                <Baseline points="2237,442 2262,440 2287,439 2312,439 2337,439 2362,439 2387,440 2412,442 2437,442"/>
+                <TextEquiv>
+                    <Unicode>(71 verso)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="2200,771 2419,773 2419,743 2200,741"/>
+                <Baseline points="2200,771 2419,773"/>
+                <TextEquiv>
+                    <Unicode>A Monsieur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:3;}">
+                <Coords points="1994,948 2641,936 2640,906 1993,918"/>
+                <Baseline points="1994,948 2641,936"/>
+                <TextEquiv>
+                    <Unicode>le Counte Joseph de Boos-Waldek</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:4;}">
+                <Coords points="1992,1157 2189,1156 2189,1126 1992,1127"/>
+                <Baseline points="1992,1157 2189,1156"/>
+                <TextEquiv>
+                    <Unicode>New Orleans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:5;} textStyle {offset:4; length:7;underlined:true;}">
+                <Coords points="2445,1053 2667,1053 2667,1023 2445,1023"/>
+                <Baseline points="2445,1053 2667,1053"/>
+                <TextEquiv>
+                    <Unicode>Par Newyork</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

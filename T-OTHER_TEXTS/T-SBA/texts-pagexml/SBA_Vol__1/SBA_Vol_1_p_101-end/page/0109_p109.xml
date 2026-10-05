@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:17.128+02:00</Created>
+        <LastChange>2025-11-04T01:11:19.401+01:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101584097" pageNr="109" tsid="259682438" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=LRKVGJQTZXMPLOGHVAOFMZBE" xmlUrl="https://files.transkribus.eu/Get?id=HDJJPBAMOPCMGSEUFXLFLPZM" imageId="85201535">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0109_p109.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883576762" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2737,358 2836,358 2836,460 2737,460"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2774,439 2817,439 2817,409 2774,409"/>
+                <Baseline points="2774,439 2817,439"/>
+                <TextEquiv>
+                    <Unicode>182</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2858,333 2960,333 2960,453 2858,453"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2872,439 2931,424 2924,395 2865,410"/>
+                <Baseline points="2872,439 2931,424"/>
+                <TextEquiv>
+                    <Unicode>186</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1866,377 1866,1572 2977,1572 2977,377"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1954,562 2552,562 2729,596 2940,557 2941,510 1954,523"/>
+                <Baseline points="1962,552 2011,555 2060,553 2109,554 2158,552 2207,554 2256,555 2305,553 2354,552 2403,552 2453,555 2502,552 2551,553 2600,554 2649,552 2698,552 2747,552 2796,550 2845,549 2894,549 2944,549"/>
+                <TextEquiv>
+                    <Unicode>Vetoed by the President and passed by a constitutional</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1858,628 2637,626 2638,585 2487,564 2444,591 2153,567 1860,592"/>
+                <Baseline points="1866,621 1904,621 1943,620 1982,618 2020,618 2059,615 2098,615 2136,615 2175,615 2214,615 2253,615 2291,615 2330,615 2369,615 2407,615 2446,613 2485,612 2523,612 2562,612 2601,612 2640,612"/>
+                <TextEquiv>
+                    <Unicode>majority of the Senate, January 25th 1844.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="2366,682 2617,681 2658,696 2658,641 2563,637 2537,648 2510,638 2459,648 2446,638 2366,635"/>
+                <Baseline points="2374,672 2400,672 2426,672 2452,672 2478,672 2504,672 2530,672 2556,672 2582,672 2608,672 2634,672 2661,672"/>
+                <TextEquiv>
+                    <Unicode>Edward Burleson</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="2298,742 2549,742 2576,760 2645,735 2731,748 2731,706 2699,695 2672,709 2619,682 2498,713 2456,699 2298,706"/>
+                <Baseline points="2305,737 2330,734 2355,734 2380,734 2406,734 2431,734 2456,734 2482,734 2507,734 2532,733 2557,731 2583,731 2608,731 2633,731 2659,731 2684,731 2709,731 2735,731"/>
+                <TextEquiv>
+                    <Unicode>President of the Senate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="1954,867 2944,855 2944,764 2823,830 2330,799 2257,838 2177,801 2057,828 1954,799"/>
+                <Baseline points="1962,857 2011,860 2060,857 2109,857 2159,856 2208,854 2257,854 2306,856 2356,855 2405,854 2454,854 2503,854 2553,854 2602,853 2651,852 2700,853 2750,851 2799,851 2848,851 2897,848 2947,851"/>
+                <TextEquiv>
+                    <Unicode>Vetoed by the President and passed by a constitutional</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="1857,940 2973,917 2955,853 1858,888"/>
+                <Baseline points="1866,922 1921,922 1977,922 2032,919 2088,919 2143,918 2199,916 2254,916 2310,916 2365,915 2421,915 2477,913 2532,913 2588,913 2643,911 2699,910 2754,910 2810,907 2865,907 2921,907 2977,910"/>
+                <TextEquiv>
+                    <Unicode>majority of the House of representatives. January 30th 1844.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="2402,999 2414,995 2421,1001 2441,988 2469,988 2478,998 2502,992 2521,1001 2581,988 2581,937 2548,951 2524,952 2484,942 2477,948 2453,937 2402,935"/>
+                <Baseline points="2410,976 2438,976 2467,975 2496,973 2525,975 2554,976 2583,976"/>
+                <TextEquiv>
+                    <Unicode>R. Scurry</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="2188,1076 2335,1038 2434,1062 2577,1037 2815,1054 2918,1034 2919,998 2189,997"/>
+                <Baseline points="2182,1039 2231,1039 2267,1038 2303,1037 2340,1039 2376,1039 2412,1037 2449,1037 2485,1038 2521,1036 2558,1036 2594,1036 2630,1036 2666,1035 2703,1033 2739,1030 2775,1030 2812,1028 2848,1028 2884,1030 2921,1030"/>
+                <TextEquiv>
+                    <Unicode>Speaker of the House of Representatives</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="2348,1198 2449,1213 2503,1193 2531,1204 2555,1190 2574,1207 2634,1188 2681,1204 2716,1194 2716,1152 2626,1161 2566,1144 2502,1150 2491,1138 2348,1172"/>
+                <Baseline points="2356,1188 2382,1188 2408,1188 2434,1186 2460,1185 2486,1185 2512,1185 2538,1185 2564,1185 2590,1185 2616,1185 2642,1184 2668,1183 2694,1182 2720,1182"/>
+                <TextEquiv>
+                    <Unicode>Department of State</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="2282,1270 2812,1257 2813,1188 2644,1226 2590,1209 2560,1225 2437,1208 2398,1229 2282,1211"/>
+                <Baseline points="2290,1251 2316,1249 2342,1248 2368,1248 2395,1248 2421,1248 2447,1248 2474,1248 2500,1248 2526,1246 2553,1245 2579,1245 2605,1244 2631,1242 2658,1242 2684,1242 2710,1244 2737,1244 2763,1243 2789,1242 2816,1242"/>
+                <TextEquiv>
+                    <Unicode>Washington February 9th 1844</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="2139,1329 2934,1316 2936,1257 2485,1290 2211,1269 2141,1293"/>
+                <Baseline points="2147,1314 2186,1313 2226,1311 2265,1311 2305,1311 2344,1311 2384,1311 2423,1310 2463,1308 2502,1308 2542,1308 2582,1305 2621,1305 2661,1305 2700,1305 2740,1305 2779,1305 2819,1304 2858,1302 2898,1302 2938,1302"/>
+                <TextEquiv>
+                    <Unicode>The foregoing is a copy of the original act</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="2143,1394 2897,1382 2897,1320 2869,1314 2819,1340 2644,1314 2455,1348 2341,1316 2275,1351 2145,1346"/>
+                <Baseline points="2153,1373 2190,1373 2227,1373 2265,1370 2302,1370 2339,1370 2377,1369 2414,1367 2451,1367 2489,1367 2526,1367 2563,1366 2601,1364 2638,1364 2675,1364 2713,1364 2750,1362 2787,1362 2825,1363 2862,1361 2900,1361"/>
+                <TextEquiv>
+                    <Unicode>and certificates thereto attached on file</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="2145,1450 2384,1437 2410,1451 2460,1440 2478,1453 2495,1444 2496,1394 2413,1384 2310,1404 2270,1394 2145,1407"/>
+                <Baseline points="2153,1436 2179,1434 2206,1433 2232,1433 2259,1433 2286,1432 2312,1431 2339,1429 2365,1427 2392,1427 2419,1427 2445,1427 2472,1428 2499,1430"/>
+                <TextEquiv>
+                    <Unicode>in this Department.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="2484,1494 2549,1500 2584,1490 2616,1505 2652,1494 2665,1497 2666,1448 2648,1448 2640,1439 2603,1446 2585,1440 2566,1455 2531,1451 2521,1460 2485,1450"/>
+                <Baseline points="2493,1487 2518,1487 2543,1487 2568,1487 2594,1486 2619,1484 2644,1484 2670,1484"/>
+                <TextEquiv>
+                    <Unicode>John Hall</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="2666,1569 2758,1553 2824,1573 2866,1562 2893,1578 2937,1560 2938,1496 2858,1516 2819,1505 2763,1523 2667,1503"/>
+                <Baseline points="2673,1544 2699,1546 2726,1546 2753,1545 2780,1544 2807,1544 2833,1544 2860,1543 2887,1542 2914,1541 2941,1541"/>
+                <TextEquiv>
+                    <Unicode>Dept. of State</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="2199,1575 2262,1569 2310,1551 2366,1567 2421,1560 2423,1500 2389,1514 2346,1503 2324,1522 2271,1504 2200,1511"/>
+                <Baseline points="2207,1553 2234,1553 2261,1553 2288,1553 2316,1551 2343,1550 2370,1550 2397,1550 2425,1550"/>
+                <TextEquiv>
+                    <Unicode>Chief Clerk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

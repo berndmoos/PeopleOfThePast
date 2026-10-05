@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:06.513+02:00</Created>
+        <LastChange>2025-10-25T19:30:23.603+02:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101583886" pageNr="11" tsid="258858077" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=GUFMIVXRAPXIWIXJCQBYMMBA" xmlUrl="https://files.transkribus.eu/Get?id=FCAVXEMAQCKFTOHAKWBTOHVP" imageId="85201344">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0011_p011.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883575239" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+                <RegionRefIndexed index="3" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1955,391 2079,391 2079,526 1955,526"/>
+            <TextLine id="l_16" custom="readingOrder {index:0;}">
+                <Coords points="1970,497 2057,490 2055,460 1968,467"/>
+                <Baseline points="1970,497 2057,490"/>
+                <TextEquiv>
+                    <Unicode>90</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2876,311 2985,311 2985,435 2876,435"/>
+            <TextLine id="l_17" custom="readingOrder {index:0;}">
+                <Coords points="2894,413 2967,413 2967,383 2894,383"/>
+                <Baseline points="2894,413 2967,413"/>
+                <TextEquiv>
+                    <Unicode>100</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="2996,270 3110,270 3110,439 2996,439"/>
+            <TextLine id="l_18" custom="readingOrder {index:0;}">
+                <Coords points="3015,413 3080,402 3075,372 3010,383"/>
+                <Baseline points="3015,413 3080,402"/>
+                <TextEquiv>
+                    <Unicode>100</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:3;} structure {type:item-start;}">
+            <Coords points="1929,349 1929,2022 3139,2022 3139,349"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="2378,523 2668,516 2823,539 2871,519 2871,481 2609,481 2476,430 2378,443"/>
+                <Baseline points="2386,507 2411,507 2437,507 2462,509 2488,511 2514,513 2539,513 2565,513 2591,513 2616,513 2642,513 2667,512 2693,510 2719,510 2744,510 2770,512 2796,513 2821,513 2847,513 2873,513"/>
+                <TextEquiv>
+                    <Unicode>Den 16ten September 1843</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="2041,653 2893,638 3006,669 3005,612 2842,555 2668,552 2573,605 2518,579 2444,608 2162,609 2040,567"/>
+                <Baseline points="2048,621 2096,627 2144,627 2192,628 2240,629 2288,628 2336,630 2384,630 2432,630 2480,630 2529,632 2577,633 2625,633 2673,636 2721,636 2769,636 2817,636 2865,639 2913,639 2961,640 3010,645"/>
+                <TextEquiv>
+                    <Unicode>Tausend Dank für Ihren letzten Brief vom 29ten Mai,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="1966,708 3067,718 3067,688 1966,678"/>
+                <Baseline points="1966,708 3067,718"/>
+                <TextEquiv>
+                    <Unicode>der mir Nachricht brachte, dass es Ihnen wohl geht. In der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:3;}">
+                <Coords points="1966,766 3071,776 3071,746 1966,736"/>
+                <Baseline points="1966,766 3071,776"/>
+                <TextEquiv>
+                    <Unicode>Zwischenzeit werden Sie wohl einen meiner 3 Briefe erhalten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:4;}">
+                <Coords points="1963,831 3076,843 3076,813 1963,801"/>
+                <Baseline points="1963,831 3076,843"/>
+                <TextEquiv>
+                    <Unicode>haben, worin ich Ihnen den Plan einer grösseren Colonisation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:5;}">
+                <Coords points="1958,890 3003,900 3003,870 1958,860"/>
+                <Baseline points="1958,890 3003,900"/>
+                <TextEquiv>
+                    <Unicode>mit Beihülfe unserer teuthschen Regierungen mittheilte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:6;}">
+                <Coords points="1956,957 3074,969 3074,939 1956,927"/>
+                <Baseline points="1956,957 3074,969"/>
+                <TextEquiv>
+                    <Unicode>Seitdem haben wir hier bereite in unsern Einleitungen einige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:7;}">
+                <Coords points="1962,1014 3028,1024 3028,994 1962,984"/>
+                <Baseline points="1962,1014 3028,1024"/>
+                <TextEquiv>
+                    <Unicode>Schritte vorwärts gethan und warten nur auf Ihre Antwort,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:8;}">
+                <Coords points="1963,1075 3115,1086 3115,1056 1963,1045"/>
+                <Baseline points="1963,1075 3115,1086"/>
+                <TextEquiv>
+                    <Unicode>um sodann handeln zu können. Dass wir mit unserm Capital nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:9;}">
+                <Coords points="1960,1139 3064,1151 3064,1121 1960,1109"/>
+                <Baseline points="1960,1139 3064,1151"/>
+                <TextEquiv>
+                    <Unicode>kolonisiren können, sondern nur damit vorerst auf die Ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:10;}">
+                <Coords points="1958,1200 3073,1211 3073,1181 1958,1170"/>
+                <Baseline points="1958,1200 3073,1211"/>
+                <TextEquiv>
+                    <Unicode>besserung und Vergrösserung der Plantage beschränken müssen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:11;}">
+                <Coords points="1953,1262 3055,1272 3055,1242 1953,1232"/>
+                <Baseline points="1953,1262 3055,1272"/>
+                <TextEquiv>
+                    <Unicode>wie Ihr Schreiben dies wiederholt gesagt, darüber sind wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:12;} textStyle {offset:44; length:1;italic:true;}">
+                <Coords points="1964,1324 3033,1338 3033,1308 1964,1294"/>
+                <Baseline points="1964,1324 3033,1338"/>
+                <TextEquiv>
+                    <Unicode>einig und unser Aktiencapital bleibt nur hierzu bestimmt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:13;}">
+                <Coords points="1959,1383 3071,1399 3071,1369 1959,1353"/>
+                <Baseline points="1959,1383 3071,1399"/>
+                <TextEquiv>
+                    <Unicode>Um Sie aber in den Stand zu setzen, alle vortheilhaften Con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:14;}">
+                <Coords points="1954,1445 3025,1451 3024,1416 2849,1406 2492,1425 2109,1377 1954,1406"/>
+                <Baseline points="1962,1436 2015,1433 2068,1434 2121,1436 2175,1436 2228,1436 2281,1436 2335,1436 2388,1438 2441,1439 2495,1439 2548,1439 2601,1440 2654,1442 2708,1440 2761,1442 2814,1442 2868,1442 2921,1442 2974,1444 3028,1442"/>
+                <TextEquiv>
+                    <Unicode>junkturen benutzen zu können, heben wir ausser den ersten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:15;}">
+                <Coords points="1948,1508 3014,1537 3012,1458 1948,1451"/>
+                <Baseline points="1956,1496 2009,1496 2062,1497 2115,1497 2168,1496 2221,1499 2274,1499 2327,1499 2380,1499 2433,1499 2486,1502 2539,1502 2592,1502 2645,1502 2698,1502 2751,1504 2804,1505 2857,1505 2910,1506 2963,1507 3016,1508"/>
+                <TextEquiv>
+                    <Unicode>20 000 fl. noch 10 000 fl. in N. Orleans angewiesen. Ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:16;}">
+                <Coords points="1965,1582 3051,1585 3051,1534 2937,1515 2809,1548 2723,1515 2493,1544 2418,1510 2159,1538 1965,1506"/>
+                <Baseline points="1974,1556 2028,1557 2082,1559 2136,1559 2190,1562 2244,1562 2298,1562 2352,1562 2406,1562 2460,1562 2514,1565 2568,1565 2622,1565 2676,1565 2730,1565 2784,1568 2838,1568 2892,1568 2946,1568 3000,1568 3055,1568"/>
+                <TextEquiv>
+                    <Unicode>anderes aber ist, wenn die Regierunsen 1 Milliion Gulden der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:17;}">
+                <Coords points="1954,1629 3063,1644 3063,1614 1954,1599"/>
+                <Baseline points="1954,1629 3063,1644"/>
+                <TextEquiv>
+                    <Unicode>Gesellschaft geben, um damit einen Grant zu colonisiren, wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:18;} textStyle {offset:19; length:5;underlined:true;} textStyle {offset:44; length:6;underlined:true;}">
+                <Coords points="1957,1701 3052,1712 3052,1682 1957,1671"/>
+                <Baseline points="1957,1701 3052,1712"/>
+                <TextEquiv>
+                    <Unicode>haben dann für uns keine Auslagen und einen reinen Gewinn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:19;}">
+                <Coords points="1953,1766 3078,1775 3078,1745 1953,1736"/>
+                <Baseline points="1953,1766 3078,1775"/>
+                <TextEquiv>
+                    <Unicode>der Hälfte der Ländereien, indem die Unkosten von der Million</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:20;}">
+                <Coords points="1951,1840 2073,1810 3049,1833 3040,1778 1951,1779"/>
+                <Baseline points="1959,1806 2013,1806 2068,1807 2122,1809 2177,1809 2232,1809 2286,1812 2341,1812 2396,1812 2450,1812 2505,1812 2560,1812 2614,1814 2669,1815 2724,1815 2778,1815 2833,1817 2888,1816 2942,1815 2997,1816 3052,1818"/>
+                <TextEquiv>
+                    <Unicode>getragen werden. Dann können wir die Ueberfahrt, die erste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:21;}">
+                <Coords points="1936,1870 3021,1899 3021,1845 1936,1848"/>
+                <Baseline points="1944,1869 1998,1869 2052,1870 2106,1872 2160,1872 2214,1872 2268,1872 2322,1873 2376,1875 2430,1872 2484,1872 2538,1875 2592,1875 2646,1875 2700,1880 2754,1878 2808,1878 2862,1878 2916,1880 2970,1881 3025,1881"/>
+                <TextEquiv>
+                    <Unicode>Anlage, den Stock von Vieh und die nöthigen Provisonen im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:22;}">
+                <Coords points="1920,1949 3089,1970 3089,1910 3035,1894 1920,1894"/>
+                <Baseline points="1929,1929 1987,1932 2045,1934 2103,1932 2161,1935 2219,1935 2277,1935 2335,1935 2393,1936 2451,1938 2510,1938 2568,1938 2626,1938 2684,1941 2742,1941 2800,1942 2858,1942 2916,1944 2974,1942 3032,1944 3091,1947"/>
+                <TextEquiv>
+                    <Unicode>Anfang geben. Nun sind die Regierungen geneigt, diess zu thun,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:23;}">
+                <Coords points="1948,2005 3092,2014 3092,1984 1948,1975"/>
+                <Baseline points="1948,2005 3092,2014"/>
+                <TextEquiv>
+                    <Unicode>allein sie wollen dafür auch Handelsvortheile in Texas haben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

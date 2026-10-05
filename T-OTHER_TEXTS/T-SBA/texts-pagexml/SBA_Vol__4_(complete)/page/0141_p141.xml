@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.35.0:model_id=39995:lm=none:date=24_11_2025_02:23</Creator>
+        <Created>2025-10-10T22:23:05.773+02:00</Created>
+        <LastChange>2025-11-29T19:12:56.380+01:00</LastChange>
+        <TranskribusMetadata docId="11233179" pageId="104148192" pageNr="141" tsid="263270204" status="DONE" userId="431293" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=PBIUUDYQSDAPCTDLLBSCPEFE" xmlUrl="https://files.transkribus.eu/Get?id=UUIOJWFZDZTJCENLSSSWILQA" imageId="87396708">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0141_p141.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883603821" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1878,284 1878,225 3121,225 3121,284"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3017,271 3047,274 3061,266 3066,271 3075,266 3083,271 3089,268 3094,273 3099,270 3118,276 3119,216 3102,214 3093,206 3080,205 3066,214 3050,211 3047,206 3020,206"/>
+                <Baseline points="3025,259 3057,259 3089,258 3121,256"/>
+                <TextEquiv>
+                    <Unicode>210</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="1878,347 1878,284 3121,284 3121,347"/>
+            <TextLine id="l_9" custom="readingOrder {index:0;}">
+                <Coords points="2957,340 2974,339 2992,355 2996,350 3012,361 3020,355 3026,361 3037,352 3045,352 3045,268 3033,268 3007,254 2992,259 2981,254 2957,254"/>
+                <Baseline points="2965,322 2993,322 3021,322 3049,322"/>
+                <TextEquiv>
+                    <Unicode>446</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="3121,347 3121,780 1878,780 1878,347"/>
+            <TextLine id="l_10" custom="readingOrder {index:0;}">
+                <Coords points="1869,427 3060,410 3061,358 2834,329 2516,380 2316,331 2245,374 1871,370"/>
+                <Baseline points="1878,412 1937,412 1996,412 2055,411 2115,409 2174,409 2233,408 2293,406 2352,406 2411,405 2471,403 2530,403 2589,403 2648,401 2708,400 2767,400 2826,400 2886,400 2945,397 3004,395 3064,394"/>
+                <TextEquiv>
+                    <Unicode>einer Baldigen Zusage von Ihnen und mit der Bitte, mich in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:1;}">
+                <Coords points="1871,503 3045,490 3045,408 1873,433"/>
+                <Baseline points="1881,483 1939,482 1997,480 2056,477 2114,477 2173,477 2231,475 2289,474 2348,473 2406,471 2465,471 2523,471 2581,471 2640,468 2698,468 2757,468 2815,468 2873,468 2932,467 2990,465 3049,462"/>
+                <TextEquiv>
+                    <Unicode>das freunfliche Andenken Ihrer Frau Gemahlin und Fräulein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:2;}">
+                <Coords points="1869,583 2027,569 2065,599 2153,608 2226,567 2268,585 2380,566 2382,490 2259,519 2204,492 2128,519 1871,509"/>
+                <Baseline points="1878,552 1903,552 1928,552 1954,552 1979,552 2005,551 2030,549 2055,549 2081,549 2106,549 2132,549 2157,549 2182,548 2208,546 2233,544 2259,543 2284,543 2309,543 2335,543 2360,543 2386,543"/>
+                <TextEquiv>
+                    <Unicode>Schwägerin zurückzurufen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:3;}">
+                <Coords points="2424,630 2437,629 2443,635 2465,632 2470,637 2483,629 2503,635 2506,575 2494,574 2483,583 2473,574 2468,577 2457,574 2453,578 2427,574"/>
+                <Baseline points="2434,612 2471,612 2508,609"/>
+                <TextEquiv>
+                    <Unicode>Ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:4;}">
+                <Coords points="2479,719 2522,728 2650,689 2782,687 2823,717 2869,705 2870,627 2815,612 2721,635 2483,632"/>
+                <Baseline points="2490,683 2515,683 2541,681 2566,680 2592,680 2617,680 2643,680 2668,680 2694,680 2719,680 2745,680 2770,678 2796,676 2821,675 2847,675 2873,675"/>
+                <TextEquiv>
+                    <Unicode>ergebenster Freund</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:5;}">
+                <Coords points="1873,769 1917,777 1955,815 2021,810 2112,766 2205,796 2275,774 2301,783 2325,777 2327,700 2262,720 2208,706 2117,723 2035,697 1942,722 1874,703"/>
+                <Baseline points="1881,764 1907,762 1933,761 1960,761 1986,761 2012,761 2039,759 2065,758 2091,758 2118,758 2144,758 2170,757 2197,755 2223,755 2249,755 2276,755 2302,755 2329,755"/>
+                <TextEquiv>
+                    <Unicode>neuwd. d.7. Decbr.57.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:6;}">
+                <Coords points="2558,774 2658,768 2708,796 2765,796 2815,764 2837,769 2840,719 2782,687 2736,701 2661,689 2631,711 2598,714 2561,698"/>
+                <Baseline points="2568,755 2593,754 2618,752 2643,750 2668,749 2693,749 2718,748 2743,747 2768,746 2793,746 2818,743 2843,740"/>
+                <TextEquiv>
+                    <Unicode>gez./ Bibra -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

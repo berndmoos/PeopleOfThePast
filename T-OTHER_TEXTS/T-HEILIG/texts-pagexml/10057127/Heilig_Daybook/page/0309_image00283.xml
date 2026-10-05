@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.42.0:model_id=265149:date=20_03_2026_23:14</Creator>
+        <Created>2025-08-12T22:09:16.958+02:00</Created>
+        <LastChange>2026-04-30T15:22:44.378+02:00</LastChange>
+        <TranskribusMetadata docId="10057127" pageId="101590638" pageNr="309" tsid="285614357" status="DONE" userId="431294" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ZTKDZSTEYWTGVZUPLYXPJDXG" xmlUrl="https://files.transkribus.eu/Get?id=REWXZHGHXUYTZUKPNKTRILRR" imageId="85206038">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0309_image00283.jpg" imageWidth="1924" imageHeight="3180">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1787931971750" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="r_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="126,0 126,150 240,150 240,0"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="115,103 125,101 145,119 183,107 199,121 211,119 217,125 236,121 232,38 205,44 189,36 173,40 163,30 155,36 137,36 125,26 113,26"/>
+                <Baseline points="126,96 154,98 183,100 211,100 240,100"/>
+                <TextEquiv>
+                    <Unicode>308</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:day_continue;}">
+            <Coords points="286,2118 286,192 1912,192 1912,2118"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="314,242 473,274 540,238 600,286 681,224 904,228 987,282 1120,228 1180,276 1581,220 1645,258 1881,240 1881,163 957,197 731,157 556,201 385,137 314,197"/>
+                <Baseline points="324,224 402,228 480,228 558,230 636,228 714,224 792,224 870,226 948,228 1026,228 1104,226 1182,228 1260,228 1338,228 1416,226 1494,228 1572,228 1650,226 1728,224 1806,229 1884,234"/>
+                <TextEquiv>
+                    <Unicode>Lande schwarzer Krabben (einige sehr große) zu sehen. Sie müßten Wind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="316,324 1883,312 1883,272 1744,240 1611,288 1424,252 1194,282 1134,236 939,282 884,226 844,264 653,234 467,274 415,236 316,278"/>
+                <Baseline points="326,308 404,303 482,298 560,296 638,294 716,296 794,296 872,298 950,299 1028,298 1107,298 1185,297 1263,300 1341,300 1419,300 1497,302 1575,304 1653,306 1731,304 1809,305 1888,306"/>
+                <TextEquiv>
+                    <Unicode>bekommen haben von unserem Besuch denn die Mädchen waren Alle aufge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;} comment {offset:8; length:4;type:unclear;}">
+                <Coords points="320,391 514,389 574,435 820,385 870,435 951,381 1897,391 1897,336 1670,363 1438,310 1305,363 1156,304 1047,348 951,306 912,346 512,318 320,367"/>
+                <Baseline points="330,382 408,380 487,378 565,380 644,379 723,380 801,380 880,380 958,378 1037,380 1116,380 1194,380 1273,380 1351,380 1430,381 1509,383 1587,378 1666,380 1744,382 1823,382 1902,384"/>
+                <TextEquiv>
+                    <Unicode>donnert nach der Schwierigkeit. Dessirt waren sie Alle wie die Sol-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:3;} textStyle {offset:34; length:2;underlined:true;} textStyle {offset:37; length:4;underlined:true;} textStyle {offset:42; length:6;underlined:true;} textStyle {offset:49; length:4;underlined:true;}">
+                <Coords points="320,465 485,506 540,465 810,506 965,459 1086,493 1629,457 1678,501 1744,459 1788,503 1907,467 1541,385 1442,441 1349,389 1216,435 1077,399 987,441 932,395 884,439 789,401 576,437 512,389 320,423"/>
+                <Baseline points="330,456 409,456 488,456 567,458 646,456 725,456 804,454 883,457 962,458 1041,458 1121,458 1200,456 1279,456 1358,457 1437,458 1516,458 1595,456 1674,456 1753,456 1832,458 1912,462"/>
+                <TextEquiv>
+                    <Unicode>daten. Zum Schluß sangen sie mit „zu viel Stimme aber“, ein gelungenes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:4;}">
+                <Coords points="316,540 512,580 707,540 759,592 860,538 965,578 1170,532 1883,564 1847,487 1591,516 1539,467 1470,512 993,467 753,516 695,459 608,516 550,465 316,499"/>
+                <Baseline points="326,532 404,533 482,532 560,534 638,533 716,534 794,534 872,534 950,530 1028,532 1107,532 1185,532 1263,532 1341,532 1419,530 1497,532 1575,533 1653,534 1731,532 1809,533 1888,538"/>
+                <TextEquiv>
+                    <Unicode>Lied, das sie mit den passenden Geberden illustrirten; es war mir völlig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:5;} comment {offset:56; length:1;type:unclear;}">
+                <Coords points="310,618 725,610 777,650 1043,612 1146,651 1235,610 1720,620 1720,538 1635,592 1535,530 1376,592 1071,542 1001,594 932,554 777,594 667,546 610,592 556,546 510,592 459,544 310,562"/>
+                <Baseline points="320,608 390,609 460,610 530,608 601,608 671,608 741,608 812,610 882,609 952,608 1023,610 1093,612 1163,610 1233,610 1304,608 1374,608 1444,609 1515,608 1585,608 1655,610 1726,610"/>
+                <TextEquiv>
+                    <Unicode>unbekannt. Der Lehrer ist ein Deutscher Namens „Schermack".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:6;}">
+                <Coords points="314,697 516,729 920,685 1067,729 1124,693 1176,735 1247,685 1374,733 1426,685 1629,733 1676,687 1863,693 1863,644 1214,614 1007,667 832,618 616,669 552,614 314,653"/>
+                <Baseline points="324,686 401,685 478,686 555,686 632,686 710,684 787,686 864,686 941,685 1018,686 1096,686 1173,685 1250,684 1327,685 1404,686 1482,682 1559,682 1636,683 1713,683 1790,684 1868,686"/>
+                <TextEquiv>
+                    <Unicode>Auf der Heimreise wurde bei Mensings Halt gemacht und angefangen zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:7;} textStyle {offset:12; length:6;italic:true;}">
+                <Coords points="306,767 878,802 1051,761 1251,812 1343,763 1420,818 1490,765 1764,822 1897,765 1829,705 1412,703 1367,747 1267,687 1176,737 1104,693 1019,745 916,695 733,733 650,691 306,743"/>
+                <Baseline points="316,760 395,760 474,762 553,764 633,765 712,764 791,764 871,765 950,762 1029,762 1109,760 1188,760 1267,762 1346,764 1426,762 1505,762 1584,763 1664,764 1743,761 1822,761 1902,758"/>
+                <TextEquiv>
+                    <Unicode>kneipen und Domino zu spielen. Ich sah sogleich, daß es darauf abgesehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:8;}">
+                <Coords points="318,840 499,888 560,844 1776,874 1895,840 1895,773 1698,822 1237,820 1194,777 844,820 749,767 318,814"/>
+                <Baseline points="328,832 406,835 485,838 563,838 642,836 721,836 799,837 878,838 956,838 1035,836 1114,836 1192,838 1271,838 1349,840 1428,838 1507,838 1585,838 1664,837 1742,836 1821,834 1900,834"/>
+                <TextEquiv>
+                    <Unicode>war, mich betrunken zu machen; da ich aber gut aufgelegt war und fühlte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:9;}">
+                <Coords points="310,922 721,957 771,920 1098,955 1428,918 1500,959 1861,922 1748,850 1633,896 1486,840 1277,898 1200,852 894,884 852,842 791,898 707,854 310,882"/>
+                <Baseline points="320,914 397,914 474,914 551,916 629,916 706,916 783,915 861,916 938,916 1015,916 1093,916 1170,915 1247,916 1324,915 1402,916 1479,916 1556,914 1634,912 1711,916 1788,916 1866,914"/>
+                <TextEquiv>
+                    <Unicode>daß ich viel vertragen konnte, dachte ich bei mir: Das Vergnügen können</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:10;} textStyle {offset:50; length:10;italic:true;}">
+                <Coords points="316,999 481,1043 818,995 858,1037 1061,993 1247,1035 1376,993 1895,1001 1895,939 1746,973 1299,928 1249,977 910,928 316,975"/>
+                <Baseline points="326,992 404,992 483,994 562,994 640,994 719,992 798,991 876,992 955,992 1034,990 1113,992 1191,994 1270,994 1349,993 1427,994 1506,994 1585,992 1663,990 1742,992 1821,991 1900,988"/>
+                <TextEquiv>
+                    <Unicode>sie versuchen; ich halte es so lange aus wie sie! Nordhausen macht die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:11;} textStyle {offset:0; length:7;italic:true;}">
+                <Coords points="310,1067 592,1122 705,1075 1190,1116 1762,1069 1811,1118 1887,1075 1887,1005 1661,1053 1357,1007 1235,1053 973,997 872,1053 661,1055 618,1011 574,1053 310,1005"/>
+                <Baseline points="320,1066 398,1069 477,1069 555,1070 634,1070 713,1070 791,1070 870,1070 948,1070 1027,1071 1106,1072 1184,1070 1263,1070 1341,1070 1420,1070 1499,1070 1577,1070 1656,1069 1734,1070 1813,1067 1892,1066"/>
+                <TextEquiv>
+                    <Unicode>Toddies (zuerst hatten wir mit Bier angefangen) und gab mir anstatt dessen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:12;} textStyle {offset:4; length:6;italic:true;} textStyle {offset:15; length:17;italic:true;}">
+                <Coords points="310,1154 600,1190 715,1146 1061,1186 1186,1150 1265,1204 1386,1144 1798,1192 1881,1154 1881,1090 310,1114"/>
+                <Baseline points="320,1144 398,1146 476,1144 554,1146 633,1146 711,1146 789,1147 868,1147 946,1148 1024,1148 1103,1148 1181,1148 1259,1148 1337,1144 1416,1145 1494,1146 1572,1145 1651,1147 1729,1148 1807,1146 1886,1144"/>
+                <TextEquiv>
+                    <Unicode>nur Whisky und Blackberry brandy vermischt in Biergläsern, die ich höchst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:13;}">
+                <Coords points="302,1257 1033,1226 1359,1261 1404,1224 1629,1275 1702,1226 1770,1267 1855,1239 1855,1142 1752,1210 1539,1152 1307,1210 1005,1152 858,1210 810,1166 612,1208 465,1158 302,1210"/>
+                <Baseline points="312,1226 389,1226 466,1224 544,1224 621,1222 699,1224 776,1226 853,1227 931,1224 1008,1225 1086,1224 1163,1226 1240,1226 1318,1226 1395,1223 1473,1224 1550,1225 1627,1224 1705,1226 1782,1226 1860,1218"/>
+                <TextEquiv>
+                    <Unicode>gewissenhaft immer leer trank. Spürte aber bis Abend fast gar nichts,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:14;} textStyle {offset:9; length:4;italic:true;}">
+                <Coords points="302,1313 524,1303 584,1355 683,1307 943,1347 1021,1305 1468,1311 1531,1355 1617,1305 1853,1329 1853,1267 1706,1243 1599,1283 1440,1235 1132,1287 924,1229 640,1269 574,1228 473,1285 302,1287"/>
+                <Baseline points="312,1304 389,1304 466,1303 543,1302 621,1302 698,1304 775,1304 853,1302 930,1302 1007,1302 1085,1304 1162,1304 1239,1304 1316,1306 1394,1306 1471,1306 1548,1304 1626,1300 1703,1302 1780,1304 1858,1300"/>
+                <TextEquiv>
+                    <Unicode>bis Herr Ling mit seiner Pfeife, in der er Kautabeck rauchte, neben mich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:15;}">
+                <Coords points="300,1388 971,1386 1053,1424 1134,1386 1210,1428 1313,1384 1450,1428 1512,1384 1718,1422 1849,1384 1752,1305 1599,1369 1343,1319 1297,1363 1096,1317 949,1363 717,1319 600,1363 540,1317 300,1343"/>
+                <Baseline points="310,1378 387,1379 464,1380 541,1382 618,1382 696,1382 773,1382 850,1382 927,1382 1004,1384 1082,1384 1159,1382 1236,1382 1313,1383 1390,1384 1468,1384 1545,1384 1622,1384 1699,1384 1776,1382 1854,1378"/>
+                <TextEquiv>
+                    <Unicode>kam; da war ich aber in 2 Minuten fertig. Ging sogleich zu meinem Pferde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:16;}">
+                <Coords points="296,1466 389,1500 522,1460 1047,1464 1102,1506 1148,1462 1311,1504 1420,1464 1569,1517 1653,1466 1823,1468 1823,1394 1672,1442 1537,1386 1450,1428 1317,1382 920,1442 725,1394 296,1424"/>
+                <Baseline points="306,1456 382,1459 458,1458 534,1459 610,1458 686,1459 762,1460 838,1459 914,1460 990,1460 1066,1460 1142,1460 1218,1461 1294,1458 1370,1458 1446,1460 1522,1456 1598,1458 1674,1458 1750,1458 1826,1458"/>
+                <TextEquiv>
+                    <Unicode>um fort zu reiten. Sie wollten mich mit Gewalt festhalten ich ließ mich aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:17;} textStyle {offset:61; length:8;italic:true;}">
+                <Coords points="298,1517 580,1476 987,1462 1706,1460 1784,1462 1885,1494 1885,1545 1521,1547 298,1541"/>
+                <Baseline points="308,1534 368,1532 429,1536 490,1536 551,1538 612,1538 673,1538 734,1538 795,1538 856,1535 917,1537 977,1540 1038,1539 1099,1538 1160,1538 1221,1537 1282,1536 1343,1537 1404,1538 1465,1537 1526,1540 1550,1536 1576,1536 1602,1537 1628,1538 1654,1538 1680,1536 1706,1538 1732,1538 1758,1537 1784,1536 1810,1536 1836,1536 1862,1536 1888,1534"/>
+                <TextEquiv>
+                    <Unicode>nicht darauf ein und ritt fort. Nach einer Weile band ich im Post Oak mein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:18;}">
+                <Coords points="292,1553 356,1535 1464,1537 1873,1555 1873,1617 1533,1637 292,1639"/>
+                <Baseline points="302,1600 363,1606 424,1608 485,1610 546,1610 607,1610 668,1608 729,1610 790,1610 851,1608 912,1610 973,1612 1034,1612 1095,1611 1156,1610 1217,1612 1278,1612 1339,1610 1400,1610 1461,1611 1522,1614 1544,1608 1569,1610 1595,1611 1621,1612 1646,1612 1672,1612 1698,1612 1723,1612 1749,1612 1775,1612 1800,1611 1826,1610 1852,1611 1878,1610"/>
+                <TextEquiv>
+                    <Unicode>Pferd an und steckte den Finger in den Hals um zu „kälbern"; es dauerte aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:19;}">
+                <Coords points="294,1688 371,1736 417,1696 1263,1698 1309,1738 1861,1694 1746,1643 1464,1633 1420,1676 1357,1623 1003,1674 880,1613 830,1657 687,1615 294,1666"/>
+                <Baseline points="304,1684 382,1689 460,1692 538,1690 616,1690 694,1692 772,1691 850,1690 928,1692 1006,1692 1085,1692 1163,1692 1241,1694 1319,1696 1397,1694 1475,1694 1553,1690 1631,1688 1709,1692 1787,1692 1866,1690"/>
+                <TextEquiv>
+                    <Unicode>lange bis ich dazu kam, der Hals war mir wie zugeschnürt. Mittlerweile war</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:20;}">
+                <Coords points="290,1750 485,1698 1269,1698 1760,1706 1861,1738 1861,1794 1817,1813 1567,1819 1261,1819 516,1807 290,1772"/>
+                <Baseline points="300,1766 360,1768 421,1768 482,1768 542,1768 603,1770 664,1770 724,1770 785,1772 846,1772 907,1772 967,1772 1028,1773 1089,1769 1149,1770 1210,1772 1271,1772 1331,1772 1392,1771 1453,1774 1514,1774 1536,1770 1561,1772 1586,1772 1611,1772 1636,1772 1662,1773 1687,1774 1712,1774 1737,1774 1763,1773 1788,1770 1813,1768 1838,1768 1864,1766"/>
+                <TextEquiv>
+                    <Unicode>es dunkel geworden, ich konnte mein Pferd nicht gleich sehen, dachte es sei nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_32" custom="readingOrder {index:21;} textStyle {offset:16; length:3;strikethrough:true;}">
+                <Coords points="294,1807 358,1768 1835,1776 1833,1861 1668,1891 1126,1909 294,1881"/>
+                <Baseline points="304,1840 365,1844 426,1848 487,1848 548,1850 609,1850 670,1848 731,1848 792,1849 853,1850 914,1851 975,1852 1036,1852 1097,1851 1158,1852 1219,1852 1280,1853 1341,1851 1402,1851 1463,1852 1524,1848 1546,1848 1572,1850 1599,1850 1625,1850 1652,1850 1678,1851 1705,1852 1731,1852 1758,1852 1784,1850 1811,1848 1838,1848"/>
+                <TextEquiv>
+                    <Unicode>Hause gelaufen, und legte mich hin und schlief ein. Um etwa 10 Uhr kam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:22;}">
+                <Coords points="290,1927 618,1970 679,1929 749,1968 822,1931 1251,1972 1299,1937 1412,1978 1464,1937 1664,1968 1837,1933 1750,1867 1617,1913 1384,1915 1299,1865 1075,1913 906,1909 834,1855 586,1893 544,1851 290,1905"/>
+                <Baseline points="300,1922 377,1925 454,1924 531,1927 608,1926 685,1926 762,1926 839,1926 916,1928 993,1928 1070,1929 1147,1930 1224,1930 1301,1931 1378,1932 1455,1932 1532,1931 1609,1929 1686,1932 1763,1929 1840,1926"/>
+                <TextEquiv>
+                    <Unicode>mein Pferd, welches losgekommen war, beim Fressen ganz nah an mich heran</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_28" custom="readingOrder {index:23;}">
+                <Coords points="310,2004 550,2008 602,2054 735,2002 785,2044 852,2004 1094,2052 1289,2010 1355,2066 1396,2026 1557,2058 1611,2010 1877,2010 1851,1970 1468,1939 1243,1984 858,1931 606,1982 520,1935 469,1984 310,1960"/>
+                <Baseline points="320,1996 398,2003 476,2004 554,2002 632,2002 710,2004 788,2002 866,2004 944,2004 1022,2006 1100,2004 1178,2004 1256,2006 1334,2008 1412,2006 1490,2006 1568,2006 1646,2006 1724,2008 1802,2007 1880,2006"/>
+                <TextEquiv>
+                    <Unicode>und weckte mich auf. Ich kletterte hinauf und ritt nach Hause; fütterte mein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_29" custom="readingOrder {index:24;}">
+                <Coords points="302,2105 350,2123 435,2084 544,2131 604,2084 661,2127 741,2094 820,2137 888,2088 1001,2092 1001,2052 941,2022 828,2052 749,2016 620,2064 542,2022 302,2020"/>
+                <Baseline points="312,2066 346,2073 381,2079 416,2080 450,2081 485,2080 520,2078 554,2080 589,2080 624,2081 659,2082 693,2082 728,2082 763,2082 797,2082 832,2082 867,2082 901,2083 936,2084 971,2084 1006,2082"/>
+                <TextEquiv>
+                    <Unicode>Pferd und legte mich sogleich nieder.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:2;} structure {type:day_start;}">
+            <Coords points="1912,2118 1912,3120 286,3120 286,2118"/>
+            <TextLine id="l_30" custom="readingOrder {index:0;} textStyle {offset:0; length:6;italic:true;} comment {offset:0; length:6;type:Spanish;} textStyle {offset:7; length:5;italic:true;} comment {offset:7; length:5;type:Spanish;} textStyle {offset:15; length:2;superscript:true;} comment {offset:15; length:2;type:Spanish;}">
+                <Coords points="586,2201 610,2193 1184,2175 1396,2181 1651,2225 1651,2272 1541,2302 1190,2300 665,2268 588,2237"/>
+                <Baseline points="598,2228 623,2233 648,2245 673,2252 699,2255 724,2256 749,2256 775,2256 800,2256 825,2256 850,2257 876,2258 901,2258 926,2258 952,2256 976,2248 1010,2251 1044,2255 1078,2256 1112,2256 1146,2256 1180,2256 1214,2254 1248,2254 1282,2256 1316,2259 1350,2260 1384,2260 1418,2259 1452,2258 1486,2258 1520,2260 1554,2260 1588,2260 1622,2261 1656,2262"/>
+                <TextEquiv>
+                    <Unicode>Sabado Marzo 25mo 1876.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_37" custom="readingOrder {index:1;}">
+                <Coords points="298,2324 622,2316 671,2364 733,2316 910,2318 953,2362 1051,2316 1237,2356 1293,2316 1760,2330 1760,2284 1599,2260 1559,2298 1454,2256 1196,2302 1075,2260 1005,2294 955,2260 806,2294 298,2266"/>
+                <Baseline points="308,2308 380,2310 453,2310 526,2312 599,2311 672,2312 744,2311 817,2312 890,2312 963,2310 1036,2314 1108,2314 1181,2316 1254,2315 1327,2314 1400,2313 1472,2314 1545,2314 1618,2313 1691,2314 1764,2316"/>
+                <TextEquiv>
+                    <Unicode>Stand mit einem ganz anständigen Kater auf. Wollte trotzdem nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:2;} textStyle {offset:0; length:11;italic:true;} textStyle {offset:25; length:3;italic:true;}">
+                <Coords points="274,2431 340,2391 856,2395 945,2441 1231,2395 1396,2443 1460,2399 1845,2393 1806,2332 1627,2380 1359,2330 1075,2380 910,2318 715,2376 274,2338"/>
+                <Baseline points="286,2384 364,2388 442,2388 520,2390 598,2390 677,2390 755,2391 833,2394 911,2394 989,2393 1068,2394 1146,2394 1224,2395 1302,2394 1380,2394 1459,2394 1537,2393 1615,2393 1693,2396 1771,2393 1850,2390"/>
+                <TextEquiv>
+                    <Unicode>Schulenburg reiten, Herr Eck rieth mir aber ab, da ich dann zum Spielen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_39" custom="readingOrder {index:3;}">
+                <Coords points="290,2507 763,2465 1071,2475 1126,2523 1200,2473 1339,2515 1424,2471 1877,2499 1877,2445 1529,2407 1349,2457 1170,2395 890,2451 844,2405 622,2433 534,2391 290,2449"/>
+                <Baseline points="300,2466 379,2466 458,2464 537,2464 616,2466 695,2466 774,2466 853,2467 932,2468 1011,2468 1090,2468 1169,2470 1248,2471 1327,2472 1406,2470 1485,2472 1564,2470 1643,2470 1722,2472 1801,2470 1880,2466"/>
+                <TextEquiv>
+                    <Unicode>heute Abend untauglich sein würde. Legte mich also wieder nieder nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_40" custom="readingOrder {index:4;}">
+                <Coords points="290,2554 1728,2586 1857,2552 1857,2483 1782,2530 1730,2479 1583,2519 1537,2473 1434,2530 467,2479 290,2523"/>
+                <Baseline points="300,2540 378,2543 456,2542 534,2544 612,2546 690,2546 768,2545 846,2546 924,2546 1002,2547 1081,2546 1159,2547 1237,2548 1315,2548 1393,2548 1471,2548 1549,2547 1627,2548 1705,2548 1783,2548 1862,2546"/>
+                <TextEquiv>
+                    <Unicode>dem Essen und studirte meine Rolle. Schlief auch noch Etwas. Ärgerte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_41" custom="readingOrder {index:5;} textStyle {offset:54; length:3;underlined:true;}">
+                <Coords points="292,2634 358,2683 443,2628 687,2626 1007,2675 1363,2632 1539,2685 1613,2634 1873,2636 1833,2558 1629,2558 1587,2600 1529,2548 1452,2612 1281,2560 1065,2612 995,2568 709,2610 548,2556 292,2592"/>
+                <Baseline points="302,2622 380,2622 459,2624 538,2622 617,2624 696,2626 774,2626 853,2626 932,2626 1011,2628 1090,2631 1168,2632 1247,2634 1326,2628 1405,2628 1484,2629 1562,2632 1641,2630 1720,2630 1799,2632 1878,2630"/>
+                <TextEquiv>
+                    <Unicode>mich collossal über meinen gestrigen Rausch! Bin noch nie so betrunken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_42" custom="readingOrder {index:6;} textStyle {offset:17; length:3;underlined:true;}">
+                <Coords points="284,2711 705,2705 763,2747 814,2705 864,2749 1311,2707 1369,2759 1484,2707 1794,2717 1792,2652 1712,2646 1577,2691 1305,2642 1200,2693 1081,2634 1035,2675 659,2685 574,2632 284,2687"/>
+                <Baseline points="294,2704 369,2702 444,2700 519,2701 594,2702 670,2702 745,2702 820,2702 895,2704 970,2705 1046,2708 1121,2708 1196,2710 1271,2708 1346,2706 1422,2708 1497,2706 1572,2708 1647,2708 1722,2706 1798,2710"/>
+                <TextEquiv>
+                    <Unicode>gewesen und wenn ich es helfen kann, werde ich es nie wieder!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_43" custom="readingOrder {index:7;} textStyle {offset:0; length:10;italic:true;}">
+                <Coords points="298,2787 572,2826 616,2783 745,2828 949,2783 1263,2822 1313,2785 1827,2795 1792,2733 1694,2755 1643,2713 1380,2769 1212,2717 1075,2769 298,2711"/>
+                <Baseline points="308,2778 384,2779 460,2778 536,2778 612,2778 689,2779 765,2779 841,2782 917,2782 993,2784 1070,2786 1146,2786 1222,2784 1298,2784 1374,2785 1451,2784 1527,2783 1603,2784 1679,2785 1755,2786 1832,2786"/>
+                <TextEquiv>
+                    <Unicode>Nordhausen freut sich jedenfalls wie ein Spitzbube darüber. Das ist ihm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_44" custom="readingOrder {index:8;}">
+                <Coords points="282,2866 487,2908 534,2866 777,2866 856,2916 916,2868 1293,2866 1355,2908 1875,2872 1873,2830 1573,2848 1353,2787 1299,2834 1130,2795 1079,2846 906,2787 818,2844 445,2787 280,2838"/>
+                <Baseline points="292,2856 371,2861 450,2860 530,2858 609,2859 689,2860 768,2862 847,2862 927,2864 1006,2864 1086,2866 1165,2864 1244,2865 1324,2865 1403,2866 1483,2866 1562,2866 1641,2866 1721,2864 1800,2863 1880,2862"/>
+                <TextEquiv>
+                    <Unicode>ein Hauptgaudium wenn er Jemanden betrunken machen kann, wenn es ihm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_45" custom="readingOrder {index:9;}">
+                <Coords points="282,2956 798,2948 898,2997 1049,2952 1100,2999 1160,2948 1400,2948 1470,2995 1800,2948 1754,2890 1573,2906 1537,2870 1386,2928 711,2874 282,2902"/>
+                <Baseline points="292,2942 367,2942 443,2944 518,2940 594,2938 669,2940 745,2940 820,2943 896,2944 971,2945 1047,2948 1122,2947 1198,2946 1273,2946 1349,2944 1424,2944 1500,2945 1575,2946 1651,2943 1726,2942 1802,2946"/>
+                <TextEquiv>
+                    <Unicode>auch 10 oder $15 kostet, da liegt ihm nichts dran. Um 3 Uhr ritt ich zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_46" custom="readingOrder {index:10;} textStyle {offset:14; length:12;italic:true;} textStyle {offset:31; length:7;italic:true;} textStyle {offset:43; length:14;italic:true;} textStyle {offset:62; length:6;italic:true;}">
+                <Coords points="284,3027 1821,3043 1780,2971 1609,3009 1378,2954 1100,2999 1051,2950 900,3005 693,2954 284,2971"/>
+                <Baseline points="294,3016 370,3019 447,3020 523,3019 600,3016 676,3019 753,3021 829,3024 906,3023 982,3024 1059,3026 1135,3026 1212,3024 1288,3022 1365,3025 1441,3026 1518,3026 1594,3028 1671,3024 1747,3023 1824,3028"/>
+                <TextEquiv>
+                    <Unicode>,﻿Stadt. Traf Fritz Presun von Brenham und Otto Prätorius von Austin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_31" custom="readingOrder {index:11;} textStyle {offset:62; length:8;italic:true;}">
+                <Coords points="286,3059 332,3033 491,3025 1764,3027 1825,3051 1825,3136 1235,3148 596,3146 286,3132"/>
+                <Baseline points="296,3098 347,3098 399,3098 450,3096 502,3096 553,3094 605,3094 656,3095 708,3095 759,3094 811,3096 862,3094 914,3094 965,3096 1017,3099 1068,3102 1120,3104 1171,3102 1223,3101 1274,3095 1326,3094 1390,3092 1415,3095 1441,3097 1467,3098 1493,3098 1519,3098 1545,3098 1571,3100 1597,3100 1622,3100 1648,3100 1674,3099 1700,3099 1726,3100 1752,3100 1778,3102 1804,3102 1830,3102"/>
+                <TextEquiv>
+                    <Unicode>(meine beiden Gegner beim Volksfest turnen in '74.) Hielt mit C. Frede</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

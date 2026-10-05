@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-10-29T20:54:42.059+01:00</Created>
+        <LastChange>2026-07-27T05:11:00.411+02:00</LastChange>
+        <TranskribusMetadata docId="11812805" pageId="105191468" pageNr="66" tsid="297925859" status="DONE" userId="490466" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=YNJUWAHLIAQNRVDWQHTASRFM" xmlUrl="https://files.transkribus.eu/Get?id=FIWLTMSBFPLBSHPCLFAHSQWW" imageId="88295733">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0066_p066.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883609247" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="1960,228 2425,228 2425,520 1960,520"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2254,437 2393,432 2392,402 2253,407"/>
+                <Baseline points="2254,437 2393,432"/>
+                <TextEquiv>
+                    <Unicode>276</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="2018,520 2095,504 2089,475 2012,491"/>
+                <Baseline points="2018,520 2095,504"/>
+                <TextEquiv>
+                    <Unicode>271</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;}">
+            <Coords points="416,533 2302,533 2302,1274 416,1274"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="679,654 1724,664 1724,634 679,624"/>
+                <Baseline points="679,654 1724,664"/>
+                <TextEquiv>
+                    <Unicode>cies facti demselben zu stellen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:1;}">
+                <Coords points="659,746 1873,751 1873,721 659,716"/>
+                <Baseline points="659,746 1873,751"/>
+                <TextEquiv>
+                    <Unicode>Mit grösster Hochachtung verharre ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:2;}">
+                <Coords points="1441,834 1879,829 1879,799 1441,804"/>
+                <Baseline points="1441,834 1879,829"/>
+                <TextEquiv>
+                    <Unicode>               Hohen Komites</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:3;}">
+                <Coords points="1451,957 1997,968 1998,938 1452,927"/>
+                <Baseline points="1451,957 1997,968"/>
+                <TextEquiv>
+                    <Unicode>               gehorsamster Tabor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:4;}">
+                <Coords points="664,1153 1601,1153 1601,1123 664,1123"/>
+                <Baseline points="664,1153 1601,1153"/>
+                <TextEquiv>
+                    <Unicode>Wiesbaden den 26. Februar 1851</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

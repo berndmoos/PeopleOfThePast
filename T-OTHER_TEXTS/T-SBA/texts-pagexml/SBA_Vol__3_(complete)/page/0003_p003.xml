@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=39995:lm=none:date=28_10_2025_21:38</Creator>
+        <Created>2025-10-10T22:22:00.553+02:00</Created>
+        <LastChange>2025-12-03T22:30:47.539+01:00</LastChange>
+        <TranskribusMetadata docId="11233159" pageId="104147721" pageNr="3" tsid="263615936" status="DONE" userId="144967" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=LHGHLTUBOEEAAGSFGNRGAMDW" xmlUrl="https://files.transkribus.eu/Get?id=OCFMZNSINUBRTYSGXVYRGNKQ" imageId="87396195">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0003_p003.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883592885" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1992,689 1992,438 3204,432 3206,689"/>
+            <TextLine id="l_11" custom="readingOrder {index:0;}">
+                <Coords points="2477,495 2490,498 2506,482 2533,498 2552,481 2616,486 2628,477 2660,499 2687,480 2711,480 2711,399 2659,408 2648,399 2600,432 2584,421 2477,424"/>
+                <Baseline points="2484,465 2509,463 2535,465 2560,463 2586,462 2611,462 2637,462 2662,462 2688,462 2714,462"/>
+                <TextEquiv>
+                    <Unicode>BAND III.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:1;}">
+                <Coords points="2116,598 2964,576 3037,606 3147,596 3149,509 2117,518"/>
+                <Baseline points="2123,576 2174,578 2225,576 2277,576 2328,574 2380,573 2431,573 2482,573 2534,573 2585,572 2637,570 2688,570 2739,570 2791,570 2842,567 2894,569 2945,567 2996,567 3048,565 3099,564 3151,561"/>
+                <TextEquiv>
+                    <Unicode>Enthält Photokopien C A 4 a 2 No. 2, No. 3, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:2;}">
+                <Coords points="1985,665 2016,679 2035,660 2080,687 2127,678 2142,691 2194,657 2345,660 2378,691 2408,691 2409,606 2390,597 2108,601 2049,630 2016,602 1986,603"/>
+                <Baseline points="1992,654 2018,653 2044,652 2070,652 2097,654 2123,652 2149,651 2176,651 2202,651 2228,651 2255,650 2281,648 2307,648 2334,648 2360,648 2386,647 2413,645"/>
+                <TextEquiv>
+                    <Unicode>No. 4, erster Teil.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:1;}">
+            <Coords points="3003,799 2056,781 1992,689 3058,689"/>
+            <TextLine id="l" custom="readingOrder {index:0;} textStyle {offset:0; length:18;underlined:true;}">
+                <Coords points="2413,778 2808,782 2818,710 2715,710 2679,680 2637,709 2545,702 2522,683 2457,707 2414,705"/>
+                <Baseline points="2422,755 2447,755 2472,755 2497,755 2522,754 2547,752 2572,752 2597,752 2622,752 2647,752 2672,752 2697,751 2722,750 2747,749 2772,749 2797,750 2822,752"/>
+                <TextEquiv>
+                    <Unicode>INHALTSVERZEICHNIS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TableRegion id="t" custom="readingOrder {index:2;}">
+            <Coords points="1971,808 3327,808 3327,2182 1971,2182"/>
+            <TableCell row="0" col="0" rowSpan="1" colSpan="1" id="c_42" custom="structure {type:TOC-entry;}">
+                <Coords points="1971,808 1971,882 3039,882 3039,808"/>
+                <TextLine id="l_1" custom="readingOrder {index:0;}">
+                    <Coords points="1991,898 2046,909 2086,904 2107,885 2134,891 2187,875 2216,882 2225,875 2236,885 2247,881 2248,822 2192,831 2152,800 2130,796 2113,797 2063,831 2019,801 1992,809"/>
+                    <Baseline points="1998,872 2023,869 2048,869 2073,869 2098,869 2123,868 2148,867 2173,867 2198,869 2223,868 2249,866"/>
+                    <TextEquiv>
+                        <Unicode>Begleitwort</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="1" rowSpan="1" colSpan="1" id="c_44">
+                <Coords points="3039,808 3039,882 3325,882 3325,808"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="0" rowSpan="1" colSpan="1" id="c_43" custom="structure {type:TOC-entry;}">
+                <Coords points="1971,882 1971,1011 3039,1011 3039,882"/>
+                <TextLine id="l_2" custom="readingOrder {index:0;}">
+                    <Coords points="1998,978 2260,939 2983,954 2984,863 2937,850 2848,894 1999,900"/>
+                    <Baseline points="2004,943 2053,940 2102,939 2151,937 2200,937 2249,935 2298,934 2347,936 2396,935 2445,934 2495,934 2544,931 2593,931 2642,931 2691,930 2740,930 2789,931 2838,931 2887,929 2936,928 2986,928"/>
+                    <TextEquiv>
+                        <Unicode>Tr. Bromme, Stuttgart, den 29. November, 1845,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="l_3" custom="readingOrder {index:1;}">
+                    <Coords points="2121,998 2457,996 2486,1015 2552,990 2777,983 2777,940 2729,935 2122,956"/>
+                    <Baseline points="2129,976 2161,976 2194,976 2226,974 2259,973 2291,973 2324,973 2356,973 2389,972 2421,970 2454,970 2487,970 2519,969 2552,967 2584,969 2617,970 2649,970 2682,968 2714,967 2747,968 2780,970"/>
+                    <TextEquiv>
+                        <Unicode>an Referendar S. Schultz, Bonn</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="1" rowSpan="1" colSpan="1" id="c_45" custom="structure {type:TOC-pageref;}">
+                <Coords points="3039,882 3039,1011 3325,1011 3325,882"/>
+                <TextLine id="l_4" custom="readingOrder {index:0;}">
+                    <Coords points="3121,978 3161,976 3160,946 3120,948"/>
+                    <Baseline points="3121,978 3161,976"/>
+                    <TextEquiv>
+                        <Unicode>1</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="0" rowSpan="1" colSpan="1" id="c_59" custom="structure {type:TOC-entry;}">
+                <Coords points="1971,1011 1971,1114 3039,1114 3039,1011"/>
+                <TextLine id="l_5" custom="readingOrder {index:0;}">
+                    <Coords points="2000,1078 2255,1046 2830,1039 2916,1066 2946,978 2814,1017 2769,983 2688,1010 2000,1007"/>
+                    <Baseline points="2007,1048 2054,1048 2101,1048 2148,1048 2195,1048 2242,1046 2289,1043 2336,1044 2383,1042 2430,1043 2477,1044 2524,1042 2571,1042 2618,1042 2665,1040 2712,1039 2759,1039 2806,1039 2853,1039 2900,1039 2947,1042"/>
+                    <TextEquiv>
+                        <Unicode>Tr. Bromme, Stuttgart, den 12. Januar, 1846,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="l_6" custom="readingOrder {index:1;}">
+                    <Coords points="2122,1093 2243,1114 2291,1093 2868,1100 2870,1050 2122,1060"/>
+                    <Baseline points="2129,1087 2166,1084 2203,1084 2240,1084 2277,1082 2315,1081 2352,1081 2389,1081 2426,1081 2463,1081 2501,1081 2538,1079 2575,1078 2612,1079 2649,1081 2687,1078 2724,1076 2761,1075 2798,1075 2835,1075 2873,1075"/>
+                    <TextEquiv>
+                        <Unicode>an Graf Carl zu Castell, Wiesbaden</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="1" rowSpan="1" colSpan="1" id="c_61" custom="structure {type:TOC-pageref;}">
+                <Coords points="3039,1011 3039,1114 3325,1114 3325,1011"/>
+                <TextLine id="l_7" custom="readingOrder {index:0;}">
+                    <Coords points="3131,1082 3168,1081 3167,1051 3130,1052"/>
+                    <Baseline points="3131,1082 3168,1081"/>
+                    <TextEquiv>
+                        <Unicode>5</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="0" rowSpan="1" colSpan="1" id="c_79" custom="structure {type:TOC-entry;}">
+                <Coords points="1971,1114 1971,1223 3039,1223 3039,1114"/>
+                <TextLine id="l_8" custom="readingOrder {index:0;}">
+                    <Coords points="2000,1178 2787,1150 2908,1176 2908,1105 2839,1092 2000,1116"/>
+                    <Baseline points="2007,1161 2052,1158 2097,1158 2142,1156 2188,1155 2233,1155 2278,1152 2323,1152 2369,1152 2414,1152 2459,1152 2504,1152 2550,1149 2595,1152 2640,1149 2685,1146 2731,1146 2776,1149 2821,1146 2866,1146 2912,1152"/>
+                    <TextEquiv>
+                        <Unicode>Tr. Bromme, Stuttgart, den 13. März, 1846,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="l_9" custom="readingOrder {index:1;}">
+                    <Coords points="2122,1213 2695,1226 2873,1203 2875,1158 2122,1169"/>
+                    <Baseline points="2129,1194 2166,1194 2203,1194 2241,1192 2278,1191 2315,1191 2353,1191 2390,1191 2427,1188 2465,1186 2502,1187 2539,1187 2577,1186 2614,1188 2651,1188 2689,1186 2726,1185 2763,1185 2801,1184 2838,1182 2876,1185"/>
+                    <TextEquiv>
+                        <Unicode>an Graf Carl zu Castell, Wiesbaden</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="1" rowSpan="1" colSpan="1" id="c_81" custom="structure {type:TOC-pageref;}">
+                <Coords points="3039,1114 3039,1223 3325,1223 3325,1114"/>
+                <TextLine id="l_10" custom="readingOrder {index:0;}">
+                    <Coords points="3109,1195 3164,1190 3161,1160 3106,1165"/>
+                    <Baseline points="3109,1195 3164,1190"/>
+                    <TextEquiv>
+                        <Unicode>15</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="0" rowSpan="1" colSpan="1" id="c_102" custom="structure {type:TOC-entry;}">
+                <Coords points="1971,1223 1971,1332 3039,1332 3039,1223"/>
+                <TextLine id="l_49" custom="readingOrder {index:0;}">
+                    <Coords points="1999,1288 2925,1275 2925,1223 2828,1207 2799,1231 2000,1214"/>
+                    <Baseline points="2007,1260 2053,1266 2099,1266 2145,1266 2191,1266 2237,1266 2283,1264 2329,1263 2375,1261 2421,1260 2467,1262 2513,1261 2559,1258 2605,1257 2651,1257 2697,1257 2743,1257 2789,1260 2835,1257 2881,1257 2927,1257"/>
+                    <TextEquiv>
+                        <Unicode>Tr. Bromme, Stuttgart, den 27. April, 1846,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="l_50" custom="readingOrder {index:1;}">
+                    <Coords points="2130,1312 2219,1339 2323,1309 2633,1324 2634,1272 2614,1259 2490,1262 2466,1279 2131,1271"/>
+                    <Baseline points="2138,1305 2164,1302 2190,1302 2216,1302 2243,1301 2269,1300 2295,1299 2321,1299 2348,1299 2374,1299 2400,1299 2426,1299 2453,1299 2479,1298 2505,1296 2531,1296 2558,1296 2584,1296 2610,1297 2637,1299"/>
+                    <TextEquiv>
+                        <Unicode>an Graf Carl zu Castell</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="1" rowSpan="1" colSpan="1" id="c_104" custom="structure {type:TOC-pageref;}">
+                <Coords points="3039,1223 3039,1332 3325,1332 3325,1223"/>
+                <TextLine id="l_51" custom="readingOrder {index:0;}">
+                    <Coords points="3116,1305 3177,1305 3177,1275 3116,1275"/>
+                    <Baseline points="3116,1305 3177,1305"/>
+                    <TextEquiv>
+                        <Unicode>20</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="0" rowSpan="1" colSpan="1" id="c_128" custom="structure {type:TOC-entry;}">
+                <Coords points="1971,1332 1971,1431 3039,1431 3039,1332"/>
+                <TextLine id="l_52" custom="readingOrder {index:0;}">
+                    <Coords points="2007,1399 2585,1370 2926,1392 2928,1331 2467,1308 2008,1334"/>
+                    <Baseline points="2013,1370 2058,1373 2104,1375 2150,1374 2196,1373 2242,1373 2287,1371 2333,1370 2379,1370 2425,1370 2471,1370 2516,1368 2562,1367 2608,1367 2654,1367 2700,1364 2745,1364 2791,1367 2837,1364 2883,1364 2929,1364"/>
+                    <TextEquiv>
+                        <Unicode>Tr. Bromme, Stuttgart, den 1. August, 1846,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="l_53" custom="readingOrder {index:1;}">
+                    <Coords points="2131,1433 2264,1426 2295,1446 2310,1430 2382,1441 2477,1417 2634,1425 2634,1376 2618,1372 2486,1371 2409,1392 2326,1374 2190,1393 2131,1381"/>
+                    <Baseline points="2138,1412 2164,1409 2190,1409 2216,1409 2243,1408 2269,1407 2295,1406 2321,1406 2348,1406 2374,1406 2400,1406 2426,1406 2453,1406 2479,1406 2505,1406 2531,1404 2558,1403 2584,1403 2610,1404 2637,1406"/>
+                    <TextEquiv>
+                        <Unicode>an Graf Carl zu Castell</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="1" rowSpan="1" colSpan="1" id="c_130" custom="structure {type:TOC-pageref;}">
+                <Coords points="3039,1332 3039,1431 3325,1431 3325,1332"/>
+                <TextLine id="l_54" custom="readingOrder {index:0;}">
+                    <Coords points="3113,1413 3162,1410 3160,1380 3111,1383"/>
+                    <Baseline points="3113,1413 3162,1410"/>
+                    <TextEquiv>
+                        <Unicode>25</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="0" rowSpan="1" colSpan="1" id="c_157" custom="structure {type:TOC-entry;}">
+                <Coords points="1971,1431 1971,1549 3039,1549 3039,1431"/>
+                <TextLine id="l_55" custom="readingOrder {index:0;}">
+                    <Coords points="2000,1514 2254,1479 2616,1479 2711,1522 2796,1488 2947,1497 2948,1401 2916,1396 2845,1443 2665,1417 2491,1452 2001,1438"/>
+                    <Baseline points="2007,1481 2054,1484 2101,1481 2148,1481 2195,1481 2242,1478 2289,1478 2337,1478 2384,1478 2431,1478 2478,1478 2525,1476 2572,1473 2619,1474 2667,1475 2714,1475 2761,1475 2808,1475 2855,1472 2902,1472 2950,1472"/>
+                    <TextEquiv>
+                        <Unicode>Tr. Bromme, Stuttgart, den 4. Oktober, 1846,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="l_56" custom="readingOrder {index:1;}">
+                    <Coords points="2127,1547 2166,1528 2630,1538 2632,1482 2127,1489"/>
+                    <Baseline points="2135,1517 2161,1517 2187,1517 2213,1517 2240,1516 2266,1515 2292,1514 2318,1514 2345,1516 2371,1517 2397,1515 2423,1514 2450,1514 2476,1514 2502,1514 2528,1512 2555,1511 2581,1511 2607,1511 2634,1511"/>
+                    <TextEquiv>
+                        <Unicode>an Graf Carl zu Castell</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="1" rowSpan="1" colSpan="1" id="c_159" custom="structure {type:TOC-pageref;}">
+                <Coords points="3039,1431 3039,1549 3325,1549 3325,1431"/>
+                <TextLine id="l_57" custom="readingOrder {index:0;}">
+                    <Coords points="3115,1517 3159,1515 3158,1485 3114,1487"/>
+                    <Baseline points="3115,1517 3159,1515"/>
+                    <TextEquiv>
+                        <Unicode>27</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="0" rowSpan="1" colSpan="1" id="c_189" custom="structure {type:TOC-entry;}">
+                <Coords points="1971,1549 1973,1660 3041,1660 3039,1549"/>
+                <TextLine id="l_58" custom="readingOrder {index:0;}">
+                    <Coords points="2000,1626 2491,1583 2897,1590 2944,1619 2969,1532 2001,1542"/>
+                    <Baseline points="2007,1588 2055,1588 2103,1588 2151,1586 2199,1585 2248,1585 2296,1585 2344,1582 2392,1582 2440,1580 2489,1584 2537,1582 2585,1582 2633,1582 2681,1582 2730,1580 2778,1581 2826,1582 2874,1580 2922,1579 2971,1579"/>
+                    <TextEquiv>
+                        <Unicode>Tr. Bromme, Stuttgart, den 15. Oktober, 1846,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="l_59" custom="readingOrder {index:1;}">
+                    <Coords points="2133,1637 2189,1654 2228,1628 2263,1644 2311,1628 2380,1652 2493,1628 2526,1658 2587,1646 2629,1666 2641,1585 2494,1582 2473,1603 2134,1590"/>
+                    <Baseline points="2141,1624 2166,1624 2191,1624 2216,1623 2241,1621 2266,1621 2291,1621 2316,1621 2341,1621 2366,1621 2392,1620 2417,1618 2442,1618 2467,1618 2492,1618 2517,1618 2542,1618 2567,1618 2592,1618 2617,1619 2643,1621"/>
+                    <TextEquiv>
+                        <Unicode>an Graf Carl zu Castell</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="1" rowSpan="1" colSpan="1" id="c_191" custom="structure {type:TOC-pageref;}">
+                <Coords points="3039,1549 3041,1660 3327,1660 3325,1549"/>
+                <TextLine id="l_60" custom="readingOrder {index:0;}">
+                    <Coords points="3103,1627 3166,1628 3166,1598 3103,1597"/>
+                    <Baseline points="3103,1627 3166,1628"/>
+                    <TextEquiv>
+                        <Unicode>31</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="8" col="0" rowSpan="1" colSpan="1" id="c_224" custom="structure {type:TOC-entry;}">
+                <Coords points="1973,1660 1971,1742 3039,1742 3041,1660"/>
+                <TextLine id="l_61" custom="readingOrder {index:0;}">
+                    <Coords points="2003,1727 2117,1712 2215,1720 2243,1706 2320,1724 2400,1708 2401,1663 2340,1649 2282,1655 2261,1673 2124,1637 2086,1657 2004,1650"/>
+                    <Baseline points="2010,1699 2036,1699 2062,1698 2088,1696 2115,1696 2141,1696 2167,1696 2193,1696 2220,1696 2246,1696 2272,1696 2298,1694 2325,1694 2351,1695 2377,1695 2404,1693"/>
+                    <TextEquiv>
+                        <Unicode>Begleitwort, No. 3</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="8" col="1" rowSpan="1" colSpan="1" id="c_226">
+                <Coords points="3041,1660 3039,1742 3325,1742 3327,1660"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="9" col="0" rowSpan="1" colSpan="1" id="c_262" custom="structure {type:TOC-entry;}">
+                <Coords points="1971,1742 1971,1801 3039,1801 3039,1742"/>
+                <TextLine id="l_62" custom="readingOrder {index:0;}">
+                    <Coords points="2003,1792 2125,1789 2138,1801 2229,1785 2302,1797 2377,1788 2378,1709 2320,1724 2254,1709 2223,1734 2180,1720 2160,1734 2075,1738 2057,1718 2003,1734"/>
+                    <Baseline points="2010,1768 2036,1771 2062,1771 2089,1769 2115,1768 2142,1766 2168,1765 2195,1765 2221,1765 2247,1765 2274,1765 2300,1765 2327,1765 2353,1765 2380,1765"/>
+                    <TextEquiv>
+                        <Unicode>Bücherverzeichnis</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="9" col="1" rowSpan="1" colSpan="1" id="c_264" custom="structure {type:TOC-pageref;}">
+                <Coords points="3039,1742 3039,1801 3325,1801 3325,1742"/>
+                <TextLine id="l_63" custom="readingOrder {index:0;}">
+                    <Coords points="3107,1770 3173,1770 3173,1740 3107,1740"/>
+                    <Baseline points="3107,1770 3173,1770"/>
+                    <TextEquiv>
+                        <Unicode>32</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="0" rowSpan="1" colSpan="1" id="c_303" custom="structure {type:TOC-entry;}">
+                <Coords points="1971,1801 1971,1895 3039,1895 3039,1801"/>
+                <TextLine id="l_64" custom="readingOrder {index:0;}">
+                    <Coords points="2007,1853 2913,1856 2933,1788 2007,1802"/>
+                    <Baseline points="2013,1839 2059,1841 2105,1839 2151,1839 2197,1837 2243,1836 2289,1836 2335,1836 2381,1836 2427,1834 2474,1833 2520,1833 2566,1833 2612,1833 2658,1833 2704,1830 2750,1830 2796,1830 2842,1830 2888,1827 2935,1827"/>
+                    <TextEquiv>
+                        <Unicode>Cappes, Mainz, den 14. Januar, 1846, an die</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="l_65" custom="readingOrder {index:1;}">
+                    <Coords points="2136,1897 2701,1893 2702,1846 2660,1835 2138,1852"/>
+                    <Baseline points="2144,1875 2173,1875 2202,1875 2232,1875 2261,1875 2291,1873 2320,1872 2349,1872 2379,1872 2408,1871 2438,1869 2467,1869 2497,1869 2526,1869 2555,1869 2585,1869 2614,1869 2644,1869 2673,1870 2703,1872"/>
+                    <TextEquiv>
+                        <Unicode>v. Zabernsche Buchhandlung</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="1" rowSpan="1" colSpan="1" id="c_305" custom="structure {type:TOC-pageref;}">
+                <Coords points="3039,1801 3039,1895 3325,1895 3325,1801"/>
+                <TextLine id="l_66" custom="readingOrder {index:0;}">
+                    <Coords points="3116,1870 3169,1870 3169,1840 3116,1840"/>
+                    <Baseline points="3116,1870 3169,1870"/>
+                    <TextEquiv>
+                        <Unicode>35</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="11" col="0" rowSpan="1" colSpan="1" id="c_347" custom="structure {type:TOC-entry;}">
+                <Coords points="1971,1895 1971,2004 3039,2004 3039,1895"/>
+                <TextLine id="l_67" custom="readingOrder {index:0;}">
+                    <Coords points="2010,1973 2084,1986 2154,1947 2886,1964 2888,1895 2012,1897"/>
+                    <Baseline points="2019,1947 2062,1949 2106,1949 2149,1946 2193,1944 2237,1944 2280,1944 2324,1944 2367,1944 2411,1943 2455,1942 2498,1943 2542,1941 2585,1941 2629,1941 2673,1941 2716,1941 2760,1941 2803,1938 2847,1938 2891,1938"/>
+                    <TextEquiv>
+                        <Unicode>Victor von Zabern, Mainz, den 11. Januar,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="l_68" custom="readingOrder {index:1;}">
+                    <Coords points="2133,2017 2187,2004 2243,2021 2297,2000 2335,2025 2365,2009 2391,2016 2435,1992 2468,1996 2470,1947 2405,1959 2351,1950 2236,1960 2156,1947 2134,1956"/>
+                    <Baseline points="2141,1986 2166,1983 2192,1983 2217,1983 2243,1983 2268,1983 2294,1983 2319,1983 2345,1983 2370,1981 2396,1980 2421,1980 2447,1979 2473,1977"/>
+                    <TextEquiv>
+                        <Unicode>1846, an Cappes</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="11" col="1" rowSpan="1" colSpan="1" id="c_349" custom="structure {type:TOC-pageref;}">
+                <Coords points="3039,1895 3039,2004 3325,2004 3325,1895"/>
+                <TextLine id="l_69" custom="readingOrder {index:0;}">
+                    <Coords points="3124,1983 3164,1983 3164,1953 3124,1953"/>
+                    <Baseline points="3124,1983 3164,1983"/>
+                    <TextEquiv>
+                        <Unicode>36</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="0" rowSpan="1" colSpan="1" id="c_348" custom="structure {type:TOC-entry;}">
+                <Coords points="1971,2004 1971,2182 3039,2182 3039,2004"/>
+                <TextLine id="l_70" custom="readingOrder {index:0;}">
+                    <Coords points="2007,2066 2935,2067 2935,2005 2844,1995 2336,2025 2007,2000"/>
+                    <Baseline points="2013,2060 2059,2057 2105,2057 2151,2056 2198,2054 2244,2052 2290,2051 2336,2051 2383,2051 2429,2051 2475,2049 2521,2050 2568,2049 2614,2048 2660,2048 2706,2046 2753,2045 2799,2045 2845,2045 2891,2045 2938,2045"/>
+                    <TextEquiv>
+                        <Unicode>Langesche Buch- Fapier &amp; Landkartenhandlung</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="l_71" custom="readingOrder {index:1;}">
+                    <Coords points="2133,2120 2876,2098 2876,2058 2821,2050 2134,2066"/>
+                    <Baseline points="2141,2090 2177,2090 2214,2090 2251,2090 2288,2088 2325,2089 2362,2089 2399,2087 2436,2087 2473,2084 2510,2084 2546,2084 2583,2084 2620,2084 2657,2084 2694,2081 2731,2081 2768,2081 2805,2081 2842,2081 2879,2081"/>
+                    <TextEquiv>
+                        <Unicode>an Graf Carl zu Castell. Wiesbaden</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="1" rowSpan="1" colSpan="1" id="c_350" custom="structure {type:TOC-pageref;}">
+                <Coords points="3039,2004 3039,2182 3325,2182 3325,2004"/>
+                <TextLine id="l_72" custom="readingOrder {index:0;}">
+                    <Coords points="3118,2086 3163,2085 3162,2055 3117,2056"/>
+                    <Baseline points="3118,2086 3163,2085"/>
+                    <TextEquiv>
+                        <Unicode>37</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+        </TableRegion>
+    </Page>
+</PcGts>

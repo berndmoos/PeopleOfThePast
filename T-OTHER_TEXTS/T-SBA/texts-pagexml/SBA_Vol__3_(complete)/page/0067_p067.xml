@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=39995:lm=none:date=29_10_2025_15:39</Creator>
+        <Created>2025-10-10T22:22:07.037+02:00</Created>
+        <LastChange>2025-11-05T18:41:40.250+01:00</LastChange>
+        <TranskribusMetadata docId="11233159" pageId="104147884" pageNr="67" tsid="259859318" status="DONE" userId="431293" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=RRWZIUZIMPQVLNEHJNYNGPZV" xmlUrl="https://files.transkribus.eu/Get?id=CJMEERMCXDXVFEAGCZKTPGJR" imageId="87396421">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0067_p067.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883593830" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2891,247 3017,247 3017,355 2891,355"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2928,334 2984,334 2984,304 2928,304"/>
+                <Baseline points="2928,334 2984,334"/>
+                <TextEquiv>
+                    <Unicode>63</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="3030,249 3142,249 3142,375 3030,375"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="3046,324 3113,326 3114,296 3047,294"/>
+                <Baseline points="3046,324 3113,326"/>
+                <TextEquiv>
+                    <Unicode>129</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1964,439 1962,1012 3130,1012 3113,445"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1955,578 2046,545 2264,571 2334,560 2366,545 2368,488 2238,501 2183,487 2090,501 2050,487 2033,501 1956,494"/>
+                <Baseline points="1962,540 1987,539 2013,537 2038,537 2064,537 2089,537 2115,536 2140,534 2166,534 2192,534 2217,534 2243,534 2268,532 2294,531 2319,531 2345,531 2371,531"/>
+                <TextEquiv>
+                    <Unicode>(63 verso continued)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="2015,685 2947,683 2996,661 2997,597 2661,609 2479,575 2015,635"/>
+                <Baseline points="2022,666 2070,666 2119,666 2168,665 2217,663 2266,663 2314,663 2363,663 2412,660 2461,660 2510,657 2558,657 2607,656 2656,654 2705,654 2754,652 2802,653 2851,652 2900,651 2949,648 2998,648"/>
+                <TextEquiv>
+                    <Unicode>Abschrift dieses Schreibens nebst einer Abschrift</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="2022,745 2914,726 2914,679 2880,666 2023,691"/>
+                <Baseline points="2030,734 2074,732 2118,734 2163,731 2207,728 2252,728 2296,725 2340,725 2385,725 2429,722 2474,722 2518,722 2562,722 2607,719 2651,719 2696,719 2740,719 2784,719 2829,719 2873,716 2918,716"/>
+                <TextEquiv>
+                    <Unicode>des Briefes von W. Hoffmann an die Commission</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="2022,812 2939,807 2940,739 2882,732 2023,747"/>
+                <Baseline points="2030,800 2075,797 2121,797 2166,797 2212,795 2257,792 2303,791 2348,791 2394,791 2439,789 2485,788 2531,788 2576,785 2622,785 2667,785 2713,785 2758,782 2804,782 2849,779 2895,779 2941,779"/>
+                <TextEquiv>
+                    <Unicode>für das schmidtische Consortiums zu Händen des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="2020,891 2981,863 2983,797 2022,819"/>
+                <Baseline points="2028,863 2075,864 2123,861 2171,860 2219,860 2267,857 2315,857 2363,854 2411,854 2459,853 2507,851 2554,851 2602,851 2650,850 2698,848 2746,848 2794,848 2842,846 2890,845 2938,842 2986,842"/>
+                <TextEquiv>
+                    <Unicode>H. K. D. Kröber mit den Antrag auf baldige Veran-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;} textStyle {offset:31; length:9;underlined:true;}">
+                <Coords points="2020,948 2845,952 3013,935 3014,866 2020,891"/>
+                <Baseline points="2028,928 2077,925 2126,925 2176,925 2225,924 2275,922 2324,920 2373,919 2423,919 2472,916 2522,916 2571,916 2620,913 2670,912 2719,910 2769,909 2818,909 2867,910 2917,908 2966,907 3016,907"/>
+                <TextEquiv>
+                    <Unicode>lassung des Weitern erforderl. expedirte ich unter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:6;} textStyle {offset:0; length:15;underlined:true;}">
+                <Coords points="2029,1027 2097,1008 2131,1022 2183,1021 2207,1007 2234,1019 2288,1009 2351,1019 2353,943 2314,935 2287,951 2264,945 2194,962 2147,948 2032,948"/>
+                <Baseline points="2036,997 2062,994 2089,991 2116,991 2142,990 2169,989 2196,987 2222,985 2249,985 2276,985 2302,985 2329,985 2356,985"/>
+                <TextEquiv>
+                    <Unicode>denselben Datum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

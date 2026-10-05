@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.47.0:model_id=50870:lm=none:date=11_07_2026_22:55</Creator>
+        <Created>2025-10-29T20:54:35.386+01:00</Created>
+        <LastChange>2026-07-19T02:53:32.831+02:00</LastChange>
+        <TranskribusMetadata docId="11812805" pageId="105191275" pageNr="4" tsid="296756104" status="DONE" userId="490466" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=QMKORTHPPBMHMZQHBBGYLSMK" xmlUrl="https://files.transkribus.eu/Get?id=CRTFBNNSOUBRWEKDZTTAWYRS" imageId="88295490">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0004_p004.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883608414" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="2255,286 2333,286 2333,329 2255,329"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2255,315 2327,329 2333,300 2261,286"/>
+                <Baseline points="2255,315 2327,329"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="620,530 620,2863 2289,2863 2289,530"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="608,577 1762,587 1762,534 608,557"/>
+                <Baseline points="620,576 677,579 734,576 792,578 849,576 906,576 964,576 1021,574 1078,576 1136,576 1193,575 1250,573 1308,573 1365,573 1422,576 1480,574 1537,573 1594,573 1652,573 1709,573 1767,573"/>
+                <TextEquiv>
+                    <Unicode>Sr. Erlaucht Graf zu Ysenburg-Meerholz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="627,691 1647,691 1647,631 1299,660 1206,627 1086,662 940,629 627,637"/>
+                <Baseline points="638,677 688,679 739,677 790,677 841,677 891,677 942,677 993,677 1044,677 1094,677 1145,677 1196,677 1247,677 1297,677 1348,674 1399,674 1450,675 1500,677 1551,675 1602,674 1653,671"/>
+                <TextEquiv>
+                    <Unicode>Sr. Hochgeboren Graf E. zu Retzfeld</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="614,775 1818,781 1769,728 616,750"/>
+                <Baseline points="626,773 685,773 745,773 805,773 865,773 924,773 984,773 1044,773 1104,773 1163,773 1223,773 1283,776 1343,773 1402,773 1462,773 1522,773 1582,773 1641,773 1701,773 1761,771 1821,767"/>
+                <TextEquiv>
+                    <Unicode>Herr Rechtsconsulent Dr. Tabor von Frank-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="629,833 1812,827 1775,789 1523,775 1476,806 629,794"/>
+                <Baseline points="641,826 699,826 758,826 817,826 876,824 935,825 994,826 1052,829 1111,826 1170,826 1229,826 1288,824 1347,823 1406,823 1464,824 1523,824 1582,824 1641,824 1700,824 1759,824 1818,821"/>
+                <TextEquiv>
+                    <Unicode>furt als Bevollmächtigter Sr. Hochwohlge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="629,888 1455,901 1795,882 1797,837 631,835"/>
+                <Baseline points="641,877 702,875 763,877 824,874 885,874 946,874 1007,877 1068,877 1129,874 1190,876 1251,874 1312,874 1373,872 1434,874 1495,874 1556,874 1617,871 1678,870 1739,868 1800,865"/>
+                <TextEquiv>
+                    <Unicode>boren des Grafen Knyphausen, sodann für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="620,979 1896,987 1896,936 1797,928 620,942"/>
+                <Baseline points="632,973 695,976 758,972 822,970 885,971 949,973 1012,970 1076,975 1139,973 1203,972 1266,968 1329,968 1393,970 1456,970 1520,970 1583,970 1647,968 1710,970 1774,967 1837,967 1901,970"/>
+                <TextEquiv>
+                    <Unicode>Sr. Durchlaucht, den Fürsten von Schwarzburg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="625,1035 1896,1029 1865,979 625,989"/>
+                <Baseline points="635,1021 698,1021 761,1021 824,1021 888,1022 951,1026 1014,1024 1078,1022 1141,1021 1204,1023 1268,1024 1331,1024 1394,1024 1457,1021 1521,1021 1584,1021 1647,1019 1711,1019 1774,1021 1837,1018 1901,1015"/>
+                <TextEquiv>
+                    <Unicode>Rudolstadt, von welchem noch Vollmacht bei-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="629,1090 890,1076 1074,1090 1074,1047 1002,1031 969,1045 899,1039 882,1053 864,1035 822,1033 629,1047"/>
+                <Baseline points="641,1080 666,1076 692,1074 718,1074 744,1074 770,1074 795,1072 821,1071 847,1071 873,1071 899,1071 925,1069 950,1068 976,1068 1002,1070 1028,1073 1054,1074 1080,1074"/>
+                <TextEquiv>
+                    <Unicode>gebracht werde.            ( 11 u. 12)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="618,1173 874,1196 1090,1169 1412,1181 1457,1173 1459,1142 620,1132"/>
+                <Baseline points="629,1170 670,1170 712,1170 753,1170 795,1170 837,1170 878,1170 920,1170 962,1170 1003,1170 1045,1170 1087,1168 1128,1167 1170,1167 1212,1168 1253,1169 1295,1167 1337,1167 1378,1167 1420,1170 1462,1167"/>
+                <TextEquiv>
+                    <Unicode>Sr. Hochgeboren Graf Renesse,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="625,1274 1680,1276 1680,1226 1585,1220 1053,1220 1024,1249 987,1222 625,1224"/>
+                <Baseline points="635,1268 687,1268 740,1271 792,1268 845,1268 897,1268 950,1268 1002,1266 1055,1265 1107,1265 1160,1267 1213,1266 1265,1266 1318,1265 1370,1265 1423,1265 1475,1267 1528,1265 1580,1265 1633,1263 1686,1259"/>
+                <TextEquiv>
+                    <Unicode>Banquier L.H. Flersheim zu Frankfurt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="884,1381 905,1389 926,1389 934,1381 948,1389 958,1381 1078,1379 1078,1334 989,1336 975,1325 967,1334 909,1336 899,1346 884,1346"/>
+                <Baseline points="895,1370 921,1369 948,1367 975,1369 1002,1370 1029,1370 1056,1369 1083,1367"/>
+                <TextEquiv>
+                    <Unicode>sodann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="625,1466 1911,1472 1911,1422 1857,1414 625,1431"/>
+                <Baseline points="635,1465 698,1468 762,1465 826,1465 890,1465 954,1467 1018,1468 1082,1465 1146,1465 1210,1465 1274,1465 1337,1465 1401,1463 1465,1465 1529,1462 1593,1465 1657,1462 1721,1462 1785,1462 1849,1462 1913,1456"/>
+                <TextEquiv>
+                    <Unicode>die Herren Kammerräthe Stephen von Braunfels</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="620,1567 1855,1573 1855,1527 1503,1511 620,1540"/>
+                <Baseline points="632,1564 693,1564 754,1564 816,1564 877,1564 938,1564 1000,1564 1061,1564 1122,1564 1184,1564 1245,1564 1306,1564 1368,1564 1429,1560 1490,1560 1552,1561 1613,1561 1674,1561 1736,1560 1797,1560 1859,1561"/>
+                <TextEquiv>
+                    <Unicode>und Kroesen von Meerholz als Vertreter von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="627,1668 1165,1678 1165,1641 1043,1622 627,1630"/>
+                <Baseline points="638,1662 664,1662 691,1663 717,1664 744,1664 771,1662 797,1664 824,1665 850,1665 877,1665 904,1665 930,1665 957,1665 983,1665 1010,1665 1037,1665 1063,1665 1090,1665 1116,1665 1143,1665 1170,1665"/>
+                <TextEquiv>
+                    <Unicode>Comitemitgliedern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="907,1867 1731,1870 1731,1816 969,1812 907,1837"/>
+                <Baseline points="919,1862 959,1860 1000,1859 1041,1859 1082,1859 1123,1858 1164,1857 1205,1857 1246,1859 1287,1857 1328,1859 1368,1859 1409,1858 1450,1858 1491,1858 1532,1857 1573,1856 1614,1855 1655,1857 1696,1857 1737,1854"/>
+                <TextEquiv>
+                    <Unicode>Ausgeblieben sind hiernach:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="618,1962 2164,1971 2199,1911 618,1933"/>
+                <Baseline points="629,1961 707,1958 786,1961 865,1958 943,1958 1022,1958 1101,1958 1179,1960 1258,1955 1337,1953 1416,1955 1494,1957 1573,1955 1652,1955 1730,1955 1809,1954 1888,1952 1966,1954 2045,1955 2124,1952 2203,1952"/>
+                <TextEquiv>
+                    <Unicode>1) Sr. Durchlaucht, der Fürst zu Colloredo- Mansfeld</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="627,2061 2191,2076 2191,2010 2090,2006 627,2020"/>
+                <Baseline points="638,2054 720,2057 802,2060 884,2057 966,2057 1048,2057 1130,2057 1212,2054 1294,2052 1376,2054 1458,2054 1540,2054 1622,2054 1704,2054 1786,2051 1868,2051 1950,2052 2032,2054 2114,2051 2197,2054"/>
+                <TextEquiv>
+                    <Unicode>2) Sr. Durchlaucht der Fürst zu Schönburg - Waldenburg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="625,2156 2144,2164 2144,2117 2096,2107 625,2123"/>
+                <Baseline points="635,2155 710,2155 786,2156 862,2155 937,2152 1013,2153 1089,2155 1164,2152 1240,2152 1316,2150 1392,2152 1467,2153 1543,2153 1619,2152 1694,2152 1770,2152 1846,2149 1921,2149 1997,2149 2073,2149 2149,2149"/>
+                <TextEquiv>
+                    <Unicode>3) Sr. Durchlaucht der Prinz Carl zu Solms-Braunfels</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="629,2259 2034,2259 2034,2206 629,2220"/>
+                <Baseline points="641,2254 710,2254 780,2254 850,2254 920,2251 990,2252 1060,2251 1130,2251 1200,2249 1270,2251 1340,2251 1409,2251 1479,2252 1549,2251 1619,2254 1689,2251 1759,2251 1829,2252 1899,2251 1969,2248 2039,2248"/>
+                <TextEquiv>
+                    <Unicode>4) Die Erben der Grafen Viktor zu Isenburg und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="719,2362 835,2366 864,2350 911,2372 946,2352 965,2364 1173,2364 1173,2315 1150,2302 1134,2313 979,2302 944,2337 893,2313 849,2323 759,2302 719,2313"/>
+                <Baseline points="731,2349 757,2351 783,2352 810,2350 836,2349 862,2349 889,2351 915,2352 941,2352 968,2351 994,2349 1020,2349 1047,2349 1073,2349 1099,2349 1126,2349 1152,2350 1179,2352"/>
+                <TextEquiv>
+                    <Unicode>Carl v. Castell</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="629,2455 1577,2461 1577,2408 1457,2393 1424,2418 1338,2393 1284,2418 629,2412"/>
+                <Baseline points="641,2451 688,2451 735,2448 782,2451 829,2451 876,2450 923,2448 970,2448 1017,2447 1064,2445 1111,2445 1158,2445 1205,2445 1252,2445 1299,2445 1346,2445 1393,2447 1440,2445 1487,2445 1534,2448 1582,2448"/>
+                <TextEquiv>
+                    <Unicode>6) (sic) Freiherr von Massenbach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="625,2544 2030,2556 2030,2504 1835,2496 625,2515"/>
+                <Baseline points="635,2540 705,2544 775,2546 845,2546 915,2543 985,2543 1055,2543 1125,2546 1195,2544 1265,2543 1335,2543 1405,2544 1475,2546 1545,2546 1615,2546 1685,2546 1755,2543 1825,2543 1895,2543 1965,2543 2036,2540"/>
+                <TextEquiv>
+                    <Unicode>5) Sr. Erlaucht, Graf Christian zu Neuleiningen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:22;}">
+                <Coords points="627,2645 678,2661 715,2643 744,2661 893,2643 948,2663 1266,2655 1266,2618 1218,2605 627,2605"/>
+                <Baseline points="638,2642 669,2642 701,2642 732,2642 764,2642 796,2642 827,2642 859,2642 891,2642 922,2642 954,2642 986,2642 1017,2642 1049,2642 1081,2642 1112,2642 1144,2642 1176,2642 1207,2642 1239,2643 1271,2645"/>
+                <TextEquiv>
+                    <Unicode>7) Baron von Szirmay .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_27" custom="readingOrder {index:23;}">
+                <Coords points="618,2741 629,2741 649,2756 666,2758 680,2754 723,2758 736,2748 746,2748 744,2725 732,2725 717,2713 709,2713 699,2702 674,2702 655,2688 647,2688 631,2702 616,2702"/>
+                <Baseline points="629,2740 659,2740 689,2741 719,2743 2292,2755"/>
+                <TextEquiv>
+                    <Unicode>Da.      ( 1 Verso )      Da der Präsident des Vereins</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_29" custom="readingOrder {index:24;}">
+                <Coords points="614,2836 2271,2849 2224,2793 614,2809"/>
+                <Baseline points="626,2836 708,2839 790,2839 873,2838 955,2839 1038,2839 1120,2839 1202,2836 1285,2839 1367,2839 1450,2841 1532,2840 1614,2842 1697,2839 1779,2839 1862,2839 1944,2839 2026,2838 2109,2839 2191,2839 2274,2842"/>
+                <TextEquiv>
+                    <Unicode>Sr. Durchlaucht der Fürst zu Leiningen verhindert war zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:16.084+02:00</Created>
+        <LastChange>2025-11-04T01:06:14.298+01:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101584092" pageNr="99" tsid="259682348" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ZMVHDUHSKCDACMPFWDLSXYXN" xmlUrl="https://files.transkribus.eu/Get?id=EEUBDNPKBKNEAGBRFXUWMQUX" imageId="85201530">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0099_p099.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883576585" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2759,300 2858,300 2858,376 2759,376"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2788,363 2840,362 2839,332 2787,333"/>
+                <Baseline points="2788,363 2840,362"/>
+                <TextEquiv>
+                    <Unicode>175</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2861,256 3026,256 3026,365 2861,365"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2871,358 2891,365 2905,359 2912,366 2930,355 2958,349 2958,273 2950,272 2943,278 2937,272 2925,272 2918,265 2909,272 2905,270 2889,286 2871,283"/>
+                <Baseline points="2879,328 2906,330 2934,330 2962,328"/>
+                <TextEquiv>
+                    <Unicode>179</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1842,302 1842,2091 2986,2091 2986,302"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;} textStyle {offset:39; length:4;italic:true;}">
+                <Coords points="1924,482 2864,454 2865,401 2819,390 2661,424 2426,390 2258,424 2123,404 2027,441 1927,397"/>
+                <Baseline points="1932,468 1978,468 2025,464 2072,462 2119,462 2165,461 2212,458 2259,456 2306,456 2352,454 2399,453 2446,451 2493,450 2539,450 2586,449 2633,448 2680,446 2726,445 2773,445 2820,442 2867,439"/>
+                <TextEquiv>
+                    <Unicode>Section 4. Be it further enacted, that that it shall be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1834,548 2864,517 2865,478 2708,463 2399,459 2264,500 1836,482"/>
+                <Baseline points="1842,531 1893,531 1944,530 1995,526 2047,525 2098,522 2149,522 2200,519 2252,518 2303,516 2354,514 2405,513 2457,513 2508,510 2559,510 2610,507 2662,507 2713,505 2764,504 2815,501 2867,501"/>
+                <TextEquiv>
+                    <Unicode>the duty of the Attorney General under the directions of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="1833,609 2850,583 2851,535 2785,518 1834,564"/>
+                <Baseline points="1842,591 1892,592 1943,589 1993,588 2044,585 2095,582 2145,582 2196,581 2247,579 2297,579 2348,577 2399,576 2449,576 2500,573 2551,572 2601,570 2652,569 2703,567 2753,565 2804,564 2855,564"/>
+                <TextEquiv>
+                    <Unicode>the President to ascertain as fully as possible all the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="1845,673 2923,640 2925,593 1847,623"/>
+                <Baseline points="1854,657 1907,651 1961,650 2014,646 2068,645 2122,645 2175,642 2229,642 2283,640 2336,639 2390,636 2444,635 2497,633 2551,631 2605,630 2658,630 2712,626 2766,624 2819,624 2873,622 2927,621"/>
+                <TextEquiv>
+                    <Unicode>proceedings of said contractors, how far they have complied</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="1840,723 2925,696 2926,649 2655,640 1841,687"/>
+                <Baseline points="1848,716 1904,712 1961,710 2018,708 2075,707 2131,704 2188,702 2245,701 2302,701 2359,698 2415,696 2472,695 2529,692 2586,691 2643,689 2699,686 2756,685 2813,683 2870,683 2927,683"/>
+                <TextEquiv>
+                    <Unicode>with their conditions and in what respect they have failed,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;} textStyle {offset:0; length:1;italic:true;} textStyle {offset:33; length:1;italic:true;}">
+                <Coords points="1841,797 2877,759 2867,709 1988,752 1844,723"/>
+                <Baseline points="1851,779 1902,776 1954,772 2005,769 2057,767 2108,767 2160,764 2211,764 2263,761 2314,761 2366,760 2418,758 2469,756 2521,755 2572,752 2624,749 2675,749 2727,747 2778,744 2830,743 2882,743"/>
+                <TextEquiv>
+                    <Unicode>[and report fully on said subject] to the next Congress of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="1850,842 2971,807 2972,761 1851,806"/>
+                <Baseline points="1857,839 1912,836 1968,834 2024,831 2080,830 2136,826 2192,824 2247,822 2303,821 2359,820 2415,818 2471,816 2527,815 2583,812 2638,811 2694,809 2750,806 2806,805 2862,803 2918,803 2974,803"/>
+                <TextEquiv>
+                    <Unicode>the Republic, in order that they may take such further action</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="1847,906 2457,896 2457,855 2437,849 2320,862 2250,844 2131,868 2054,842 1989,872 1848,876"/>
+                <Baseline points="1854,896 1884,896 1914,894 1945,893 1975,893 2005,891 2036,888 2066,887 2096,887 2127,887 2157,887 2187,887 2218,885 2248,884 2278,884 2309,884 2339,883 2369,881 2400,881 2430,880 2461,878"/>
+                <TextEquiv>
+                    <Unicode>thereon as they may think proper.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="1936,968 2953,945 2954,895 2844,883 1937,931"/>
+                <Baseline points="1944,955 1994,952 2045,950 2095,949 2146,946 2197,946 2247,943 2298,940 2348,940 2399,938 2450,937 2500,937 2551,934 2601,934 2652,930 2703,928 2753,927 2804,925 2854,925 2905,922 2956,922"/>
+                <TextEquiv>
+                    <Unicode>Section 5. Be it further enacted, that it shall be the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="1854,1026 2925,995 2926,957 2860,942 2260,989 1857,964"/>
+                <Baseline points="1863,1018 1916,1017 1969,1013 2022,1010 2076,1009 2129,1006 2182,1006 2236,1004 2289,1003 2342,1000 2396,1000 2449,997 2502,996 2555,994 2609,994 2662,991 2715,988 2769,987 2822,985 2875,985 2929,982"/>
+                <TextEquiv>
+                    <Unicode>duty of the President, whenever he shall ascertain that any</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="1853,1103 2889,1061 2891,1009 1962,1055 1854,1031"/>
+                <Baseline points="1860,1078 1911,1075 1963,1075 2015,1074 2066,1070 2118,1069 2170,1066 2221,1066 2273,1063 2325,1062 2377,1060 2428,1058 2480,1055 2532,1054 2583,1054 2635,1051 2687,1050 2738,1046 2790,1045 2842,1045 2894,1042"/>
+                <TextEquiv>
+                    <Unicode>of the colonization contracts heretofore made, have been</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="1853,1141 2926,1121 2926,1088 2836,1069 1854,1102"/>
+                <Baseline points="1860,1137 1913,1136 1966,1133 2020,1131 2073,1131 2127,1128 2180,1126 2234,1125 2287,1123 2341,1120 2394,1120 2447,1119 2501,1116 2554,1114 2608,1112 2661,1111 2715,1110 2768,1107 2822,1105 2875,1105 2929,1105"/>
+                <TextEquiv>
+                    <Unicode>forfeited by a failure to comply with all their provisions,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="1858,1207 2712,1202 2827,1183 2829,1142 1860,1147"/>
+                <Baseline points="1866,1194 1914,1195 1962,1194 2010,1192 2059,1191 2107,1188 2155,1188 2203,1185 2252,1182 2300,1182 2348,1181 2396,1179 2445,1178 2493,1175 2541,1173 2589,1171 2638,1170 2686,1168 2734,1167 2782,1167 2831,1164"/>
+                <TextEquiv>
+                    <Unicode>to issue his proclamation to that effect immediately.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="1941,1265 2939,1234 2940,1195 2881,1185 1943,1212"/>
+                <Baseline points="1950,1251 1999,1251 2049,1251 2099,1251 2148,1247 2198,1245 2248,1244 2297,1242 2347,1240 2397,1239 2447,1236 2496,1236 2546,1236 2596,1232 2645,1230 2695,1229 2745,1227 2794,1227 2844,1225 2894,1221 2960,1224"/>
+                <TextEquiv>
+                    <Unicode>Section 6. Be it further enacted, that this act shall</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="1853,1326 1922,1347 2175,1307 2570,1312 2581,1252 2544,1275 2272,1261 1972,1297 1910,1261 1854,1292"/>
+                <Baseline points="1860,1317 1896,1317 1932,1317 1968,1316 2004,1314 2040,1311 2076,1311 2113,1309 2149,1308 2185,1308 2221,1305 2257,1305 2293,1303 2329,1302 2366,1302 2402,1299 2438,1299 2474,1297 2510,1296 2546,1295 2583,1293"/>
+                <TextEquiv>
+                    <Unicode>be in force from and after its passage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="1967,1386 2902,1358 2912,1293 2684,1327 2234,1319 2115,1358 1968,1331"/>
+                <Baseline points="1974,1373 2020,1373 2067,1370 2114,1368 2161,1369 2208,1366 2255,1363 2302,1361 2349,1361 2396,1360 2443,1358 2489,1358 2536,1354 2583,1352 2630,1352 2677,1350 2724,1350 2771,1347 2818,1344 2865,1344 2912,1341"/>
+                <TextEquiv>
+                    <Unicode>Signe-- Richardson Scurry, Speaker of the House of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="2509,1428 2708,1426 2751,1412 2789,1423 2803,1420 2805,1379 2705,1369 2655,1389 2612,1379 2595,1388 2565,1375 2510,1386"/>
+                <Baseline points="2517,1418 2543,1415 2569,1413 2596,1411 2622,1409 2648,1409 2675,1409 2701,1407 2727,1406 2754,1406 2780,1407 2807,1409"/>
+                <TextEquiv>
+                    <Unicode>Representatives</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="2133,1493 2902,1478 2878,1438 2694,1424 2553,1452 2134,1450"/>
+                <Baseline points="2141,1490 2179,1488 2217,1485 2255,1484 2294,1483 2332,1481 2370,1481 2408,1481 2447,1481 2485,1479 2523,1477 2561,1474 2600,1472 2638,1472 2676,1469 2714,1469 2753,1467 2791,1466 2829,1465 2867,1463 2906,1463"/>
+                <TextEquiv>
+                    <Unicode>Edward Burlesson, President of the Senate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="1958,1593 2089,1552 2310,1578 2950,1531 2951,1483 1961,1528"/>
+                <Baseline points="1968,1556 2017,1556 2066,1552 2115,1550 2165,1550 2214,1549 2263,1547 2312,1545 2362,1542 2411,1541 2460,1541 2509,1538 2559,1535 2608,1535 2657,1534 2706,1532 2756,1530 2805,1527 2854,1526 2903,1523 2953,1526"/>
+                <TextEquiv>
+                    <Unicode>Vetoed by the President and passed by a constitutional</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="1865,1629 2619,1606 2643,1555 1867,1590"/>
+                <Baseline points="1875,1621 1913,1618 1951,1618 1990,1617 2028,1614 2067,1612 2105,1612 2143,1609 2182,1609 2220,1607 2259,1606 2297,1605 2335,1603 2374,1600 2412,1600 2451,1600 2489,1598 2527,1596 2566,1594 2604,1594 2643,1591"/>
+                <TextEquiv>
+                    <Unicode>Majority of the Senate, January 25th 1844.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="1960,1685 2832,1672 2868,1664 2870,1605 2637,1627 2539,1600 2429,1643 2150,1629 2062,1658 1961,1637"/>
+                <Baseline points="1968,1675 2013,1675 2058,1672 2103,1672 2148,1669 2193,1669 2238,1666 2283,1666 2328,1663 2373,1663 2419,1663 2464,1660 2509,1657 2554,1657 2599,1654 2644,1651 2689,1651 2734,1651 2779,1648 2824,1645 2870,1642"/>
+                <TextEquiv>
+                    <Unicode>Signe: Edward Burlesson, President of the Senate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="1967,1740 2643,1744 2696,1712 2956,1709 2933,1660 2758,1658 2694,1698 2601,1668 2416,1702 1968,1696"/>
+                <Baseline points="1974,1735 2023,1735 2072,1734 2121,1732 2171,1731 2220,1729 2269,1727 2318,1724 2368,1723 2417,1720 2466,1720 2515,1717 2565,1714 2614,1714 2663,1713 2712,1711 2762,1711 2811,1709 2860,1706 2909,1705 2959,1705"/>
+                <TextEquiv>
+                    <Unicode>Vetoed by the President and passed by a constitutional</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:22;} textStyle {offset:25; length:1;italic:true;} textStyle {offset:41; length:8;italic:true;}">
+                <Coords points="1862,1843 2047,1796 2944,1785 2963,1734 1865,1761"/>
+                <Baseline points="1872,1801 1926,1801 1981,1798 2035,1797 2090,1795 2145,1793 2199,1792 2254,1789 2309,1786 2363,1784 2418,1783 2473,1780 2527,1776 2582,1775 2637,1775 2691,1771 2746,1771 2801,1768 2855,1766 2910,1765 2965,1762"/>
+                <TextEquiv>
+                    <Unicode>Majority of the House of [Representatives] Senate January 30th 1844</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_26" custom="readingOrder {index:23;}">
+                <Coords points="1984,1872 2905,1831 2906,1792 2856,1781 2572,1823 1986,1820"/>
+                <Baseline points="1992,1857 2037,1857 2083,1855 2129,1854 2175,1852 2221,1849 2267,1846 2312,1845 2358,1843 2404,1842 2450,1842 2496,1840 2542,1837 2588,1836 2633,1833 2679,1833 2725,1830 2771,1830 2817,1827 2863,1824 2909,1821"/>
+                <TextEquiv>
+                    <Unicode>R. Scurry, Speaker of the House of Representatives</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_27" custom="readingOrder {index:24;}">
+                <Coords points="1984,1947 2246,1907 2895,1902 2896,1860 2827,1837 2592,1875 1986,1888"/>
+                <Baseline points="1992,1920 2037,1918 2082,1915 2128,1912 2173,1911 2219,1909 2264,1906 2309,1905 2355,1902 2400,1902 2446,1899 2491,1899 2536,1899 2582,1896 2627,1893 2673,1890 2718,1890 2763,1890 2809,1887 2854,1887 2900,1884"/>
+                <TextEquiv>
+                    <Unicode>Department of State--Washington, February 9th 1844</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_28" custom="readingOrder {index:25;}">
+                <Coords points="1876,1995 2984,1947 2985,1903 2818,1900 1878,1953"/>
+                <Baseline points="1884,1977 1939,1980 1994,1977 2049,1977 2104,1974 2159,1972 2214,1969 2269,1965 2324,1964 2379,1961 2435,1959 2490,1959 2545,1956 2600,1955 2655,1953 2710,1950 2765,1950 2820,1947 2875,1945 2930,1942 2986,1941"/>
+                <TextEquiv>
+                    <Unicode>the foregoing is a copy of the original act and certificates</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_30" custom="readingOrder {index:26;} textStyle {offset:52; length:4;italic:true;}">
+                <Coords points="1881,2061 2165,2031 2430,2055 2641,2010 2826,2033 2856,1979 1883,2010"/>
+                <Baseline points="1890,2042 1938,2038 1986,2036 2035,2034 2083,2033 2132,2031 2180,2030 2228,2028 2277,2025 2325,2025 2374,2022 2422,2021 2470,2019 2519,2018 2567,2014 2616,2011 2664,2010 2712,2010 2761,2010 2809,2007 2858,2004"/>
+                <TextEquiv>
+                    <Unicode>thereto attached file in this department--John Fall Hall--</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_32" custom="readingOrder {index:27;}">
+                <Coords points="2432,2110 2443,2113 2467,2095 2547,2102 2634,2081 2686,2092 2703,2086 2705,2043 2637,2047 2603,2026 2585,2040 2547,2046 2520,2037 2478,2053 2434,2051"/>
+                <Baseline points="2440,2078 2466,2078 2493,2077 2520,2076 2547,2075 2574,2075 2600,2073 2627,2071 2654,2070 2681,2069 2915,2067"/>
+                <TextEquiv>
+                    <Unicode>Chief Clerk' c. State</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

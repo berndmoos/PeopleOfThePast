@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_17:54</Creator>
+        <Created>2025-08-12T17:15:27.471+02:00</Created>
+        <LastChange>2025-10-25T00:06:06.977+02:00</LastChange>
+        <TranskribusMetadata docId="10053002" pageId="101583742" pageNr="67" tsid="258829349" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=GSFWQXXONDKDZSOTCIAYMLMI" xmlUrl="https://files.transkribus.eu/Get?id=LUXFXWMNACIUTQRJMPNYTING" imageId="85201230">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0067_p067.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1787002855493" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+                <RegionRefIndexed index="3" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1937,413 2050,413 2050,537 1937,537"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1944,523 2021,523 2021,493 1944,493"/>
+                <Baseline points="1944,523 2021,523"/>
+                <TextEquiv>
+                    <Unicode>//47</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2905,296 3011,296 3011,398 2905,398"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2934,380 2985,380 2985,350 2934,350"/>
+                <Baseline points="2934,380 2985,380"/>
+                <TextEquiv>
+                    <Unicode>56</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="3018,292 3113,292 3113,395 3018,395"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="3029,384 3091,384 3091,354 3029,354"/>
+                <Baseline points="3029,384 3091,384"/>
+                <TextEquiv>
+                    <Unicode>56</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:3;} structure {type:item-continue;}">
+            <Coords points="1935,545 1935,1218 2918,1218 2918,545"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1940,633 2256,618 2286,640 2377,615 2708,642 2708,597 2634,583 1940,581"/>
+                <Baseline points="1947,615 1985,612 2023,612 2061,612 2099,612 2138,612 2176,612 2214,612 2252,612 2290,612 2329,612 2367,612 2405,612 2443,612 2481,612 2520,614 2558,617 2596,618 2634,618 2672,619 2711,621"/>
+                <TextEquiv>
+                    <Unicode>Ich bitte, mich dem Herzog zu empfehlen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1938,1036 2915,1042 2914,981 1937,970"/>
+                <Baseline points="1944,1015 1992,1015 2041,1016 2090,1018 2138,1018 2187,1017 2236,1017 2284,1018 2333,1020 2382,1021 2431,1021 2479,1021 2528,1024 2577,1027 2625,1027 2674,1027 2723,1027 2771,1027 2820,1027 2869,1029 2918,1030"/>
+                <TextEquiv>
+                    <Unicode>Gehört zu dem Schreiben Leinigens pp. 44/44 verso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1928,1182 1991,1166 2049,1191 2128,1160 2292,1150 2292,1088 2255,1107 2157,1120 2078,1112 2012,1081 1976,1099 1928,1097"/>
+                <Baseline points="1935,1143 1960,1143 1986,1143 2012,1143 2038,1143 2063,1143 2089,1143 2115,1143 2141,1143 2167,1143 2192,1143 2218,1143 2244,1143 2270,1143 2296,1143"/>
+                <TextEquiv>
+                    <Unicode>Berlin, Dec. 1930</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2589,1199 2601,1200 2636,1187 2658,1188 2687,1203 2700,1200 2706,1207 2723,1199 2723,1152 2698,1153 2672,1144 2665,1148 2657,1140 2630,1148 2607,1140 2589,1141"/>
+                <Baseline points="2595,1182 2621,1182 2647,1182 2673,1182 2699,1183 2726,1185"/>
+                <TextEquiv>
+                    <Unicode>Smolka</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

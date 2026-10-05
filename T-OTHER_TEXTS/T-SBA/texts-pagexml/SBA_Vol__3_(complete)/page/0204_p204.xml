@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.1:model_id=39995:lm=none:date=01_11_2025_22:45</Creator>
+        <Created>2025-10-10T22:22:21.934+02:00</Created>
+        <LastChange>2026-06-24T00:06:21.544+02:00</LastChange>
+        <TranskribusMetadata docId="11233159" pageId="104148126" pageNr="204" tsid="293672606" status="DONE" userId="531018" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=RPMJSVLBDMMLDYACYMQUHTQG" xmlUrl="https://files.transkribus.eu/Get?id=VUGBXTDQUIKRTERKSSIZHNIZ" imageId="87396631">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0204_p204.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883595922" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2932,299 3043,299 3043,380 2932,380"/>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="2935,388 2960,394 2986,391 3009,398 3023,397 3020,323 2998,320 2987,311 2976,316 2964,310 2943,314 2930,311"/>
+                <Baseline points="2941,358 2969,360 2997,361 3025,361"/>
+                <TextEquiv>
+                    <Unicode>215</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="3058,224 3213,224 3213,323 3058,323"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3071,335 3086,335 3109,322 3133,336 3153,326 3183,330 3180,222 3153,223 3136,236 3115,219 3093,222 3068,212"/>
+                <Baseline points="3079,292 3105,292 3132,293 3159,294 3186,295"/>
+                <TextEquiv>
+                    <Unicode>282</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1968,384 1968,648 3186,648 3185,391"/>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="1964,444 2037,457 2166,446 2183,461 2203,446 2250,461 2357,451 2365,377 2324,389 2199,336 2100,377 2040,385 2011,372 1962,386"/>
+                <Baseline points="1971,427 1997,425 2023,424 2050,424 2076,424 2103,424 2129,424 2156,424 2182,426 2209,427 2235,427 2262,428 2288,430 2315,430 2341,430 2368,430"/>
+                <TextEquiv>
+                    <Unicode>schleunigst folgen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="2064,516 3114,508 3087,449 2064,452"/>
+                <Baseline points="2072,495 2124,494 2176,495 2228,495 2281,495 2333,495 2385,495 2438,495 2490,495 2542,495 2595,495 2647,495 2699,495 2751,495 2804,495 2856,495 2908,495 2961,495 3013,495 3065,493 3118,489"/>
+                <TextEquiv>
+                    <Unicode>Die Correspondenz mit Wagner und die weiteren Acten-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:2;} unclear {offset:23; length:7;}">
+                <Coords points="1959,582 2440,577 2564,614 3140,576 3140,530 3004,511 1959,530"/>
+                <Baseline points="1968,561 2026,561 2085,561 2144,561 2202,561 2261,561 2320,561 2378,561 2437,561 2496,563 2555,561 2613,564 2672,564 2731,564 2789,561 2848,561 2907,563 2965,561 3024,561 3083,559 3142,555"/>
+                <TextEquiv>
+                    <Unicode>stände erbitte ich mir darnach zurück, um mir Abschrift-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="1959,659 2338,648 2403,679 2479,662 2478,601 2401,589 1958,596"/>
+                <Baseline points="1968,627 1993,627 2019,627 2044,627 2070,628 2096,630 2121,629 2147,627 2173,627 2198,627 2224,627 2250,628 2275,630 2301,630 2327,630 2352,628 2378,627 2404,627 2429,628 2455,630 2481,633"/>
+                <TextEquiv>
+                    <Unicode>davon fertigen zu lassen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

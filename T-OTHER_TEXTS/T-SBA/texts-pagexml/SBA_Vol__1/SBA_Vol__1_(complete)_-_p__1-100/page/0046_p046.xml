@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_17:54</Creator>
+        <Created>2025-08-12T17:15:25.123+02:00</Created>
+        <LastChange>2025-10-24T16:27:22.553+02:00</LastChange>
+        <TranskribusMetadata docId="10053002" pageId="101583712" pageNr="46" tsid="258802971" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=TQTPHGBXYOZPXVPELLGICPZK" xmlUrl="https://files.transkribus.eu/Get?id=TYSEXNDUOMGMSTWQWUVSLRRU" imageId="85201200">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0046_p046.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1787002855092" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2949,263 3066,263 3066,358 2949,358"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2982,340 3037,333 3033,303 2978,310"/>
+                <Baseline points="2982,340 3037,333"/>
+                <TextEquiv>
+                    <Unicode>35</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="3091,252 3197,252 3197,347 3091,347"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="3095,314 3168,314 3168,284 3095,284"/>
+                <Baseline points="3095,314 3168,314"/>
+                <TextEquiv>
+                    <Unicode>35</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="2081,272 2081,2030 3180,2030 3180,272"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="2080,500 2924,483 2903,436 2080,437"/>
+                <Baseline points="2087,474 2129,471 2171,468 2213,468 2255,468 2297,468 2339,468 2381,468 2423,468 2465,468 2507,468 2549,469 2591,470 2633,468 2675,468 2717,471 2759,471 2801,471 2843,471 2885,471 2927,474"/>
+                <TextEquiv>
+                    <Unicode>1. Tauf- und Heirathschein der Auswanderer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="2080,543 2414,572 3030,546 3018,486 2964,518 2443,485 2080,508"/>
+                <Baseline points="2087,537 2134,534 2181,534 2229,534 2276,533 2323,532 2371,533 2418,532 2465,533 2513,533 2560,534 2607,534 2655,534 2702,534 2749,534 2797,534 2844,534 2891,537 2939,537 2986,537 3034,540"/>
+                <TextEquiv>
+                    <Unicode>2. Amtliches Zeugniss über Religion, Gewerbe und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="2146,614 2182,630 2375,601 2443,619 2507,605 2617,630 2617,564 2146,571"/>
+                <Baseline points="2153,597 2178,597 2204,597 2230,597 2256,596 2282,594 2308,595 2334,597 2360,597 2386,597 2411,597 2437,597 2463,597 2489,597 2515,597 2541,597 2567,597 2593,597 2619,597"/>
+                <TextEquiv>
+                    <Unicode>Wohnort der Auswanderer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="2080,673 2165,698 2218,668 2888,680 2888,621 2787,601 2678,633 2543,609 2462,635 2080,626"/>
+                <Baseline points="2087,663 2127,663 2167,663 2207,663 2247,661 2288,660 2328,660 2368,661 2408,663 2448,660 2489,660 2529,660 2569,660 2609,662 2649,663 2690,663 2730,663 2770,664 2810,666 2850,663 2891,666"/>
+                <TextEquiv>
+                    <Unicode>3. Taufschein der Kinder der Auswanderer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="2087,738 2262,767 2341,731 2743,735 2773,762 3052,736 3000,688 2087,694"/>
+                <Baseline points="2093,728 2141,728 2189,725 2237,725 2285,725 2333,725 2381,725 2429,725 2477,725 2525,725 2574,725 2622,727 2670,728 2718,728 2766,728 2814,728 2862,728 2910,731 2958,731 3006,732 3055,734"/>
+                <TextEquiv>
+                    <Unicode>4. Angabe des Namens und des Wohnortes der Eltern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="2139,833 2184,832 2248,795 2467,800 2466,767 2432,759 2239,756 2218,767 2138,757"/>
+                <Baseline points="2147,788 2173,788 2200,788 2227,788 2254,788 2281,788 2308,790 2335,790 2362,789 2389,789 2416,791 2443,791 2470,791"/>
+                <TextEquiv>
+                    <Unicode>der Auswanderer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="2074,868 2967,872 2967,835 2879,811 2074,828"/>
+                <Baseline points="2081,857 2125,857 2170,857 2214,854 2259,857 2303,854 2348,854 2392,854 2437,854 2481,857 2526,857 2570,857 2615,857 2659,857 2704,857 2748,857 2793,860 2837,860 2882,860 2926,860 2971,863"/>
+                <TextEquiv>
+                    <Unicode>5. Auswanderungserlaubniss von der Regierung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="2087,931 2321,945 2549,920 2810,945 2810,886 2087,892"/>
+                <Baseline points="2093,919 2129,919 2165,919 2201,919 2237,919 2273,919 2309,919 2345,919 2381,919 2417,919 2453,919 2489,919 2525,919 2561,919 2597,919 2633,919 2669,919 2705,921 2741,922 2777,923 2813,922"/>
+                <TextEquiv>
+                    <Unicode>6. Leumundszeugniss von der Gemeinde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;} textStyle {offset:45; length:1;italic:true;}">
+                <Coords points="2080,1002 3088,1003 3088,950 2941,927 2597,965 2080,944"/>
+                <Baseline points="2087,982 2137,985 2187,985 2237,985 2287,985 2338,985 2388,985 2438,985 2488,985 2538,985 2589,985 2639,985 2689,985 2739,985 2789,987 2840,988 2890,988 2940,988 2990,991 3040,988 3091,991"/>
+                <TextEquiv>
+                    <Unicode>7. Amtliches Zeugniss über den Vermögensstatus; und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="2134,1056 3132,1070 3132,1019 3037,1009 2134,1013"/>
+                <Baseline points="2141,1048 2190,1048 2240,1048 2290,1048 2340,1048 2389,1048 2439,1048 2489,1050 2539,1051 2588,1051 2638,1048 2688,1051 2738,1051 2787,1051 2837,1051 2887,1051 2937,1053 2986,1054 3036,1054 3086,1054 3136,1057"/>
+                <TextEquiv>
+                    <Unicode>zwar müssen die Vermögensverhältnisse der Art sein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="2137,1137 3147,1126 3146,1092 3076,1080 2136,1089"/>
+                <Baseline points="2144,1111 2194,1111 2244,1114 2295,1114 2345,1113 2395,1113 2446,1114 2496,1114 2546,1114 2597,1114 2647,1117 2697,1116 2748,1115 2798,1117 2848,1117 2899,1117 2949,1117 2999,1120 3050,1117 3100,1118 3151,1123"/>
+                <TextEquiv>
+                    <Unicode>dass (32 verso) an dem Einschiffungsorte, dessen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="2143,1186 2681,1211 3058,1186 3058,1152 2933,1135 2723,1166 2669,1139 2143,1137"/>
+                <Baseline points="2150,1179 2195,1176 2241,1176 2286,1176 2332,1176 2377,1176 2423,1176 2468,1179 2514,1179 2559,1179 2605,1179 2651,1179 2696,1179 2742,1179 2787,1179 2833,1179 2878,1179 2924,1179 2969,1179 3015,1179 3061,1179"/>
+                <TextEquiv>
+                    <Unicode>Wahl auf Bremen gefallen ist, jeder ledige Aus-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="2137,1246 3132,1261 3132,1210 3095,1196 2995,1223 2889,1186 2137,1210"/>
+                <Baseline points="2144,1242 2193,1242 2243,1242 2292,1242 2342,1242 2392,1242 2441,1242 2491,1242 2540,1242 2590,1245 2640,1245 2689,1245 2739,1244 2788,1243 2838,1245 2888,1245 2937,1245 2987,1245 3036,1245 3086,1245 3136,1245"/>
+                <TextEquiv>
+                    <Unicode>wanderer 300 fl, und jede Familie 600 fl als Eigen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="2137,1329 3049,1322 3049,1283 3010,1273 2137,1275"/>
+                <Baseline points="2144,1305 2189,1305 2234,1305 2280,1305 2325,1305 2371,1305 2416,1305 2461,1305 2507,1308 2552,1305 2598,1308 2643,1308 2688,1308 2734,1306 2779,1308 2825,1308 2870,1308 2915,1308 2961,1309 3006,1311 3052,1311"/>
+                <TextEquiv>
+                    <Unicode>thum nachweisen kann. Diese Summen von 300 fl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="2134,1377 3043,1395 3035,1338 2134,1341"/>
+                <Baseline points="2141,1367 2186,1367 2231,1367 2276,1367 2322,1367 2367,1370 2412,1367 2457,1367 2503,1370 2548,1370 2593,1370 2638,1370 2684,1370 2729,1370 2774,1370 2819,1373 2865,1373 2910,1373 2955,1373 3000,1373 3046,1373"/>
+                <TextEquiv>
+                    <Unicode>resp. 600 fl wird bei dem Verein deponirt, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="2134,1446 2980,1438 3093,1468 3093,1399 2134,1399"/>
+                <Baseline points="2141,1430 2188,1430 2236,1430 2284,1433 2332,1433 2380,1433 2427,1433 2475,1433 2523,1433 2571,1433 2619,1435 2666,1436 2714,1436 2762,1436 2810,1436 2858,1436 2905,1436 2953,1436 3001,1436 3049,1436 3097,1433"/>
+                <TextEquiv>
+                    <Unicode>zwar entweder vor der Einschiffung bei der unter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="2134,1502 2397,1537 2497,1504 2666,1540 3054,1516 3037,1463 2134,1470"/>
+                <Baseline points="2141,1496 2186,1496 2232,1499 2278,1496 2324,1499 2370,1499 2416,1499 2461,1499 2507,1499 2553,1499 2599,1499 2645,1499 2691,1499 2737,1499 2782,1499 2828,1499 2874,1499 2920,1499 2966,1499 3012,1499 3058,1499"/>
+                <TextEquiv>
+                    <Unicode>zeichneten Direktion und dem Banquierhause der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="2134,1569 2509,1598 2587,1569 3037,1576 3008,1523 2134,1530"/>
+                <Baseline points="2141,1562 2188,1562 2235,1562 2282,1562 2330,1562 2377,1562 2424,1562 2472,1563 2519,1565 2566,1565 2614,1565 2661,1565 2708,1565 2756,1565 2803,1565 2850,1565 2898,1565 2945,1565 2992,1565 3040,1568"/>
+                <TextEquiv>
+                    <Unicode>Gesellschaft L. H. Flershein in Frankfurt a/M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="2134,1646 3122,1633 3122,1593 2134,1589"/>
+                <Baseline points="2141,1624 2190,1624 2239,1624 2288,1624 2337,1624 2386,1624 2435,1624 2485,1626 2534,1627 2583,1627 2632,1627 2681,1627 2730,1630 2779,1627 2829,1627 2878,1628 2927,1630 2976,1630 3025,1630 3074,1630 3124,1630"/>
+                <TextEquiv>
+                    <Unicode>oder während der Einschiffung in Bremen selbst von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:19;} textStyle {offset:11; length:1;italic:true;} textStyle {offset:14; length:4;strikethrough:true;}">
+                <Coords points="2134,1711 3097,1716 3097,1667 3020,1654 2724,1672 2621,1642 2442,1675 2376,1643 2302,1671 2134,1644"/>
+                <Baseline points="2141,1690 2191,1690 2241,1690 2292,1690 2342,1691 2393,1691 2443,1692 2494,1690 2544,1690 2595,1690 2645,1693 2696,1693 2746,1693 2797,1693 2847,1693 2898,1693 2948,1696 2999,1693 3049,1693 3100,1696"/>
+                <TextEquiv>
+                    <Unicode>einem seiner  Ziel Zeit zu bestellenden Agenten der Ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:20;}">
+                <Coords points="2134,1760 2587,1792 2681,1758 3097,1769 3087,1714 2134,1726"/>
+                <Baseline points="2141,1753 2191,1756 2241,1755 2292,1753 2342,1754 2393,1756 2443,1756 2494,1759 2544,1756 2595,1756 2645,1756 2696,1757 2746,1759 2797,1759 2847,1759 2898,1759 2948,1759 2999,1759 3049,1759 3100,1762"/>
+                <TextEquiv>
+                    <Unicode>sellschaft; für diese Summe bestreitet der Verein-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:21;}">
+                <Coords points="2131,1833 3045,1828 3045,1794 2946,1787 2131,1782"/>
+                <Baseline points="2138,1818 2183,1818 2229,1818 2274,1818 2320,1818 2365,1821 2411,1818 2456,1818 2502,1818 2547,1821 2593,1818 2639,1821 2684,1821 2730,1821 2775,1821 2821,1821 2866,1822 2912,1824 2957,1824 3003,1825 3049,1827"/>
+                <TextEquiv>
+                    <Unicode>freie Ueberfahrt nebst Verköstigung von Bremen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:22;}">
+                <Coords points="2131,1893 3091,1911 3079,1830 2701,1865 2131,1850"/>
+                <Baseline points="2138,1884 2185,1884 2233,1881 2281,1884 2329,1884 2377,1884 2424,1884 2472,1884 2520,1884 2568,1884 2616,1884 2663,1886 2711,1885 2759,1884 2807,1887 2855,1887 2902,1887 2950,1887 2998,1887 3046,1887 3094,1887"/>
+                <TextEquiv>
+                    <Unicode>bis an den Ausschiffungsort, welches sich auf un-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:23;}">
+                <Coords points="2136,1978 3079,1954 3063,1920 2772,1904 2685,1932 2552,1891 2442,1924 2134,1924"/>
+                <Baseline points="2141,1947 2188,1947 2235,1947 2282,1950 2329,1950 2376,1950 2423,1950 2470,1950 2517,1950 2564,1950 2611,1950 2658,1950 2705,1952 2752,1953 2799,1953 2846,1953 2893,1953 2940,1953 2987,1953 3034,1953 3082,1953"/>
+                <TextEquiv>
+                    <Unicode>gefähr 60 fl pr Kopf belaufen wird, freien Land-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:24;}">
+                <Coords points="2128,2020 3103,2029 3103,1988 3057,1979 2128,1972"/>
+                <Baseline points="2135,2010 2183,2013 2232,2010 2280,2013 2329,2013 2377,2013 2426,2013 2474,2013 2523,2013 2571,2015 2620,2014 2669,2013 2717,2013 2766,2016 2814,2016 2863,2016 2911,2016 2960,2016 3008,2016 3057,2016 3106,2016"/>
+                <TextEquiv>
+                    <Unicode>transport ohne Verköstigung von dem Ausschiffungs-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

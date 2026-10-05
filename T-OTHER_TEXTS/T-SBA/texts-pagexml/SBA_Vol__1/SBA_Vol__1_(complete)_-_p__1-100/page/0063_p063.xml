@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_17:54</Creator>
+        <Created>2025-08-12T17:15:27.028+02:00</Created>
+        <LastChange>2025-12-03T18:32:39.569+01:00</LastChange>
+        <TranskribusMetadata docId="10053002" pageId="101583735" pageNr="63" tsid="263600024" status="DONE" userId="144967" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=HUJTFCMGHRHCXXNXEUWSPAWV" xmlUrl="https://files.transkribus.eu/Get?id=XMIOVIGCYVISJPNKWFVLUMGW" imageId="85201217">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0063_p063.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1787002855432" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+                <RegionRefIndexed index="3" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1933,380 2054,380 2054,497 1933,497"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1962,482 2032,486 2034,456 1964,452"/>
+                <Baseline points="1962,482 2032,486"/>
+                <TextEquiv>
+                    <Unicode>//42</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2901,267 3007,267 3007,365 2901,365"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2938,347 2978,347 2978,317 2938,317"/>
+                <Baseline points="2938,347 2978,347"/>
+                <TextEquiv>
+                    <Unicode>52</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="3022,245 3135,245 3135,362 3022,362"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="3040,343 3102,340 3101,310 3039,313"/>
+                <Baseline points="3040,343 3102,340"/>
+                <TextEquiv>
+                    <Unicode>52</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:3;} structure {type:item-start;}">
+            <Coords points="1950,307 1950,1272 3127,1272 3127,307"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1941,590 1962,588 1985,569 2002,575 2017,564 2048,573 2076,565 2109,581 2122,573 2140,576 2141,511 2099,507 2044,527 2004,507 1989,514 1944,506"/>
+                <Baseline points="1950,561 1977,560 2005,558 2033,558 2060,558 2088,558 2116,557 2144,555"/>
+                <TextEquiv>
+                    <Unicode>Abschrift</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1948,701 3067,699 3055,648 1948,655"/>
+                <Baseline points="1956,683 2011,683 2067,683 2123,683 2178,683 2234,683 2290,683 2345,683 2401,683 2457,683 2513,683 2568,685 2624,686 2680,686 2735,686 2791,686 2847,689 2902,689 2958,689 3014,689 3070,689"/>
+                <TextEquiv>
+                    <Unicode>I have this day delivered to your agent here three letters</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="1948,781 2817,753 3002,790 3045,781 3045,727 1946,706"/>
+                <Baseline points="1956,749 2010,748 2065,746 2119,746 2174,746 2229,746 2283,746 2338,746 2393,746 2447,746 2502,746 2557,746 2611,748 2666,749 2721,752 2775,752 2830,752 2885,752 2939,752 2994,752 3049,752"/>
+                <TextEquiv>
+                    <Unicode>for you, and the guitar with the music. The cost of this</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="1942,814 2997,828 2997,784 2657,759 2555,798 1942,783"/>
+                <Baseline points="1950,812 2002,812 2055,809 2107,809 2160,809 2212,809 2265,812 2317,809 2370,809 2422,809 2475,811 2528,812 2580,812 2633,812 2685,812 2738,814 2790,815 2843,815 2895,815 2948,816 3001,818"/>
+                <TextEquiv>
+                    <Unicode>last is $56. which seems to me to dear enough; but if</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="1948,891 2970,898 2952,832 1948,821"/>
+                <Baseline points="1956,875 2006,875 2057,873 2108,875 2159,873 2210,874 2261,875 2312,875 2363,875 2414,875 2465,875 2515,875 2566,875 2617,877 2668,878 2719,878 2770,878 2821,878 2872,878 2923,878 2974,878"/>
+                <TextEquiv>
+                    <Unicode>it is for a fair Princess in the neighbourhood of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="1951,949 2771,942 2908,975 2992,944 2992,907 2845,890 1951,907"/>
+                <Baseline points="1959,940 2010,937 2062,937 2114,937 2166,935 2218,936 2269,937 2321,937 2373,937 2425,937 2477,937 2528,937 2580,937 2632,940 2684,940 2736,940 2787,940 2839,940 2891,940 2943,943 2995,943"/>
+                <TextEquiv>
+                    <Unicode>Chateau, you will not regret the expense.. I have also</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:6;} textStyle {offset:5; length:3;strikethrough:true;} textStyle {offset:9; length:3;italic:true;}">
+                <Coords points="1942,1018 2562,1006 2770,1040 2886,1007 3000,1037 3000,983 2896,966 2151,977 2085,939 1942,983"/>
+                <Baseline points="1950,1003 2002,1000 2055,1000 2108,1000 2160,1000 2213,1000 2266,1000 2318,1000 2371,1000 2424,1000 2477,1002 2529,1003 2582,1000 2635,1003 2687,1003 2740,1005 2793,1006 2845,1006 2898,1006 2951,1007 3004,1009"/>
+                <TextEquiv>
+                    <Unicode>paid 400 two draft for you and in favour of Colonel Laurie,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:7;} textStyle {offset:4; length:3;strikethrough:true;} textStyle {offset:8; length:5;italic:true;}">
+                <Coords points="1948,1083 3050,1085 3082,1030 2391,1042 2089,1003 1946,1038"/>
+                <Baseline points="1956,1063 2012,1063 2068,1063 2125,1061 2181,1063 2238,1061 2294,1063 2351,1063 2407,1063 2464,1064 2520,1066 2576,1066 2633,1066 2689,1067 2746,1069 2802,1069 2859,1066 2915,1067 2972,1069 3028,1069 3085,1069"/>
+                <TextEquiv>
+                    <Unicode>and 400 five  more of Mr. Gale Borden the Collector of Galveston.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="1944,1155 2588,1137 2664,1167 2722,1134 3051,1147 3050,1112 1942,1089"/>
+                <Baseline points="1950,1126 2005,1126 2060,1126 2115,1126 2170,1126 2225,1126 2280,1126 2335,1126 2390,1126 2445,1126 2501,1126 2556,1127 2611,1128 2666,1128 2721,1129 2776,1130 2831,1130 2886,1131 2941,1131 2996,1131 3052,1131"/>
+                <TextEquiv>
+                    <Unicode>Nothing of any interest here. No. 4 New Orleans Mail has</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="1942,1201 2993,1208 2982,1155 1942,1154"/>
+                <Baseline points="1950,1188 2002,1188 2054,1186 2106,1188 2159,1188 2211,1188 2263,1188 2315,1188 2368,1188 2420,1188 2472,1188 2524,1188 2577,1191 2629,1191 2681,1191 2733,1192 2786,1194 2838,1192 2890,1191 2942,1191 2995,1194"/>
+                <TextEquiv>
+                    <Unicode>arrived with no definitive tidings about this tiresome</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="1945,1268 2759,1263 2759,1227 2634,1198 2479,1235 1945,1206"/>
+                <Baseline points="1953,1254 1993,1251 2033,1249 2074,1250 2114,1251 2155,1251 2195,1251 2236,1251 2276,1251 2317,1251 2357,1251 2397,1251 2438,1251 2478,1251 2519,1253 2559,1254 2600,1254 2640,1254 2681,1254 2721,1254 2762,1257"/>
+                <TextEquiv>
+                    <Unicode>struggle between Mexico and this Republic.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

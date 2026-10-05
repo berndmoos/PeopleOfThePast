@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.44.0:model_id=50870:lm=none:date=15_06_2026_19:59</Creator>
+        <Created>2025-10-10T22:22:51.298+02:00</Created>
+        <LastChange>2026-06-29T00:38:26.785+02:00</LastChange>
+        <TranskribusMetadata docId="11233179" pageId="104147932" pageNr="11" tsid="294203471" status="DONE" userId="490466" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=GRPHUIBDSGWFZVLKMKWHRQMB" xmlUrl="https://files.transkribus.eu/Get?id=MMJUTIDWOMNCDYWWEAPRBMPH" imageId="87396515">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0011_p011.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883601859" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_4" custom="readingOrder {index:0;}">
+            <Coords points="3031,301 3031,1419 3198,1419 3198,301"/>
+            <TextLine id="tr_4_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3025,370 3131,367 3127,313 3112,315 3106,310 3099,317 3083,318 3021,316"/>
+                <Baseline points="3031,352 3056,355 3082,358 3107,358 3133,358"/>
+                <TextEquiv>
+                    <Unicode>VIII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TableRegion id="t" custom="readingOrder {index:1;}">
+            <Coords points="1931,390 3228,390 3228,1425 1931,1425"/>
+            <TableCell row="0" col="0" rowSpan="1" colSpan="1" id="t_c0">
+                <Coords points="1931,390 1931,492 3040,492 3040,390"/>
+                <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                    <Coords points="2000,451 2897,446 2897,383 2192,376 2156,410 2002,365"/>
+                    <Baseline points="2007,430 2051,430 2096,430 2140,430 2185,430 2230,430 2274,430 2319,430 2364,430 2408,430 2453,430 2498,427 2542,427 2587,427 2632,427 2676,427 2721,427 2766,427 2810,427 2855,427 2900,427"/>
+                    <TextEquiv>
+                        <Unicode>Meibom, Berlin, den 1. Dezember, 1857, an</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                    <Coords points="2134,469 2170,490 2266,489 2298,468 2336,489 2407,489 2422,474 2449,474 2449,437 2433,430 2407,442 2292,433 2268,456 2233,439 2134,436"/>
+                    <Baseline points="2141,465 2166,465 2192,465 2218,465 2244,465 2270,465 2296,464 2322,462 2348,464 2374,465 2400,465 2426,465 2452,465"/>
+                    <TextEquiv>
+                        <Unicode>Bibra, Neuwied</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="1" rowSpan="1" colSpan="1" id="c_8">
+                <Coords points="3040,390 3040,492 3228,492 3228,390"/>
+                <TextLine id="tr_4_tl_2" custom="readingOrder {index:0;}">
+                    <Coords points="3103,469 3143,474 3149,468 3157,468 3168,474 3175,471 3187,473 3187,408 3137,404 3126,412 3103,412"/>
+                    <Baseline points="3109,462 3135,462 3162,462 3189,462"/>
+                    <TextEquiv>
+                        <Unicode>211</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="0" rowSpan="1" colSpan="1" id="c">
+                <Coords points="1931,492 1931,588 3040,588 3040,492"/>
+                <TextLine id="tr_3_tl_3" custom="readingOrder {index:0;}">
+                    <Coords points="2003,552 2899,547 2899,495 2525,493 2485,517 2181,494 2149,520 2003,499"/>
+                    <Baseline points="2010,537 2054,540 2099,537 2143,538 2188,533 2232,534 2277,536 2321,537 2366,535 2410,534 2455,534 2499,534 2544,532 2588,533 2633,534 2677,536 2722,535 2766,534 2811,534 2855,534 2900,534"/>
+                    <TextEquiv>
+                        <Unicode>Bibra, Neuwied, den 7. Dezember, 1857, an</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_4" custom="readingOrder {index:1;}">
+                    <Coords points="2134,589 2285,592 2295,582 2311,593 2449,595 2449,542 2434,538 2360,553 2332,542 2295,563 2251,543 2134,542"/>
+                    <Baseline points="2141,576 2166,574 2192,573 2218,573 2244,573 2270,573 2296,573 2322,573 2348,573 2374,573 2400,573 2426,574 2452,576"/>
+                    <TextEquiv>
+                        <Unicode>Meibom, Berlin</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="1" rowSpan="1" colSpan="1" id="c_9">
+                <Coords points="3040,492 3040,588 3228,588 3228,492"/>
+                <TextLine id="tr_4_tl_3" custom="readingOrder {index:0;}">
+                    <Coords points="3105,590 3116,587 3121,592 3143,589 3160,593 3166,587 3182,590 3196,584 3196,522 3181,525 3168,511 3133,514 3128,519 3105,519"/>
+                    <Baseline points="3112,570 3140,570 3169,570 3198,570"/>
+                    <TextEquiv>
+                        <Unicode>214</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="0" rowSpan="1" colSpan="1" id="c_1">
+                <Coords points="1931,588 1931,711 3040,711 3040,588"/>
+                <TextLine id="tr_3_tl_5" custom="readingOrder {index:0;}">
+                    <Coords points="2003,671 2520,643 2689,671 2808,649 2841,676 2913,650 2915,606 2589,586 2508,625 2466,587 2004,592"/>
+                    <Baseline points="2010,648 2055,648 2100,648 2146,648 2191,643 2237,644 2282,645 2327,645 2373,642 2418,645 2464,645 2509,642 2554,642 2600,642 2645,642 2691,642 2736,642 2781,642 2827,642 2872,642 2918,642"/>
+                    <TextEquiv>
+                        <Unicode>Meibom, Berlin, den 11. Dezember, 1857, an</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_6" custom="readingOrder {index:1;}">
+                    <Coords points="2137,691 2223,689 2256,710 2285,688 2464,689 2464,650 2376,651 2360,661 2311,650 2215,660 2137,651"/>
+                    <Baseline points="2144,683 2170,680 2197,680 2224,680 2251,680 2278,680 2305,680 2332,680 2359,680 2386,680 2413,680 2440,680 2467,680"/>
+                    <TextEquiv>
+                        <Unicode>Bibra, Neu Wied</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="1" rowSpan="1" colSpan="1" id="c_10">
+                <Coords points="3040,588 3040,711 3228,711 3228,588"/>
+                <TextLine id="tr_4_tl_4" custom="readingOrder {index:0;}">
+                    <Coords points="3103,688 3111,691 3131,688 3144,692 3157,688 3187,691 3189,632 3180,633 3174,639 3159,640 3146,635 3137,640 3122,624 3105,623"/>
+                    <Baseline points="3109,677 3135,677 3162,676 3189,675"/>
+                    <TextEquiv>
+                        <Unicode>217</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="0" rowSpan="1" colSpan="1" id="c_2">
+                <Coords points="1931,711 1931,816 3040,816 3040,711"/>
+                <TextLine id="tr_3_tl_7" custom="readingOrder {index:0;}">
+                    <Coords points="2007,770 2915,763 2915,713 2007,719"/>
+                    <Baseline points="2013,755 2058,752 2103,755 2148,755 2194,752 2239,751 2284,752 2329,754 2375,753 2420,752 2465,752 2510,752 2556,749 2601,749 2646,752 2691,752 2737,752 2782,752 2827,752 2872,752 2918,749"/>
+                    <TextEquiv>
+                        <Unicode>Meibom, Berlin, den 22. Dezember, 1857, an</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_8" custom="readingOrder {index:1;}">
+                    <Coords points="2133,810 2470,810 2471,762 2359,764 2338,752 2287,763 2266,781 2245,766 2174,754 2134,768"/>
+                    <Baseline points="2141,794 2166,791 2192,791 2217,791 2243,791 2268,790 2294,788 2319,788 2345,788 2370,788 2396,788 2421,788 2447,789 2473,791"/>
+                    <TextEquiv>
+                        <Unicode>Bibra, Nen Wied</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="1" rowSpan="1" colSpan="1" id="c_11">
+                <Coords points="3040,711 3040,816 3228,816 3228,711"/>
+                <TextLine id="tr_4_tl_5" custom="readingOrder {index:0;}">
+                    <Coords points="3103,793 3138,795 3148,791 3169,810 3180,810 3187,802 3195,801 3195,740 3184,740 3170,730 3164,736 3103,741"/>
+                    <Baseline points="3109,785 3138,785 3168,785 3198,785"/>
+                    <TextEquiv>
+                        <Unicode>219</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="0" rowSpan="1" colSpan="1" id="c_3">
+                <Coords points="1931,816 1931,935 3040,935 3040,816"/>
+                <TextLine id="tr_3_tl_9" custom="readingOrder {index:0;}">
+                    <Coords points="2009,871 2904,874 2922,824 2010,823"/>
+                    <Baseline points="2016,860 2061,863 2106,863 2152,860 2197,860 2243,860 2288,863 2333,860 2379,860 2424,860 2470,860 2515,860 2560,860 2606,859 2651,858 2697,860 2742,860 2787,860 2833,860 2878,860 2924,860"/>
+                    <TextEquiv>
+                        <Unicode>Graf Hatzfeld, Calc., den 1. Mai, 1858, an</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_10" custom="readingOrder {index:1;}">
+                    <Coords points="2139,930 2179,912 2266,913 2278,903 2304,914 2465,913 2465,866 2348,876 2311,864 2277,877 2140,867"/>
+                    <Baseline points="2147,896 2173,898 2200,899 2227,899 2253,898 2280,896 2307,896 2333,896 2360,896 2387,896 2413,896 2440,896 2467,896"/>
+                    <TextEquiv>
+                        <Unicode>Bibra, Nen Wied</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="1" rowSpan="1" colSpan="1" id="c_12">
+                <Coords points="3040,816 3040,935 3228,935 3228,816"/>
+                <TextLine id="tr_4_tl_6" custom="readingOrder {index:0;}">
+                    <Coords points="3103,912 3121,914 3130,909 3135,913 3163,913 3170,906 3187,913 3187,856 3180,856 3173,863 3166,860 3163,863 3153,853 3136,849 3126,859 3103,859"/>
+                    <Baseline points="3109,893 3135,893 3162,893 3189,893"/>
+                    <TextEquiv>
+                        <Unicode>220</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="0" rowSpan="1" colSpan="1" id="c_4">
+                <Coords points="1931,935 1931,1028 3040,1028 3040,935"/>
+                <TextLine id="tr_3_tl_11" custom="readingOrder {index:0;}">
+                    <Coords points="2003,971 2127,994 2226,969 2336,994 2816,976 2816,928 2707,907 2622,928 2239,912 2144,939 2003,907"/>
+                    <Baseline points="2010,967 2050,970 2090,970 2131,970 2171,968 2212,967 2252,967 2293,968 2333,969 2374,967 2414,967 2454,967 2495,967 2535,967 2576,967 2616,967 2657,967 2697,967 2738,967 2778,967 2819,967"/>
+                    <TextEquiv>
+                        <Unicode>8. Knorr. Wien, den 27. Mai, 1858, an</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_12" custom="readingOrder {index:1;}">
+                    <Coords points="2143,1010 2311,1011 2311,979 2287,982 2277,977 2265,982 2247,976 2238,984 2217,978 2211,984 2195,984 2143,974"/>
+                    <Baseline points="2150,1006 2177,1003 2204,1003 2232,1003 2259,1003 2286,1003 2314,1003"/>
+                    <TextEquiv>
+                        <Unicode>Reuscher</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="1" rowSpan="1" colSpan="1" id="c_13">
+                <Coords points="3040,935 3040,1028 3228,1028 3228,935"/>
+                <TextLine id="tr_4_tl_7" custom="readingOrder {index:0;}">
+                    <Coords points="3104,1011 3190,1010 3187,951 3168,949 3157,961 3101,962"/>
+                    <Baseline points="3109,997 3136,997 3164,998 3192,1000"/>
+                    <TextEquiv>
+                        <Unicode>222</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="0" rowSpan="1" colSpan="1" id="c_5">
+                <Coords points="1931,1028 1931,1139 3040,1139 3040,1028"/>
+                <TextLine id="tr_3_tl_13" custom="readingOrder {index:0;}">
+                    <Coords points="2003,1090 2978,1090 2990,1032 2004,1041"/>
+                    <Baseline points="2010,1078 2059,1078 2108,1077 2157,1075 2206,1075 2255,1075 2304,1075 2353,1075 2402,1075 2451,1075 2501,1075 2550,1072 2599,1072 2648,1072 2697,1072 2746,1072 2795,1074 2844,1073 2893,1072 2942,1072 2992,1069"/>
+                    <TextEquiv>
+                        <Unicode>Zeitungeinserat, das Anlehen der unirten dent-</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_14" custom="readingOrder {index:1;}">
+                    <Coords points="2134,1128 2661,1129 2661,1078 2626,1075 2134,1090"/>
+                    <Baseline points="2141,1111 2167,1111 2193,1111 2219,1111 2245,1113 2271,1113 2297,1112 2324,1111 2350,1111 2376,1111 2402,1111 2428,1111 2454,1111 2480,1111 2507,1111 2533,1111 2559,1111 2585,1111 2611,1111 2637,1110 2664,1108"/>
+                    <TextEquiv>
+                        <Unicode>schen Fürsten betreffend</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="1" rowSpan="1" colSpan="1" id="c_14">
+                <Coords points="3040,1028 3040,1139 3228,1139 3228,1028"/>
+                <TextLine id="tr_4_tl_8" custom="readingOrder {index:0;}">
+                    <Coords points="3101,1113 3115,1110 3120,1114 3153,1114 3168,1129 3187,1129 3190,1055 3155,1065 3149,1058 3139,1062 3104,1063"/>
+                    <Baseline points="3109,1108 3136,1108 3164,1107 3192,1105"/>
+                    <TextEquiv>
+                        <Unicode>223</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="0" rowSpan="1" colSpan="1" id="c_6">
+                <Coords points="1931,1139 1931,1225 3040,1225 3040,1139"/>
+                <TextLine id="tr_3_tl_15" custom="readingOrder {index:0;}">
+                    <Coords points="2009,1189 2144,1212 2204,1189 2333,1212 2368,1191 2763,1193 2763,1153 2708,1130 2137,1151 2010,1119"/>
+                    <Baseline points="2016,1185 2053,1185 2090,1185 2128,1183 2165,1182 2203,1182 2240,1182 2278,1182 2315,1182 2353,1182 2390,1181 2427,1180 2465,1182 2502,1182 2540,1180 2577,1179 2615,1179 2652,1179 2690,1179 2727,1182 2765,1185"/>
+                    <TextEquiv>
+                        <Unicode>Philipp Forster, Frankfurt am Main.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="1" rowSpan="1" colSpan="1" id="c_15">
+                <Coords points="3040,1139 3040,1225 3228,1225 3228,1139"/>
+                <TextLine id="tr_4_tl_9" custom="readingOrder {index:0;}">
+                    <Coords points="3103,1231 3114,1235 3128,1230 3137,1235 3147,1231 3152,1235 3159,1232 3163,1236 3170,1231 3189,1234 3189,1180 3178,1181 3166,1175 3158,1183 3146,1176 3103,1181"/>
+                    <Baseline points="3109,1215 3136,1213 3164,1213 3192,1215"/>
+                    <TextEquiv>
+                        <Unicode>224</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="8" col="0" rowSpan="1" colSpan="1" id="c_7">
+                <Coords points="1931,1225 1931,1425 3040,1425 3040,1225"/>
+                <TextLine id="tr_3_tl_16" custom="readingOrder {index:0;}">
+                    <Coords points="2009,1309 2840,1302 2841,1248 2749,1219 2702,1246 2242,1229 2010,1256"/>
+                    <Baseline points="2016,1293 2057,1290 2098,1290 2140,1290 2181,1290 2222,1290 2264,1290 2305,1287 2346,1287 2388,1287 2429,1287 2470,1287 2512,1287 2553,1285 2594,1285 2636,1287 2677,1287 2718,1287 2760,1287 2801,1287 2843,1290"/>
+                    <TextEquiv>
+                        <Unicode>Reuscher, Wiesbaden, den 15. Mai, 1858.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_17" custom="readingOrder {index:1;}">
+                    <Coords points="2143,1341 2825,1333 2825,1294 2760,1290 2143,1295"/>
+                    <Baseline points="2150,1329 2183,1326 2217,1325 2251,1323 2285,1323 2319,1323 2353,1323 2387,1323 2421,1323 2455,1323 2489,1320 2522,1318 2556,1323 2590,1321 2624,1320 2658,1320 2692,1320 2726,1320 2760,1320 2794,1321 2828,1323"/>
+                    <TextEquiv>
+                        <Unicode>Liste der bei der 21. Verloosung</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_18" custom="readingOrder {index:2;}">
+                    <Coords points="2143,1371 2867,1368 2867,1325 2838,1318 2744,1339 2521,1318 2143,1339"/>
+                    <Baseline points="2150,1364 2186,1361 2222,1361 2258,1360 2294,1358 2330,1361 2366,1359 2402,1356 2438,1355 2474,1355 2510,1358 2546,1358 2582,1358 2618,1357 2654,1355 2690,1355 2726,1355 2762,1355 2798,1356 2834,1357 2870,1355"/>
+                    <TextEquiv>
+                        <Unicode>gezogenen 1150 Stück Partial-Obli-</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="tr_3_tl_19" custom="readingOrder {index:3;}">
+                    <Coords points="2134,1412 2181,1418 2207,1408 2214,1416 2231,1407 2326,1411 2326,1366 2230,1374 2192,1365 2134,1380"/>
+                    <Baseline points="2141,1400 2167,1399 2194,1397 2221,1397 2248,1396 2275,1395 2302,1395 2329,1397"/>
+                    <TextEquiv>
+                        <Unicode>gationen</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="8" col="1" rowSpan="1" colSpan="1" id="c_16">
+                <Coords points="3040,1225 3040,1425 3228,1425 3228,1225"/>
+                <TextLine id="tr_4_tl_10" custom="readingOrder {index:0;}">
+                    <Coords points="3103,1411 3122,1408 3135,1418 3147,1414 3168,1418 3178,1408 3189,1408 3189,1348 3170,1347 3158,1334 3144,1333 3135,1343 3121,1344 3109,1332 3103,1332"/>
+                    <Baseline points="3109,1391 3136,1391 3164,1391 3192,1391"/>
+                    <TextEquiv>
+                        <Unicode>225</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+        </TableRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=39995:lm=none:date=24_10_2025_05:05</Creator>
+        <Created>2025-10-10T22:20:29.832+02:00</Created>
+        <LastChange>2025-12-03T19:53:38.870+01:00</LastChange>
+        <TranskribusMetadata docId="11233079" pageId="104147806" pageNr="73" tsid="263606653" status="DONE" userId="144967" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CKHMDFJKBVSXTCSSRMPMZGNP" xmlUrl="https://files.transkribus.eu/Get?id=ADQARRWEULHMPUYZUXZWNPWH" imageId="87396321">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0073_p073.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883583454" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_3"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="tr_4"/>
+                <RegionRefIndexed index="3" regionRef="r_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_3" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2639,481 1860,481 1860,310 2639,310"/>
+            <TextLine id="l_27" custom="readingOrder {index:0;} textStyle {offset:2; length:2;superscript:true;}">
+                <Coords points="1851,445 1882,446 1918,427 1928,427 1936,324 1921,322 1907,311 1886,304 1881,310 1861,309"/>
+                <Baseline points="1860,415 1896,409 1932,409"/>
+                <TextEquiv>
+                    <Unicode>//10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2639,310 3013,310 3013,481 2639,481"/>
+            <TextLine id="l_26" custom="readingOrder {index:0;}">
+                <Coords points="2850,385 2858,386 2865,395 2884,395 2895,384 2909,392 2925,391 2929,265 2902,267 2888,250 2875,259 2854,260"/>
+                <Baseline points="2858,352 2893,351 2929,349"/>
+                <TextEquiv>
+                    <Unicode>14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_4" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="3028,177 3028,327 3142,327 3142,177"/>
+            <TextLine id="tr_4_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3020,302 3030,300 3041,307 3048,303 3069,307 3076,300 3083,306 3089,300 3139,303 3139,222 3102,224 3086,213 3073,214 3062,224 3057,218 3020,213"/>
+                <Baseline points="3028,277 3056,277 3085,277 3113,277 3142,277"/>
+                <TextEquiv>
+                    <Unicode>﻿124</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:3;} structure {type:item-start;}">
+            <Coords points="3013,481 3013,2267 1860,2267 1860,481"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="2100,671 2384,678 2523,632 2787,642 2788,577 2628,563 2459,595 2403,563 2325,605 2102,606"/>
+                <Baseline points="2108,633 2142,633 2176,633 2210,633 2244,633 2279,633 2313,632 2347,630 2381,630 2415,628 2450,627 2484,627 2518,624 2552,626 2586,627 2621,627 2655,627 2689,627 2723,626 2757,624 2792,624"/>
+                <TextEquiv>
+                    <Unicode>Verehrtester Herr Kammerdirector:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:1;}">
+                <Coords points="1965,791 2980,783 2980,719 2723,689 2382,723 2224,687 1967,745"/>
+                <Baseline points="1974,770 2024,772 2074,771 2125,770 2175,767 2226,767 2276,766 2327,764 2377,764 2428,764 2478,764 2528,764 2579,761 2629,764 2680,761 2730,760 2781,758 2831,758 2882,758 2932,755 2983,755"/>
+                <TextEquiv>
+                    <Unicode>H. Dr. Tabor hat nun die beiden Anlagen zur Unter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:2;}">
+                <Coords points="1871,848 2940,837 2941,778 2501,801 2421,771 2275,810 2152,776 2091,806 1874,744"/>
+                <Baseline points="1878,842 1931,841 1984,839 2037,839 2091,839 2144,839 2197,835 2251,833 2304,833 2357,833 2411,830 2464,830 2517,830 2570,828 2624,827 2677,827 2730,827 2784,827 2837,825 2890,824 2944,821"/>
+                <TextEquiv>
+                    <Unicode>schrift gesandt.—- Da, solche zur actenmässigen Be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:3;}">
+                <Coords points="1871,916 2370,912 2407,941 2929,899 2929,855 1871,853"/>
+                <Baseline points="1878,907 1930,908 1983,907 2036,904 2088,904 2141,901 2194,903 2246,902 2299,901 2352,899 2405,899 2457,899 2510,897 2563,896 2615,896 2668,896 2721,895 2773,893 2826,893 2879,891 2932,887"/>
+                <TextEquiv>
+                    <Unicode>schlussnahme des Comites vorgelegt werden müssen, so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:4;}">
+                <Coords points="1872,995 2901,983 2873,916 1874,926"/>
+                <Baseline points="1881,979 1932,976 1983,975 2034,973 2085,973 2136,970 2187,973 2238,970 2289,969 2340,967 2392,965 2443,966 2494,967 2545,964 2596,964 2647,963 2698,961 2749,959 2800,958 2851,958 2903,958"/>
+                <TextEquiv>
+                    <Unicode>lasse ich dieselben an Sie abgehen.-- Vom Fürsten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:5;}">
+                <Coords points="1874,1076 2437,1041 2608,1054 2642,1084 2690,1055 2691,1001 2559,979 2323,1008 1875,999"/>
+                <Baseline points="1881,1045 1921,1046 1962,1045 2002,1043 2043,1043 2084,1044 2124,1041 2165,1039 2206,1039 2246,1039 2287,1036 2328,1036 2368,1036 2409,1034 2450,1033 2490,1033 2531,1032 2572,1030 2612,1031 2653,1033 2694,1030"/>
+                <TextEquiv>
+                    <Unicode>Schönburg bin ich noch ohne Erwiederung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:6;}">
+                <Coords points="1967,1133 2138,1158 2218,1155 2239,1136 2287,1154 2337,1126 2417,1151 2419,1055 2267,1065 2238,1052 2191,1070 1968,1055"/>
+                <Baseline points="1974,1111 2000,1111 2026,1111 2052,1111 2078,1110 2104,1108 2131,1108 2157,1108 2183,1108 2209,1107 2235,1105 2261,1105 2288,1105 2314,1105 2340,1104 2366,1103 2392,1102 2419,1102"/>
+                <TextEquiv>
+                    <Unicode>Mit bester Empfehlung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:7;}">
+                <Coords points="2453,1191 2462,1190 2480,1198 2488,1194 2510,1195 2515,1200 2524,1194 2538,1194 2538,1095 2506,1098 2491,1090 2471,1090 2462,1080 2453,1079"/>
+                <Baseline points="2461,1167 2487,1167 2514,1167 2541,1167"/>
+                <TextEquiv>
+                    <Unicode>Ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:8;}">
+                <Coords points="2594,1251 2641,1254 2662,1266 2687,1265 2712,1248 2723,1258 2756,1251 2766,1258 2790,1244 2837,1244 2838,1165 2794,1166 2756,1138 2748,1145 2734,1136 2652,1195 2619,1198 2595,1188"/>
+                <Baseline points="2601,1230 2627,1230 2654,1230 2680,1229 2707,1227 2733,1227 2760,1227 2786,1227 2813,1227 2840,1227"/>
+                <TextEquiv>
+                    <Unicode>ergebenster</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:9;}">
+                <Coords points="2733,1309 2780,1316 2801,1329 2820,1318 2850,1336 2876,1330 2884,1339 2905,1336 2905,1234 2891,1240 2863,1234 2826,1248 2812,1243 2791,1262 2773,1252 2733,1257"/>
+                <Baseline points="2741,1296 2769,1293 2797,1293 2825,1293 2853,1293 2881,1293 2909,1293"/>
+                <TextEquiv>
+                    <Unicode>Kroeber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:10;} textStyle {offset:9; length:1;superscript:true;} textStyle {offset:11; length:2;subscript:true;}">
+                <Coords points="1871,1397 1956,1422 1979,1401 2038,1394 2079,1428 2128,1418 2145,1436 2173,1434 2191,1416 2227,1418 2228,1334 2164,1316 2100,1344 2032,1315 1961,1348 1871,1337"/>
+                <Baseline points="1878,1382 1903,1382 1928,1381 1953,1380 1978,1379 2004,1379 2029,1379 2054,1379 2079,1377 2104,1377 2130,1378 2155,1378 2180,1376 2205,1376 2231,1376"/>
+                <TextEquiv>
+                    <Unicode>Meerholz 3/11 49.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:11;}">
+                <Coords points="2180,1522 2262,1511 2280,1521 2292,1514 2363,1523 2374,1515 2395,1533 2410,1519 2430,1521 2432,1447 2405,1450 2350,1434 2330,1414 2277,1439 2232,1415 2209,1428 2182,1414"/>
+                <Baseline points="2189,1508 2216,1508 2243,1506 2270,1505 2297,1505 2325,1505 2352,1504 2379,1503 2406,1502 2434,1502"/>
+                <TextEquiv>
+                    <Unicode>den 5. Nov.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:12;}">
+                <Coords points="1876,1604 1910,1605 1927,1597 1954,1615 1975,1601 1985,1611 2000,1600 2045,1607 2045,1529 2032,1529 2003,1548 1957,1537 1936,1518 1899,1547 1876,1537"/>
+                <Baseline points="1884,1582 1911,1579 1938,1579 1966,1579 1993,1579 2020,1579 2048,1579"/>
+                <TextEquiv>
+                    <Unicode>ab cod.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:13;}">
+                <Coords points="1981,1655 3008,1657 3012,1537 2382,1610 2203,1601 2138,1554 1982,1608"/>
+                <Baseline points="1989,1648 2040,1644 2091,1643 2142,1643 2193,1642 2245,1639 2296,1639 2347,1636 2398,1636 2449,1635 2501,1633 2552,1633 2603,1630 2654,1630 2705,1630 2757,1629 2808,1627 2859,1625 2910,1622 2961,1621 3013,1621"/>
+                <TextEquiv>
+                    <Unicode>In der Ungewissheit ob der Herr College Kröber der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:14;}">
+                <Coords points="1883,1735 2965,1694 2966,1664 2830,1640 1885,1679"/>
+                <Baseline points="1893,1720 1946,1716 2000,1713 2054,1713 2108,1712 2161,1708 2215,1707 2269,1706 2323,1706 2376,1703 2430,1702 2484,1700 2538,1702 2591,1700 2645,1697 2699,1696 2753,1693 2806,1693 2860,1693 2914,1691 2968,1687"/>
+                <TextEquiv>
+                    <Unicode>Ansicht ist, dass diese Sache bis zu unserer nächster</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:15;}">
+                <Coords points="1889,1800 3004,1781 3005,1721 2841,1708 1890,1754"/>
+                <Baseline points="1896,1783 1951,1782 2007,1780 2062,1780 2118,1777 2173,1776 2229,1774 2284,1771 2340,1771 2395,1770 2451,1768 2507,1768 2562,1765 2618,1765 2673,1763 2729,1762 2784,1759 2840,1759 2895,1758 2951,1756 3007,1759"/>
+                <TextEquiv>
+                    <Unicode>Comite Sitzung zu berufen bleibe, bitte ich Herrn S. R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:16;}">
+                <Coords points="1883,1879 2947,1838 2923,1778 1886,1799"/>
+                <Baseline points="1893,1851 1945,1848 1998,1846 2051,1845 2104,1845 2157,1842 2210,1842 2262,1840 2315,1839 2368,1839 2421,1835 2474,1833 2527,1833 2580,1831 2632,1830 2685,1830 2738,1827 2791,1827 2844,1827 2897,1825 2950,1821"/>
+                <TextEquiv>
+                    <Unicode>Reuscher nach dessen Votum zu verfahren, wenn Gegen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:17;}">
+                <Coords points="1889,1953 2046,1967 2160,1918 2291,1914 2384,1945 2483,1915 2587,1928 2588,1867 2374,1851 2142,1885 2014,1860 1952,1889 1890,1878"/>
+                <Baseline points="1896,1914 1930,1917 1965,1917 2000,1915 2035,1914 2070,1914 2104,1914 2139,1911 2174,1911 2209,1911 2244,1910 2278,1908 2313,1908 2348,1906 2383,1904 2418,1902 2452,1902 2487,1902 2522,1902 2557,1902 2592,1902"/>
+                <TextEquiv>
+                    <Unicode>wärtiges ihm wird zugekommen seyn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:18;}">
+                <Coords points="2776,2000 2806,2004 2818,1993 2829,1997 2861,1993 2872,2000 2902,1985 2904,1921 2868,1924 2852,1917 2843,1927 2829,1927 2816,1918 2806,1928 2777,1925"/>
+                <Baseline points="2783,1965 2813,1962 2844,1962 2875,1962 2906,1962"/>
+                <TextEquiv>
+                    <Unicode>Bibra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:19;}">
+                <Coords points="1889,2074 1982,2054 2054,2071 2195,2050 2268,2072 2299,2054 2402,2063 2403,1982 2341,1963 2185,2000 2089,1950 1965,1978 1892,1954"/>
+                <Baseline points="1896,2051 1921,2048 1946,2048 1972,2048 1997,2048 2023,2048 2048,2048 2073,2048 2099,2048 2124,2048 2150,2047 2175,2045 2200,2045 2226,2045 2251,2041 2277,2039 2302,2039 2327,2039 2353,2039 2378,2039 2404,2039"/>
+                <TextEquiv>
+                    <Unicode>Neuwied den 5. Nov. 1849</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:20;}">
+                <Coords points="1897,2142 2203,2145 2274,2116 2314,2139 2356,2114 2380,2125 2381,2059 2239,2074 2182,2057 2143,2074 1965,2059 1899,2078"/>
+                <Baseline points="1905,2123 1930,2118 1955,2118 1980,2120 2005,2118 2030,2117 2055,2115 2081,2114 2106,2114 2131,2113 2156,2111 2181,2111 2206,2111 2232,2111 2257,2111 2282,2111 2307,2110 2332,2108 2357,2109 2383,2111"/>
+                <TextEquiv>
+                    <Unicode>pr. 7/11/49 ab den 8/11</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:21;}">
+                <Coords points="2463,2129 2478,2132 2501,2114 2519,2118 2531,2114 2538,2121 2546,2121 2544,2063 2516,2059 2505,2067 2492,2063 2474,2045 2460,2052"/>
+                <Baseline points="2470,2102 2496,2104 2523,2105 2550,2105"/>
+                <TextEquiv>
+                    <Unicode>Stp.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:22;}">
+                <Coords points="1893,2211 2020,2199 2121,2243 2188,2217 2281,2245 2350,2195 2423,2214 2541,2198 2542,2129 2515,2116 2431,2146 2270,2118 2203,2145 1896,2142"/>
+                <Baseline points="1902,2186 1934,2188 1966,2186 1998,2186 2030,2186 2062,2186 2094,2186 2126,2182 2158,2180 2190,2180 2223,2178 2255,2177 2287,2177 2319,2177 2351,2175 2383,2173 2415,2171 2447,2171 2479,2171 2511,2171 2544,2171"/>
+                <TextEquiv>
+                    <Unicode>P. Meerh. in meiner Abwesenheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:23;}">
+                <Coords points="2319,2263 2344,2264 2376,2291 2395,2296 2409,2288 2419,2291 2419,2210 2409,2210 2399,2202 2389,2207 2378,2199 2360,2213 2338,2207 2319,2217"/>
+                <Baseline points="2326,2249 2358,2249 2390,2249 2422,2249"/>
+                <TextEquiv>
+                    <Unicode>Kbr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

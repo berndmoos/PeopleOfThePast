@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=39995:lm=none:date=20_10_2025_20:44</Creator>
+        <Created>2025-10-10T22:20:26.042+02:00</Created>
+        <LastChange>2025-12-03T21:00:51.460+01:00</LastChange>
+        <TranskribusMetadata docId="11233079" pageId="104147778" pageNr="29" tsid="263609738" status="DONE" userId="144967" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=EHAQAVOANETJMGPCMLRSPQJF" xmlUrl="https://files.transkribus.eu/Get?id=XAPMUZVAUENKSBMTTCMNFXGA" imageId="87396298">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0029_p029.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883582758" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r_1"/>
+                <RegionRefIndexed index="3" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2028,281 2153,281 2153,402 2028,402"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;} textStyle {offset:2; length:2;superscript:true;}">
+                <Coords points="2033,433 2097,429 2143,454 2195,451 2219,430 2233,441 2274,417 2264,342 2223,342 2203,326 2104,336 2045,312 2017,314"/>
+                <Baseline points="2033,376 2059,379 2086,385 2113,394 2140,398 2167,400 2194,402 2221,404 2248,405 2275,406"/>
+                <TextEquiv>
+                    <Unicode>//16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="3186,345 3103,345 3103,189 3186,189"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="3186,318 3177,314 3160,326 3145,322 3111,346 3093,344 3096,263 3147,251 3167,263 3186,247"/>
+                <Baseline points="3103,295 3129,295 3156,293 3183,292 3186,292"/>
+                <TextEquiv>
+                    <Unicode>16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="3186,189 3264,189 3264,345 3186,345"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="3186,247 3196,238 3235,243 3263,234 3260,324 3211,330 3186,318"/>
+                <Baseline points="3186,292 3210,292 3237,291 3264,289"/>
+                <TextEquiv>
+                    <Unicode>16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:3;} structure {type:item-start;}">
+            <Coords points="1872,330 1872,1298 3133,1298 3133,330"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;} textStyle {offset:0; length:14;italic:true;} comment {offset:0; length:10;type:???;}">
+                <Coords points="2304,410 2354,422 2367,417 2380,430 2399,421 2430,433 2476,410 2478,331 2452,328 2428,339 2398,331 2350,340 2306,334"/>
+                <Baseline points="2311,406 2339,406 2367,404 2395,403 2423,403 2451,403 2479,403"/>
+                <TextEquiv>
+                    <Unicode>Oermermism (?)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1921,565 2172,551 2247,575 2346,550 2492,569 2520,562 2522,491 2274,505 2125,459 1997,498 1922,482"/>
+                <Baseline points="1929,540 1958,542 1988,540 2018,538 2047,537 2077,537 2107,537 2136,537 2166,537 2196,537 2226,536 2255,534 2285,534 2315,534 2344,534 2374,536 2404,537 2433,537 2463,535 2493,534 2523,534"/>
+                <TextEquiv>
+                    <Unicode>Sr. Durchlaucht den Prinzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="2049,659 2227,611 2463,637 2500,614 2613,653 2670,639 2670,561 2426,574 2290,550 2243,575 2049,553"/>
+                <Baseline points="2057,609 2087,609 2118,607 2149,606 2180,606 2211,606 2241,605 2272,603 2303,605 2334,606 2365,606 2395,606 2426,606 2457,606 2488,606 2519,604 2549,604 2580,606 2611,606 2642,606 2673,606"/>
+                <TextEquiv>
+                    <Unicode>Alexander zu Solms Braunfels</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:3;}">
+                <Coords points="2180,685 2215,686 2216,656 2181,655"/>
+                <Baseline points="2180,685 2215,686"/>
+                <TextEquiv>
+                    <Unicode>in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2261,768 2335,753 2362,769 2474,768 2472,706 2460,708 2427,688 2376,686 2358,674 2344,684 2318,681 2294,696 2260,702"/>
+                <Baseline points="2269,743 2294,745 2320,746 2346,746 2372,746 2398,746 2424,746 2450,746 2476,746"/>
+                <TextEquiv>
+                    <Unicode>Braunfels</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="1865,908 1889,913 1936,894 1981,916 2069,894 2091,912 2147,910 2148,834 2125,828 2103,846 2028,832 1986,850 1970,834 1941,834 1884,862 1866,856"/>
+                <Baseline points="1872,890 1897,888 1922,890 1947,889 1973,887 1998,887 2023,887 2048,889 2074,889 2099,887 2124,887 2150,887"/>
+                <TextEquiv>
+                    <Unicode>zu expediren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="2268,906 2523,892 2605,922 2694,889 2912,921 2973,893 3091,920 3129,893 3129,798 2938,798 2840,837 2709,809 2657,842 2268,816"/>
+                <Baseline points="2275,887 2317,884 2360,884 2403,887 2446,887 2489,887 2532,887 2575,887 2618,887 2661,887 2704,887 2746,887 2789,887 2832,887 2875,887 2918,887 2961,887 3004,887 3047,887 3090,887 3133,887"/>
+                <TextEquiv>
+                    <Unicode>Euer Erlaucht bitte ich zu entschuldigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="2049,977 3123,984 3123,914 3024,897 2049,905"/>
+                <Baseline points="2057,955 2110,955 2163,955 2217,955 2270,955 2323,955 2377,955 2430,953 2483,955 2537,955 2590,955 2643,955 2697,955 2750,955 2803,955 2857,955 2910,955 2963,955 3017,955 3070,955 3124,955"/>
+                <TextEquiv>
+                    <Unicode>wenn ich an die Vervollständigung der Sicherheits-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="2049,1055 3079,1031 3079,997 2906,971 2049,976"/>
+                <Baseline points="2057,1027 2108,1024 2159,1024 2210,1024 2262,1024 2313,1024 2364,1024 2415,1024 2467,1024 2518,1024 2569,1024 2620,1024 2672,1027 2723,1024 2774,1027 2825,1027 2877,1027 2928,1027 2979,1025 3030,1024 3082,1024"/>
+                <TextEquiv>
+                    <Unicode>leistung mit Bezugnahme auf den Schluss der Ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="2049,1117 2332,1115 2495,1152 2569,1112 2763,1143 2842,1111 2985,1139 2985,1056 2938,1035 2049,1055"/>
+                <Baseline points="2057,1096 2103,1096 2150,1096 2196,1096 2243,1096 2290,1096 2336,1096 2383,1096 2429,1096 2476,1096 2523,1096 2569,1097 2616,1099 2662,1099 2709,1097 2756,1096 2802,1096 2849,1096 2895,1096 2942,1096 2989,1096"/>
+                <TextEquiv>
+                    <Unicode>handlungen vom 26. Mai d. J. ganz ergebenst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="2049,1195 2117,1199 2148,1215 2183,1216 2197,1206 2224,1219 2231,1212 2239,1219 2255,1215 2255,1135 2215,1135 2180,1115 2148,1128 2049,1117"/>
+                <Baseline points="2057,1167 2082,1167 2107,1167 2132,1165 2157,1164 2182,1164 2207,1165 2232,1167 2257,1167"/>
+                <TextEquiv>
+                    <Unicode>erinnere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="2430,1292 2579,1319 2663,1294 2745,1312 3103,1294 3103,1224 3062,1219 2949,1239 2866,1206 2742,1230 2538,1216 2503,1239 2430,1222"/>
+                <Baseline points="2437,1275 2470,1273 2503,1272 2537,1272 2570,1272 2604,1274 2637,1274 2671,1272 2704,1272 2738,1272 2771,1272 2804,1272 2838,1272 2871,1272 2905,1272 2938,1272 2972,1272 3005,1272 3039,1272 3072,1273 3106,1275"/>
+                <TextEquiv>
+                    <Unicode>Neuwied, den. 5. November 1857.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

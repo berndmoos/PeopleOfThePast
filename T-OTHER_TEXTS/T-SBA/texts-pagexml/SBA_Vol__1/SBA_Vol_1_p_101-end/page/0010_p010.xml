@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:06.403+02:00</Created>
+        <LastChange>2025-11-03T19:54:48.578+01:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101583948" pageNr="10" tsid="259667703" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=HBOGJQLVDBZFDYEOSKDKHOHL" xmlUrl="https://files.transkribus.eu/Get?id=NOGBEUSFNPWRMCJFSLHLTAWN" imageId="85201397">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0010_p010.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883575182" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2920,311 3037,311 3037,395 2920,395"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2942,384 2958,379 2966,384 2969,381 2993,382 3008,391 3019,385 3017,325 3003,329 2999,326 2995,331 2966,335 2964,339 2951,339 2949,336 2939,341"/>
+                <Baseline points="2947,373 2972,375 2997,376 3022,376"/>
+                <TextEquiv>
+                    <Unicode>99</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="3048,274 3132,274 3132,406 3048,406"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="3055,384 3102,380 3099,350 3052,354"/>
+                <Baseline points="3055,384 3102,380"/>
+                <TextEquiv>
+                    <Unicode>99</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="2014,340 2032,916 3088,890 3073,340"/>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:0;}">
+                <Coords points="2507,809 2832,815 2899,834 2989,817 2989,787 2776,770 2721,786 2666,764 2630,778 2506,763"/>
+                <Baseline points="2141,806 2539,803 2564,803 2589,803 2614,803 2639,803 2664,804 2690,806 2715,806 2740,806 2765,806 2790,806 2815,806 2841,807 2866,809 2891,809 2916,809 2941,809 2966,809 2992,809"/>
+                <TextEquiv>
+                    <Unicode>b) to allow the society as such, besides the free</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2132,498 3008,512 3008,457 2776,468 2657,432 2478,471 2132,462"/>
+                <Baseline points="2043,500 2181,489 2225,492 2268,492 2312,492 2356,492 2399,492 2443,492 2486,494 2530,495 2574,495 2617,495 2661,495 2704,495 2748,495 2792,497 2835,498 2879,496 2922,495 2966,495 3010,495"/>
+                <TextEquiv>
+                    <Unicode>introduction or importation of the property of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2129,584 2382,554 3019,567 3018,515 2987,509 2594,533 2338,504 2273,533 2128,505"/>
+                <Baseline points="2135,552 2179,552 2223,552 2268,552 2312,552 2356,552 2401,552 2445,555 2489,555 2534,555 2578,555 2622,555 2667,555 2711,558 2755,558 2800,561 2844,561 2888,561 2933,561 2977,561 3022,561"/>
+                <TextEquiv>
+                    <Unicode>the single settlers, to import free from any</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2129,645 2233,619 2776,648 2968,626 2967,581 2812,605 2734,575 2128,583"/>
+                <Baseline points="2135,612 2176,615 2218,615 2260,617 2302,616 2344,615 2385,615 2427,617 2469,618 2511,618 2553,618 2594,619 2636,620 2678,618 2720,618 2762,618 2803,621 2845,621 2887,621 2929,623 2971,624"/>
+                <TextEquiv>
+                    <Unicode>charge or custom during a longer period of time,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2514,709 2596,689 2724,713 2819,689 3031,696 3035,662 2885,638 2702,638 2667,659 2513,628"/>
+                <Baseline points="2140,685 2545,680 2571,680 2597,680 2623,680 2649,680 2675,680 2700,680 2726,682 2752,683 2778,683 2804,683 2830,683 2856,683 2881,683 2907,683 2933,683 2959,685 2985,687 3011,688 3037,689"/>
+                <TextEquiv>
+                    <Unicode>to be fixed in the contract productions of Germany</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="2688,779 2765,748 2947,761 3027,750 3070,764 3070,699 2922,710 2882,728 2789,708 2688,708"/>
+                <Baseline points="2143,742 2719,746 2744,746 2769,746 2795,746 2820,746 2845,745 2870,743 2896,745 2921,746 2946,746 2971,746 2997,746 3022,746 3047,746 3073,749"/>
+                <TextEquiv>
+                    <Unicode>to the amount of two hundred thousand Dollars</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:6;}">
+                <Coords points="2142,871 2318,872 2318,842 2142,841"/>
+                <Baseline points="2142,871 2318,872"/>
+                <TextEquiv>
+                    <Unicode>per annum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=39995:lm=none:date=20_10_2025_20:43</Creator>
+        <Created>2025-10-10T22:20:25.552+02:00</Created>
+        <LastChange>2025-12-03T19:16:03.111+01:00</LastChange>
+        <TranskribusMetadata docId="11233079" pageId="104147653" pageNr="23" tsid="263603340" status="DONE" userId="144967" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=HRSSDTHHPOZYZIXHTPAGUTTH" xmlUrl="https://files.transkribus.eu/Get?id=MXGDQMKPOQFUALCOHDWNQXRU" imageId="87396293">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0023_p023.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883582627" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_3"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2991,191 3131,191 3131,323 2991,323"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3023,301 3045,313 3054,310 3062,317 3100,313 3105,237 3090,236 3084,230 3073,242 3051,248 3044,255 3025,253"/>
+                <Baseline points="3031,286 3056,286 3081,285 3106,283"/>
+                <TextEquiv>
+                    <Unicode>10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="3168,175 3168,327 3246,327 3246,175"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3160,297 3179,293 3186,299 3202,299 3218,288 3230,296 3243,293 3243,234 3233,234 3227,229 3223,233 3204,236 3192,229 3176,232 3172,227 3160,227"/>
+                <Baseline points="3168,277 3194,275 3220,275 3246,277"/>
+                <TextEquiv>
+                    <Unicode>10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1962,249 1962,793 3136,793 3136,249"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;} textStyle {offset:25; length:1;strikethrough:true;} textStyle {offset:26; length:1;italic:true;} textStyle {offset:54; length:1;italic:true;}">
+                <Coords points="1969,453 2824,434 3132,469 3132,370 2633,350 2179,399 1967,361"/>
+                <Baseline points="1977,421 2038,418 2099,418 2160,421 2221,419 2282,421 2343,421 2404,421 2465,421 2526,421 2587,421 2648,421 2709,421 2770,421 2831,424 2892,424 2953,424 3014,424 3075,426 3136,427"/>
+                <TextEquiv>
+                    <Unicode>(9 verso) a. 13. Juny 18557 ist die Sicherheits Urkunde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1960,507 3045,508 3009,446 1960,454"/>
+                <Baseline points="1968,489 2022,489 2076,489 2130,489 2184,489 2238,489 2292,489 2346,489 2400,489 2454,489 2508,489 2562,489 2616,489 2670,491 2724,492 2778,492 2832,493 2886,495 2940,493 2994,495 3049,492"/>
+                <TextEquiv>
+                    <Unicode>sammt Abschrift des Protocolles der Gen. Vers. vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;} textStyle {offset:50; length:3;strikethrough:true;} textStyle {offset:54; length:2;italic:true;}">
+                <Coords points="1963,593 3105,585 3103,510 1962,504"/>
+                <Baseline points="1971,561 2027,558 2084,558 2141,558 2198,558 2255,559 2312,561 2369,561 2426,558 2483,561 2540,561 2596,561 2653,561 2710,561 2767,561 2824,564 2881,564 2938,564 2995,564 3052,564 3109,567"/>
+                <TextEquiv>
+                    <Unicode>25. v. M. behufs Vervollständigung der Sicherheit die an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;} textStyle {offset:2; length:1;strikethrough:true;} textStyle {offset:3; length:1;italic:true;} textStyle {offset:33; length:1;strikethrough:true;} textStyle {offset:34; length:1;italic:true;}">
+                <Coords points="1960,648 3084,670 3084,585 2129,600 2039,562 1960,593"/>
+                <Baseline points="1968,633 2024,632 2080,632 2136,633 2192,633 2248,633 2304,633 2360,635 2416,633 2472,633 2528,633 2584,633 2640,633 2696,633 2752,635 2808,636 2864,636 2920,636 2976,638 3032,639 3088,636"/>
+                <TextEquiv>
+                    <Unicode>demn Vertreter Sr. Durchlaucht demn H. Oberkammerrath</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="1954,727 2289,757 2444,721 2537,759 2659,722 2824,746 2824,673 2700,663 1954,676"/>
+                <Baseline points="1962,704 2005,704 2048,704 2091,704 2135,701 2178,701 2221,703 2265,704 2308,704 2351,704 2395,704 2438,702 2481,703 2524,704 2568,704 2611,704 2654,704 2698,704 2741,704 2784,705 2828,707"/>
+                <TextEquiv>
+                    <Unicode>Stephan nach Braunfels abgeschickt ward.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="2647,816 2663,813 2672,804 2687,813 2698,802 2717,808 2728,798 2746,801 2770,782 2784,783 2784,725 2761,735 2728,728 2717,735 2663,732 2647,725"/>
+                <Baseline points="2655,776 2681,776 2707,776 2733,776 2759,776 2786,776"/>
+                <TextEquiv>
+                    <Unicode>Bibra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

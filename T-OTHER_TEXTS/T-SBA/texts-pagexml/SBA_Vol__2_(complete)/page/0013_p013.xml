@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=50870:lm=none:date=19_10_2025_23:21</Creator>
+        <Created>2025-10-10T22:20:24.717+02:00</Created>
+        <LastChange>2025-12-03T20:08:06.732+01:00</LastChange>
+        <TranskribusMetadata docId="11233079" pageId="104147626" pageNr="13" tsid="263607477" status="DONE" userId="144967" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BUTZSCOVGPMENFCDJHWGYSRZ" xmlUrl="https://files.transkribus.eu/Get?id=GOHZEENPQHYLVPGZUBOVRVAF" imageId="87396155">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0013_p013.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883582496" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;} structure {type:item-start;}">
+            <Coords points="2063,353 2063,1921 3082,1921 3082,353"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2167,399 2224,398 2256,413 2311,399 2334,415 2368,399 2421,415 2450,399 2514,399 2514,339 2478,315 2447,338 2395,317 2287,350 2258,345 2217,310 2167,321"/>
+                <Baseline points="2177,388 2203,388 2229,388 2255,388 2281,388 2307,388 2333,388 2360,388 2386,388 2412,388 2438,388 2464,388 2490,388 2517,388"/>
+                <TextEquiv>
+                    <Unicode>Fürst zu Solms-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2083,478 2198,490 2313,475 2435,499 2460,480 2496,492 2582,475 2582,410 2568,408 2486,427 2443,408 2388,425 2286,403 2250,422 2227,406 2083,415"/>
+                <Baseline points="2093,456 2118,458 2144,459 2170,459 2196,459 2222,459 2248,459 2274,459 2300,459 2326,459 2352,459 2378,459 2404,459 2430,459 2456,459 2482,459 2508,459 2534,459 2560,458 2586,456"/>
+                <TextEquiv>
+                    <Unicode>Braunfels'sches Archiv</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2368,818 2454,830 2472,816 2584,828 2608,814 2658,825 2659,742 2603,736 2526,705 2491,736 2438,754 2407,741 2388,753 2368,749"/>
+                <Baseline points="2377,806 2402,806 2428,806 2454,806 2480,806 2506,806 2531,806 2557,806 2583,806 2609,806 2635,805 2661,803"/>
+                <TextEquiv>
+                    <Unicode>Correspondenz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2164,898 2851,900 2851,775 2719,828 2608,814 2471,842 2318,790 2251,840 2164,844"/>
+                <Baseline points="2174,872 2208,874 2242,875 2276,876 2310,878 2344,878 2378,878 2412,878 2446,878 2480,875 2514,875 2548,875 2582,875 2616,875 2650,875 2684,876 2718,878 2752,878 2786,878 2820,878 2855,875"/>
+                <TextEquiv>
+                    <Unicode>mit Sr. Durchlaucht dem Prinzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;} textStyle {offset:0; length:9;underlined:true;}">
+                <Coords points="2164,979 2244,993 2416,962 2596,988 2805,953 2805,900 2784,893 2620,912 2164,898"/>
+                <Baseline points="2174,946 2205,946 2237,946 2268,946 2300,946 2332,946 2363,946 2395,946 2427,946 2458,946 2490,946 2522,946 2553,946 2585,946 2617,946 2648,946 2680,946 2712,946 2743,946 2775,946 2807,946"/>
+                <TextEquiv>
+                    <Unicode>Alexander zu Solms Braunfels.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="2678,1234 2776,1272 2807,1258 2858,1281 2999,1255 3048,1284 3079,1281 3079,1162 3035,1156 2964,1186 2925,1176 2892,1190 2820,1161 2779,1180 2678,1180"/>
+                <Baseline points="2688,1230 2714,1230 2740,1230 2766,1230 2793,1230 2819,1230 2845,1230 2871,1230 2898,1232 2924,1232 2950,1230 2976,1230 3003,1230 3029,1230 3055,1231 3082,1233"/>
+                <TextEquiv>
+                    <Unicode>enthält 21 Blätter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;} textStyle {offset:0; length:7;underlined:true;}">
+                <Coords points="2772,1613 2795,1625 2808,1615 2832,1629 2856,1617 2891,1622 2915,1608 2956,1615 2958,1535 2904,1541 2882,1526 2867,1538 2815,1538 2796,1526 2769,1526"/>
+                <Baseline points="2780,1582 2806,1582 2832,1582 2858,1582 2884,1583 2910,1585 2936,1586 2962,1585"/>
+                <TextEquiv>
+                    <Unicode>Pag. 21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="2054,1756 2068,1754 2105,1780 2124,1773 2165,1778 2186,1764 2198,1768 2217,1757 2232,1757 2232,1727 2198,1704 2167,1720 2135,1721 2126,1713 2054,1718"/>
+                <Baseline points="2063,1756 2092,1756 2121,1756 2150,1756 2179,1756 2208,1755 2237,1753"/>
+                <TextEquiv>
+                    <Unicode>I a 12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="2054,1922 2155,1912 2318,1939 2388,1915 2496,1953 2495,1852 2467,1843 2442,1859 2366,1841 2323,1852 2220,1817 2054,1816"/>
+                <Baseline points="2063,1893 2088,1893 2114,1893 2139,1895 2165,1895 2191,1893 2216,1894 2242,1896 2268,1898 2293,1899 2319,1897 2345,1896 2370,1896 2396,1896 2422,1896 2447,1896 2473,1895 2499,1893"/>
+                <TextEquiv>
+                    <Unicode>C A 4 a 1 No. 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

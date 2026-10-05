@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_17:54</Creator>
+        <Created>2025-08-12T17:15:31.025+02:00</Created>
+        <LastChange>2025-11-04T03:43:49.753+01:00</LastChange>
+        <TranskribusMetadata docId="10053002" pageId="101583780" pageNr="99" tsid="259685996" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=RXJAPBBNKTECNDSJCZIILWNB" xmlUrl="https://files.transkribus.eu/Get?id=NGTBCTGKSPLZYSDMQMEUHLWP" imageId="85201248">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0099_p099.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1787002856024" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2905,318 3011,318 3011,409 2905,409"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2927,387 2993,391 2995,361 2929,357"/>
+                <Baseline points="2927,387 2993,391"/>
+                <TextEquiv>
+                    <Unicode>88</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="3033,296 3143,296 3143,413 3033,413"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="3048,391 3124,395 3126,365 3050,361"/>
+                <Baseline points="3048,391 3124,395"/>
+                <TextEquiv>
+                    <Unicode>88</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1941,340 1941,1299 3112,1299 3112,340"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1934,508 1975,520 2009,500 2036,511 2060,502 2105,531 2117,522 2176,527 2176,459 2124,448 2099,457 2033,449 1986,473 1934,469"/>
+                <Baseline points="1941,498 1967,497 1994,495 2020,495 2047,495 2073,497 2100,497 2126,496 2153,495 2180,495"/>
+                <TextEquiv>
+                    <Unicode>Ordnung ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="2034,563 3007,579 3007,498 2876,546 2593,496 2385,538 2306,510 2034,535"/>
+                <Baseline points="2042,561 2090,558 2138,558 2187,555 2235,556 2284,559 2332,560 2380,558 2429,560 2477,559 2526,560 2574,561 2622,561 2671,561 2719,564 2768,564 2816,565 2864,567 2913,567 2961,567 3010,570"/>
+                <TextEquiv>
+                    <Unicode>Bis Anfangs Septbr. bleibe ich im Gebirge, wenn ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;} textStyle {offset:10; length:10;italic:true;}">
+                <Coords points="1939,639 2975,630 2975,579 1939,594"/>
+                <Baseline points="1947,621 1998,621 2050,618 2101,618 2153,618 2204,616 2256,615 2307,615 2359,619 2410,621 2462,621 2513,621 2565,623 2616,621 2668,624 2719,624 2771,625 2822,627 2874,627 2925,627 2977,630"/>
+                <TextEquiv>
+                    <Unicode>auch ganz versprengt werden sollte-- und wenn Du bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="1949,690 2730,687 2849,721 3021,698 3021,647 1947,637"/>
+                <Baseline points="1956,680 2009,681 2062,682 2116,680 2169,680 2223,680 2276,680 2330,681 2383,683 2437,683 2490,683 2543,683 2597,683 2650,684 2704,688 2757,686 2811,686 2864,687 2918,689 2971,689 3025,689"/>
+                <TextEquiv>
+                    <Unicode>dahin mir schreiben willst, adressire mir nach Golling b.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;} textStyle {offset:14; length:1;strikethrough:true;} textStyle {offset:15; length:1;italic:true;} textStyle {offset:17; length:1;italic:true;} textStyle {offset:24; length:1;strikethrough:true;} textStyle {offset:25; length:1;italic:true;}">
+                <Coords points="1949,768 2288,749 2403,769 2402,708 2255,683 2222,698 2139,685 2025,704 1985,690 1947,706"/>
+                <Baseline points="1956,743 1981,743 2006,743 2031,743 2056,744 2081,745 2106,745 2131,743 2156,744 2181,746 2206,746 2231,746 2256,746 2281,745 2306,744 2331,743 2356,743 2381,743 2407,743"/>
+                <TextEquiv>
+                    <Unicode>Salzburg, postoe restantoe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;} textStyle {offset:21; length:4;strikethrough:true;} textStyle {offset:26; length:5;italic:true;}">
+                <Coords points="2042,813 3017,815 3016,777 2917,764 2436,788 2287,750 2041,760"/>
+                <Baseline points="2048,806 2096,806 2145,806 2193,806 2242,806 2290,806 2339,806 2387,806 2436,804 2484,806 2533,809 2582,812 2630,809 2679,811 2727,810 2776,812 2824,812 2873,812 2921,812 2970,812 3019,815"/>
+                <TextEquiv>
+                    <Unicode>In der Hoffnung bald aber etwas von Dir zu hören und noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="1949,885 2002,871 2159,892 2195,873 2315,895 2341,879 2437,888 2437,821 2258,837 2206,820 2161,835 1949,820"/>
+                <Baseline points="1956,869 1981,869 2006,869 2032,869 2057,869 2083,869 2108,869 2134,869 2159,867 2185,866 2210,868 2236,869 2261,869 2287,869 2312,869 2338,869 2363,869 2389,869 2414,869 2440,869"/>
+                <TextEquiv>
+                    <Unicode>besser Dich bald zu sehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="2373,1000 2529,1014 2561,998 2604,1011 2739,1004 2746,954 2687,962 2652,951 2626,967 2603,950 2553,958 2529,943 2484,955 2371,943"/>
+                <Baseline points="2380,994 2406,994 2432,994 2459,994 2485,994 2512,994 2538,994 2565,994 2591,996 2617,997 2644,997 2670,997 2697,997 2723,997 2750,997"/>
+                <TextEquiv>
+                    <Unicode>Dein treu ergebener</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="2505,1312 2670,1297 2728,1316 2771,1305 2799,1324 2874,1323 2873,1257 2819,1237 2782,1257 2504,1247"/>
+                <Baseline points="2511,1278 2537,1278 2563,1278 2589,1276 2615,1276 2641,1278 2667,1278 2693,1278 2719,1278 2745,1279 2771,1280 2797,1281 2823,1281 2849,1281 2876,1281"/>
+                <TextEquiv>
+                    <Unicode>Signature illegible</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

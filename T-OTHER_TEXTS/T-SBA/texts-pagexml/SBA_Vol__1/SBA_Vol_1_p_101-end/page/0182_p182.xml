@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:24.853+02:00</Created>
+        <LastChange>2025-11-04T02:46:24.398+01:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101584207" pageNr="182" tsid="259684886" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=RKONPLDGHEVERIPDNZLQQYRI" xmlUrl="https://files.transkribus.eu/Get?id=WQXDQFMRZMXZXGYJYWWFGVMS" imageId="85201625">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0182_p182.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883577911" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2752,307 2938,307 2938,424 2752,424"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2799,406 2894,398 2891,368 2796,376"/>
+                <Baseline points="2799,406 2894,398"/>
+                <TextEquiv>
+                    <Unicode>257a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;} structure {type:item-start;}">
+            <Coords points="1836,352 1836,1569 2989,1569 2989,352"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;} textStyle {offset:0; length:12;underlined:true;}">
+                <Coords points="1837,503 2152,486 2376,502 2435,488 2436,461 2190,442 2052,470 1978,435 1838,456"/>
+                <Baseline points="1845,489 1874,486 1904,486 1933,486 1963,486 1993,486 2022,486 2052,486 2081,486 2111,486 2141,485 2170,483 2200,485 2229,486 2259,486 2289,486 2318,485 2348,483 2377,483 2407,482 2437,480"/>
+                <TextEquiv>
+                    <Unicode>Uebersetzung des vorhergehenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1829,532 2029,546 2125,528 2188,546 2230,528 2262,538 2262,502 2224,492 2035,506 1982,486 1829,482"/>
+                <Baseline points="1836,522 1861,522 1886,522 1911,522 1937,522 1962,521 1987,520 2013,519 2038,519 2063,519 2088,519 2114,519 2139,519 2164,519 2190,519 2215,519 2240,519 2266,519"/>
+                <TextEquiv>
+                    <Unicode>französischen Briefes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="2336,609 2461,636 2516,636 2553,613 2807,622 2822,585 2686,578 2636,548 2552,583 2336,583"/>
+                <Baseline points="2344,612 2369,612 2394,612 2419,612 2445,612 2470,612 2495,610 2521,608 2546,607 2571,607 2597,609 2622,609 2647,609 2673,607 2698,606 2723,606 2749,606 2774,606 2799,605 2825,603"/>
+                <TextEquiv>
+                    <Unicode>Paris, den 24. März 1845.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="1829,744 2091,714 2308,744 2534,726 2566,715 2567,662 2280,675 2252,654 2132,687 1974,659 1829,695"/>
+                <Baseline points="1836,710 1872,710 1909,710 1945,710 1982,710 2019,710 2055,710 2092,710 2128,710 2165,710 2202,708 2238,705 2275,705 2311,707 2348,707 2385,704 2421,704 2458,704 2494,704 2531,703 2568,698"/>
+                <TextEquiv>
+                    <Unicode>An die Direktoren der Gesellschaft für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="1833,789 2068,779 2155,801 2236,776 2427,782 2428,743 2386,721 2298,747 2180,716 2025,747 1916,728 1834,744"/>
+                <Baseline points="1842,776 1871,776 1900,776 1930,776 1959,776 1989,776 2018,774 2048,773 2077,773 2107,773 2136,772 2165,770 2195,770 2224,770 2254,770 2283,770 2313,770 2342,770 2372,770 2401,770 2431,770"/>
+                <TextEquiv>
+                    <Unicode>deutsche Colonisation in Texas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="2525,846 2559,835 2573,843 2580,839 2591,843 2604,833 2656,843 2655,792 2640,785 2609,807 2591,790 2578,797 2571,790 2558,792 2544,780 2541,785 2523,783"/>
+                <Baseline points="2532,827 2557,827 2582,827 2607,829 2632,830 2680,830"/>
+                <TextEquiv>
+                    <Unicode>Mainz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="1840,977 1978,955 2121,959 2141,953 2142,888 2109,886 2066,907 2054,896 2014,900 1994,914 1928,895 1887,909 1868,896 1841,899"/>
+                <Baseline points="1848,934 1874,934 1901,934 1928,933 1955,932 1982,931 2009,931 2036,931 2063,931 2090,931 2117,931 2144,931"/>
+                <TextEquiv>
+                    <Unicode>Geehrte Herren!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:7;} textStyle {offset:47; length:2;strikethrough:true;} textStyle {offset:49; length:4;italic:true;}">
+                <Coords points="1943,1037 2864,1036 2879,960 2456,967 2342,1001 2302,971 1944,964"/>
+                <Baseline points="1950,1027 1996,1027 2043,1026 2089,1024 2136,1024 2183,1024 2229,1024 2276,1023 2322,1021 2369,1021 2416,1021 2462,1021 2509,1019 2555,1018 2602,1018 2649,1016 2695,1013 2742,1012 2788,1012 2835,1012 2882,1009"/>
+                <TextEquiv>
+                    <Unicode>Ich habe die Ehre, Ihnen den zweiten Band der Rueevue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="1844,1102 2958,1083 2959,1006 2711,1048 1845,1041"/>
+                <Baseline points="1851,1093 1906,1093 1962,1093 2017,1090 2073,1090 2128,1090 2184,1088 2239,1087 2295,1084 2350,1084 2406,1084 2462,1084 2517,1081 2573,1080 2628,1078 2684,1078 2739,1078 2795,1075 2850,1074 2906,1072 2962,1069"/>
+                <TextEquiv>
+                    <Unicode>Nouvelle zu senden. Der Artikel, welchen er über die deut-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="1850,1174 2788,1161 2888,1148 2889,1095 1851,1105"/>
+                <Baseline points="1857,1158 1908,1155 1960,1152 2012,1152 2063,1150 2115,1149 2167,1149 2218,1149 2270,1149 2322,1148 2374,1146 2425,1146 2477,1146 2529,1143 2580,1143 2632,1142 2684,1139 2735,1137 2787,1137 2839,1137 2891,1137"/>
+                <TextEquiv>
+                    <Unicode>sche Auswanderung enthält, erschien mir derart zu sein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="1845,1228 2944,1206 2944,1169 2850,1141 1847,1187"/>
+                <Baseline points="1854,1218 1908,1218 1963,1218 2017,1215 2072,1214 2127,1212 2181,1212 2236,1212 2291,1212 2345,1210 2400,1209 2455,1206 2509,1206 2564,1205 2619,1203 2673,1203 2728,1200 2783,1197 2837,1197 2892,1197 2947,1197"/>
+                <TextEquiv>
+                    <Unicode>Ihr Interesse zu wecken und der Herausgeber der Revue wür-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="1847,1298 2934,1271 2945,1206 2677,1246 2534,1210 1848,1228"/>
+                <Baseline points="1854,1281 1908,1283 1963,1281 2017,1280 2072,1278 2127,1278 2181,1275 2236,1275 2291,1274 2345,1272 2400,1272 2455,1269 2509,1269 2564,1269 2619,1269 2673,1266 2728,1266 2783,1263 2837,1261 2892,1260 2947,1260"/>
+                <TextEquiv>
+                    <Unicode>de sich glücklich schätzen, wenn er Ihre Zustinmung fände.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="1946,1359 2910,1341 2985,1328 2987,1267 1947,1309"/>
+                <Baseline points="1953,1341 2004,1341 2056,1341 2108,1341 2160,1341 2212,1341 2263,1339 2315,1338 2367,1335 2419,1335 2471,1335 2522,1333 2574,1332 2626,1329 2678,1329 2730,1328 2781,1326 2833,1324 2885,1323 2937,1323 2989,1323"/>
+                <TextEquiv>
+                    <Unicode>Empfangen Sie, mein Herr, die Versicherung meiner tief-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="1850,1430 2753,1416 2797,1402 2799,1344 1850,1373"/>
+                <Baseline points="1857,1409 1904,1406 1951,1409 1998,1406 2045,1406 2093,1403 2140,1403 2187,1403 2234,1402 2281,1400 2329,1399 2376,1397 2423,1397 2470,1397 2517,1395 2565,1394 2612,1394 2659,1392 2706,1391 2753,1391 2801,1391"/>
+                <TextEquiv>
+                    <Unicode>sten Achtung, womit ich die Ehre habe zu zeichnen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="2361,1473 2433,1461 2466,1479 2551,1465 2742,1479 2803,1456 2804,1402 2753,1416 2647,1397 2567,1419 2468,1406 2406,1433 2361,1430"/>
+                <Baseline points="2368,1460 2393,1460 2419,1460 2445,1460 2471,1458 2497,1457 2522,1457 2548,1457 2574,1457 2600,1456 2626,1454 2652,1454 2677,1454 2703,1454 2729,1454 2755,1454 2781,1453 2807,1451"/>
+                <TextEquiv>
+                    <Unicode>Ihr gehorsamster Diener</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="2354,1530 2782,1521 2783,1469 2725,1482 2666,1466 2640,1480 2435,1484 2394,1468 2354,1480"/>
+                <Baseline points="2362,1520 2388,1523 2415,1523 2441,1522 2468,1520 2494,1520 2521,1520 2547,1520 2574,1520 2600,1520 2627,1519 2653,1517 2680,1517 2706,1516 2733,1515 2759,1515 2786,1517"/>
+                <TextEquiv>
+                    <Unicode>W. Conturier de Verson</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="2353,1587 2427,1600 2545,1576 2594,1590 2651,1561 2693,1583 2792,1578 2814,1593 2815,1529 2776,1519 2354,1532"/>
+                <Baseline points="2362,1559 2387,1558 2412,1556 2438,1556 2463,1556 2488,1556 2514,1555 2539,1554 2565,1552 2590,1550 2615,1550 2641,1550 2666,1550 2692,1550 2717,1550 2742,1550 2768,1550 2793,1550 2819,1550"/>
+                <TextEquiv>
+                    <Unicode>Adresse :Revue Nouvelle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

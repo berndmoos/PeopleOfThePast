@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_19:20</Creator>
+        <Created>2025-08-12T17:33:13.725+02:00</Created>
+        <LastChange>2025-11-04T00:40:13.269+01:00</LastChange>
+        <TranskribusMetadata docId="10053260" pageId="101584061" pageNr="78" tsid="259681845" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=IJZYOOUELWUUYUZISRISUQNP" xmlUrl="https://files.transkribus.eu/Get?id=GUVUQWUEFKCCXPIGNGWNWAQJ" imageId="85201510">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0078_p078.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883576281" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2757,341 2860,341 2860,423 2757,423"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2775,396 2830,393 2828,363 2773,366"/>
+                <Baseline points="2775,396 2830,393"/>
+                <TextEquiv>
+                    <Unicode>160</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2869,296 2978,296 2978,393 2869,393"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2872,377 2932,377 2932,347 2872,347"/>
+                <Baseline points="2872,377 2932,377"/>
+                <TextEquiv>
+                    <Unicode>162</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1866,335 1866,895 2953,895 2953,335"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1858,521 2784,521 2786,457 2662,447 2194,447 2127,481 1859,492"/>
+                <Baseline points="1866,513 1912,515 1958,513 2004,512 2050,508 2096,505 2142,504 2189,504 2235,502 2281,501 2327,501 2373,501 2419,499 2465,500 2512,499 2558,498 2604,495 2650,495 2696,495 2742,495 2789,495"/>
+                <TextEquiv>
+                    <Unicode>aus zu rapportiren. Mr. Doyl ist gefährlich krank.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1948,591 2689,582 2765,570 2766,514 1949,532"/>
+                <Baseline points="1956,573 1996,571 2037,570 2077,568 2118,566 2159,564 2199,564 2240,564 2280,564 2321,561 2362,561 2402,561 2443,559 2483,558 2524,558 2565,558 2605,557 2646,555 2686,555 2727,555 2768,552"/>
+                <TextEquiv>
+                    <Unicode>Ich grüsse Sie mit achtungsvoller Ergebenheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="2263,640 2688,622 2688,579 2445,601 2405,591 2340,608 2264,590"/>
+                <Baseline points="2272,621 2298,621 2324,621 2350,621 2376,621 2402,621 2429,621 2455,619 2481,618 2507,618 2533,618 2560,618 2586,618 2612,617 2638,616 2664,616 2691,618"/>
+                <TextEquiv>
+                    <Unicode>Ihr gehorsamster Müller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="2173,705 2269,715 2343,688 2505,684 2590,706 2725,698 2727,636 2690,652 2592,631 2343,635 2271,656 2175,645"/>
+                <Baseline points="2183,686 2210,683 2237,683 2264,683 2292,682 2319,680 2346,680 2374,680 2401,680 2428,680 2456,680 2483,678 2510,677 2537,677 2565,677 2592,677 2619,676 2647,675 2674,675 2701,675 2729,675"/>
+                <TextEquiv>
+                    <Unicode>care of Ramon de Munoz y Munos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="1868,827 2727,820 2877,800 2878,761 1869,772"/>
+                <Baseline points="1875,818 1925,816 1975,813 2026,812 2076,809 2126,809 2177,806 2227,806 2277,804 2328,803 2378,801 2428,800 2479,800 2529,797 2579,797 2630,797 2680,796 2730,794 2781,794 2831,791 2896,791"/>
+                <TextEquiv>
+                    <Unicode>Sie müssen bald nach Texas zurückkehren, ich sehe, Ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="1866,908 1942,880 2088,877 2102,890 2173,870 2214,880 2232,869 2234,838 2140,825 2079,845 2043,835 1869,858"/>
+                <Baseline points="1875,881 1900,878 1926,878 1952,876 1978,874 2004,873 2030,872 2056,872 2081,870 2107,869 2133,867 2159,866 2185,866 2211,866 2237,866"/>
+                <TextEquiv>
+                    <Unicode>Neger laufen davon.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=39995:lm=none:date=20_10_2025_20:47</Creator>
+        <Created>2025-10-10T22:20:27.515+02:00</Created>
+        <LastChange>2025-12-03T21:02:51.360+01:00</LastChange>
+        <TranskribusMetadata docId="11233079" pageId="104147788" pageNr="47" tsid="263610112" status="DONE" userId="144967" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=XQDHNNHIDMFRRBRAINGTATLB" xmlUrl="https://files.transkribus.eu/Get?id=UWKKKWAXZVBPQHJIYAIYAYHJ" imageId="87396278">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0047_p047.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883583041" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3"/>
+                <RegionRefIndexed index="3" regionRef="r"/>
+                <RegionRefIndexed index="4" regionRef="r_4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_2" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="3172,314 2980,322 3006,209 3172,192"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="3051,318 3094,315 3092,285 3049,288"/>
+                <Baseline points="3051,318 3094,315"/>
+                <TextEquiv>
+                    <Unicode>25</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="3172,192 3312,177 3323,308 3172,314"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="3222,294 3239,292 3255,303 3277,294 3307,300 3313,214 3302,209 3255,209 3242,219 3241,214 3227,217"/>
+                <Baseline points="3231,283 3258,281 3285,279 3312,277"/>
+                <TextEquiv>
+                    <Unicode>41</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1950,412 1950,320 3216,320 3216,412"/>
+            <TextLine id="l" custom="readingOrder {index:0;} textStyle {offset:0; length:12;italic:true;}">
+                <Coords points="1953,365 1996,359 2019,373 2079,374 2099,393 2124,393 2148,370 2187,382 2186,280 2157,291 2117,281 2101,297 2062,292 2047,303 2003,294 1972,316 1951,313"/>
+                <Baseline points="1962,349 1987,349 2013,349 2038,351 2064,352 2089,352 2115,351 2140,349 2166,351 2192,349"/>
+                <TextEquiv>
+                    <Unicode>Nachschrift.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:3;} structure {type:page-number;}">
+            <Coords points="1893,367 2086,367 2086,434 1893,434"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;} textStyle {offset:2; length:2;superscript:true;}">
+                <Coords points="1945,437 1955,439 1973,431 1999,439 2011,432 2025,447 2047,447 2052,376 2035,374 2027,368 2018,373 1997,359 1950,365"/>
+                <Baseline points="1956,415 1988,412 2021,409 2054,409"/>
+                <TextEquiv>
+                    <Unicode>//21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_4" custom="readingOrder {index:4;} structure {type:item-start;}">
+            <Coords points="3216,412 3216,1971 1950,1971 1950,412"/>
+            <TextLine id="l_3" custom="readingOrder {index:0;}">
+                <Coords points="2052,509 2985,502 3070,492 3071,439 2996,395 2829,437 2785,407 2733,436 2054,399"/>
+                <Baseline points="2060,477 2110,474 2161,474 2211,472 2262,471 2313,471 2363,471 2414,471 2465,471 2515,471 2566,471 2617,469 2667,468 2718,471 2769,468 2819,469 2870,470 2921,468 2971,470 3022,471 3073,468"/>
+                <TextEquiv>
+                    <Unicode>Nachdem mein Bruder, des regierenden Fürsten zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:1;}">
+                <Coords points="1942,583 3139,558 3087,491 1942,508"/>
+                <Baseline points="1950,552 2009,549 2069,546 2128,545 2188,545 2248,546 2307,543 2367,543 2426,543 2486,542 2546,540 2605,540 2665,540 2724,540 2784,540 2844,539 2903,539 2963,540 3022,541 3082,543 3142,546"/>
+                <TextEquiv>
+                    <Unicode>Solms Braunfels Durchlaucht und Liebden mir vorgestellt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:2;}">
+                <Coords points="1950,638 3099,631 3099,561 3043,552 1950,579"/>
+                <Baseline points="1959,621 2016,618 2073,618 2130,615 2187,615 2245,615 2302,612 2359,612 2416,612 2473,612 2531,609 2588,611 2645,612 2702,612 2759,612 2817,612 2874,612 2931,612 2988,612 3045,612 3103,612"/>
+                <TextEquiv>
+                    <Unicode>dass Hochderselbe diejenige Schuld, welche aus dem für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:3;}">
+                <Coords points="1947,711 2904,712 3082,698 3084,634 1948,656"/>
+                <Baseline points="1956,686 2012,686 2069,686 2125,684 2182,681 2239,683 2295,683 2352,683 2408,683 2465,683 2522,680 2578,680 2635,680 2691,680 2748,680 2805,680 2861,680 2918,680 2974,680 3031,680 3088,677"/>
+                <TextEquiv>
+                    <Unicode>den Texas —- Verein bei Ph. Nic. Schmidt zu Frankfurt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:4;}">
+                <Coords points="1947,774 3142,785 3143,714 3035,695 1948,723"/>
+                <Baseline points="1956,761 2015,759 2074,758 2134,755 2193,755 2253,755 2312,755 2372,755 2431,752 2491,752 2550,752 2609,752 2669,752 2728,752 2788,752 2847,752 2907,752 2966,752 3026,752 3085,752 3145,752"/>
+                <TextEquiv>
+                    <Unicode>contrahirten Anlehn auf seinen Antheil falle, als Hauses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:5;}">
+                <Coords points="1950,870 3093,835 3082,772 1950,775"/>
+                <Baseline points="1959,827 2015,830 2072,827 2129,827 2186,825 2243,824 2300,824 2357,824 2414,824 2471,824 2528,824 2584,824 2641,822 2698,821 2755,824 2812,824 2869,824 2926,824 2983,824 3040,824 3097,821"/>
+                <TextEquiv>
+                    <Unicode>Schuld anerkannt wünsche, so nehme ich keinen Anstand,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:6;}">
+                <Coords points="1950,921 3151,918 3151,857 3077,838 1950,866"/>
+                <Baseline points="1959,901 2018,899 2078,899 2138,896 2198,896 2257,896 2317,896 2377,896 2437,893 2496,895 2556,893 2616,893 2676,895 2735,893 2795,893 2855,894 2915,894 2974,893 3034,893 3094,893 3154,893"/>
+                <TextEquiv>
+                    <Unicode>als nächster Agnat, die Erklärung abzugeben, wie ich die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:7;}">
+                <Coords points="1942,994 3165,994 3184,906 1942,932"/>
+                <Baseline points="1950,967 2011,971 2073,970 2135,967 2197,967 2259,967 2320,967 2382,967 2444,964 2506,964 2568,964 2629,964 2691,964 2753,962 2815,964 2877,961 2938,961 3000,961 3062,961 3124,961 3186,961"/>
+                <TextEquiv>
+                    <Unicode>Tilgung der fraglichen Schuld als eine Ehrensache betrach-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:8;}">
+                <Coords points="1947,1058 3206,1050 3206,999 3143,980 1947,994"/>
+                <Baseline points="1956,1042 2018,1041 2081,1039 2144,1039 2206,1039 2269,1036 2332,1036 2394,1034 2457,1033 2520,1035 2583,1033 2645,1033 2708,1033 2771,1033 2833,1033 2896,1033 2959,1033 3021,1033 3084,1033 3147,1033 3210,1033"/>
+                <TextEquiv>
+                    <Unicode>te, und demgemäss die Uebernahme derselben auf das Familien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:9;}">
+                <Coords points="1947,1135 2675,1115 2851,1146 2978,1120 2980,1060 1948,1060"/>
+                <Baseline points="1956,1114 2007,1111 2058,1111 2110,1109 2161,1108 2212,1108 2264,1108 2315,1108 2366,1105 2418,1105 2469,1105 2520,1105 2572,1105 2623,1105 2674,1105 2726,1105 2777,1105 2828,1105 2880,1103 2931,1102 2983,1102"/>
+                <TextEquiv>
+                    <Unicode>Fideicommiss nicht beanstanden zu können glaube.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:10;}">
+                <Coords points="2051,1227 3194,1183 3194,1112 2052,1145"/>
+                <Baseline points="2060,1182 2116,1179 2173,1179 2230,1179 2287,1177 2344,1176 2401,1176 2458,1176 2515,1176 2572,1176 2629,1175 2685,1175 2742,1176 2799,1176 2856,1175 2913,1173 2970,1176 3027,1175 3084,1173 3141,1173 3198,1170"/>
+                <TextEquiv>
+                    <Unicode>Solches urkunde und bekenne ich hierdurch mit Namens -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:11;}">
+                <Coords points="1947,1294 3087,1294 3073,1192 1948,1200"/>
+                <Baseline points="1956,1251 2012,1251 2069,1251 2126,1250 2183,1248 2239,1251 2296,1249 2353,1249 2410,1248 2466,1248 2523,1248 2580,1248 2637,1248 2693,1245 2750,1248 2807,1246 2864,1245 2920,1245 2977,1245 3034,1245 3091,1245"/>
+                <TextEquiv>
+                    <Unicode>Unterschrift und unter Beidrückung meines Fürstlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:12;}">
+                <Coords points="1947,1374 1988,1352 2027,1362 2052,1355 2063,1367 2076,1367 2102,1348 2128,1357 2129,1280 2110,1274 2099,1282 2093,1275 2060,1280 2044,1272 1948,1291"/>
+                <Baseline points="1956,1326 1981,1324 2006,1323 2031,1323 2056,1323 2081,1323 2106,1322 2132,1320"/>
+                <TextEquiv>
+                    <Unicode>Siegels.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:13;} textStyle {offset:17; length:3;superscript:true;}">
+                <Coords points="2216,1415 2396,1423 2420,1403 2541,1426 2612,1389 2736,1428 2878,1414 2878,1337 2786,1316 2714,1324 2658,1378 2565,1337 2216,1335"/>
+                <Baseline points="2225,1391 2257,1391 2290,1391 2323,1391 2356,1390 2389,1388 2422,1390 2454,1390 2487,1388 2520,1388 2553,1388 2586,1388 2619,1388 2652,1388 2684,1388 2717,1388 2750,1388 2783,1388 2816,1388 2849,1388 2882,1388"/>
+                <TextEquiv>
+                    <Unicode>Braunfels, den 16ten Mai 1856.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:14;}">
+                <Coords points="1966,1492 2003,1491 2022,1473 2058,1503 2095,1502 2095,1403 2084,1403 2068,1418 2060,1415 2051,1423 2033,1409 2008,1418 1999,1428 1966,1428"/>
+                <Baseline points="1974,1466 1999,1466 2024,1466 2049,1466 2074,1466 2099,1466"/>
+                <TextEquiv>
+                    <Unicode>L. S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:15;}">
+                <Coords points="2299,1475 3186,1477 3187,1423 3117,1403 2301,1420"/>
+                <Baseline points="2308,1463 2352,1463 2396,1463 2440,1462 2484,1460 2529,1460 2573,1460 2617,1460 2661,1457 2705,1457 2750,1457 2794,1457 2838,1460 2882,1460 2926,1460 2971,1457 3015,1460 3059,1457 3103,1457 3147,1457 3192,1457"/>
+                <TextEquiv>
+                    <Unicode>gez: Bernhard Prinz zu Solms - Braunfels.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:16;}">
+                <Coords points="2049,1554 3213,1535 3213,1472 2049,1502"/>
+                <Baseline points="2057,1532 2118,1535 2179,1532 2240,1535 2301,1535 2362,1532 2423,1532 2484,1532 2545,1532 2606,1532 2667,1530 2728,1529 2789,1529 2850,1529 2911,1529 2972,1529 3033,1532 3094,1529 3155,1529 3216,1529"/>
+                <TextEquiv>
+                    <Unicode>Ich glaube nicht gegen meine mir obliegenden Pflichten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:17;}">
+                <Coords points="1947,1617 3096,1620 3096,1566 3041,1549 1947,1566"/>
+                <Baseline points="1956,1606 2013,1606 2070,1603 2127,1605 2184,1603 2242,1606 2299,1603 2356,1603 2413,1603 2470,1603 2528,1602 2585,1600 2642,1600 2699,1600 2756,1600 2814,1600 2871,1600 2928,1600 2985,1600 3042,1600 3100,1600"/>
+                <TextEquiv>
+                    <Unicode>zu verstossen, wenn ich obiger Erklärung meines Herrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:18;}">
+                <Coords points="1955,1697 3099,1705 3165,1695 3167,1615 1956,1623"/>
+                <Baseline points="1965,1675 2025,1675 2085,1675 2145,1675 2206,1675 2266,1675 2326,1675 2387,1674 2447,1672 2507,1674 2568,1672 2628,1672 2688,1672 2748,1672 2809,1669 2869,1672 2929,1672 2990,1672 3050,1672 3110,1670 3171,1666"/>
+                <TextEquiv>
+                    <Unicode>Vetters, des Prinzen Bernhard zu Solms - Braunfels, Lieb-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:19;}">
+                <Coords points="1950,1760 2389,1756 2433,1797 2500,1756 3214,1755 3176,1695 2933,1676 2826,1709 1950,1703"/>
+                <Baseline points="1959,1747 2021,1747 2084,1745 2147,1744 2210,1744 2273,1744 2336,1744 2398,1744 2461,1744 2524,1744 2587,1744 2650,1741 2713,1743 2776,1741 2838,1743 2901,1741 2964,1743 3027,1741 3090,1741 3153,1741 3216,1741"/>
+                <TextEquiv>
+                    <Unicode>den, beistimmend, für mich und meine Erben obiger Erklärung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:20;}">
+                <Coords points="1947,1834 2022,1867 2091,1838 2161,1834 2189,1851 2214,1830 2253,1843 2326,1835 2326,1763 2307,1756 2253,1756 2233,1774 2205,1758 1947,1766"/>
+                <Baseline points="1956,1815 1982,1815 2009,1815 2035,1815 2062,1815 2089,1815 2115,1815 2142,1815 2169,1815 2195,1815 2222,1815 2249,1815 2275,1815 2302,1815 2329,1815"/>
+                <TextEquiv>
+                    <Unicode>hiermit beitrete.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:21;} textStyle {offset:26; length:3;superscript:true;}">
+                <Coords points="2222,1925 2455,1890 2654,1923 2755,1885 3195,1907 3195,1841 3154,1819 2889,1835 2832,1874 2670,1835 2222,1832"/>
+                <Baseline points="2231,1887 2279,1884 2327,1884 2376,1886 2424,1887 2472,1885 2521,1884 2569,1887 2617,1884 2666,1884 2714,1884 2762,1885 2811,1886 2859,1884 2907,1882 2956,1881 3004,1881 3052,1881 3101,1881 3149,1881 3198,1881"/>
+                <TextEquiv>
+                    <Unicode>Altenberg bei Braunfels, 1ten September 1858.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:22;}">
+                <Coords points="2225,1986 2348,1970 2543,2011 2764,1991 2835,1953 2878,1983 3114,1955 3114,1909 3048,1901 2796,1920 2738,1896 2681,1928 2445,1892 2225,1926"/>
+                <Baseline points="2234,1956 2278,1956 2322,1956 2366,1956 2410,1956 2455,1956 2499,1956 2543,1956 2587,1956 2631,1956 2676,1953 2720,1953 2764,1953 2808,1953 2852,1953 2897,1953 2941,1953 2985,1950 3029,1953 3073,1950 3118,1953"/>
+                <TextEquiv>
+                    <Unicode>gez: Wilhelm Prinz zu Solms - Braunfels.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

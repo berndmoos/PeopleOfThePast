@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=12_08_2025_17:53</Creator>
+        <Created>2025-08-12T17:15:23.474+02:00</Created>
+        <LastChange>2025-10-24T15:35:40.216+02:00</LastChange>
+        <TranskribusMetadata docId="10053002" pageId="101583720" pageNr="31" tsid="258797906" status="DONE" userId="441280" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=FXBVLYZOOOFISOHSIIEPKPIE" xmlUrl="https://files.transkribus.eu/Get?id=RDOWCSPYZNUBMZJXPZYIIIEE" imageId="85201162">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0031_p031.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1787002854708" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2916,289 3018,289 3018,365 2916,365"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2931,343 3000,343 3000,313 2931,313"/>
+                <Baseline points="2931,343 3000,343"/>
+                <TextEquiv>
+                    <Unicode>20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="3051,267 3139,267 3139,354 3051,354"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3062,333 3113,333 3113,303 3062,303"/>
+                <Baseline points="3062,333 3113,333"/>
+                <TextEquiv>
+                    <Unicode>20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="1968,283 1968,958 3124,958 3124,283"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1967,541 3051,530 3013,496 2675,480 1967,503"/>
+                <Baseline points="1974,528 2028,525 2082,525 2136,523 2190,522 2244,522 2298,523 2352,524 2406,524 2460,525 2514,525 2568,527 2622,526 2676,528 2730,528 2784,528 2838,528 2892,528 2946,528 3000,528 3055,528"/>
+                <TextEquiv>
+                    <Unicode>kommen kannst um sicher zu sein uns zu treffen. Deiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1969,618 2976,607 2976,557 2875,548 1969,560"/>
+                <Baseline points="1977,591 2027,588 2077,588 2127,588 2177,589 2227,589 2277,588 2327,588 2377,588 2427,591 2477,591 2527,593 2577,591 2627,591 2677,593 2727,592 2777,591 2827,594 2877,594 2927,594 2977,594"/>
+                <TextEquiv>
+                    <Unicode>liebenswürdigen Gemahlin lege ich mich respektsvoll</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="1961,688 2168,663 2347,699 2418,676 2525,690 2516,615 2449,625 2379,602 2284,632 2140,602 2096,624 1961,622"/>
+                <Baseline points="1968,657 1996,654 2024,654 2052,654 2080,654 2108,654 2136,654 2164,654 2192,654 2220,654 2248,654 2276,654 2304,654 2332,654 2360,654 2388,654 2416,654 2444,654 2472,656 2500,656 2529,654"/>
+                <TextEquiv>
+                    <Unicode>zu Füssen. Ganz der Deinige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="2426,770 2516,756 2697,794 2744,778 2833,786 2833,713 2788,725 2739,698 2662,692 2552,715 2426,694"/>
+                <Baseline points="2434,752 2459,752 2484,752 2509,752 2534,753 2559,754 2585,755 2610,755 2635,754 2660,752 2685,752 2711,752 2736,752 2761,753 2786,755 2811,754 2837,752"/>
+                <TextEquiv>
+                    <Unicode>Phillipp Loewenstein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="1967,898 2997,898 2997,828 2870,818 2746,864 1967,844"/>
+                <Baseline points="1974,881 2025,881 2076,880 2128,878 2179,878 2230,878 2282,878 2333,878 2384,878 2436,878 2487,879 2538,881 2590,881 2641,881 2692,881 2744,881 2795,881 2846,882 2898,884 2949,884 3001,887"/>
+                <TextEquiv>
+                    <Unicode>Wittgenstein ist in Liederbach ich kann also von ihm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="1961,956 2099,949 2127,963 2160,954 2187,971 2232,958 2252,978 2276,966 2325,974 2325,910 2278,921 2217,901 2169,921 2091,902 2025,912 2003,898 1961,913"/>
+                <Baseline points="1968,943 1993,943 2019,943 2045,943 2071,942 2096,941 2122,940 2148,940 2174,940 2200,940 2225,940 2251,940 2277,940 2303,940 2329,940"/>
+                <TextEquiv>
+                    <Unicode>nichts ausrichten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

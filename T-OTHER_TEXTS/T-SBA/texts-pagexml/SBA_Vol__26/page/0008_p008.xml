@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.47.0:model_id=50786:lm=none:date=04_07_2026_19:50</Creator>
+        <Created>2025-10-29T20:52:14.525+01:00</Created>
+        <LastChange>2026-07-04T19:53:45.117+02:00</LastChange>
+        <TranskribusMetadata docId="11812784" pageId="105191273" pageNr="8" tsid="294971541" status="DONE" userId="531018" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=DPQPAHCAJNCTWRSAMYWBKHPS" xmlUrl="https://files.transkribus.eu/Get?id=XQDQEBVZAGCMOJJQHQMQCAQI" imageId="88295486">
+            <PageLabel labelId="127" color="#1E90FF">Ready for Export</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0008_p008.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1785883606671" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2087,339 2229,339 2229,426 2087,426"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2069,405 2106,421 2152,400 2175,419 2214,419 2214,336 2192,347 2169,347 2146,338 2138,342 2125,330 2109,334 2102,326 2071,324"/>
+                <Baseline points="2080,403 2107,404 2135,403 2162,401 2190,400 2218,400"/>
+                <TextEquiv>
+                    <Unicode>106</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="1905,539 2080,539 2080,603 1905,603"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1905,598 1913,598 1924,612 1945,606 1949,614 1976,616 1994,608 2026,614 2032,538 2009,537 1996,544 1978,537 1967,542 1947,527 1924,548 1907,546"/>
+                <Baseline points="1916,591 1945,591 1974,589 2003,587 2033,585"/>
+                <TextEquiv>
+                    <Unicode>106</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:item-continue;}">
+            <Coords points="609,352 609,1328 2218,1328 2218,352"/>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="610,708 1229,704 1415,751 1561,714 2104,720 2104,631 1681,668 610,635"/>
+                <Baseline points="620,689 694,694 768,692 843,692 917,691 991,689 1066,692 1140,689 1214,692 1289,692 1363,691 1437,689 1512,691 1586,692 1660,692 1735,692 1809,689 1883,689 1958,689 2032,687 2107,686"/>
+                <TextEquiv>
+                    <Unicode>erster verwaltet die Plantage Nassau, der zweyte ist </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="604,813 1170,847 1482,797 1876,836 2156,803 2156,739 604,745"/>
+                <Baseline points="615,794 692,789 769,791 846,791 923,792 1000,794 1077,791 1155,792 1232,791 1309,791 1386,791 1463,789 1540,788 1617,788 1695,790 1772,789 1849,788 1926,790 2003,790 2080,788 2158,788"/>
+                <TextEquiv>
+                    <Unicode>in Neubraunfels u. wird dieser die Briefe an den Vater</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="598,948 975,917 1253,938 1365,913 1365,843 598,847"/>
+                <Baseline points="609,895 647,895 685,893 723,892 761,892 799,894 837,898 875,895 913,895 951,895 989,895 1027,895 1065,895 1103,895 1141,895 1179,895 1217,893 1255,892 1293,893 1331,895 1370,895"/>
+                <TextEquiv>
+                    <Unicode>am besten besorgen können.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="751,1019 2075,1033 2162,1000 2164,917 751,951"/>
+                <Baseline points="761,997 831,994 901,993 971,994 1042,991 1112,994 1182,994 1253,991 1323,994 1393,994 1464,994 1534,991 1604,992 1674,994 1745,991 1815,991 1885,994 1956,993 2026,991 2096,988 2167,985"/>
+                <TextEquiv>
+                    <Unicode>Der in Erwähnung gebrachte Schein Ihres H. Stief-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="602,1114 731,1139 1029,1092 1446,1139 1648,1112 1648,1058 1579,1038 602,1060"/>
+                <Baseline points="612,1095 664,1091 716,1090 768,1092 820,1094 872,1093 924,1092 976,1092 1028,1092 1080,1092 1132,1092 1184,1092 1236,1092 1288,1092 1340,1090 1392,1092 1444,1094 1496,1095 1548,1092 1600,1092 1653,1095"/>
+                <TextEquiv>
+                    <Unicode>sohnes Brander hat nicht beygelegen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="681,1235 703,1243 726,1222 760,1245 795,1212 838,1243 876,1208 917,1220 951,1193 1040,1185 1096,1204 1096,1127 1063,1123 1000,1172 932,1172 894,1133 876,1150 855,1129 832,1146 789,1131 768,1146 753,1129 681,1146"/>
+                <Baseline points="692,1188 717,1190 743,1191 768,1189 794,1188 819,1188 845,1189 870,1191 896,1191 922,1191 947,1191 973,1191 998,1191 1024,1187 1049,1182 1075,1187 1101,1194"/>
+                <TextEquiv>
+                    <Unicode>27/9/45. C.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;} textStyle {offset:0; length:11;underlined:true;}">
+                <Coords points="610,1324 650,1345 687,1336 699,1347 722,1332 753,1345 764,1334 894,1326 913,1320 911,1253 853,1251 838,1239 786,1262 762,1241 718,1251 660,1245 647,1231 631,1247 606,1247"/>
+                <Baseline points="618,1295 645,1293 672,1293 699,1294 726,1295 753,1295 780,1295 807,1296 834,1298 861,1299 888,1301 916,1304"/>
+                <TextEquiv>
+                    <Unicode>exped. Kr. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
